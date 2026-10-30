@@ -3,7 +3,7 @@ title: Rechtliche Hinweise und Datenschutz
 description: 'Rechtliche Hinweise, Datenschutz, Cookies und wichtige Informationen zum Informationsangebot.'
 type: page
 seo_title: Rechtliche Hinweise und Datenschutz | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -14,8 +14,10 @@ aliases:
 - /impressum/
 slug: legal
 screenshots:
-- /images/guides/legal.svg
-screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
+- /images/guides/privacy-documents.webp
+screenshots_alt: 'Laptop und Vertragsunterlagen auf einem Schreibtisch als Symbolbild zu Recht und Datenschutz'
+screenshots_caption: 'Symbolbild: Laptop und Vertragsunterlagen im Arbeitsumfeld; kein offizielles Dokument von Instant Casino.'
+screenshots_note: 'Redaktionelles Symbolbild zu Recht und Datenschutz; keine offiziellen Unterlagen oder Registerauszüge.'
 ---
 ## Rechtliche Hinweise und Datenschutz
 

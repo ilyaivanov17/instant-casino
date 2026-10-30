@@ -3,7 +3,7 @@ title: 'Guía de tragamonedas: funciones y mecánicas'
 description: 'Comprende RTP, volatilidad y mecánicas sin tratarlos como predicciones de resultados.'
 type: page
 seo_title: 'Guía de tragamonedas: funciones y mecánicas | Instant Casino'
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -22,6 +22,8 @@ screenshots_note: 'Ilustración editorial, no es una captura de una interfaz rea
 ## Guía de tragamonedas: funciones y mecánicas
 
 Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
+
+Un caso práctico ayuda a entender cómo funciona un jackpot progresivo: nuestro [análisis de Mega Fortune y el premio de 3,5 millones de euros]({{< relref "mega-fortune-progressive-jackpot" >}}) distingue los hechos confirmados de 2018 de las reglas publicadas del juego, el RTP y los límites de los datos de volatilidad disponibles.
 
 ## Gates of Olympus
 

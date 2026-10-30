@@ -3,7 +3,7 @@ title: スロットガイド：機能とゲームの仕組み
 description: 'RTP、ボラティリティ、ゲームの仕組みを結果予測と混同せずに理解します。'
 type: page
 seo_title: スロットガイド：機能とゲームの仕組み | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -22,6 +22,8 @@ screenshots_note: '編集用のイラストです。実際の運営画面のス�
 ## スロットガイド：機能とゲームの仕組み
 
 既存の情報をテーマ別にまとめ、ルールや制限を比較しやすくしました。ゲームルール、RTP、ボーナス条件、決済方法、利用できる地域は、バージョン・運営者・国によって異なる場合があります。現在提供されているバージョンで直接確認してください。
+
+プログレッシブジャックポットの仕組みを具体例で解説します。[Mega Fortuneの350万ユーロ当選事例]({{< relref "mega-fortune-progressive-jackpot" >}})では、2018年に確認された事実と、公開されているゲームルール、RTP、ボラティリティ情報の限界を分けて説明します。
 
 ## Gates of Olympus
 

@@ -68,6 +68,8 @@ Lies die Spielhilfe der konkreten Version und prüfe, ob deine gewählte Einsatz
 
 Mega Fortune ist in diesem Beitrag ein historisches und technisches Fallbeispiel. Daraus folgt keine Aussage, dass das Spiel derzeit in Deutschland verfügbar oder für jedes Konto zugelassen ist. Verfügbarkeit und rechtliche Zulässigkeit müssen immer für das konkrete Angebot und den eigenen Aufenthaltsort geprüft werden. Glücksspiel ist kein Weg, um Geld zu verdienen. Setze nur einen vorher festgelegten Betrag ein, dessen Verlust du verkraften kannst, und spiele nicht weiter, um Verluste auszugleichen.
 
+Weitere Grundlagen zu RTP, Volatilität und Bonusmechaniken findest du in unserem [Leitfaden zu Funktionen und Spielmechanik]({{< relref "slot-strategy" >}}).
+
 ## Quellen und Einordnung
 
 - [NetEnt: Mitteilung zum Jackpot von 3,5 Millionen Euro, 11. Oktober 2018](https://news.cision.com/netent/r/german-slots-player-scoops-multi-million-euro-jackpot-on-netent-s-mega-fortune,c2642346) – Quelle für den historischen Gewinn, die Einzahlung von etwas mehr als zwei Euro und die Angaben zu den Mega-Fortune-Jackpots im Jahr 2018.

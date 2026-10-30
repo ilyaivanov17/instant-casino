@@ -20,7 +20,7 @@ slug: slots
 
 Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
 
-## Bigger Bass Bonanza
+<h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
 ## Bigger Bass Bonanza: guia rápido
 
@@ -73,7 +73,7 @@ O ritmo depende das animações, pausas, transições automáticas e facilidade 
 
 ---
 
-## Bonanza
+<h2 id="bonanza">Bonanza</h2>
 
 ## Bonanza: guia rápido
 
@@ -126,7 +126,7 @@ O ritmo depende das animações, pausas, transições automáticas e facilidade 
 
 ---
 
-## Book of Dead
+<h2 id="book-of-dead">Book of Dead</h2>
 
 ## Book of Dead: guia rápido
 
@@ -179,7 +179,7 @@ O ritmo depende das animações, pausas, transições automáticas e facilidade 
 
 ---
 
-## Dragon's Luck
+<h2 id="dragons-luck">Dragon's Luck</h2>
 
 ## Dragon's Luck: guia rápido
 
@@ -232,7 +232,7 @@ O ritmo depende das animações, pausas, transições automáticas e facilidade 
 
 ---
 
-## Fruit Party
+<h2 id="fruit-party">Fruit Party</h2>
 
 ## Fruit Party: guia rápido
 
@@ -282,3 +282,128 @@ O intervalo de apostas indicado na página deve ser comparado com a interface at
 O ritmo depende das animações, pausas, transições automáticas e facilidade de compreender as funcionalidades. Testa Fruit Party num ecrã pequeno e num computador quando ambas as versões estiverem disponíveis. Os controlos de aposta, o saldo e as explicações devem ser fáceis de encontrar e não ficar escondidos pelos efeitos visuais. Perspetiva analítica: chama a uma regra característica distintiva apenas quando a ajuda atual a confirma claramente. Uma observação concreta é útil; uma afirmação sobre resultados futuros não é. O artigo deve explicar a mecânica, não decidir pelo leitor.
 
 ### O que uma sessão de teste mostra
+
+
+<h2 id="starburst">Starburst</h2>
+
+Um slot inspirado em o espaço e as gemas coloridas, com símbolos Wild expansivos e respins.
+
+
+<h2 id="the-dog-house">The Dog House</h2>
+
+Um slot inspirado em cães e uma casota divertida, com Sticky Wilds e rodadas grátis.
+
+
+<h2 id="legacy-of-dead">Legacy of Dead</h2>
+
+Um slot inspirado em templos do antigo Egito e escaravelhos dourados, com rodadas grátis e símbolos expansíveis.
+
+
+<h2 id="reactoonz">Reactoonz</h2>
+
+Um slot inspirado em alienígenas coloridos num cenário espacial, com prémios por grupos e a funcionalidade Quantum Leap.
+
+
+<h2 id="wild-west-gold">Wild West Gold</h2>
+
+Um slot inspirado em cowboys e ouro do Oeste Selvagem, com Sticky Wilds e respins.
+
+
+<h2 id="starlight-princess">Starlight Princess</h2>
+
+Um slot inspirado em uma princesa mágica num mundo de fantasia, com prémios em cascata e multiplicadores.
+
+
+<h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
+
+Um slot inspirado em búfalos e vida selvagem na pradaria norte-americana, com rolos Megaways e cascatas.
+
+
+<h2 id="mega-fortune">Mega Fortune</h2>
+
+Um slot inspirado em um iate de luxo e um jackpot reluzente, com níveis de jackpot progressivo.
+
+
+<h2 id="dead-or-alive-2">Dead or Alive 2</h2>
+
+Um slot inspirado em uma cidade poeirenta do Oeste e pistoleiros, com vários modos de rodadas grátis.
+
+
+<h2 id="twin-spin">Twin Spin</h2>
+
+Um slot inspirado em símbolos clássicos de slots e rolos ligados, com funcionalidades de rolos gémeos e símbolos aleatórios.
+
+
+<h2 id="hand-of-anubis">Hand of Anubis</h2>
+
+Um slot inspirado em Anúbis e motivos do antigo Egito, com símbolos colecionáveis e funcionalidades de bónus.
+
+
+<h2 id="sugar-rush">Sugar Rush</h2>
+
+Um slot inspirado em doces e um mundo de fantasia colorido, com prémios por grupos e multiplicadores crescentes.
+
+
+<h2 id="immortal-romance">Immortal Romance</h2>
+
+Um slot inspirado em personagens vampíricas e um romance gótico, com rodadas grátis e a funcionalidade Wild Desire.
+
+
+<h2 id="5-lions-megaways">5 Lions Megaways</h2>
+
+Um slot inspirado em cinco leões dourados num cenário de templos inspirado na Ásia, com rolos Megaways e rodadas grátis.
+
+
+<h2 id="le-bandit">Le Bandit</h2>
+
+Um slot inspirado em um guaxinim ladrão num cenário parisiense, com prémios por grupos e funcionalidades de bónus.
+
+
+<h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
+
+Um slot inspirado em pistoleiros mascarados no Oeste Selvagem, com rondas de bónus e funcionalidades de duelo.
+
+
+<h2 id="money-train-3">Money Train 3</h2>
+
+Um slot inspirado em um comboio futurista e dois fora da lei, com símbolos de bónus e funcionalidades de multiplicadores.
+
+
+<h2 id="money-train-4">Money Train 4</h2>
+
+Um slot inspirado em fora da lei e uma aventura ferroviária futurista, com símbolos colecionáveis e funcionalidades de bónus.
+
+
+<h2 id="thunderstruck-ii">Thunderstruck II</h2>
+
+Um slot inspirado em deuses nórdicos e o mundo dos vikings, com rodadas grátis e funcionalidades de bónus especiais.
+
+
+<h2 id="fruit-party-2">Fruit Party 2</h2>
+
+Um slot inspirado em frutas coloridas e um mundo de fantasia soalheiro, com prémios por grupos e multiplicadores.
+
+
+<h2 id="gates-of-olympus">Gates of Olympus</h2>
+
+Um slot inspirado em Zeus e um magnífico templo no Olimpo, com prémios em cascata e multiplicadores.
+
+
+<h2 id="gonzos-quest">Gonzo's Quest</h2>
+
+Um slot inspirado em um explorador à procura de El Dorado, com prémios em cascata e multiplicadores crescentes.
+
+
+<h2 id="sweet-bonanza">Sweet Bonanza</h2>
+
+Um slot inspirado em doces e frutas num mundo de fantasia colorido, com prémios em cascata e multiplicadores.
+
+
+<h2 id="wolf-gold">Wolf Gold</h2>
+
+Um slot inspirado em lobos e a natureza selvagem da América do Norte, com símbolos Wild, respins e funcionalidades de jackpot.
+
+
+<h2 id="mega-moolah">Mega Moolah</h2>
+
+Um slot inspirado em um leão e a savana africana, com níveis de jackpot progressivo.

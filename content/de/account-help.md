@@ -3,7 +3,7 @@ title: Konto, Registrierung, Login und häufige Fragen
 description: 'Hinweise zu Kontoerstellung, Anmeldung, Verifizierung, Datenschutz und sicherem Kontozugriff.'
 type: page
 seo_title: Konto, Registrierung, Login und häufige Fragen | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -68,7 +68,7 @@ Halten Sie die Dokumente also bereit, wenn Sie einzahlen. Dann verzögert sich d
 
 ## Mit Bonus starten?
 
-Neue Spieler erhalten auf die ersten drei Einzahlungen gestaffelte Boni — beginnend mit 100 % bis 500 € plus 200 Freispielen. Die vollständige Übersicht mit allen Umsatzbedingungen und laufenden Aktionen finden Sie auf unserer [Bonusseite]({{< relref "bonuses" >}}).
+Derzeit haben wir keine aktuellen offiziellen Aktionsbedingungen verifiziert, die ein konkretes Willkommensangebot von Instant Casino bestätigen. Deshalb nennen wir hier keine Bonusbeträge, Freispiele oder Aktionscodes als verfügbar. Falls dir im offiziellen Konto eine Aktion angezeigt wird, prüfe vor der Aktivierung die vollständigen Bedingungen. Unser [Leitfaden zu Bonusbedingungen]({{< relref "bonuses" >}}) erklärt, worauf du dabei achten solltest.
 
 ## Nach der Registrierung: der erste Login
 
@@ -234,14 +234,14 @@ Nein. Ein Spieler, ein Konto. Mehrfachregistrierungen führen zur Sperrung.
 
 ### Bonus & Aktionen
 
-**Wie aktiviere ich den Willkommensbonus?**
-Beim Einzahlen im Cashier-Bereich den Bonus auswählen und mindestens 20 € einzahlen. Die Schritt-für-Schritt-Anleitung steht auf unserer [Bonusseite]({{< relref "bonuses" >}}).
+**Wie prüfe ich einen aktuellen Willkommensbonus?**
+Wir können derzeit keinen konkreten Willkommensbonus mit bestätigtem Aktionscode oder Mindesteinzahlung nennen. Wenn im offiziellen Konto ein Angebot erscheint, prüfe Teilnahmeberechtigung, Aktivierungszeitpunkt und vollständige Bedingungen, bevor du eine Einzahlung tätigst.
 
-**Was bedeutet „35-facher Umsatz"?**
-Das Bonusguthaben muss 35-mal als Einsatz umgesetzt werden, bevor es auszahlbar ist. Bei 100 € Bonus sind das 3.500 € Einsatzvolumen. Nicht alle Spiele zählen voll — die Details stehen in den Bonusbedingungen.
+**Was bedeutet eine Umsatzanforderung?**
+Ein Umsatzmultiplikator gibt an, wie oft ein festgelegter Betrag umgesetzt werden muss. Die Berechnungsgrundlage und der Beitrag der Spiele stehen in den Bedingungen der jeweiligen Aktion. Für ein aktuelles Instant-Casino-Angebot haben wir keinen bestätigten Multiplikator vorliegen. Allgemeine Beispiele findest du im [Leitfaden zu Bonusbedingungen]({{< relref "bonuses" >}}).
 
 **Kann ich zwei Boni gleichzeitig nutzen?**
-Nein, immer nur einer. Erst wenn der aktive Bonus vollständig umgesetzt oder storniert ist, kann der nächste aktiviert werden.
+Das hängt von den Bedingungen der jeweiligen Aktion ab. Aktuell haben wir keine offiziellen Kombinationsregeln für ein konkretes Instant-Casino-Angebot verifiziert. Prüfe die vollständigen Bedingungen, bevor du einen weiteren Bonus aktivierst.
 
 ### Einzahlungen & Auszahlungen
 
@@ -252,7 +252,7 @@ Kreditkarten (Visa, Mastercard), E-Wallets (Skrill, Neteller), Paysafecard, Kryp
 Das hängt von der Methode ab: E-Wallets meist am selben Tag, Karten und Überweisung ein bis drei Werktage. Vor der ersten Auszahlung ist die Verifizierung nötig.
 
 **Was ist die Mindesteinzahlung?**
-In der Regel 10 €, bei Kryptowährungen ab 20 €.
+Die [offizielle FAQ von Instant Casino](https://www.instantcasino.com/de/faq) nennt derzeit 20 €. Der tatsächlich geltende Mindestbetrag kann je nach Zahlungsmethode und Konto abweichen. Maßgeblich ist deshalb der Betrag, der im Kassenbereich für die gewählte Methode angezeigt wird.
 
 ### Login & Technik
 
@@ -328,7 +328,7 @@ Die häufigsten Themen sind Kontoregistrierung, Verifizierung, Bonusbedingungen,
 | Frage | Kurzantwort | Detail |
 | --- | --- | --- |
 | [Wie registriere ich mich bei Instant Casino?]({{< relref "account-help" >}}) | Öffne die offizielle Website, wähle „Registrieren“ und fülle die geforderten Angaben wahrheitsgemäß aus. Bestätige deine E-Mail oder andere verlangte Kontaktangaben und schließe eine Identitätsprüfung ab, falls sie… | [Details]({{< relref "account-help" >}}) |
-| [Welche Boni sind für neue Spieler aufgeführt?]({{< relref "account-help" >}}) | Der FAQ-Datensatz nennt ein Willkommensangebot von 100 % bis zu 500 EUR plus 200 Freispielen und den Code WELCOME bei der ersten Einzahlung. Das ist ein gespeicherter Eintrag; prüfe vor Aktivierung, ob genau dieses… | [Details]({{< relref "account-help" >}}) |
+| [Ist aktuell ein Willkommensbonus bestätigt?]({{< relref "account-help" >}}) | Derzeit haben wir kein konkretes Willkommensangebot anhand aktueller offizieller Aktionsbedingungen verifiziert. Frühere FAQ- oder Katalogangaben belegen nicht, dass ein Angebot noch verfügbar ist. Prüfe die vollständigen Bedingungen direkt im offiziellen Konto oder auf der Angebotsseite. | [Details]({{< relref "account-help" >}}) |
 | [Wie lasse ich mir Gewinne auszahlen?]({{< relref "account-help" >}}) | Öffne den Kassenbereich und wähle die dort für dein Konto verfügbaren Auszahlungsoptionen. Gib Betrag und erforderliche Angaben ein und kontrolliere die Zusammenfassung, bevor du bestätigst. Die im Katalog genannten… | [Details]({{< relref "account-help" >}}) |
 | [Gibt es eine mobile App?]({{< relref "account-help" >}}) | Der in diesem Projekt gespeicherte Datensatz enthält keine bestätigte App-Download-URL. Die responsive Website kann auf einem Smartphone im Browser geöffnet werden. Lade keine vermeintliche App von einer Drittseite… | [Details]({{< relref "account-help" >}}) |
 | [Wie wird die Fairness von Slots geprüft?]({{< relref "account-help" >}}) | Bei regulierten Spielen werden Zufallszahlengeneratoren und Spielparameter üblicherweise anhand einschlägiger Prüf- und Zertifizierungsverfahren kontrolliert. Daraus folgt nicht, dass ein einzelnes Spiel oder eine… | [Details]({{< relref "account-help" >}}) |
@@ -424,11 +424,11 @@ Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal is
 
 ---
 
-## Welche Boni sind für neue Spieler aufgeführt?
+## Ist aktuell ein Willkommensbonus bestätigt?
 
-## Welche Boni sind für neue Spieler aufgeführt?
+## Ist aktuell ein Willkommensbonus bestätigt?
 
-Der FAQ-Datensatz nennt ein Willkommensangebot von 100 % bis zu 500 EUR plus 200 Freispielen und den Code WELCOME bei der ersten Einzahlung. Das ist ein gespeicherter Eintrag; prüfe vor Aktivierung, ob genau dieses Angebot aktuell für dein Land und Konto gilt.
+Derzeit haben wir keine aktuellen offiziellen Aktionsbedingungen verifiziert, die ein konkretes Willkommensangebot von Instant Casino bestätigen. Ältere FAQ- oder Katalogeinträge sind kein Nachweis dafür, dass ein Angebot heute verfügbar ist. Deshalb nennen wir hier keine bestätigten Bonusbeträge, Freispielzahlen, Aktionscodes oder Umsatzanforderungen. Prüfe eine im offiziellen Konto angezeigte Aktion anhand der vollständigen Bedingungen. Allgemeine Hinweise findest du in unserem [Leitfaden zu Bonusbedingungen]({{< relref "bonuses" >}}).
 
 ### Antwort und nächste Schritte
 

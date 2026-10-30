@@ -3,7 +3,7 @@ title: Konto, rejestracja, logowanie i częste pytania
 description: 'Informacje o rejestracji, logowaniu, weryfikacji tożsamości, prywatności i ochronie konta.'
 type: page
 seo_title: Konto, rejestracja, logowanie i częste pytania | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -129,6 +129,8 @@ Może być wymagana kontrola wieku i tożsamości. Korzystaj z oficjalnego panel
 
 Obrót bonusem i czas wypłaty zależą od konkretnej oferty i metody płatności. Sprawdź zasady przed wpłatą lub zleceniem wypłaty.
 
+Oficjalne [FAQ Instant Casino](https://www.instantcasino.com/faq) podaje obecnie minimalną wpłatę w wysokości 20 €. Obowiązujący limit może zależeć od metody płatności i konta, dlatego przed wpłatą sprawdź kwotę wyświetlaną w kasie.
+
 ## Przejdź do szczegółowych odpowiedzi
 
 Najczęstsze tematy to rejestracja konta, weryfikacja, warunki bonusów, płatności, mechanika gier i tożsamość operatora. Każda strona szczegółowa odpowiada na jedno konkretne pytanie. Poniższe linki prowadzą bezpośrednio do właściwego wyjaśnienia.
@@ -136,7 +138,7 @@ Najczęstsze tematy to rejestracja konta, weryfikacja, warunki bonusów, płatno
 | Pytanie | Krótka odpowiedź | Szczegóły |
 | --- | --- | --- |
 | [Jak zarejestrować się w Instant Casino?]({{< relref "account-help" >}}) | Otwórz oficjalną stronę, wybierz „Rejestracja” i prawidłowo uzupełnij wymagane dane. Potwierdź e-mail lub inne wymagane dane kontaktowe i przejdź weryfikację tożsamości, jeśli jest wymagana. Używaj wyłącznie własnych… | [Details]({{< relref "account-help" >}}) |
-| [Jakie bonusy dla nowych graczy są wymienione?]({{< relref "account-help" >}}) | Ten wpis FAQ podaje bonus powitalny 100% do 500 EUR oraz 200 darmowych spinów z kodem WELCOME przy pierwszej wpłacie. To oferta zapisana w tej pozycji; przed aktywacją sprawdź, czy dokładnie ta promocja jest obecnie… | [Details]({{< relref "account-help" >}}) |
+| [Czy obecnie potwierdzono bonus powitalny?]({{< relref "account-help" >}}) | Nie zweryfikowaliśmy dotąd aktualnych oficjalnych warunków potwierdzających konkretną ofertę powitalną. Starsze wpisy FAQ lub katalogu nie dowodzą, że promocja nadal jest dostępna. Przed skorzystaniem sprawdź pełne warunki na oficjalnym koncie lub stronie oferty. | [Details]({{< relref "account-help" >}}) |
 | [Jak wypłacić wygrane?]({{< relref "account-help" >}}) | Otwórz kasę i wybierz opcję wypłaty dostępną na Twoim koncie. Podaj kwotę i wymagane dane, a następnie sprawdź podsumowanie przed potwierdzeniem. Katalog podaje czas od natychmiastowego do maksymalnie trzech dni… | [Details]({{< relref "account-help" >}}) |
 | [Czy dostępna jest aplikacja mobilna?]({{< relref "account-help" >}}) | W danych projektu nie ma potwierdzonego adresu pobrania aplikacji. Responsywną stronę można otworzyć w przeglądarce telefonu. Nie pobieraj rzekomej aplikacji z witryny zewnętrznej bez sprawdzenia wydawcy i domeny. | [Details]({{< relref "account-help" >}}) |
 | [Jak ocenia się uczciwość automatów?]({{< relref "account-help" >}}) | W przypadku gier regulowanych generatory liczb losowych i parametry gry są zwykle kontrolowane w odpowiednich procesach testowania i certyfikacji. Nie oznacza to, że konkretna gra lub sesja musi przynieść określony… | [Details]({{< relref "account-help" >}}) |
@@ -232,11 +234,11 @@ Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieni
 
 ---
 
-## Jakie bonusy dla nowych graczy są wymienione?
+## Czy obecnie potwierdzono bonus powitalny?
 
-## Jakie bonusy dla nowych graczy są wymienione?
+## Czy obecnie potwierdzono bonus powitalny?
 
-Ten wpis FAQ podaje bonus powitalny 100% do 500 EUR oraz 200 darmowych spinów z kodem WELCOME przy pierwszej wpłacie. To oferta zapisana w tej pozycji; przed aktywacją sprawdź, czy dokładnie ta promocja jest obecnie dostępna w Twoim kraju i na koncie.
+Nie zweryfikowaliśmy dotąd aktualnych oficjalnych warunków potwierdzających konkretny bonus powitalny Instant Casino. Starsze wpisy FAQ lub katalogu nie są dowodem, że promocja jest obecnie dostępna. Dlatego nie podajemy tutaj jako potwierdzonych kwoty bonusu, liczby darmowych spinów, kodu promocyjnego ani wymogu obrotu. Sprawdź pełne warunki każdej promocji wyświetlanej na oficjalnym koncie. Ogólne wskazówki znajdziesz w naszym [poradniku o warunkach bonusów]({{< relref "bonuses" >}}).
 
 ### Odpowiedź i kolejne kroki
 

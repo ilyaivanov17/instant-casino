@@ -77,16 +77,16 @@ disableKinds = ['taxonomy', 'term']
   social = '/images/instant-casino-social.webp'
 
 [params.images.guides]
-  slots = '/images/slots/book-of-dead.jpg'
-  bonuses = '/images/guides/casino-bonus.webp'
-  payments = '/images/guides/casino-payments.webp'
-  account-help = '/images/guides/casino-account.webp'
-  responsible-gaming = '/images/responsible-play-landscape.webp'
-  about = '/images/guides/casino-editorial.webp'
-  legal = '/images/guides/casino-editorial.webp'
-  slot-features = '/images/slots/gates-of-olympus.jpg'
-  slot-strategy = '/images/slots/wolf-gold.webp'
-
+  slots = '/images/slots/bigger-bass-bonanza.jpg'
+  bonuses = '/images/guides/bonuses.svg'
+  payments = '/images/guides/payments.svg'
+  account-help = '/images/guides/account-help.svg'
+  responsible-gaming = '/images/guides/responsible-gaming.svg'
+  about = '/images/guides/about.svg'
+  legal = '/images/guides/legal.svg'
+  slot-features = '/images/guides/slot-features.svg'
+  slot-strategy = '/images/guides/slot-strategy.svg'
+  mega-fortune-progressive-jackpot = '/images/mega-fortune-editorial.webp'
 [imaging]
   resampleFilter = 'Lanczos'
 

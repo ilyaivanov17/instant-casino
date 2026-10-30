@@ -3,7 +3,7 @@ title: 法的情報とプライバシー
 description: '法的情報、プライバシー、Cookie、および本情報サイトに関する重要事項です。'
 type: page
 seo_title: 法的情報とプライバシー | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -14,8 +14,10 @@ aliases:
 - /ja/impressum/
 slug: legal
 screenshots:
-- /images/guides/legal.svg
-screenshots_note: '編集用のイラストです。実際の運営画面のスクリーンショットではありません。'
+- /images/guides/privacy-documents.webp
+screenshots_alt: '法的情報とプライバシーを表す、グラフを表示したノートパソコンと机上の印刷書類'
+screenshots_caption: 'ノートパソコンと印刷書類の編集用写真です。Instant Casinoの公式文書ではありません。'
+screenshots_note: '法的情報とプライバシーのガイド用写真です。公式文書や登記簿の写しではありません。'
 ---
 ## 法的情報とプライバシー
 

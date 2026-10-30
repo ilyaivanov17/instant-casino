@@ -3,7 +3,7 @@ title: Informações legais e privacidade
 description: 'Informação legal, privacidade, cookies e detalhes importantes deste site informativo.'
 type: page
 seo_title: Informações legais e privacidade | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -14,8 +14,10 @@ aliases:
 - /pt/impressum/
 slug: legal
 screenshots:
-- /images/guides/legal.svg
-screenshots_note: 'Ilustração editorial; não é uma captura de uma interface real do operador.'
+- /images/guides/privacy-documents.webp
+screenshots_alt: 'Computador portátil com gráficos e documentos impressos numa secretária como imagem ilustrativa de informação legal e privacidade'
+screenshots_caption: 'Fotografia editorial de um computador portátil com gráficos e documentos impressos; não são documentos oficiais da Instant Casino.'
+screenshots_note: 'Fotografia editorial para o guia legal e de privacidade; não é um documento oficial nem uma certidão de registo.'
 ---
 ## Informações legais e privacidade
 

@@ -2533,3 +2533,41 @@ footer .glass-strong { border-radius: 22px; }
 
 /* Keep the full category illustration visible inside guide cards. */
 .guide-card-image-illustration{object-fit:contain;background:#0b1424}
+
+/* Guide photography: show each complete image instead of cropping it into a short fixed-height strip. */
+.guide-image-frame{
+  height:auto;
+  min-height:0;
+  aspect-ratio:16 / 9;
+}
+.guide-card-image{
+  display:block;
+  width:100%;
+  height:100%;
+  max-height:none;
+  aspect-ratio:auto;
+  object-fit:contain;
+  object-position:center;
+}
+.guide-image-card:hover .guide-card-image{transform:none}
+
+@media(max-width:640px){
+  .guide-image-card{
+    display:flex;
+    flex-direction:column;
+    min-height:0;
+  }
+  .guide-image-frame{
+    width:100%;
+    height:auto;
+    min-height:0;
+    aspect-ratio:16 / 9;
+    border-right:0;
+    border-bottom:1px solid var(--brand-border);
+  }
+  .guide-card-image{
+    width:100%;
+    height:100%;
+    object-fit:contain;
+  }
+}

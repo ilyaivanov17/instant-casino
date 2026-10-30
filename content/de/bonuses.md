@@ -159,6 +159,8 @@ Das BIÖG bietet telefonische Beratung; OASIS ermöglicht eine Selbstsperre im d
 
 ## Quellen und Aktualität
 
+- [BIÖG: Telefonberatung zur Glücksspielsucht](https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/)
+- [Regierungspräsidium Darmstadt: OASIS-Spieler-FAQs](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spieler-faqs)
 - [GGL: FAQ zur Glücksspielwerbung](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-gluecksspielwerbung)
 - [GGL: Spielerschutzmaßnahmen](https://www.gluecksspiel-behoerde.de/de/fuer-spielende/die-spielerschutzmassnahmen-des-gluestv21-im-ueberblick)
 - [GGL: Einzahlungslimit und Höchsteinsatz](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-einzahlungslimit-und-hoechsteinsatz)

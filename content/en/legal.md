@@ -15,8 +15,8 @@ aliases:
 slug: legal
 screenshots:
 - /images/guides/privacy-documents.webp
-screenshots_alt: 'Laptop and contract documents on a desk, illustrating legal information and privacy'
-screenshots_caption: 'Editorial stock photo of a laptop and contract documents; not an official Instant Casino document.'
+screenshots_alt: 'Laptop displaying charts beside printed documents on an office desk, illustrating legal information and privacy'
+screenshots_caption: 'Editorial stock photo of a laptop with charts and printed documents; not an official Instant Casino document.'
 screenshots_note: 'Editorial stock photo for the legal and privacy guide; it is not an official document or registry extract.'
 ---
 ## Legal information and privacy

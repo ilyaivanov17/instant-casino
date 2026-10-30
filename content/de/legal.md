@@ -15,8 +15,8 @@ aliases:
 slug: legal
 screenshots:
 - /images/guides/privacy-documents.webp
-screenshots_alt: 'Laptop und Vertragsunterlagen auf einem Schreibtisch als Symbolbild zu Recht und Datenschutz'
-screenshots_caption: 'Symbolbild: Laptop und Vertragsunterlagen im Arbeitsumfeld; kein offizielles Dokument von Instant Casino.'
+screenshots_alt: 'Laptop mit Diagrammen neben gedruckten Unterlagen auf einem Bürotisch als Symbolbild zu Recht und Datenschutz'
+screenshots_caption: 'Symbolbild: Laptop mit Diagrammen und gedruckten Unterlagen; kein offizielles Dokument von Instant Casino.'
 screenshots_note: 'Redaktionelles Symbolbild zu Recht und Datenschutz; keine offiziellen Unterlagen oder Registerauszüge.'
 ---
 ## Rechtliche Hinweise und Datenschutz

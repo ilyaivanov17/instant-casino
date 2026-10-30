@@ -3,7 +3,7 @@ title: Cuenta, registro, acceso y preguntas frecuentes
 description: 'Información sobre registro, inicio de sesión, verificación, privacidad y seguridad de la cuenta.'
 type: page
 seo_title: Cuenta, registro, acceso y preguntas frecuentes | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -136,7 +136,7 @@ Los temas habituales son el registro, la verificación, las condiciones de los b
 | Pregunta | Respuesta breve | Detalles |
 | --- | --- | --- |
 | [¿Cómo me registro en Instant Casino?]({{< relref "account-help" >}}) | Abre el sitio oficial, selecciona «Registrarse» y completa correctamente los datos solicitados. Confirma tu correo electrónico u otros datos de contacto requeridos y completa la verificación de identidad si se… | [Details]({{< relref "account-help" >}}) |
-| [¿Qué bonos para nuevos jugadores aparecen?]({{< relref "account-help" >}}) | Este registro de preguntas frecuentes indica una oferta de bienvenida del 100 % hasta 500 EUR más 200 giros gratis, con el código WELCOME en el primer depósito. Es la oferta guardada en esta ficha; antes de… | [Details]({{< relref "account-help" >}}) |
+| [¿Está confirmado actualmente algún bono de bienvenida?]({{< relref "account-help" >}}) | Por ahora no hemos verificado condiciones oficiales vigentes que confirmen una oferta de bienvenida concreta. Los datos anteriores de FAQ o del catálogo no demuestran que una promoción siga disponible. Consulta las condiciones completas en la cuenta o la página oficial antes de aceptarla. | [Details]({{< relref "account-help" >}}) |
 | [¿Cómo retiro mis ganancias?]({{< relref "account-help" >}}) | Abre la caja y selecciona una opción de retirada disponible para tu cuenta. Introduce el importe y los datos requeridos y revisa el resumen antes de confirmar. El catálogo indica plazos desde inmediato hasta tres… | [Details]({{< relref "account-help" >}}) |
 | [¿Existe una aplicación móvil?]({{< relref "account-help" >}}) | El registro del proyecto no contiene una URL de descarga de aplicación confirmada. La web adaptable puede abrirse en el navegador del teléfono. No descargues una supuesta app desde una página externa sin comprobar el… | [Details]({{< relref "account-help" >}}) |
 | [¿Cómo se evalúa la equidad de las tragamonedas?]({{< relref "account-help" >}}) | En los juegos regulados, los generadores de números aleatorios y los parámetros suelen someterse a procesos de prueba y certificación aplicables. Esto no significa que una partida concreta deba producir un resultado… | [Details]({{< relref "account-help" >}}) |
@@ -232,11 +232,11 @@ Juega solo donde sea legal para ti y establece un presupuesto fijo. No apuestes 
 
 ---
 
-## ¿Qué bonos para nuevos jugadores aparecen?
+## ¿Está confirmado actualmente algún bono de bienvenida?
 
-## ¿Qué bonos para nuevos jugadores aparecen?
+## ¿Está confirmado actualmente algún bono de bienvenida?
 
-Este registro de preguntas frecuentes indica una oferta de bienvenida del 100 % hasta 500 EUR más 200 giros gratis, con el código WELCOME en el primer depósito. Es la oferta guardada en esta ficha; antes de activarla, comprueba si esa promoción concreta está disponible actualmente para tu país y cuenta.
+Por ahora no hemos verificado condiciones oficiales vigentes que confirmen una oferta de bienvenida concreta de Instant Casino. Los registros anteriores de FAQ o del catálogo no demuestran que una promoción siga disponible. Por eso no publicamos aquí como confirmados ningún importe de bono, número de giros gratis, código promocional ni requisito de apuesta. Comprueba las condiciones completas de cualquier promoción que aparezca en tu cuenta oficial. Para información general, consulta nuestra [guía sobre condiciones de los bonos]({{< relref "bonuses" >}}).
 
 ### Respuesta y próximos pasos
 

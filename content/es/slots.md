@@ -20,7 +20,7 @@ slug: slots
 
 Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
 
-## Bigger Bass Bonanza
+<h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
 ## Bigger Bass Bonanza: guía rápida
 
@@ -69,7 +69,7 @@ El rango de apuestas de la página debe compararse con la interfaz actual. Los l
 
 ---
 
-## Bonanza
+<h2 id="bonanza">Bonanza</h2>
 
 ## Bonanza: guía rápida
 
@@ -118,7 +118,7 @@ El rango de apuestas de la página debe compararse con la interfaz actual. Los l
 
 ---
 
-## Book of Dead
+<h2 id="book-of-dead">Book of Dead</h2>
 
 ## Book of Dead: guía rápida
 
@@ -167,7 +167,7 @@ El rango de apuestas de la página debe compararse con la interfaz actual. Los l
 
 ---
 
-## Dragon's Luck
+<h2 id="dragons-luck">Dragon's Luck</h2>
 
 ## Dragon's Luck: guía rápida
 
@@ -216,7 +216,7 @@ El rango de apuestas de la página debe compararse con la interfaz actual. Los l
 
 ---
 
-## Fruit Party
+<h2 id="fruit-party">Fruit Party</h2>
 
 ## Fruit Party: guía rápida
 
@@ -262,3 +262,128 @@ La etiqueta de volatilidad es, como mucho, una orientación general si el provee
 El rango de apuestas de la página debe compararse con la interfaz actual. Los límites pueden variar según la moneda, el operador, el dispositivo o la configuración. Fija un presupuesto y un límite de pérdidas antes de empezar. No aumentes la apuesta para recuperar pérdidas anteriores; al alcanzar el límite, termina la sesión. Enfoque matemático: los resultados aleatorios no forman una secuencia que la paciencia o las apuestas más altas vayan a corregir. Los giros anteriores no determinan el siguiente resultado. Un texto responsable explica ese límite y evita prometer una recuperación segura de las pérdidas.
 
 ### Ritmo y usabilidad
+
+
+<h2 id="starburst">Starburst</h2>
+
+Una tragamonedas ambientada en el espacio y las gemas de colores, con símbolos Wild expansivos y respins.
+
+
+<h2 id="the-dog-house">The Dog House</h2>
+
+Una tragamonedas ambientada en perros y una caseta de colores, con Sticky Wilds y giros gratis.
+
+
+<h2 id="legacy-of-dead">Legacy of Dead</h2>
+
+Una tragamonedas ambientada en templos del antiguo Egipto y escarabajos dorados, con giros gratis y símbolos expansivos.
+
+
+<h2 id="reactoonz">Reactoonz</h2>
+
+Una tragamonedas ambientada en alienígenas de colores en un entorno espacial, con premios por grupos y la función Quantum Leap.
+
+
+<h2 id="wild-west-gold">Wild West Gold</h2>
+
+Una tragamonedas ambientada en vaqueros y oro del Salvaje Oeste, con Sticky Wilds y respins.
+
+
+<h2 id="starlight-princess">Starlight Princess</h2>
+
+Una tragamonedas ambientada en una princesa mágica en un mundo fantástico, con premios en cascada y multiplicadores.
+
+
+<h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
+
+Una tragamonedas ambientada en búfalos y fauna salvaje en la pradera norteamericana, con rodillos Megaways y cascadas.
+
+
+<h2 id="mega-fortune">Mega Fortune</h2>
+
+Una tragamonedas ambientada en un yate de lujo y un jackpot brillante, con niveles de jackpot progresivo.
+
+
+<h2 id="dead-or-alive-2">Dead or Alive 2</h2>
+
+Una tragamonedas ambientada en un pueblo polvoriento del Oeste y pistoleros, con varios modos de giros gratis.
+
+
+<h2 id="twin-spin">Twin Spin</h2>
+
+Una tragamonedas ambientada en símbolos clásicos de tragaperras y rodillos enlazados, con funciones de rodillos gemelos y símbolos aleatorios.
+
+
+<h2 id="hand-of-anubis">Hand of Anubis</h2>
+
+Una tragamonedas ambientada en Anubis y motivos del antiguo Egipto, con símbolos coleccionables y funciones de bonificación.
+
+
+<h2 id="sugar-rush">Sugar Rush</h2>
+
+Una tragamonedas ambientada en dulces y un mundo fantástico lleno de color, con premios por grupos y multiplicadores crecientes.
+
+
+<h2 id="immortal-romance">Immortal Romance</h2>
+
+Una tragamonedas ambientada en personajes vampíricos y un romance gótico, con giros gratis y la función Wild Desire.
+
+
+<h2 id="5-lions-megaways">5 Lions Megaways</h2>
+
+Una tragamonedas ambientada en cinco leones dorados en un entorno de templos inspirado en Asia, con rodillos Megaways y giros gratis.
+
+
+<h2 id="le-bandit">Le Bandit</h2>
+
+Una tragamonedas ambientada en un mapache ladrón en un entorno parisino, con premios por grupos y funciones de bonificación.
+
+
+<h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
+
+Una tragamonedas ambientada en pistoleros enmascarados en el Salvaje Oeste, con rondas de bonificación y funciones de duelo.
+
+
+<h2 id="money-train-3">Money Train 3</h2>
+
+Una tragamonedas ambientada en un tren futurista y dos forajidos, con símbolos de bonificación y funciones de multiplicadores.
+
+
+<h2 id="money-train-4">Money Train 4</h2>
+
+Una tragamonedas ambientada en forajidos y una aventura ferroviaria futurista, con símbolos coleccionables y funciones de bonificación.
+
+
+<h2 id="thunderstruck-ii">Thunderstruck II</h2>
+
+Una tragamonedas ambientada en dioses nórdicos y el mundo vikingo, con giros gratis y funciones de bonificación especiales.
+
+
+<h2 id="fruit-party-2">Fruit Party 2</h2>
+
+Una tragamonedas ambientada en frutas de colores y un mundo fantástico y soleado, con premios por grupos y multiplicadores.
+
+
+<h2 id="gates-of-olympus">Gates of Olympus</h2>
+
+Una tragamonedas ambientada en Zeus y un magnífico templo en el Olimpo, con premios en cascada y multiplicadores.
+
+
+<h2 id="gonzos-quest">Gonzo's Quest</h2>
+
+Una tragamonedas ambientada en un explorador en busca de El Dorado, con premios en cascada y multiplicadores crecientes.
+
+
+<h2 id="sweet-bonanza">Sweet Bonanza</h2>
+
+Una tragamonedas ambientada en dulces y frutas en un mundo fantástico lleno de color, con premios en cascada y multiplicadores.
+
+
+<h2 id="wolf-gold">Wolf Gold</h2>
+
+Una tragamonedas ambientada en lobos y la naturaleza salvaje de Norteamérica, con símbolos Wild, respins y funciones de jackpot.
+
+
+<h2 id="mega-moolah">Mega Moolah</h2>
+
+Una tragamonedas ambientada en un león y la sabana africana, con niveles de jackpot progresivo.

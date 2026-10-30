@@ -2758,3 +2758,24 @@ footer .glass-strong { border-radius: 22px; }
   .slot-game-card,.slot-game-card-action span{transition:none!important}
   .slot-game-card:hover{transform:none}
 }
+
+
+/* Expanded 30-game catalogue: compact publisher label and denser desktop grid. */
+.slot-game-card-provider{
+  display:block;
+  margin:-.25rem 0 .6rem;
+  color:#91a0b8;
+  font-size:.69rem;
+  font-weight:700;
+  letter-spacing:.015em;
+}
+.slots-catalog-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media(max-width:1120px){
+  .slots-catalog-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+@media(max-width:920px){
+  .slots-catalog-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:620px){
+  .slots-catalog-grid{grid-template-columns:minmax(0,1fr)}
+}

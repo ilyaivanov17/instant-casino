@@ -13,12 +13,12 @@ section_description:
   pt: Explore 30 slots selecionados com imagens próprias, descrições breves e acesso direto a cada perfil de jogo.
   ja: 30種類のスロットを個別の画像と簡潔な説明で紹介し、それぞれのゲームプロフィールへ直接移動できます。
 read_more:
-  de: Spielprofil ansehen
-  en: Read game guide
-  pl: Zobacz profil gry
-  es: Ver guía del juego
-  pt: Consultar guia do jogo
-  ja: ゲームガイドを読む
+  de: Überblick ansehen
+  en: View overview
+  pl: Zobacz opis
+  es: Ver resumen
+  pt: Ver resumo
+  ja: 概要を見る
 eyebrow:
   de: SPIELPROFILE
   en: GAME PROFILES
@@ -332,12 +332,12 @@ games:
     image: /images/slots/catalog-mega-fortune.webp
     provider: NetEnt
     label:
-      de: "eine luxuriöse Yacht und einen glitzernden Jackpot"
-      en: "a luxury yacht and a glittering jackpot"
-      pl: "luksusowy jacht i lśniący jackpot"
-      es: "un yate de lujo y un jackpot brillante"
-      pt: "um iate de luxo e um jackpot reluzente"
-      ja: "豪華なヨットと輝くジャックポット"
+      de: "Luxus · Jackpot"
+      en: "Luxury · Jackpot"
+      pl: "Luksus · Jackpot"
+      es: "Lujo · Jackpot"
+      pt: "Luxo · Jackpot"
+      ja: "ラグジュアリー · ジャックポット"
     description:
       de: "Ein Slot rund um eine luxuriöse Yacht und einen glitzernden Jackpot, ergänzt durch progressive Jackpot-Stufen."
       en: "A slot built around a luxury yacht and a glittering jackpot, featuring progressive jackpot tiers."

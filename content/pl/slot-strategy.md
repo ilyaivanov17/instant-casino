@@ -3,7 +3,7 @@ title: 'Przewodnik po slotach: funkcje i mechanika'
 description: 'Poznaj RTP, zmienność i mechanikę bez traktowania ich jako prognozy wyników.'
 type: page
 seo_title: 'Przewodnik po slotach: funkcje i mechanika | Instant Casino'
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -22,6 +22,8 @@ screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfe
 ## Przewodnik po slotach: funkcje i mechanika
 
 Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+
+Praktyczne studium przypadku wyjaśnia działanie progresywnego jackpota: nasz [materiał o Mega Fortune i wygranej 3,5 mln euro]({{< relref "mega-fortune-progressive-jackpot" >}}) oddziela potwierdzone fakty z 2018 roku od opublikowanych zasad gry, RTP i ograniczeń dostępnych danych o zmienności.
 
 ## Gates of Olympus
 

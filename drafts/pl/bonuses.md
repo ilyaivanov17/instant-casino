@@ -69,7 +69,7 @@ W zależności od promocji kod trzeba wpisać podczas rejestracji, przed wpłat�
 
 Regulamin bonusu może określać maksymalną stawkę na rundę. Limit ten może być niższy niż maksymalna stawka technicznie dostępna w grze. Sprawdź, czy obejmuje także darmowe spiny i funkcje bonusowe.
 
-Na regulowanym rynku niemieckim podstawowy maksymalny zakład na wirtualnych automatach online wynosi 1 € na rundę. Od 1 lipca 2026 r. możliwe jest stopniowe podwyższenie limitu: najpierw do 3 €, a w drugim etapie do 5 €. Operator musi mieć odpowiednie zezwolenie GGL. Osoby stawiające więcej niż 1 € muszą mieć ukończone 21 lat. Przejście do limitu od 3 € do 5 € wymaga dodatkowo 90-dniowego okresu kwalifikacyjnego bez sygnałów ryzykownego zachowania oraz szczególnego monitorowania gry. Rozwiązanie obowiązuje obecnie tymczasowo do 31 grudnia 2027 r. Regulamin promocji może nadal przewidywać niższy limit bonusowy. Sprawdź aktualne informacje GGL i warunki licencjonowanego operatora.
+Na regulowanym rynku niemieckim podstawowy maksymalny zakład na wirtualnych automatach online wynosi 1 € na rundę. Od 1 lipca 2026 r. możliwe jest stopniowe podwyższenie limitu: najpierw do 3 €, a w drugim etapie do 5 €. Operator musi mieć odpowiednie zezwolenie GGL. Stawka do 3 € może być przyznana wyłącznie osobom, które ukończyły 21 lat. Drugi etap, od 3 € do 5 €, wymaga dodatkowo co najmniej 90 dni wcześniejszej gry bez sygnałów problematycznego zachowania oraz specjalnego monitorowania przez operatora. Gracz nie ma prawa do podwyższonego limitu — operator decyduje, czy go oferuje i przyznaje. Wyjątek obowiązuje obecnie tymczasowo do 31 grudnia 2027 r. Regulamin promocji może nadal przewidywać niższy limit bonusowy. Sprawdź aktualne informacje GGL i warunki licencjonowanego operatora.
 
 Niektóre gry mogą nie być zaliczane do wymaganego obrotu. Naruszenie warunku promocji może — zależnie od zapisu i okoliczności — skutkować anulowaniem bonusu lub powiązanych wygranych. Podejrzenie manipulacji może prowadzić do dodatkowej kontroli lub działań dotyczących konta. Nie są to automatyczne konsekwencje każdego błędu.
 
@@ -99,9 +99,9 @@ Reklama dozwolonego hazardu w Niemczech podlega przepisom Traktatu państwowego 
 
 Ustal budżet, zanim zaczniesz rozważać promocję. Nie zwiększaj go, aby spełnić wymagania obrotu, i nie próbuj odrabiać strat dalszą grą.
 
-**Federalny Instytut Zdrowia Publicznego (BIÖG, dawniej BZgA)** prowadzi bezpłatną infolinię dotyczącą problemów z hazardem pod numerem **0800 1 37 27 00**. Jest czynna od poniedziałku do czwartku w godz. 10:00–22:00 oraz od piątku do niedzieli w godz. 10:00–18:00. Osoby, które chcą wykluczyć się z gry, mogą złożyć wniosek o samowykluczenie w systemie **OASIS**, ogólnokrajowym niemieckim systemie blokad hazardowych. Standardowy okres wynosi rok; można wnioskować o krótszy indywidualny okres, ale nie krótszy niż trzy miesiące. Blokada nie kończy się automatycznie — po upływie minimalnego okresu trzeba złożyć wniosek o jej zniesienie. OASIS jest systemem blokad, a nie poradnią.
+**Federalny Instytut Zdrowia Publicznego (BIÖG, dawniej BZgA)** prowadzi bezpłatną i anonimową infolinię dotyczącą problemów z hazardem pod numerem **0800 1 37 27 00**. Jest czynna od poniedziałku do czwartku w godz. 10:00–22:00 oraz od piątku do niedzieli w godz. 10:00–18:00, przez 363 dni w roku (z wyjątkiem 24 i 31 grudnia). Osoby, które chcą wykluczyć się z gry, mogą złożyć wniosek o samowykluczenie w systemie **OASIS**, ogólnokrajowym niemieckim systemie blokad hazardowych. Standardowy okres wynosi rok; można wnioskować o krótszy indywidualny okres, ale nie krótszy niż trzy miesiące. Blokada nie kończy się automatycznie — po upływie minimalnego okresu trzeba złożyć wniosek o jej zniesienie. OASIS jest systemem blokad, a nie poradnią.
 
-- [BIÖG: poradnictwo i pomoc](https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/)
+- [BIÖG: poradnictwo i pomoc](https://www.check-dein-spiel.de/hilfe-fuer-spieler/telefon-beratung/)
 - [OASIS: informacje dla graczy](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spieler-faqs)
 - [GGL: pomoc i poradnictwo](https://gluecksspiel-behoerde.de/de/fuer-spielende/gluecksspielsucht-beratungs-und-hilfsangebote)
 
@@ -147,6 +147,6 @@ BIÖG udostępnia informacje i poradnictwo, a OASIS umożliwia samowykluczenie n
 - [GGL: środki ochrony graczy](https://www.gluecksspiel-behoerde.de/de/fuer-spielende/die-spielerschutzmassnahmen-des-gluestv21-im-ueberblick)
 - [GGL: limity wpłat i maksymalna stawka](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-einzahlungslimit-und-hoechsteinsatz)
 
-*Oficjalne źródła sprawdzono ostatnio 30.10.2026. Przed zatwierdzeniem ponownie sprawdź linki, dane kontaktowe, godziny i informacje prawne.*
+*Oficjalne źródła sprawdzono 30.10.2026. Przed zatwierdzeniem ponownie sprawdź linki, dane kontaktowe, godziny i informacje prawne.*
 
 *Informacja: Instant Casino może otrzymywać prowizję z odpowiednio oznaczonych linków afiliacyjnych.*

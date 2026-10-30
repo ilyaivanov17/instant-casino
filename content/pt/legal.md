@@ -15,8 +15,8 @@ aliases:
 slug: legal
 screenshots:
 - /images/guides/privacy-documents.webp
-screenshots_alt: 'Computador portátil e documentos de contrato numa secretária como imagem ilustrativa de informação legal e privacidade'
-screenshots_caption: 'Fotografia editorial de um computador portátil e documentos de contrato; não são documentos oficiais da Instant Casino.'
+screenshots_alt: 'Computador portátil com gráficos e documentos impressos numa secretária como imagem ilustrativa de informação legal e privacidade'
+screenshots_caption: 'Fotografia editorial de um computador portátil com gráficos e documentos impressos; não são documentos oficiais da Instant Casino.'
 screenshots_note: 'Fotografia editorial para o guia legal e de privacidade; não é um documento oficial nem uma certidão de registo.'
 ---
 ## Informações legais e privacidade

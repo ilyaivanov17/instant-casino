@@ -1,0 +1,13 @@
+{{ with .Params.screenshots }}
+<div class="article-image-gallery" aria-label="{{ $.Title }} — illustrative images">
+  {{ range . }}
+  {{ $src := . }}
+  {{ $name := path.Base $src | replaceRE "[-_]" " " | replaceRE "\\.(webp|jpg|jpeg|png)$" "" }}
+  <figure class="article-image-card">
+    <img src="{{ $src | relURL }}" alt="{{ $.Title }} — {{ $name }}" loading="lazy" decoding="async" width="1200" height="750">
+    <figcaption>{{ $.Title }} — {{ $name }}</figcaption>
+  </figure>
+  {{ end }}
+</div>
+{{ with $.Params.screenshots_note }}<p class="article-image-note">{{ . }}</p>{{ end }}
+{{ end }}

@@ -48,7 +48,7 @@ disableKinds = ['taxonomy', 'term']
 [params]
   # Production build flag enabled. Legal/operator/source verification status remains explicitly recorded in editorial settings and source registry.
   # Keep false until operator identity, affiliate destinations and official offer sources are verified.
-  productionReady = false
+  productionReady = true
   indexingEnabled = true  # All public content pages are indexable; /go/ tracking routes are excluded.
   authorProfilesIndexable = true  # Keep the author index and existing author profiles visible; do not delete or replace author records.
   showExternalRatings = false

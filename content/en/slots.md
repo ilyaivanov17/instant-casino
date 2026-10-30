@@ -20,7 +20,7 @@ slug: slots
 
 This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
 
-## Bigger Bass Bonanza
+<h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
 ## Bigger Bass Bonanza: a quick guide
 
@@ -68,7 +68,7 @@ A volatility label is, at most, a broad guide when the provider explains what it
 
 ---
 
-## Bonanza
+<h2 id="bonanza">Bonanza</h2>
 
 ## Bonanza: a quick guide
 
@@ -116,7 +116,7 @@ A volatility label is, at most, a broad guide when the provider explains what it
 
 ---
 
-## Book of Dead
+<h2 id="book-of-dead">Book of Dead</h2>
 
 ## Book of Dead: a quick guide
 
@@ -164,7 +164,7 @@ A volatility label is, at most, a broad guide when the provider explains what it
 
 ---
 
-## Dragon's Luck
+<h2 id="dragons-luck">Dragon's Luck</h2>
 
 ## Dragon's Luck: a quick guide
 
@@ -212,7 +212,7 @@ A volatility label is, at most, a broad guide when the provider explains what it
 
 ---
 
-## Fruit Party
+<h2 id="fruit-party">Fruit Party</h2>
 
 ## Fruit Party: a quick guide
 
@@ -257,3 +257,128 @@ A feature description is useful only when its conditions are clear. Check which 
 A volatility label is, at most, a broad guide when the provider explains what it means. It is not a promise of frequent small wins or rare large ones. Consider it alongside the actual rules and your own risk tolerance. A short personal sample cannot reliably reproduce the long-run distribution, and one unusual session should not be treated as proof of a general pattern. A useful review distinguishes observations from claims. “This session included a long stretch without a notable win” describes what happened in that sample. “The game rarely pays” is a much broader claim and cannot be supported by a small number of rounds. Precise wording helps readers avoid forming expectations that the evidence cannot justify.
 
 ### Stake range and budget
+
+
+<h2 id="starburst">Starburst</h2>
+
+A slot built around space and colourful gemstones, featuring expanding Wilds and respins.
+
+
+<h2 id="the-dog-house">The Dog House</h2>
+
+A slot built around dogs and a playful doghouse, featuring Sticky Wilds and free spins.
+
+
+<h2 id="legacy-of-dead">Legacy of Dead</h2>
+
+A slot built around ancient Egyptian temples and golden scarabs, featuring free spins and expanding symbols.
+
+
+<h2 id="reactoonz">Reactoonz</h2>
+
+A slot built around colourful aliens in a space setting, featuring cluster wins and the Quantum Leap feature.
+
+
+<h2 id="wild-west-gold">Wild West Gold</h2>
+
+A slot built around cowboys and gold in the Wild West, featuring Sticky Wilds and respins.
+
+
+<h2 id="starlight-princess">Starlight Princess</h2>
+
+A slot built around a magical princess in a fantasy world, featuring tumble wins and multipliers.
+
+
+<h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
+
+A slot built around buffalo and wildlife across the North American prairie, featuring Megaways reels and cascades.
+
+
+<h2 id="mega-fortune">Mega Fortune</h2>
+
+A slot built around a luxury yacht and a glittering jackpot, featuring progressive jackpot tiers.
+
+
+<h2 id="dead-or-alive-2">Dead or Alive 2</h2>
+
+A slot built around a dusty Wild West town and gunslingers, featuring multiple free-spins modes.
+
+
+<h2 id="twin-spin">Twin Spin</h2>
+
+A slot built around classic slot symbols and linked reels, featuring twin-reel features and random symbols.
+
+
+<h2 id="hand-of-anubis">Hand of Anubis</h2>
+
+A slot built around Anubis and ancient Egyptian imagery, featuring collectible symbols and bonus features.
+
+
+<h2 id="sugar-rush">Sugar Rush</h2>
+
+A slot built around sweets, candy and a colourful fantasy world, featuring cluster wins and growing multipliers.
+
+
+<h2 id="immortal-romance">Immortal Romance</h2>
+
+A slot built around vampire characters and a gothic romance, featuring free spins and the Wild Desire feature.
+
+
+<h2 id="5-lions-megaways">5 Lions Megaways</h2>
+
+A slot built around five golden lions in an Asian-inspired temple setting, featuring Megaways reels and free spins.
+
+
+<h2 id="le-bandit">Le Bandit</h2>
+
+A slot built around a raccoon thief in a Parisian setting, featuring cluster wins and bonus features.
+
+
+<h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
+
+A slot built around masked gunslingers in the Wild West, featuring bonus rounds and duel features.
+
+
+<h2 id="money-train-3">Money Train 3</h2>
+
+A slot built around a futuristic train and two outlaws, featuring bonus symbols and multiplier features.
+
+
+<h2 id="money-train-4">Money Train 4</h2>
+
+A slot built around outlaws and a futuristic train adventure, featuring collectible symbols and bonus features.
+
+
+<h2 id="thunderstruck-ii">Thunderstruck II</h2>
+
+A slot built around Norse gods and the world of Vikings, featuring free spins and special bonus features.
+
+
+<h2 id="fruit-party-2">Fruit Party 2</h2>
+
+A slot built around colourful fruit and a bright fantasy world, featuring cluster wins and multipliers.
+
+
+<h2 id="gates-of-olympus">Gates of Olympus</h2>
+
+A slot built around Zeus and a grand temple on Mount Olympus, featuring tumble wins and multipliers.
+
+
+<h2 id="gonzos-quest">Gonzo's Quest</h2>
+
+A slot built around an explorer searching for El Dorado, featuring cascading wins and rising multipliers.
+
+
+<h2 id="sweet-bonanza">Sweet Bonanza</h2>
+
+A slot built around sweets and fruit in a colourful fantasy world, featuring tumble wins and multipliers.
+
+
+<h2 id="wolf-gold">Wolf Gold</h2>
+
+A slot built around wolves and the North American wilderness, featuring Wild symbols, respins and jackpot features.
+
+
+<h2 id="mega-moolah">Mega Moolah</h2>
+
+A slot built around a lion and the African savannah, featuring progressive jackpot tiers.

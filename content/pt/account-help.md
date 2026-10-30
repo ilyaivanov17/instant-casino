@@ -3,7 +3,7 @@ title: Conta, registo, início de sessão e perguntas frequentes
 description: 'Orientações sobre registo, início de sessão, verificação, privacidade e segurança da conta.'
 type: page
 seo_title: Conta, registo, início de sessão e perguntas frequentes | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -136,7 +136,7 @@ Os temas mais comuns incluem registo, verificação, condições dos bónus, pag
 | Pergunta | Resposta breve | Detalhes |
 | --- | --- | --- |
 | [Como me registo no Instant Casino?]({{< relref "account-help" >}}) | Abra o site oficial, selecione «Registar» e preencha corretamente os dados solicitados. Confirme o e-mail ou outros dados de contacto exigidos e conclua a verificação de identidade se for pedida. Utilize apenas os… | [Details]({{< relref "account-help" >}}) |
-| [Que bónus para novos jogadores estão listados?]({{< relref "account-help" >}}) | Este registo de FAQ indica uma oferta de boas-vindas de 100% até 500 EUR mais 200 rodadas grátis, com o código WELCOME no primeiro depósito. É a oferta guardada nesta ficha; antes de a ativar, confirme se essa… | [Details]({{< relref "account-help" >}}) |
+| [Está confirmado algum bónus de boas-vindas atualmente?]({{< relref "account-help" >}}) | Até ao momento, não verificámos condições oficiais atuais que confirmem uma oferta de boas-vindas específica. Os registos anteriores de FAQ ou do catálogo não provam que uma promoção continue disponível. Consulte as condições completas na conta ou página oficial antes de aderir. | [Details]({{< relref "account-help" >}}) |
 | [Como levantar os ganhos?]({{< relref "account-help" >}}) | Abra a caixa e selecione uma opção de levantamento disponível para a sua conta. Introduza o montante e os dados pedidos e reveja o resumo antes de confirmar. O catálogo indica prazos desde imediato até três dias… | [Details]({{< relref "account-help" >}}) |
 | [Existe uma aplicação móvel?]({{< relref "account-help" >}}) | O registo do projeto não contém um URL confirmado para descarregar uma aplicação. O site adaptável pode ser aberto no navegador do telemóvel. Não descarregue uma suposta aplicação de uma página externa sem verificar… | [Details]({{< relref "account-help" >}}) |
 | [Como é avaliada a imparcialidade das slots?]({{< relref "account-help" >}}) | Nos jogos regulados, os geradores de números aleatórios e os parâmetros são normalmente verificados por processos adequados de teste e certificação. Isso não significa que um jogo ou sessão tenha de produzir… | [Details]({{< relref "account-help" >}}) |
@@ -232,11 +232,11 @@ Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca apo
 
 ---
 
-## Que bónus para novos jogadores estão listados?
+## Está confirmado algum bónus de boas-vindas atualmente?
 
-## Que bónus para novos jogadores estão listados?
+## Está confirmado algum bónus de boas-vindas atualmente?
 
-Este registo de FAQ indica uma oferta de boas-vindas de 100% até 500 EUR mais 200 rodadas grátis, com o código WELCOME no primeiro depósito. É a oferta guardada nesta ficha; antes de a ativar, confirme se essa promoção específica está atualmente disponível no seu país e conta.
+Até ao momento, não verificámos condições oficiais atuais que confirmem uma oferta de boas-vindas específica da Instant Casino. Os registos anteriores de FAQ ou do catálogo não provam que uma promoção esteja atualmente disponível. Por esse motivo, não apresentamos como confirmados qualquer valor de bónus, número de rodadas grátis, código promocional ou requisito de aposta. Verifique as condições completas de qualquer promoção apresentada na sua conta oficial. Para orientações gerais, consulte o nosso [guia sobre condições dos bónus]({{< relref "bonuses" >}}).
 
 ### Resposta e próximos passos
 

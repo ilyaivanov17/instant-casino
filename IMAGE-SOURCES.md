@@ -15,3 +15,18 @@ The images below are stored locally in `static/images/guides/` and served from t
 Pexels states that its photos can be used for personal and commercial purposes free of charge, without attribution. Creator/source details are retained here as a courtesy and for asset traceability: https://www.pexels.com/license/ and https://help.pexels.com/hc/en-us/articles/360042295174-What-is-the-license-of-the-photos-and-videos-on-Pexels
 
 The other casino-themed WebP files referenced by `hugo.toml` were already present in the repository before this change.
+
+## Slot gallery artwork
+
+These five local WebP files are used as editorial game-cover images in the `/slots/` catalogue. The original artwork is owned by the respective game publishers and/or rights holders. Source URLs are recorded below for provenance; this document does not grant or assert a redistribution licence. Confirm that the site's existing commercial/editorial permissions cover use of each image.
+
+| Local file | Game | Source page / asset |
+|---|---|---|
+| `static/images/slots/bigger-bass-bonanza-cover.webp` | Bigger Bass Bonanza | https://www.midnite.com/casino/game/bigger-bass-bonanza |
+| `static/images/slots/bonanza-cover.webp` | Bonanza | https://www.bigtimegaming.com/games/bonanza/ |
+| `static/images/slots/book-of-dead-cover.webp` | Book of Dead | https://www.leovegas.dk/spil/book-of-dead |
+| `static/images/slots/dragons-luck-cover.webp` | Dragon's Luck | https://www.leovegas.com/en-row/game/dragons-luck |
+| `static/images/slots/fruit-party-cover.webp` | Fruit Party | https://www.casinofever.ca/news-article/1194/fruit-party-slot-from-pragmatic-play |
+
+The processed covers use a soft blurred background derived from the same image. The foreground artwork is contained without cropping.
+

@@ -11,8 +11,6 @@ review_date: '2026-10-30'
 build:
   render: always
   list: always
-  render: always
-  list: always
 aliases:
 - /pl/catalog/bonuses/
 - /pl/catalog/bonuses/cashback/
@@ -29,8 +27,6 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfejsu operatora.'
 ---
-
-# Jak rozumieć warunki bonusów kasynowych
 
 Bonus w wysokości 500 € może wyglądać atrakcyjniej niż 50 darmowych spinów. Sama reklamowana kwota nie wyjaśnia jednak, co trzeba zrobić, aby skorzystać z bonusu lub wypłacić wygraną. Sprawdź wymagania obrotu, gry uwzględniane w obrocie, termin ważności oraz zasady wypłat, zanim zaakceptujesz promocję.
 

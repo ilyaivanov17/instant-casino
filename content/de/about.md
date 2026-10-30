@@ -4,7 +4,7 @@ description: 'Redaktionelle Methode, Quellenprüfung und Verantwortlichkeiten de
 type: page
 seo_title: 'Über Instant Casino: Redaktion, Autoren und Methodik | Instant Casino'
 lastmod: '2026-10-30'
-editor: dan-michalski
+editor: marco-ibarra
 article_review_status: editorial-review-pending
 build:
   render: always

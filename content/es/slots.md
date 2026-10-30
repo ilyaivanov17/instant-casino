@@ -3,7 +3,7 @@ title: 'Guía de tragamonedas: fundamentos y perfiles'
 description: 'Perfiles de juegos con reglas, funciones y datos clave de slots online seleccionadas.'
 type: page
 seo_title: 'Guía de tragamonedas: fundamentos y perfiles | Instant Casino'
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -16,11 +16,7 @@ aliases:
 - /es/catalog/slots/fruit-party/
 - /es/catalog/slots/
 slug: slots
-screenshots:
-- /images/slots/wolf-gold.webp
-screenshots_note: 'Ilustración editorial, no es una captura de una interfaz real del operador.'
 ---
-## Guía de tragamonedas: fundamentos y perfiles
 
 Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
 

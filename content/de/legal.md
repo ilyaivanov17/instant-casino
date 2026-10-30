@@ -3,7 +3,8 @@ title: Rechtliche Hinweise und Datenschutz
 description: 'Rechtliche Hinweise, Datenschutz, Cookies und wichtige Informationen zum Informationsangebot.'
 type: page
 seo_title: Rechtliche Hinweise und Datenschutz | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
+editor: dan-michalski
 article_review_status: editorial-review-pending
 build:
   render: always

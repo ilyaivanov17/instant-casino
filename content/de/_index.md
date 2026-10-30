@@ -3,7 +3,8 @@ title: 'Instant Casino: Spiele, Boni und Zahlungen verstehen'
 description: 'Kompakte, verständliche Informationen zu Spielmechaniken, Bonusbedingungen, Zahlungen und Kontosicherheit.'
 type: page
 seo_title: Instant Casino – unabhängiger Informationsleitfaden | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
+editor: marco-ibarra
 article_review_status: editorial-review-pending
 build:
   render: always

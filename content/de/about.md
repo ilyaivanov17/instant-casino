@@ -3,7 +3,8 @@ title: 'Über Instant Casino: Redaktion, Autoren und Methodik'
 description: 'Redaktionelle Methode, Quellenprüfung und Verantwortlichkeiten des Instant-Casino-Informationsportals.'
 type: page
 seo_title: 'Über Instant Casino: Redaktion, Autoren und Methodik | Instant Casino'
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
+editor: dan-michalski
 article_review_status: editorial-review-pending
 build:
   render: always

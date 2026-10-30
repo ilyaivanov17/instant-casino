@@ -3,7 +3,8 @@ title: 'Slot-Leitfaden: Funktionen und Spielmechanik'
 description: 'RTP, Volatilität und Spielmechanik verstehen, ohne Ergebnisse einzelner Runden vorherzusagen.'
 type: page
 seo_title: 'Slot-Leitfaden: Funktionen und Spielmechanik | Instant Casino'
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
+editor: dominic-field
 article_review_status: editorial-review-pending
 build:
   render: always

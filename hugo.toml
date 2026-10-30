@@ -77,7 +77,7 @@ disableKinds = ['taxonomy', 'term']
   social = '/images/instant-casino-social.webp'
 
 [params.images.guides]
-  slots = '/images/slots/book-of-dead.webp'
+  slots = '/images/slots/book-of-dead.jpg'
   bonuses = '/images/guides/casino-bonus.webp'
   payments = '/images/guides/casino-payments.webp'
   account-help = '/images/guides/casino-account.webp'

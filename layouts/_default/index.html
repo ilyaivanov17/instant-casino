@@ -57,8 +57,10 @@
   <div class="author-grid author-grid-premium home-author-grid">
     {{ range $authors.ByTitle }}
     <article class="author-card author-card-premium author-card-beautiful home-author-card">
-      <div class="author-cover"></div><div class="author-card-body">
-        <div class="author-identity"><div class="author-avatar author-avatar-premium author-avatar-initials" aria-hidden="true">{{ with .Params.photo }}<img src="{{ . | relURL }}" alt="" loading="lazy" decoding="async">{{ else }}<span>{{ substr .Title 0 1 }}</span>{{ end }}</div><div class="author-identity-copy"><h3>{{ .Title }}</h3><p>{{ .Params.role }}</p></div></div>
+      <div class="author-cover home-author-cover">
+        {{ with .Params.photo }}<img class="home-author-photo" src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy" decoding="async" width="640" height="420">{{ else }}<span class="home-author-photo-fallback" aria-hidden="true">{{ substr $.Title 0 1 }}</span>{{ end }}
+      </div><div class="author-card-body">
+        <div class="author-identity"><div class="author-identity-copy"><h3>{{ .Title }}</h3><p>{{ .Params.role }}</p></div></div>
         <div class="author-specialty">{{ .Params.label }}</div><p class="author-card-bio">{{ .Params.description | default .Params.bio }}</p>
         <div class="author-card-footer"><a class="author-profile-btn" href="{{ .RelPermalink }}">{{ if eq $.Site.Language.Lang "de" }}Profil ansehen{{ else if eq $.Site.Language.Lang "en" }}View profile{{ else if eq $.Site.Language.Lang "es" }}Ver perfil{{ else if eq $.Site.Language.Lang "pt" }}Ver perfil{{ else if eq $.Site.Language.Lang "ja" }}プロフィールを見る{{ else }}Zobacz profil{{ end }} <span>→</span></a><div class="author-social-mini">{{ with .Params.social.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">in</a>{{ end }}{{ with .Params.social.website }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="{{ if eq $.Site.Language.Lang "de" }}Öffentliches Profil{{ else if eq $.Site.Language.Lang "en" }}Public professional profile{{ else if eq $.Site.Language.Lang "es" }}Perfil profesional público{{ else if eq $.Site.Language.Lang "pt" }}Perfil profissional público{{ else if eq $.Site.Language.Lang "ja" }}公開プロフィール{{ else }}Profil zawodowy{{ end }}">↗</a>{{ end }}</div></div>
       </div>

@@ -3,7 +3,7 @@ title: Account, registration, login and common questions
 description: 'Guidance on registration, login, identity checks, privacy and keeping an account secure.'
 type: page
 seo_title: Account, registration, login and common questions | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -110,7 +110,7 @@ Common topics include account registration, verification, bonus terms, payments,
 | Question | Short answer | Details |
 | --- | --- | --- |
 | [How do I register with Instant Casino?]({{< relref "account-help" >}}) | Open the official website, select “Register” and complete the requested details accurately. Confirm your email or other required contact details and complete identity verification if requested. Use only information… | [Open answer]({{< relref "account-help" >}}) |
-| [Which bonuses are listed for new players?]({{< relref "account-help" >}}) | This FAQ record lists a welcome offer of 100% up to EUR 500 plus 200 free spins, using code WELCOME on the first deposit. This is the offer stored in this entry; before activation, check whether that exact promotion… | [Open answer]({{< relref "account-help" >}}) |
+| [Is a current welcome bonus verified?]({{< relref "account-help" >}}) | We have not verified current official terms confirming a specific welcome offer. Older FAQ or catalogue entries do not establish that a promotion is still available. Check the full terms in the official account or offer page before opting in. | [Details]({{< relref "account-help" >}}) |
 | [How do I withdraw winnings?]({{< relref "account-help" >}}) | Open the cashier and select a withdrawal option available to your account. Enter the amount and required details, then review the summary before confirming. The catalogue lists processing times from instant to up to… | [Open answer]({{< relref "account-help" >}}) |
 | [Is there a mobile app?]({{< relref "account-help" >}}) | The project record does not contain a confirmed app download URL. The responsive website can be opened in a smartphone browser. Do not download a purported app from a third-party page without checking its publisher… | [Open answer]({{< relref "account-help" >}}) |
 | [How is slot fairness assessed?]({{< relref "account-help" >}}) | For regulated games, random number generators and game parameters are commonly checked through relevant testing and certification processes. This does not mean a particular game or session must produce a specific… | [Open answer]({{< relref "account-help" >}}) |
@@ -206,11 +206,11 @@ Only gamble where it is legal for you, and set a firm budget. Never stake money 
 
 ---
 
-## Which bonuses are listed for new players?
+## Is a current welcome bonus verified?
 
-## Which bonuses are listed for new players?
+## Is a current welcome bonus verified?
 
-This FAQ record lists a welcome offer of 100% up to EUR 500 plus 200 free spins, using code WELCOME on the first deposit. This is the offer stored in this entry; before activation, check whether that exact promotion is currently available for your country and account.
+We have not verified current official promotion terms confirming a specific Instant Casino welcome offer. Older FAQ or catalogue records are not evidence that a promotion is currently available. For that reason, we do not list a confirmed bonus amount, number of free spins, promo code or wagering requirement here. Check any promotion shown in the official account against its full terms. For general guidance, see our [guide to casino bonus terms]({{< relref "bonuses" >}}).
 
 ### Answer and next steps
 

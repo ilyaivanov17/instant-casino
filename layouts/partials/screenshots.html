@@ -3,9 +3,11 @@
   {{ range . }}
   {{ $src := . }}
   {{ $name := path.Base $src | replaceRE "[-_]" " " | replaceRE "\\.(webp|jpg|jpeg|png)$" "" }}
+  {{ $alt := $.Params.screenshots_alt | default (printf "%s — %s" $.Title $name) }}
+  {{ $caption := $.Params.screenshots_caption | default (printf "%s — %s" $.Title $name) }}
   <figure class="article-image-card">
-    <img src="{{ $src | relURL }}" alt="{{ $.Title }} — {{ $name }}" loading="lazy" decoding="async" width="1200" height="750">
-    <figcaption>{{ $.Title }} — {{ $name }}</figcaption>
+    <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy" decoding="async" width="1200" height="750">
+    <figcaption>{{ $caption }}</figcaption>
   </figure>
   {{ end }}
 </div>

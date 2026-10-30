@@ -11,8 +11,6 @@ review_date: '2026-10-30'
 build:
   render: always
   list: always
-  render: always
-  list: always
 aliases:
 - /catalog/bonuses/
 - /catalog/bonuses/cashback/
@@ -29,8 +27,6 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
 ---
-
-# Casino-Bonusbedingungen richtig verstehen
 
 Ein Bonus von 500 Euro klingt zunächst attraktiver als 50 Freispiele. Entscheidend ist aber, welche Bedingungen daran geknüpft sind: Wie hoch ist der erforderliche Umsatz? Welche Spiele zählen? Wann läuft die Aktion ab? Und was passiert, wenn du vorzeitig eine Auszahlung beantragst?
 

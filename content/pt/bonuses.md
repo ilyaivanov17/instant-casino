@@ -11,8 +11,6 @@ review_date: '2026-10-30'
 build:
   render: always
   list: always
-  render: always
-  list: always
 aliases:
 - /pt/catalog/bonuses/
 - /pt/catalog/bonuses/cashback/
@@ -29,8 +27,6 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Ilustração editorial; não é uma captura de uma interface real do operador.'
 ---
-
-# Como compreender as condições dos bónus de casino
 
 Um bónus de 500 € pode parecer mais atrativo do que 50 rodadas grátis. Mas o valor anunciado não explica o que tens de fazer para utilizar o bónus ou levantar os ganhos. Confirma o requisito de aposta, os jogos elegíveis, o prazo de validade e as regras de levantamento antes de aceitar a promoção.
 

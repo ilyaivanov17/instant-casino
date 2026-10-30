@@ -252,7 +252,7 @@ Kreditkarten (Visa, Mastercard), E-Wallets (Skrill, Neteller), Paysafecard, Kryp
 Das hängt von der Methode ab: E-Wallets meist am selben Tag, Karten und Überweisung ein bis drei Werktage. Vor der ersten Auszahlung ist die Verifizierung nötig.
 
 **Was ist die Mindesteinzahlung?**
-In der Regel 10 €, bei Kryptowährungen ab 20 €.
+Die [offizielle FAQ von Instant Casino](https://www.instantcasino.com/de/faq) nennt derzeit 20 €. Der tatsächlich geltende Mindestbetrag kann je nach Zahlungsmethode und Konto abweichen. Maßgeblich ist deshalb der Betrag, der im Kassenbereich für die gewählte Methode angezeigt wird.
 
 ### Login & Technik
 

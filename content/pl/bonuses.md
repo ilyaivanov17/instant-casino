@@ -159,6 +159,8 @@ BIÖG udostępnia informacje i poradnictwo, a OASIS umożliwia samowykluczenie n
 
 ## Źródła i aktualność
 
+- [BIÖG: telefon wsparcia w problemach hazardowych](https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/)
+- [Rada Regionalna w Darmstadt: FAQ OASIS dla graczy](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spieler-faqs)
 - [GGL: FAQ dotyczące reklamy hazardu](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-gluecksspielwerbung)
 - [GGL: środki ochrony graczy](https://www.gluecksspiel-behoerde.de/de/fuer-spielende/die-spielerschutzmassnahmen-des-gluestv21-im-ueberblick)
 - [GGL: limity wpłat i maksymalna stawka](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-einzahlungslimit-und-hoechsteinsatz)

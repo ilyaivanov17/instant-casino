@@ -11,8 +11,6 @@ review_date: '2026-10-30'
 build:
   render: always
   list: always
-  render: always
-  list: always
 aliases:
 - /es/catalog/bonuses/
 - /es/catalog/bonuses/cashback/
@@ -29,8 +27,6 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Ilustración editorial, no es una captura de una interfaz real del operador.'
 ---
-
-# Cómo entender las condiciones de los bonos de casino
 
 Un bono de 500 € puede parecer más atractivo que 50 giros gratis. Pero la cifra anunciada no explica qué tienes que hacer para utilizarlo o retirar las ganancias. Comprueba el requisito de apuesta, los juegos válidos, la fecha de caducidad y las reglas de retirada antes de aceptar la promoción.
 

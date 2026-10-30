@@ -69,7 +69,7 @@ A promo code may need to be entered during registration, before depositing or in
 
 Bonus terms may set a maximum stake per round. It can be lower than the maximum allowed by the game itself. Check whether the limit also applies to free spins or bonus features.
 
-In Germany’s regulated market, the general maximum stake for virtual slot games is €1 per round. Since 1 July 2026, a step-by-step increase is possible: first to up to €3 and, at a second stage, to up to €5. The operator must hold the relevant GGL permission. Players must be at least 21 to stake more than €1. Moving to the €3–€5 stage also requires a 90-day qualification period without gambling-related risk indicators and additional behavioural monitoring. This arrangement is currently limited until 31 December 2027. A promotion may still set a lower bonus stake cap. Check the GGL guidance and the licensed operator’s terms.
+In Germany’s regulated market, the general maximum stake for virtual slot games is €1 per round. Since 1 July 2026, a step-by-step increase is possible: first to up to €3 and, at a second stage, to up to €5. The operator must hold the relevant GGL permission. A stake of up to €3 is available only to players aged 21 or over. The second stage, from €3 to €5, additionally requires at least 90 days of play without indicators of problematic behaviour and special operator monitoring. Players have no entitlement to a higher limit; the operator decides whether to offer and grant it. The deviation from the standard limit is currently time-limited until 31 December 2027. A promotion may still set a lower bonus stake cap. Check the GGL guidance and the licensed operator’s terms.
 
 Some games may not contribute to wagering. If a player breaches a promotion rule, possible consequences—depending on the wording and circumstances—can include cancellation of the bonus or related winnings. Suspected manipulation may lead to further checks or account action. These are possible outcomes, not automatic consequences of every mistake.
 
@@ -99,9 +99,9 @@ Advertising for permitted gambling in Germany is subject to the Interstate Treat
 
 Set a budget before you consider a promotion. Do not increase it to meet a wagering target, and do not chase losses.
 
-The **Federal Institute of Public Health (BIÖG, formerly BZgA)** runs a free gambling-specific helpline on **0800 1 37 27 00**. It is open Monday to Thursday, 10:00–22:00, and Friday to Sunday, 10:00–18:00. People who want to exclude themselves can apply for self-exclusion through **OASIS**, Germany’s nationwide gambling blocking system. A self-exclusion normally lasts one year; a shorter individual period can be requested, but it cannot be less than three months. It does not end automatically: an application to lift the block is required after the minimum period. OASIS is a blocking system, not a counselling service.
+The **Federal Institute of Public Health (BIÖG, formerly BZgA)** runs a free and anonymous gambling helpline on **0800 1 37 27 00**. It is open Monday to Thursday, 10:00–22:00, and Friday to Sunday, 10:00–18:00, on 363 days a year (closed on 24 and 31 December). People who want to exclude themselves can apply for self-exclusion through **OASIS**, Germany’s nationwide gambling blocking system. A self-exclusion normally lasts one year; a shorter individual period can be requested, but it cannot be less than three months. It does not end automatically: an application to lift the block is required after the minimum period. OASIS is a blocking system, not a counselling service.
 
-- [BIÖG: counselling services](https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/)
+- [BIÖG: counselling services](https://www.check-dein-spiel.de/hilfe-fuer-spieler/telefon-beratung/)
 - [OASIS: information for players](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spieler-faqs)
 - [GGL: support and counselling services](https://gluecksspiel-behoerde.de/de/fuer-spielende/gluecksspielsucht-beratungs-und-hilfsangebote)
 
@@ -147,6 +147,6 @@ BIÖG lists counselling services, while OASIS provides self-exclusion in Germany
 - [GGL: player protection measures](https://www.gluecksspiel-behoerde.de/de/fuer-spielende/die-spielerschutzmassnahmen-des-gluestv21-im-ueberblick)
 - [GGL: deposit limits and maximum stakes](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-einzahlungslimit-und-hoechsteinsatz)
 
-*Official sources last checked on 30 October 2026. Recheck links, contact details, hours and legal information before approval.*
+*Official sources checked on 30 October 2026. Recheck links, contact details, hours and legal information before approval.*
 
 *Disclosure: Instant Casino may earn a commission from clearly marked affiliate links.*

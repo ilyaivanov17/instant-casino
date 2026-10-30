@@ -3,7 +3,7 @@ title: 'Slot guide: features and mechanics'
 description: 'Understand RTP, volatility and game mechanics without treating them as predictions of results.'
 type: page
 seo_title: 'Slot guide: features and mechanics | Instant Casino'
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -22,6 +22,8 @@ screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real op
 ## Slot guide: features and mechanics
 
 This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+
+A practical case study explains how a progressive jackpot works: our [Mega Fortune feature on the €3.5 million win]({{< relref "mega-fortune-progressive-jackpot" >}}) separates the verified 2018 facts from the game's published rules, RTP and the limits of the available volatility data.
 
 ## Gates of Olympus
 

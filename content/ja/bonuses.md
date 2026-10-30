@@ -11,8 +11,6 @@ review_date: '2026-10-30'
 build:
   render: always
   list: always
-  render: always
-  list: always
 aliases:
 - /ja/catalog/bonuses/
 - /ja/catalog/bonuses/cashback/
@@ -29,8 +27,6 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: '編集用のイラストです。実際の運営画面のスクリーンショットではありません。'
 ---
-
-# カジノボーナスの利用条件を理解する
 
 500ユーロのボーナスは、50回のフリースピンより魅力的に見えるかもしれません。しかし、表示された金額だけでは、ボーナスを利用したり賞金を出金したりするために何が必要なのか分かりません。受け取る前に、賭け条件、対象ゲーム、有効期限、出金ルールを確認しましょう。
 

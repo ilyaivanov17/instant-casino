@@ -129,6 +129,8 @@ Może być wymagana kontrola wieku i tożsamości. Korzystaj z oficjalnego panel
 
 Obrót bonusem i czas wypłaty zależą od konkretnej oferty i metody płatności. Sprawdź zasady przed wpłatą lub zleceniem wypłaty.
 
+Oficjalne [FAQ Instant Casino](https://www.instantcasino.com/faq) podaje obecnie minimalną wpłatę w wysokości 20 €. Obowiązujący limit może zależeć od metody płatności i konta, dlatego przed wpłatą sprawdź kwotę wyświetlaną w kasie.
+
 ## Przejdź do szczegółowych odpowiedzi
 
 Najczęstsze tematy to rejestracja konta, weryfikacja, warunki bonusów, płatności, mechanika gier i tożsamość operatora. Każda strona szczegółowa odpowiada na jedno konkretne pytanie. Poniższe linki prowadzą bezpośrednio do właściwego wyjaśnienia.

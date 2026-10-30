@@ -11,8 +11,6 @@ review_date: '2026-10-30'
 build:
   render: always
   list: always
-  render: always
-  list: always
 aliases:
 - /en/catalog/bonuses/
 - /en/catalog/bonuses/cashback/
@@ -29,8 +27,6 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real operator interface.'
 ---
-
-# How to understand casino bonus terms
 
 A €500 bonus may look more attractive than 50 free spins. The headline figure does not tell you what you must do to receive or withdraw it. Check the wagering requirement, eligible games, expiry date and rules for withdrawing before completing the bonus.
 

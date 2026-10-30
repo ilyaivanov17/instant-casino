@@ -11,8 +11,10 @@ build:
   list: always
 slug: mega-fortune-progressive-jackpot
 screenshots:
-- /images/guides/slot-strategy.svg
-screenshots_note: '編集用のイラストです。実際のゲーム画面ではありません。'
+- https://mb.cision.com/Public/13524/2642346/9a245ea853fe3193_800x800ar.jpg
+screenshots_alt: 'NetEntの2018年プレスリリースに掲載されたMega Fortuneのジャックポット告知画像'
+screenshots_caption: '2018年10月11日付のNetEntのプレスリリースに掲載された公式ジャックポット画像。'
+screenshots_note: '画像提供：NetEnt/Cision、2018年10月11日のプレスリリース。画像はジャックポットの告知であり、当選者の写真ではありません。'
 ---
 
 ## 記録的な当選額と、見落としてはいけない違い

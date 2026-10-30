@@ -69,7 +69,7 @@ Ein Aktionscode muss je nach Angebot bei der Registrierung, vor der Einzahlung o
 
 Bonusbedingungen können einen maximalen Einsatz pro Spielrunde festlegen. Dieses Limit kann niedriger sein als der Einsatz, den ein Spiel technisch zulässt. Prüfe, ob es auch für Freispiele oder Bonusfunktionen gilt.
 
-Für virtuelle Automatenspiele im deutschen regulierten Markt gelten außerdem gesetzliche Vorgaben. Der reguläre Höchsteinsatz beträgt grundsätzlich 1 Euro pro Spielrunde. Seit dem 1. Juli 2026 sind unter bestimmten Voraussetzungen Ausnahmen bis zu 5 Euro möglich. Ein bonusinternes Limit kann weiterhin niedriger sein. Prüfe die aktuellen Informationen der GGL und die Bedingungen des zugelassenen Anbieters.
+Für virtuelle Automatenspiele im regulierten deutschen Markt gilt grundsätzlich ein Höchsteinsatz von 1 Euro je Spielrunde. Seit dem 1. Juli 2026 sind stufenweise Erhöhungen möglich: zunächst auf bis zu 3 Euro und in einer zweiten Stufe auf bis zu 5 Euro. Voraussetzung ist unter anderem, dass der Anbieter eine entsprechende Erlaubnis der GGL besitzt. Für Einsätze über 1 Euro gilt ein Mindestalter von 21 Jahren. Für die Stufe von 3 bis 5 Euro sind zusätzlich ein 90-tägiger Qualifikationszeitraum ohne suchtauffälliges Spielverhalten und ein besonderes Monitoring vorgeschrieben. Die Regelung ist zunächst bis zum 31. Dezember 2027 befristet. Ein bonusinternes Limit kann weiterhin niedriger sein. Prüfe die aktuellen Informationen der GGL und die Bedingungen des zugelassenen Anbieters.
 
 Auch ausgeschlossene Spiele sind wichtig. Einsätze in bestimmten Titeln können nicht zum Bonusumsatz zählen. Bei Verstößen können – abhängig von den konkreten Klauseln und Umständen – der Bonus oder damit verbundene Gewinne storniert werden. Bei Verdacht auf Manipulation können zusätzliche Prüfungen oder Kontomaßnahmen folgen. Das sind mögliche, keine automatischen Folgen jedes Fehlers.
 
@@ -85,7 +85,7 @@ Ein Auszahlungsantrag vor Abschluss des Umsatzes kann zum Verlust des Bonus und 
 
 Ein Bonus kann eine Mindesteinzahlung voraussetzen. Zusätzlich können bestimmte Zahlungsarten ausgeschlossen sein. Eine Methode, die für normale Einzahlungen verfügbar ist, muss nicht automatisch für eine Bonusaktion zugelassen sein. Prüfe beides vor der Einzahlung.
 
-Im deutschen regulierten Markt müssen Ein- und Auszahlungen über ein Zahlungskonto laufen, das auf den Namen der spielenden Person lautet. Anonyme Zahlungsmittel sind nach den Informationen der GGL ausgeschlossen.
+Im regulierten deutschen Markt müssen Ein- und Auszahlungen über ein Zahlungskonto laufen, das auf den Namen der spielenden Person lautet. Anonyme Zahlungsmittel sind ausgeschlossen. Zusätzlich gilt für Online-Glücksspiele grundsätzlich ein anbieterübergreifendes Einzahlungslimit von 1.000 Euro pro Kalendermonat. Unter besonderen Voraussetzungen kann eine Erhöhung zugelassen werden. Dieses gesetzliche Limit ist nicht mit der Mindesteinzahlung einer Bonusaktion zu verwechseln.
 
 ## Mehrere Boni und Verifizierung
 
@@ -99,10 +99,10 @@ Für erlaubtes Glücksspiel in Deutschland gelten die Vorgaben des Glücksspiels
 
 Lege ein persönliches Budget fest und erhöhe es nicht, um eine Umsatzanforderung zu erfüllen. Versuche nicht, Verluste durch weiteres Spielen auszugleichen.
 
-Das **Bundesinstitut für Öffentliche Gesundheit (BIÖG; früher BZgA)** bietet eine kostenfreie Telefonberatung unter **0800 137 27 00**. Informationen zu Zeiten und Angeboten stehen auf der offiziellen Website. Wer sich vom Glücksspiel ausschließen möchte, findet Informationen zur Selbstsperre im bundesweiten **OASIS-Spielersperrsystem**. OASIS ist eine Sperrdatei, keine Beratungsstelle.
+Das **Bundesinstitut für Öffentliche Gesundheit (BIÖG; früher BZgA)** bietet eine kostenlose Telefonberatung zur Glücksspielsucht unter **0800 1 37 27 00**. Die Beratungszeiten sind Montag bis Donnerstag von 10 bis 22 Uhr und Freitag bis Sonntag von 10 bis 18 Uhr. Wer sich vom Glücksspiel ausschließen möchte, kann eine Selbstsperre im bundesweiten **OASIS-Spielersperrsystem** beantragen. Sie beträgt grundsätzlich ein Jahr; auf Antrag ist eine kürzere individuelle Dauer möglich, jedoch nicht unter drei Monaten. Die Sperre endet nicht automatisch: Nach Ablauf der Mindestdauer muss ihre Aufhebung beantragt werden. OASIS ist ein Sperrsystem, keine Beratungsstelle.
 
-- [BIÖG: Beratungsangebote](https://www.bioeg.de/service/beratungsangebote/)
-- [OASIS: Informationen für Spielerinnen und Spieler](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spielerinnen-und-spieler)
+- [BIÖG: Beratungsangebote](https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/)
+- [OASIS: Informationen für Spielerinnen und Spieler](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spieler-faqs)
 - [GGL: Hilfs- und Beratungsangebote](https://gluecksspiel-behoerde.de/de/fuer-spielende/gluecksspielsucht-beratungs-und-hilfsangebote)
 
 ## Checkliste vor der Aktivierung

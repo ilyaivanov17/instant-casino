@@ -3,7 +3,7 @@ title: 'Slot guide: fundamentals and game profiles'
 description: 'Game profiles covering rules, features and key information about selected online slots.'
 type: page
 seo_title: 'Slot guide: fundamentals and game profiles | Instant Casino'
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -16,11 +16,7 @@ aliases:
 - /en/catalog/slots/fruit-party/
 - /en/catalog/slots/
 slug: slots
-screenshots:
-- /images/slots/wolf-gold.webp
-screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real operator interface.'
 ---
-## Slot guide: fundamentals and game profiles
 
 This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
 

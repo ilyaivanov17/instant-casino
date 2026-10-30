@@ -28,6 +28,7 @@ eyebrow:
   ja: ゲームプロフィール
 games:
   - name: Bigger Bass Bonanza
+    provider: Pragmatic Play
     anchor: bigger-bass-bonanza
     image: /images/slots/bigger-bass-bonanza-cover.webp
     label:
@@ -52,6 +53,7 @@ games:
       pt: Arte de Bigger Bass Bonanza com um pescador, um peixe dourado e um cenário tropical
       ja: 釣り人と金色の魚、南国の背景を描いたBigger Bass Bonanzaのゲームアート
   - name: Bonanza
+    provider: Big Time Gaming
     anchor: bonanza
     image: /images/slots/bonanza-cover.webp
     label:
@@ -76,6 +78,7 @@ games:
       pt: Arte de Bonanza com uma gema vermelha e letras douradas numa placa de madeira
       ja: 赤い宝石と木製の看板に描かれた金色の文字が特徴のBonanzaゲームアート
   - name: Book of Dead
+    provider: Play'n GO
     anchor: book-of-dead
     image: /images/slots/book-of-dead-cover.webp
     label:
@@ -100,6 +103,7 @@ games:
       pt: Arte de Book of Dead com um explorador e um livro misterioso num cenário do antigo Egito
       ja: 古代エジプトを背景に探検家と神秘的な本を描いたBook of Deadのゲームアート
   - name: "Dragon's Luck"
+    provider: Play'n GO
     anchor: dragons-luck
     image: /images/slots/dragons-luck-cover.webp
     label:
@@ -124,6 +128,7 @@ games:
       pt: Arte de Dragon's Luck com uma cabeça de dragão dourada sobre um fundo vermelho
       ja: 赤い背景に金色の龍の頭を描いたDragon's Luckのゲームアート
   - name: Fruit Party
+    provider: Pragmatic Play
     anchor: fruit-party
     image: /images/slots/fruit-party-cover.webp
     label:

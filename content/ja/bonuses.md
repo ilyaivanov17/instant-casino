@@ -159,6 +159,8 @@ BIÖGが情報と相談窓口を案内しています。OASISはドイツの規�
 
 ## 参照情報と更新日
 
+- [BIÖG：ギャンブル依存に関する電話相談](https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/)
+- [ダルムシュタット地域評議会：OASISプレイヤー向けFAQ](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spieler-faqs)
 - [GGL：ギャンブル広告に関するFAQ](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-gluecksspielwerbung)
 - [GGL：プレイヤー保護措置](https://www.gluecksspiel-behoerde.de/de/fuer-spielende/die-spielerschutzmassnahmen-des-gluestv21-im-ueberblick)
 - [GGL：入金上限と最大ベット額](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-einzahlungslimit-und-hoechsteinsatz)

@@ -2529,12 +2529,7 @@ footer .glass-strong { border-radius: 22px; }
   .promo-code-copy { min-height: 44px; width: 100%; }
 }
 
-/* Homepage author portraits: use the verified contributor photos as the primary visual. */
-.home-author-card .home-author-cover{height:190px;overflow:hidden;background:linear-gradient(135deg,#172239,#0b1220)}
-.home-author-card .home-author-photo{display:block;width:100%;height:100%;object-fit:cover;object-position:center 28%;filter:saturate(.92);transition:transform .3s ease}
-.home-author-card:hover .home-author-photo{transform:scale(1.035)}
-.home-author-card .home-author-photo-fallback{display:flex;width:100%;height:100%;align-items:center;justify-content:center;font-size:4rem;font-weight:900;color:#f6c453}
-.home-author-card .author-identity{margin-top:0;align-items:flex-start}
-.home-author-card .author-identity-copy{padding-top:0}
-.home-author-card .author-card-body{padding-top:1.1rem}
-@media(max-width:640px){.home-author-card .home-author-cover{height:220px}}
+
+
+/* Keep the full category illustration visible inside guide cards. */
+.guide-card-image-illustration{object-fit:contain;background:#0b1424}

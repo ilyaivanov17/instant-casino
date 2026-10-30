@@ -22,12 +22,14 @@
   <div class="container mx-auto px-4">
     <div class="lobby-section-head"><div><div class="lobby-section-kicker">Instant Casino</div><h2>{{ if eq .Site.Language.Lang "de" }}Leitfäden auf einen Blick{{ else if eq .Site.Language.Lang "en" }}Explore our guides{{ else if eq .Site.Language.Lang "es" }}Explora nuestras guías{{ else if eq .Site.Language.Lang "pt" }}Explore os nossos guias{{ else if eq .Site.Language.Lang "ja" }}ガイド一覧{{ else }}Przewodniki tematyczne{{ end }}</h2><p class="lobby-section-intro">{{ if eq .Site.Language.Lang "de" }}Kompakte Erklärungen zu Spielen, Bedingungen, Zahlungen und Sicherheit.{{ else if eq .Site.Language.Lang "en" }}Practical explanations of game mechanics, bonus rules, deposits, withdrawals and account security.{{ else if eq .Site.Language.Lang "es" }}Explicaciones prácticas sobre juegos, bonos, pagos y seguridad de la cuenta.{{ else if eq .Site.Language.Lang "pt" }}Explicações práticas sobre jogos, bónus, pagamentos e segurança da conta.{{ else if eq .Site.Language.Lang "ja" }}ゲームの仕組み、ボーナス条件、決済、アカウントの安全性を解説します。{{ else }}Praktyczne informacje o grach, bonusach, płatnościach i bezpieczeństwie konta.{{ end }}</p></div></div>
     <div class="guide-grid">
-      {{ $pages := where .Site.RegularPages "Section" "ne" "editorial" }}
+      {{ $pages := where (where .Site.RegularPages "Type" "page") "Section" "ne" "editorial" }}
       {{ range $pages.ByWeight }}
         {{ if ne .File.BaseFileName "_index" }}
           {{ $image := index $.Site.Params.images.guides .File.BaseFileName | default $.Site.Params.images.hero }}
+          {{ $imageClass := "guide-card-image" }}
+          {{ if strings.HasSuffix $image ".svg" }}{{ $imageClass = "guide-card-image guide-card-image-illustration" }}{{ end }}
           <a class="guide-image-card" href="{{ .RelPermalink }}">
-            <div class="guide-image-frame"><img class="guide-card-image" src="{{ $image | relURL }}" alt="" loading="lazy" decoding="async" width="640" height="360"></div>
+            <div class="guide-image-frame"><img class="{{ $imageClass }}" src="{{ $image | relURL }}" alt="" loading="lazy" decoding="async" width="640" height="360"></div>
             <div class="guide-card-copy"><h3>{{ .Title }}</h3><p>{{ .Description }}</p><span>{{ if eq $.Site.Language.Lang "de" }}Leitfaden lesen{{ else if eq $.Site.Language.Lang "en" }}Read guide{{ else if eq $.Site.Language.Lang "es" }}Leer la guía{{ else if eq $.Site.Language.Lang "pt" }}Ler o guia{{ else if eq $.Site.Language.Lang "ja" }}ガイドを読む{{ else }}Czytaj przewodnik{{ end }} <span aria-hidden="true">→</span></span></div>
           </a>
         {{ end }}
@@ -57,10 +59,8 @@
   <div class="author-grid author-grid-premium home-author-grid">
     {{ range $authors.ByTitle }}
     <article class="author-card author-card-premium author-card-beautiful home-author-card">
-      <div class="author-cover home-author-cover">
-        {{ with .Params.photo }}<img class="home-author-photo" src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy" decoding="async" width="640" height="420">{{ else }}<span class="home-author-photo-fallback" aria-hidden="true">{{ substr $.Title 0 1 }}</span>{{ end }}
-      </div><div class="author-card-body">
-        <div class="author-identity"><div class="author-identity-copy"><h3>{{ .Title }}</h3><p>{{ .Params.role }}</p></div></div>
+      <div class="author-cover"></div><div class="author-card-body">
+        <div class="author-identity"><div class="author-avatar author-avatar-premium author-avatar-initials" aria-hidden="true">{{ with .Params.photo }}<img src="{{ . | relURL }}" alt="" loading="lazy" decoding="async">{{ else }}<span>{{ substr .Title 0 1 }}</span>{{ end }}</div><div class="author-identity-copy"><h3>{{ .Title }}</h3><p>{{ .Params.role }}</p></div></div>
         <div class="author-specialty">{{ .Params.label }}</div><p class="author-card-bio">{{ .Params.description | default .Params.bio }}</p>
         <div class="author-card-footer"><a class="author-profile-btn" href="{{ .RelPermalink }}">{{ if eq $.Site.Language.Lang "de" }}Profil ansehen{{ else if eq $.Site.Language.Lang "en" }}View profile{{ else if eq $.Site.Language.Lang "es" }}Ver perfil{{ else if eq $.Site.Language.Lang "pt" }}Ver perfil{{ else if eq $.Site.Language.Lang "ja" }}プロフィールを見る{{ else }}Zobacz profil{{ end }} <span>→</span></a><div class="author-social-mini">{{ with .Params.social.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">in</a>{{ end }}{{ with .Params.social.website }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="{{ if eq $.Site.Language.Lang "de" }}Öffentliches Profil{{ else if eq $.Site.Language.Lang "en" }}Public professional profile{{ else if eq $.Site.Language.Lang "es" }}Perfil profesional público{{ else if eq $.Site.Language.Lang "pt" }}Perfil profissional público{{ else if eq $.Site.Language.Lang "ja" }}公開プロフィール{{ else }}Profil zawodowy{{ end }}">↗</a>{{ end }}</div></div>
       </div>

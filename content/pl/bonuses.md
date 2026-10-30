@@ -1,10 +1,13 @@
 ---
-title: Jak porównywać warunki bonusów
-description: 'Wymagania obrotu, terminy, maksymalne stawki i typowe ograniczenia bonusów kasynowych.'
+title: Jak rozumieć warunki bonusów kasynowych
+description: Praktyczny przewodnik po wymaganiach obrotu, terminach, udziale gier, limitach wypłat i zasadach wypłacania środków.
 type: page
-seo_title: Jak porównywać warunki bonusów | Instant Casino
-lastmod: '2026-10-28'
-article_review_status: editorial-review-pending
+author: cristina-tudose
+seo_title: Warunki bonusów kasynowych – wyjaśnienie | Instant Casino
+lastmod: '2026-10-30'
+article_review_status: editorial-approved
+reviewed_by: Cristina Tudose
+review_date: '2026-10-30'
 build:
   render: always
   list: always
@@ -24,400 +27,144 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfejsu operatora.'
 ---
-## Jak porównywać warunki bonusów
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Bonus w wysokości 500 € może wyglądać atrakcyjniej niż 50 darmowych spinów. Sama reklamowana kwota nie wyjaśnia jednak, co trzeba zrobić, aby skorzystać z bonusu lub wypłacić wygraną. Sprawdź wymagania obrotu, gry uwzględniane w obrocie, termin ważności oraz zasady wypłat, zanim zaakceptujesz promocję.
 
-## Cashback
+Najważniejsze szczegóły nie zawsze są widoczne obok reklamowanej kwoty. Przed przystąpieniem do promocji lub wpłatą przeczytaj pełny regulamin. Ten poradnik wyjaśnia typowe pojęcia; nie opisuje aktualnej oferty Instant Casino. Zawsze decydują warunki konkretnej promocji i przepisy właściwe dla danego kraju.
 
-## Cashback: pełne warunki w skrócie
+## Co sprawdzić w pierwszej kolejności
 
-W przypadku cashbacku sprawdź okres rozliczeniowy, sposób obliczania strat netto oraz ewentualny limit i wymóg obrotu. Wpis opisuje ofertę na podstawie zapisanych pól. Brakujące wartości nie są domyślane i są wyraźnie oznaczone.
+| Obszar | Co należy ustalić |
+|---|---|
+| Podstawa obrotu | Czy mnożnik dotyczy bonusu, czy depozytu wraz z bonusem? |
+| Udział gier | Które gry liczą się w całości, częściowo lub wcale? |
+| Terminy | Do kiedy trzeba aktywować ofertę i spełnić obrót? |
+| Maksymalna stawka | Czy podczas korzystania z bonusu obowiązuje limit stawki na rundę? |
+| Wypłaty | Czy wygrane mają limit lub dodatkowe warunki wypłaty? |
+| Max Cashout | Jaka jest maksymalna kwota możliwa do wypłaty z promocji? |
+| Depozyt | Jaka jest minimalna wpłata i które metody płatności kwalifikują się do bonusu? |
+| Weryfikacja | Jakie dokumenty tożsamości lub płatności mogą być wymagane i kiedy? |
 
-### Szczegóły oferty
+Brak informacji nie oznacza, że ograniczenie nie istnieje. Sprawdź pełny regulamin. Jeśli ważna zasada nadal jest niejasna, zapytaj operatora przed wpłatą albo zrezygnuj z oferty.
 
-| Pole kontrolne | Zapisana wartość | Co sprawdzić |
-|---|---|---|
-| Podana wartość | 10% wöchentlich | Sprawdź, czy wartość oznacza środki bonusowe, darmowe spiny czy ofertę łączoną. |
-| Kod promocyjny | CASH10 | Sprawdź pisownię, czas użycia i to, czy kod jest wymagany. |
-| Minimalna wpłata | 50 | Sprawdź minimalną wpłatę i wykluczone metody płatności. |
-| Wymóg obrotu | 10x | Sprawdź, które gry się liczą i jak oblicza się obrót. |
-| Ważność (dni) | 7 | Rozróżnij termin aktywacji i termin spełnienia warunków obrotu. |
-| Maksymalna stawka | 10 | Podczas bonusu mogą obowiązywać specjalne limity stawek. |
-| Uwagi do warunków | Brak informacji w tym wpisie katalogowym | Przeczytaj wszystkie zasady, w tym wykluczenia i limity wypłat. |
+## Wymagania obrotu: co oznacza 30x?
 
-### Jak czytać warunki
+Sam mnożnik nie mówi, jaką kwotę trzeba obrócić. Liczy się podstawa obliczenia.
 
-Reklamowana kwota to tylko jeden parametr. Porównanie powinno obejmować minimalną wpłatę, mnożnik obrotu, terminy, maksymalną stawkę, wykluczone gry i limity. Brak pola nie oznacza braku ograniczenia — tylko brak tej informacji w tym wpisie.
+Jeśli otrzymujesz 100 € bonusu, a wymagany obrót wynosi 30-krotność bonusu:
 
-### Porównanie podobnych bonusów
+**100 € × 30 = 3000 € obrotu.**
 
-| Format bonusu | Podana wartość | Minimalna wpłata | Obrót | Ważność (dni) |
-|---|---|---|---|---|
-| Piątkowy bonus doładowujący | 50% do 300 EUR | 20 | 30x | 14 |
-| Kasynowy pakiet powitalny | Do 2.500 € + 525 FS | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym |
-| Bonus za drugi depozyt | 50% do 300 EUR | 20 | 30x | 30 |
-| Wtorkowe darmowe spiny | 50 FS auf Book of Dead | 10 | 25x | 3 |
+Jeśli do obliczenia wlicza się depozyt i bonus — na przykład wpłatę 100 € oraz bonus 100 € — wynik jest inny:
 
-Tabela porównuje wyłącznie pola zapisane w poszczególnych wpisach. Myślnik lub brak danych nie oznacza braku ograniczeń.
+**(100 € + 100 €) × 30 = 6000 €.**
 
-### Przed aktywacją
+Sposób sformułowania warunku może więc podwoić wymagany obrót. Sprawdź, czy mnożnik odnosi się wyłącznie do bonusu, czy do sumy depozytu i bonusu.
 
-- Przeczytaj pełne warunki na koncie przed aktywacją.
-- Sprawdź, czy promocja jest dostępna w Twoim kraju i dla Twojego konta.
-- Porównaj zasady z innymi ofertami, zamiast wybierać wyłącznie najwyższą kwotę.
-- Zachowaj budżet i limit czasu niezależnie od bonusu.
+Możesz spotkać się również z angielskim określeniem „Wagering Requirement”. Oznacza ono wymaganą łączną wartość kwalifikujących się stawek. Sprawdź także, jaka część każdej stawki jest zaliczana do obrotu.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
+## Udział gier: co oznacza 100%, 20% i 0%?
 
----
+Udział gry określa, jaka część stawki jest zaliczana do wymaganego obrotu. Przy 100% stawka 10 € daje 10 € obrotu. Przy 20% daje 2 €. Przy 0% nie zwiększa postępu bonusu.
 
-## Piątkowy bonus doładowujący
+| Kategoria gier | Wyłącznie przykładowe wartości | Znaczenie |
+|---|---:|---|
+| Automaty | 100% | Stawka 10 € daje 10 € zaliczanego obrotu. |
+| Gry stołowe | około 5–20% | Stawka 10 € daje od 0,50 € do 2 €. |
+| Kasyno na żywo | czasem 0% | Stawki mogą być całkowicie wyłączone. |
 
-## Piątkowy bonus doładowujący: pełne warunki w skrócie
+To przykłady, a nie wymogi prawne ani wiarygodny standard dla całego rynku. Niektóre gry mogą być wykluczone, a każda promocja może stosować inne wartości. Jedynym miarodajnym źródłem jest aktualna tabela udziału gier w regulaminie oferty.
 
-Ten wpis opisuje „Piątkowy bonus doładowujący” jako odrębny typ promocji. Sprawdź dostępność dla konta oraz osobne zasady aktywacji, obrotu i terminów. Wpis opisuje ofertę na podstawie zapisanych pól. Brakujące wartości nie są domyślane i są wyraźnie oznaczone.
+## Terminy, kody promocyjne i aktywacja
 
-### Szczegóły oferty
+Może obowiązywać kilka terminów: na przyjęcie oferty, dokonanie kwalifikującej wpłaty, spełnienie wymagań obrotu lub wykorzystanie darmowych spinów. Sprawdź, kiedy każdy okres się rozpoczyna — przy rejestracji, aktywacji, wpłacie lub przyznaniu bonusu.
 
-| Pole kontrolne | Zapisana wartość | Co sprawdzić |
-|---|---|---|
-| Podana wartość | 50% do 300 EUR | Sprawdź, czy wartość oznacza środki bonusowe, darmowe spiny czy ofertę łączoną. |
-| Kod promocyjny | RELOAD50 | Sprawdź pisownię, czas użycia i to, czy kod jest wymagany. |
-| Minimalna wpłata | 20 | Sprawdź minimalną wpłatę i wykluczone metody płatności. |
-| Wymóg obrotu | 30x | Sprawdź, które gry się liczą i jak oblicza się obrót. |
-| Ważność (dni) | 14 | Rozróżnij termin aktywacji i termin spełnienia warunków obrotu. |
-| Maksymalna stawka | 5 | Podczas bonusu mogą obowiązywać specjalne limity stawek. |
-| Uwagi do warunków | Brak informacji w tym wpisie katalogowym | Przeczytaj wszystkie zasady, w tym wykluczenia i limity wypłat. |
+W zależności od promocji kod trzeba wpisać podczas rejestracji, przed wpłatą albo w sekcji promocji. Inne oferty wymagają wyraźnego kliknięcia „Dołącz” lub potwierdzenia udziału. Jeśli kod zostanie wpisany za późno albo udział nie zostanie potwierdzony, wpłata może nie kwalifikować się do promocji. Późniejsze przypisanie bonusu nie jest gwarantowane. Sprawdź procedurę przed wpłatą.
 
-### Jak czytać warunki
+## Maksymalna stawka i wykluczone gry
 
-Reklamowana kwota to tylko jeden parametr. Porównanie powinno obejmować minimalną wpłatę, mnożnik obrotu, terminy, maksymalną stawkę, wykluczone gry i limity. Brak pola nie oznacza braku ograniczenia — tylko brak tej informacji w tym wpisie.
+Regulamin bonusu może określać maksymalną stawkę na rundę. Limit ten może być niższy niż maksymalna stawka technicznie dostępna w grze. Sprawdź, czy obejmuje także darmowe spiny i funkcje bonusowe.
 
-### Porównanie podobnych bonusów
+Na regulowanym rynku niemieckim podstawowy maksymalny zakład na wirtualnych automatach online wynosi 1 € na rundę. Od 1 lipca 2026 r. możliwe jest stopniowe podwyższenie limitu: najpierw do 3 €, a w drugim etapie do 5 €. Operator musi mieć odpowiednie zezwolenie GGL. Stawka do 3 € może być przyznana wyłącznie osobom, które ukończyły 21 lat. Drugi etap, od 3 € do 5 €, wymaga dodatkowo co najmniej 90 dni wcześniejszej gry bez sygnałów problematycznego zachowania oraz specjalnego monitorowania przez operatora. Gracz nie ma prawa do podwyższonego limitu — operator decyduje, czy go oferuje i przyznaje. Wyjątek obowiązuje obecnie tymczasowo do 31 grudnia 2027 r. Regulamin promocji może nadal przewidywać niższy limit bonusowy. Sprawdź aktualne informacje GGL i warunki licencjonowanego operatora.
 
-| Format bonusu | Podana wartość | Minimalna wpłata | Obrót | Ważność (dni) |
-|---|---|---|---|---|
-| Kasynowy pakiet powitalny | Do 2.500 € + 525 FS | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym |
-| Bonus za drugi depozyt | 50% do 300 EUR | 20 | 30x | 30 |
-| Wtorkowe darmowe spiny | 50 FS auf Book of Dead | 10 | 25x | 3 |
-| Bonus bez depozytu | 20 darmowe spiny | 0 | 40x | 7 |
+Niektóre gry mogą nie być zaliczane do wymaganego obrotu. Naruszenie warunku promocji może — zależnie od zapisu i okoliczności — skutkować anulowaniem bonusu lub powiązanych wygranych. Podejrzenie manipulacji może prowadzić do dodatkowej kontroli lub działań dotyczących konta. Nie są to automatyczne konsekwencje każdego błędu.
 
-Tabela porównuje wyłącznie pola zapisane w poszczególnych wpisach. Myślnik lub brak danych nie oznacza braku ograniczeń.
+## Środki bonusowe, Max Cashout i wcześniejsza wypłata
 
-### Przed aktywacją
+Saldo bonusowe nie musi być pieniędzmi, które można od razu wypłacić. Najpierw może być konieczne spełnienie wymagań obrotu. Sprawdź również, czy obowiązuje maksymalna kwota wypłaty.
 
-- Przeczytaj pełne warunki na koncie przed aktywacją.
-- Sprawdź, czy promocja jest dostępna w Twoim kraju i dla Twojego konta.
-- Porównaj zasady z innymi ofertami, zamiast wybierać wyłącznie najwyższą kwotę.
-- Zachowaj budżet i limit czasu niezależnie od bonusu.
+**Max Cashout** oznacza limit kwoty, którą można otrzymać z promocji. Przykładowo, jeśli limit wynosi 100 €, a dzięki bonusowi wygrasz 500 €, wypłata może być ograniczona do 100 €, o ile zapis obejmuje właśnie takie wygrane. Regulamin powinien wyjaśniać, co dzieje się z pozostałą kwotą.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
+Złożenie wniosku o wypłatę przed spełnieniem wymagań obrotu może spowodować anulowanie bonusu i powiązanych z nim wygranych. Niektórzy operatorzy pozwalają wypłacić środki pieniężne tylko po rezygnacji z bonusu. Zasady są różne, dlatego przed złożeniem wniosku przeczytaj warunki anulowania i wypłaty.
 
----
+## Minimalna wpłata i metody płatności
 
-## Bonus bez depozytu
+Promocja może wymagać minimalnej wpłaty i wykluczać określone metody płatności. Metoda dostępna przy zwykłych wpłatach nie musi kwalifikować się do bonusu. Sprawdź oba warunki przed wpłatą.
 
-## Bonus bez depozytu: pełne warunki w skrócie
+Na regulowanym rynku niemieckim wpłaty i wypłaty muszą być realizowane za pośrednictwem rachunku płatniczego należącego do osoby grającej; anonimowe środki płatnicze są wykluczone. Ponadto co do zasady obowiązuje łączny limit wpłat na gry online w wysokości 1000 € na miesiąc kalendarzowy, obejmujący różnych operatorów. W szczególnych przypadkach, po spełnieniu dodatkowych wymogów, może zostać zatwierdzony wyższy limit. Nie należy mylić tego ustawowego limitu z minimalną wpłatą wymaganą przez promocję.
 
-W ofercie bez wpłaty sprawdź, czy wymagane są weryfikacja, kod aktywacyjny, obrót lub limit wypłaty. Wpis opisuje ofertę na podstawie zapisanych pól. Brakujące wartości nie są domyślane i są wyraźnie oznaczone.
+## Kilka bonusów i weryfikacja tożsamości
 
-### Szczegóły oferty
+Nie każdy operator pozwala na jednoczesne korzystanie z kilku aktywnych bonusów. Przyjęcie nowej promocji może wykluczyć udział w innej albo zakończyć już aktywny bonus. Przed przyjęciem kolejnej oferty sprawdź zasady łączenia promocji.
 
-| Pole kontrolne | Zapisana wartość | Co sprawdzić |
-|---|---|---|
-| Podana wartość | 20 darmowe spiny | Sprawdź, czy wartość oznacza środki bonusowe, darmowe spiny czy ofertę łączoną. |
-| Kod promocyjny | NODEP20 | Sprawdź pisownię, czas użycia i to, czy kod jest wymagany. |
-| Minimalna wpłata | 0 | Sprawdź minimalną wpłatę i wykluczone metody płatności. |
-| Wymóg obrotu | 40x | Sprawdź, które gry się liczą i jak oblicza się obrót. |
-| Ważność (dni) | 7 | Rozróżnij termin aktywacji i termin spełnienia warunków obrotu. |
-| Maksymalna stawka | 5 | Podczas bonusu mogą obowiązywać specjalne limity stawek. |
-| Uwagi do warunków | Brak informacji w tym wpisie katalogowym | Przeczytaj wszystkie zasady, w tym wykluczenia i limity wypłat. |
+KYC oznacza „Know Your Customer”. Na regulowanym rynku gier online w Niemczech tożsamość jest sprawdzana przed rozpoczęciem gry. W niektórych przypadkach mogą być wymagane dodatkowe dokumenty dotyczące tożsamości lub danych płatniczych. Przekazuj dokumenty wyłącznie przez oficjalne, bezpieczne kanały operatora i odpowiednio wcześnie wyjaśnij ewentualne braki.
 
-### Jak czytać warunki
+## Reklama bonusów i bezpieczniejsza gra w Niemczech
 
-Reklamowana kwota to tylko jeden parametr. Porównanie powinno obejmować minimalną wpłatę, mnożnik obrotu, terminy, maksymalną stawkę, wykluczone gry i limity. Brak pola nie oznacza braku ograniczenia — tylko brak tej informacji w tym wpisie.
+Reklama dozwolonego hazardu w Niemczech podlega przepisom Traktatu państwowego o grach hazardowych z 2021 r. GGL wyjaśnia, że reklama bonusu powinna jasno wskazywać między innymi odbiorców, okazję i czas trwania promocji oraz wartość korzyści. Nie powinna wywierać niewłaściwej presji czasu ani bagatelizować ryzyka. FAQ GGL ma charakter informacyjny i nie jest wiążącą decyzją w konkretnej sprawie.
 
-### Porównanie podobnych bonusów
+Ustal budżet, zanim zaczniesz rozważać promocję. Nie zwiększaj go, aby spełnić wymagania obrotu, i nie próbuj odrabiać strat dalszą grą.
 
-| Format bonusu | Podana wartość | Minimalna wpłata | Obrót | Ważność (dni) |
-|---|---|---|---|---|
-| Piątkowy bonus doładowujący | 50% do 300 EUR | 20 | 30x | 14 |
-| Kasynowy pakiet powitalny | Do 2.500 € + 525 FS | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym |
-| Bonus za drugi depozyt | 50% do 300 EUR | 20 | 30x | 30 |
-| Wtorkowe darmowe spiny | 50 FS auf Book of Dead | 10 | 25x | 3 |
+**Federalny Instytut Zdrowia Publicznego (BIÖG, dawniej BZgA)** prowadzi bezpłatną i anonimową infolinię dotyczącą problemów z hazardem pod numerem **0800 1 37 27 00**. Jest czynna od poniedziałku do czwartku w godz. 10:00–22:00 oraz od piątku do niedzieli w godz. 10:00–18:00, przez 363 dni w roku (z wyjątkiem 24 i 31 grudnia). Osoby, które chcą wykluczyć się z gry, mogą złożyć wniosek o samowykluczenie w systemie **OASIS**, ogólnokrajowym niemieckim systemie blokad hazardowych. Standardowy okres wynosi rok; można wnioskować o krótszy indywidualny okres, ale nie krótszy niż trzy miesiące. Blokada nie kończy się automatycznie — po upływie minimalnego okresu trzeba złożyć wniosek o jej zniesienie. OASIS jest systemem blokad, a nie poradnią.
 
-Tabela porównuje wyłącznie pola zapisane w poszczególnych wpisach. Myślnik lub brak danych nie oznacza braku ograniczeń.
+- [BIÖG: poradnictwo i pomoc](https://www.check-dein-spiel.de/hilfe-fuer-spieler/telefon-beratung/)
+- [OASIS: informacje dla graczy](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spieler-faqs)
+- [GGL: pomoc i poradnictwo](https://gluecksspiel-behoerde.de/de/fuer-spielende/gluecksspielsucht-beratungs-und-hilfsangebote)
 
-### Przed aktywacją
+## Lista kontrolna przed aktywacją
 
-- Przeczytaj pełne warunki na koncie przed aktywacją.
-- Sprawdź, czy promocja jest dostępna w Twoim kraju i dla Twojego konta.
-- Porównaj zasady z innymi ofertami, zamiast wybierać wyłącznie najwyższą kwotę.
-- Zachowaj budżet i limit czasu niezależnie od bonusu.
+1. Otwórz pełny regulamin promocji.
+2. Sprawdź warunki udziału i kraj, w którym oferta jest dostępna.
+3. Ustal podstawę obrotu i mnożnik.
+4. Sprawdź udział gier i tytuły wykluczone.
+5. Potwierdź minimalną wpłatę i kwalifikującą się metodę płatności.
+6. Wpisz kod lub potwierdź udział w wymaganym terminie.
+7. Zapisz terminy, maksymalną stawkę i Max Cashout.
+8. Przeczytaj zasady dotyczące kilku bonusów, KYC i wcześniejszej wypłaty.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
+Warunki bonusów mogą się zmieniać. Bezpośrednio przed aktywacją sprawdź aktualną wersję w koncie gracza lub na oficjalnej stronie oferty. Zapisz pełne warunki w PDF albo jako zrzut ekranu z datą i adresem URL. Dzięki temu zachowasz informację o zasadach obowiązujących w chwili przystąpienia do promocji.
 
----
+## Najczęstsze pytania
 
-## Bonus za drugi depozyt
+### Czy bonus 100 € oznacza, że mogę wypłacić 100 €?
+Nie. Środki bonusowe mogą podlegać wymaganiom obrotu, terminom i zasadom wypłat.
 
-## Bonus za drugi depozyt: pełne warunki w skrócie
+### Co oznacza 30x?
+Określona kwota musi zostać obrócona 30 razy. Regulamin powinien wskazywać, czy chodzi tylko o bonus, czy o depozyt wraz z bonusem.
 
-Ten wpis opisuje „Bonus za drugi depozyt” jako odrębny typ promocji. Sprawdź dostępność dla konta oraz osobne zasady aktywacji, obrotu i terminów. Wpis opisuje ofertę na podstawie zapisanych pól. Brakujące wartości nie są domyślane i są wyraźnie oznaczone.
+### Czy wszystkie gry liczą się tak samo?
+Nie. Udział zależy od promocji i gier wymienionych w jej warunkach.
 
-### Szczegóły oferty
+### Co oznacza Max Cashout?
+To maksymalna kwota, którą można wypłacić z promocji. Przy limicie 100 € wypłata z wygranej 500 € nie przekroczy 100 €, jeśli zapis obejmuje tę wygraną.
 
-| Pole kontrolne | Zapisana wartość | Co sprawdzić |
-|---|---|---|
-| Podana wartość | 50% do 300 EUR | Sprawdź, czy wartość oznacza środki bonusowe, darmowe spiny czy ofertę łączoną. |
-| Kod promocyjny | DEP2 | Sprawdź pisownię, czas użycia i to, czy kod jest wymagany. |
-| Minimalna wpłata | 20 | Sprawdź minimalną wpłatę i wykluczone metody płatności. |
-| Wymóg obrotu | 30x | Sprawdź, które gry się liczą i jak oblicza się obrót. |
-| Ważność (dni) | 30 | Rozróżnij termin aktywacji i termin spełnienia warunków obrotu. |
-| Maksymalna stawka | 5 | Podczas bonusu mogą obowiązywać specjalne limity stawek. |
-| Uwagi do warunków | Brak informacji w tym wpisie katalogowym | Przeczytaj wszystkie zasady, w tym wykluczenia i limity wypłat. |
+### Czy mogę wypłacić środki przed spełnieniem obrotu?
+Może to spowodować anulowanie bonusu i powiązanych wygranych. Najpierw sprawdź zasady wypłat.
 
-### Jak czytać warunki
+### Czy mogę łączyć kilka bonusów?
+Nie zawsze. Niektórych promocji nie można łączyć lub dozwolony jest tylko jeden aktywny bonus.
 
-Reklamowana kwota to tylko jeden parametr. Porównanie powinno obejmować minimalną wpłatę, mnożnik obrotu, terminy, maksymalną stawkę, wykluczone gry i limity. Brak pola nie oznacza braku ograniczenia — tylko brak tej informacji w tym wpisie.
+### Gdzie szukać pomocy w razie problemów z hazardem?
+BIÖG udostępnia informacje i poradnictwo, a OASIS umożliwia samowykluczenie na regulowanym rynku niemieckim.
 
-### Porównanie podobnych bonusów
+## Źródła i aktualność
 
-| Format bonusu | Podana wartość | Minimalna wpłata | Obrót | Ważność (dni) |
-|---|---|---|---|---|
-| Piątkowy bonus doładowujący | 50% do 300 EUR | 20 | 30x | 14 |
-| Kasynowy pakiet powitalny | Do 2.500 € + 525 FS | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym |
-| Wtorkowe darmowe spiny | 50 FS auf Book of Dead | 10 | 25x | 3 |
-| Bonus bez depozytu | 20 darmowe spiny | 0 | 40x | 7 |
+- [BIÖG: telefon wsparcia w problemach hazardowych](https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/)
+- [Rada Regionalna w Darmstadt: FAQ OASIS dla graczy](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spieler-faqs)
+- [GGL: FAQ dotyczące reklamy hazardu](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-gluecksspielwerbung)
+- [GGL: środki ochrony graczy](https://www.gluecksspiel-behoerde.de/de/fuer-spielende/die-spielerschutzmassnahmen-des-gluestv21-im-ueberblick)
+- [GGL: limity wpłat i maksymalna stawka](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-einzahlungslimit-und-hoechsteinsatz)
 
-Tabela porównuje wyłącznie pola zapisane w poszczególnych wpisach. Myślnik lub brak danych nie oznacza braku ograniczeń.
+*Oficjalne źródła sprawdzono 30.10.2026. Przed zatwierdzeniem ponownie sprawdź linki, dane kontaktowe, godziny i informacje prawne.*
 
-### Przed aktywacją
-
-- Przeczytaj pełne warunki na koncie przed aktywacją.
-- Sprawdź, czy promocja jest dostępna w Twoim kraju i dla Twojego konta.
-- Porównaj zasady z innymi ofertami, zamiast wybierać wyłącznie najwyższą kwotę.
-- Zachowaj budżet i limit czasu niezależnie od bonusu.
-
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
-
-## Bonus powitalny na zakłady sportowe
-
-## Bonus powitalny na zakłady sportowe: pełne warunki w skrócie
-
-Ten wpis opisuje „Bonus powitalny na zakłady sportowe” jako odrębny typ promocji. Sprawdź dostępność dla konta oraz osobne zasady aktywacji, obrotu i terminów. Wpis opisuje ofertę na podstawie zapisanych pól. Brakujące wartości nie są domyślane i są wyraźnie oznaczone.
-
-### Szczegóły oferty
-
-| Pole kontrolne | Zapisana wartość | Co sprawdzić |
-|---|---|---|
-| Podana wartość | Do 1.000 € | Sprawdź, czy wartość oznacza środki bonusowe, darmowe spiny czy ofertę łączoną. |
-| Kod promocyjny | Brak informacji w tym wpisie katalogowym | Sprawdź pisownię, czas użycia i to, czy kod jest wymagany. |
-| Minimalna wpłata | Brak informacji w tym wpisie katalogowym | Sprawdź minimalną wpłatę i wykluczone metody płatności. |
-| Wymóg obrotu | Brak informacji w tym wpisie katalogowym | Sprawdź, które gry się liczą i jak oblicza się obrót. |
-| Ważność (dni) | Brak informacji w tym wpisie katalogowym | Rozróżnij termin aktywacji i termin spełnienia warunków obrotu. |
-| Maksymalna stawka | Brak informacji w tym wpisie katalogowym | Podczas bonusu mogą obowiązywać specjalne limity stawek. |
-| Uwagi do warunków | Zrzut ekranu nie zawierał kursów, minimalnego kursu, obrotu, wpłaty ani terminu ważności. Przed skorzystaniem potwierdź te warunki u operatora. | Przeczytaj wszystkie zasady, w tym wykluczenia i limity wypłat. |
-
-### Jak czytać warunki
-
-Reklamowana kwota to tylko jeden parametr. Porównanie powinno obejmować minimalną wpłatę, mnożnik obrotu, terminy, maksymalną stawkę, wykluczone gry i limity. Brak pola nie oznacza braku ograniczenia — tylko brak tej informacji w tym wpisie.
-
-### Porównanie podobnych bonusów
-
-| Format bonusu | Podana wartość | Minimalna wpłata | Obrót | Ważność (dni) |
-|---|---|---|---|---|
-| Piątkowy bonus doładowujący | 50% do 300 EUR | 20 | 30x | 14 |
-| Kasynowy pakiet powitalny | Do 2.500 € + 525 FS | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym |
-| Bonus za drugi depozyt | 50% do 300 EUR | 20 | 30x | 30 |
-| Wtorkowe darmowe spiny | 50 FS auf Book of Dead | 10 | 25x | 3 |
-
-Tabela porównuje wyłącznie pola zapisane w poszczególnych wpisach. Myślnik lub brak danych nie oznacza braku ograniczeń.
-
-### Przed aktywacją
-
-- Przeczytaj pełne warunki na koncie przed aktywacją.
-- Sprawdź, czy promocja jest dostępna w Twoim kraju i dla Twojego konta.
-- Porównaj zasady z innymi ofertami, zamiast wybierać wyłącznie najwyższą kwotę.
-- Zachowaj budżet i limit czasu niezależnie od bonusu.
-
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
-
-## Bonus za trzeci depozyt
-
-## Bonus za trzeci depozyt: pełne warunki w skrócie
-
-Ten wpis opisuje „Bonus za trzeci depozyt” jako odrębny typ promocji. Sprawdź dostępność dla konta oraz osobne zasady aktywacji, obrotu i terminów. Wpis opisuje ofertę na podstawie zapisanych pól. Brakujące wartości nie są domyślane i są wyraźnie oznaczone.
-
-### Szczegóły oferty
-
-| Pole kontrolne | Zapisana wartość | Co sprawdzić |
-|---|---|---|
-| Podana wartość | 25% do 200 EUR + 50 darmowych spinów | Sprawdź, czy wartość oznacza środki bonusowe, darmowe spiny czy ofertę łączoną. |
-| Kod promocyjny | DEP3 | Sprawdź pisownię, czas użycia i to, czy kod jest wymagany. |
-| Minimalna wpłata | 20 | Sprawdź minimalną wpłatę i wykluczone metody płatności. |
-| Wymóg obrotu | 25x | Sprawdź, które gry się liczą i jak oblicza się obrót. |
-| Ważność (dni) | 30 | Rozróżnij termin aktywacji i termin spełnienia warunków obrotu. |
-| Maksymalna stawka | 5 | Podczas bonusu mogą obowiązywać specjalne limity stawek. |
-| Uwagi do warunków | Brak informacji w tym wpisie katalogowym | Przeczytaj wszystkie zasady, w tym wykluczenia i limity wypłat. |
-
-### Jak czytać warunki
-
-Reklamowana kwota to tylko jeden parametr. Porównanie powinno obejmować minimalną wpłatę, mnożnik obrotu, terminy, maksymalną stawkę, wykluczone gry i limity. Brak pola nie oznacza braku ograniczenia — tylko brak tej informacji w tym wpisie.
-
-### Porównanie podobnych bonusów
-
-| Format bonusu | Podana wartość | Minimalna wpłata | Obrót | Ważność (dni) |
-|---|---|---|---|---|
-| Piątkowy bonus doładowujący | 50% do 300 EUR | 20 | 30x | 14 |
-| Kasynowy pakiet powitalny | Do 2.500 € + 525 FS | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym |
-| Bonus za drugi depozyt | 50% do 300 EUR | 20 | 30x | 30 |
-| Wtorkowe darmowe spiny | 50 FS auf Book of Dead | 10 | 25x | 3 |
-
-Tabela porównuje wyłącznie pola zapisane w poszczególnych wpisach. Myślnik lub brak danych nie oznacza braku ograniczeń.
-
-### Przed aktywacją
-
-- Przeczytaj pełne warunki na koncie przed aktywacją.
-- Sprawdź, czy promocja jest dostępna w Twoim kraju i dla Twojego konta.
-- Porównaj zasady z innymi ofertami, zamiast wybierać wyłącznie najwyższą kwotę.
-- Zachowaj budżet i limit czasu niezależnie od bonusu.
-
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
-
-## Wtorkowe darmowe spiny
-
-## Wtorkowe darmowe spiny: pełne warunki w skrócie
-
-Ten wpis opisuje „Wtorkowe darmowe spiny” jako odrębny typ promocji. Sprawdź dostępność dla konta oraz osobne zasady aktywacji, obrotu i terminów. Wpis opisuje ofertę na podstawie zapisanych pól. Brakujące wartości nie są domyślane i są wyraźnie oznaczone.
-
-### Szczegóły oferty
-
-| Pole kontrolne | Zapisana wartość | Co sprawdzić |
-|---|---|---|
-| Podana wartość | 50 FS auf Book of Dead | Sprawdź, czy wartość oznacza środki bonusowe, darmowe spiny czy ofertę łączoną. |
-| Kod promocyjny | TUE50 | Sprawdź pisownię, czas użycia i to, czy kod jest wymagany. |
-| Minimalna wpłata | 10 | Sprawdź minimalną wpłatę i wykluczone metody płatności. |
-| Wymóg obrotu | 25x | Sprawdź, które gry się liczą i jak oblicza się obrót. |
-| Ważność (dni) | 3 | Rozróżnij termin aktywacji i termin spełnienia warunków obrotu. |
-| Maksymalna stawka | 5 | Podczas bonusu mogą obowiązywać specjalne limity stawek. |
-| Uwagi do warunków | Brak informacji w tym wpisie katalogowym | Przeczytaj wszystkie zasady, w tym wykluczenia i limity wypłat. |
-
-### Jak czytać warunki
-
-Reklamowana kwota to tylko jeden parametr. Porównanie powinno obejmować minimalną wpłatę, mnożnik obrotu, terminy, maksymalną stawkę, wykluczone gry i limity. Brak pola nie oznacza braku ograniczenia — tylko brak tej informacji w tym wpisie.
-
-### Porównanie podobnych bonusów
-
-| Format bonusu | Podana wartość | Minimalna wpłata | Obrót | Ważność (dni) |
-|---|---|---|---|---|
-| Piątkowy bonus doładowujący | 50% do 300 EUR | 20 | 30x | 14 |
-| Kasynowy pakiet powitalny | Do 2.500 € + 525 FS | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym |
-| Bonus za drugi depozyt | 50% do 300 EUR | 20 | 30x | 30 |
-| Bonus bez depozytu | 20 darmowe spiny | 0 | 40x | 7 |
-
-Tabela porównuje wyłącznie pola zapisane w poszczególnych wpisach. Myślnik lub brak danych nie oznacza braku ograniczeń.
-
-### Przed aktywacją
-
-- Przeczytaj pełne warunki na koncie przed aktywacją.
-- Sprawdź, czy promocja jest dostępna w Twoim kraju i dla Twojego konta.
-- Porównaj zasady z innymi ofertami, zamiast wybierać wyłącznie najwyższą kwotę.
-- Zachowaj budżet i limit czasu niezależnie od bonusu.
-
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
-
-## Bonus VIP
-
-## Bonus VIP: pełne warunki w skrócie
-
-Oferta VIP może zależeć od statusu konta, zaproszenia lub aktywności. Sprawdź, które korzyści zostały wyraźnie opisane. Wpis opisuje ofertę na podstawie zapisanych pól. Brakujące wartości nie są domyślane i są wyraźnie oznaczone.
-
-### Szczegóły oferty
-
-| Pole kontrolne | Zapisana wartość | Co sprawdzić |
-|---|---|---|
-| Podana wartość | 200% do 1000 EUR | Sprawdź, czy wartość oznacza środki bonusowe, darmowe spiny czy ofertę łączoną. |
-| Kod promocyjny | VIP200 | Sprawdź pisownię, czas użycia i to, czy kod jest wymagany. |
-| Minimalna wpłata | 100 | Sprawdź minimalną wpłatę i wykluczone metody płatności. |
-| Wymóg obrotu | 45x | Sprawdź, które gry się liczą i jak oblicza się obrót. |
-| Ważność (dni) | 30 | Rozróżnij termin aktywacji i termin spełnienia warunków obrotu. |
-| Maksymalna stawka | 10 | Podczas bonusu mogą obowiązywać specjalne limity stawek. |
-| Uwagi do warunków | Brak informacji w tym wpisie katalogowym | Przeczytaj wszystkie zasady, w tym wykluczenia i limity wypłat. |
-
-### Jak czytać warunki
-
-Reklamowana kwota to tylko jeden parametr. Porównanie powinno obejmować minimalną wpłatę, mnożnik obrotu, terminy, maksymalną stawkę, wykluczone gry i limity. Brak pola nie oznacza braku ograniczenia — tylko brak tej informacji w tym wpisie.
-
-### Porównanie podobnych bonusów
-
-| Format bonusu | Podana wartość | Minimalna wpłata | Obrót | Ważność (dni) |
-|---|---|---|---|---|
-| Piątkowy bonus doładowujący | 50% do 300 EUR | 20 | 30x | 14 |
-| Kasynowy pakiet powitalny | Do 2.500 € + 525 FS | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym | Brak informacji w tym wpisie katalogowym |
-| Bonus za drugi depozyt | 50% do 300 EUR | 20 | 30x | 30 |
-| Wtorkowe darmowe spiny | 50 FS auf Book of Dead | 10 | 25x | 3 |
-
-Tabela porównuje wyłącznie pola zapisane w poszczególnych wpisach. Myślnik lub brak danych nie oznacza braku ograniczeń.
-
-### Przed aktywacją
-
-- Przeczytaj pełne warunki na koncie przed aktywacją.
-- Sprawdź, czy promocja jest dostępna w Twoim kraju i dla Twojego konta.
-- Porównaj zasady z innymi ofertami, zamiast wybierać wyłącznie najwyższą kwotę.
-- Zachowaj budżet i limit czasu niezależnie od bonusu.
-
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
-
-## Kasynowy pakiet powitalny
-
-## Kasynowy pakiet powitalny: pełne warunki w skrócie
-
-W pakiecie powitalnym podana wartość to dopiero punkt wyjścia. Sprawdź sposób przyznawania poszczególnych części, obrót i terminy. Wpis opisuje ofertę na podstawie zapisanych pól. Brakujące wartości nie są domyślane i są wyraźnie oznaczone.
-
-### Szczegóły oferty
-
-| Pole kontrolne | Zapisana wartość | Co sprawdzić |
-|---|---|---|
-| Podana wartość | Do 2.500 € + 525 FS | Sprawdź, czy wartość oznacza środki bonusowe, darmowe spiny czy ofertę łączoną. |
-| Kod promocyjny | Brak informacji w tym wpisie katalogowym | Sprawdź pisownię, czas użycia i to, czy kod jest wymagany. |
-| Minimalna wpłata | Brak informacji w tym wpisie katalogowym | Sprawdź minimalną wpłatę i wykluczone metody płatności. |
-| Wymóg obrotu | Brak informacji w tym wpisie katalogowym | Sprawdź, które gry się liczą i jak oblicza się obrót. |
-| Ważność (dni) | Brak informacji w tym wpisie katalogowym | Rozróżnij termin aktywacji i termin spełnienia warunków obrotu. |
-| Maksymalna stawka | Brak informacji w tym wpisie katalogowym | Podczas bonusu mogą obowiązywać specjalne limity stawek. |
-| Uwagi do warunków | Zrzut ekranu nie zawierał informacji o obrocie, minimalnej kwocie, kodzie promocyjnym ani terminie ważności. Przed skorzystaniem sprawdź pełny regulamin u operatora. | Przeczytaj wszystkie zasady, w tym wykluczenia i limity wypłat. |
-
-### Jak czytać warunki
-
-Reklamowana kwota to tylko jeden parametr. Porównanie powinno obejmować minimalną wpłatę, mnożnik obrotu, terminy, maksymalną stawkę, wykluczone gry i limity. Brak pola nie oznacza braku ograniczenia — tylko brak tej informacji w tym wpisie.
-
-### Porównanie podobnych bonusów
-
-| Format bonusu | Podana wartość | Minimalna wpłata | Obrót | Ważność (dni) |
-|---|---|---|---|---|
-| Piątkowy bonus doładowujący | 50% do 300 EUR | 20 | 30x | 14 |
-| Bonus za drugi depozyt | 50% do 300 EUR | 20 | 30x | 30 |
-| Wtorkowe darmowe spiny | 50 FS auf Book of Dead | 10 | 25x | 3 |
-| Bonus bez depozytu | 20 darmowe spiny | 0 | 40x | 7 |
-
-Tabela porównuje wyłącznie pola zapisane w poszczególnych wpisach. Myślnik lub brak danych nie oznacza braku ograniczeń.
-
-### Przed aktywacją
-
-- Przeczytaj pełne warunki na koncie przed aktywacją.
-- Sprawdź, czy promocja jest dostępna w Twoim kraju i dla Twojego konta.
-- Porównaj zasady z innymi ofertami, zamiast wybierać wyłącznie najwyższą kwotę.
-- Zachowaj budżet i limit czasu niezależnie od bonusu.
-
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
+*Informacja: Instant Casino może otrzymywać prowizję z odpowiednio oznaczonych linków afiliacyjnych.*

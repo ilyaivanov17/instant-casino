@@ -1,0 +1,39 @@
+name: Import slot gallery artwork
+
+on:
+  push:
+    branches: [design/slots-game-gallery]
+    paths:
+      - scripts/import-slot-gallery-art.py
+
+permissions:
+  contents: write
+
+jobs:
+  download-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out slot gallery branch
+        uses: actions/checkout@v4
+        with:
+          ref: design/slots-game-gallery
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install image processing dependency
+        run: python -m pip install --disable-pip-version-check Pillow
+
+      - name: Download and optimise slot artwork
+        run: python scripts/import-slot-gallery-art.py
+
+      - name: Commit artwork to the feature branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add static/images/slots/*-cover.webp
+          git commit -m "Add artwork for the five featured slot games"
+          git push origin HEAD:design/slots-game-gallery

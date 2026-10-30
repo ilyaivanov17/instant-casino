@@ -3,7 +3,7 @@ title: スロットガイド：基本とゲームプロフィール
 description: 'オンラインスロットのルール、機能、主要情報をまとめたゲーム別ガイドです。'
 type: page
 seo_title: スロットガイド：基本とゲームプロフィール | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -16,11 +16,7 @@ aliases:
 - /ja/catalog/slots/fruit-party/
 - /ja/catalog/slots/
 slug: slots
-screenshots:
-- /images/slots/wolf-gold.webp
-screenshots_note: '編集用のイラストです。実際の運営画面のスクリーンショットではありません。'
 ---
-## スロットガイド：基本とゲームプロフィール
 
 既存の情報をテーマ別にまとめ、ルールや制限を比較しやすくしました。ゲームルール、RTP、ボーナス条件、決済方法、利用できる地域は、バージョン・運営者・国によって異なる場合があります。現在提供されているバージョンで直接確認してください。
 

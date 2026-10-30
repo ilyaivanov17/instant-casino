@@ -129,6 +129,8 @@ Pode ser necessário verificar a idade e a identidade. Utilize a área oficial d
 
 Os requisitos de aposta e os prazos de levantamento dependem da oferta e do método de pagamento. Consulte as condições antes de depositar ou pedir um pagamento.
 
+A [FAQ oficial do Instant Casino](https://www.instantcasino.com/faq) indica atualmente um depósito mínimo de 20 €. O limite aplicável pode variar consoante o método de pagamento e a conta; confirme o valor apresentado na caixa antes de depositar.
+
 ## Encontre a resposta detalhada
 
 Os temas mais comuns incluem registo, verificação, condições dos bónus, pagamentos, mecânicas dos jogos e identidade do operador. Cada página de detalhe responde a uma pergunta específica. Os links abaixo levam diretamente à explicação relevante.

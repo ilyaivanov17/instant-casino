@@ -15,8 +15,8 @@ aliases:
 slug: legal
 screenshots:
 - /images/guides/privacy-documents.webp
-screenshots_alt: '法的情報とプライバシーを表す、机上のノートパソコンと契約書類'
-screenshots_caption: 'ノートパソコンと契約書類の編集用写真です。Instant Casinoの公式文書ではありません。'
+screenshots_alt: '法的情報とプライバシーを表す、グラフを表示したノートパソコンと机上の印刷書類'
+screenshots_caption: 'ノートパソコンと印刷書類の編集用写真です。Instant Casinoの公式文書ではありません。'
 screenshots_note: '法的情報とプライバシーのガイド用写真です。公式文書や登記簿の写しではありません。'
 ---
 ## 法的情報とプライバシー

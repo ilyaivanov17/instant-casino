@@ -11,10 +11,10 @@ build:
   list: always
 slug: mega-fortune-progressive-jackpot
 screenshots:
-- https://mb.cision.com/Public/13524/2642346/9a245ea853fe3193_800x800ar.jpg
-screenshots_alt: 'Mega Fortune: Jackpot-Grafik aus der NetEnt-Pressemitteilung von 2018'
-screenshots_caption: 'Die offizielle Jackpot-Grafik aus der NetEnt-Pressemitteilung vom 11. Oktober 2018.'
-screenshots_note: 'Bildnachweis: NetEnt/Cision, Pressemitteilung vom 11. Oktober 2018. Die Grafik zeigt die Jackpot-Anzeige, nicht den Gewinner.'
+- /images/mega-fortune-editorial.webp
+screenshots_alt: 'Symbolbild zu Mega Fortune: ein Slot-Automat in einer luxuriösen Umgebung'
+screenshots_caption: 'Redaktionelles Symbolbild zur Jackpot-Thematik von Mega Fortune.'
+screenshots_note: 'Diese eigens erstellte Illustration zeigt weder die Original-Spieloberfläche noch den Gewinner des Jackpots von 2018.'
 ---
 
 ## Ein Rekordgewinn – und eine wichtige Unterscheidung

@@ -47,9 +47,9 @@ SOURCES = {
         "https://assets.rizk.com/cdn-cgi/image/format%3Dauto%2Cwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D85%2Cfit%3Dcover/game-assets/desktop-original/22173.jpg",
         "https://rizk.com/ca/casino/buffalo-king-megaways/22173",
     ),
-    "catalog-big-bass-splash.webp": (
-        "https://www.williamhill.it/external_cms/Casino_Thumbnails/Pragmatic/big-bass-splash-1000x1000.jpg",
-        "https://casino.williamhill.it/slot/big-bass-splash",
+    "catalog-mega-fortune.webp": (
+        "https://www.usgamblingsites.com/wp-content/uploads/2019/08/mega-fortune-logo-1024x576.jpg",
+        "https://www.usgamblingsites.com/news/mega-fortune-a-review-of-netents-classic/",
     ),
     "catalog-dead-or-alive-2.webp": (
         "https://mediumrare.imgix.net/936b5873cf4399122da17b8bb38ad9b0b0cdc9a6398f11e945c2607ea3a54949?q=85",
@@ -64,8 +64,8 @@ SOURCES = {
         "https://mrq.com/slots-and-games/hand-of-anubis",
     ),
     "catalog-sugar-rush.webp": (
-        "https://www.racingpost.com/online-casino/_next/image/?q=75&url=%2Fonline-casino%2Fstatic%2Fslots%2Fsugar-rush%2Fsugar-rush-review-capa%2Fsugar-rush-review-capa.jpg&w=1920",
-        "https://www.racingpost.com/online-casino/slots/sugar-rush-review/",
+        "https://aws.die-spielbank.de/sachsen/images/en/sugar-rush_die-spielbank_600x600.webp",
+        "https://www.die-spielbank.de/de/slots/sugar-rush",
     ),
     "catalog-immortal-romance.webp": (
         "https://cdn.quigioco.it/external_cms/QUIGIOCO/newsite/MICROGAMING/17190.jpg",

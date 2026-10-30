@@ -159,6 +159,8 @@ BIÖG lists counselling services, while OASIS provides self-exclusion in Germany
 
 ## Sources and currency
 
+- [BIÖG: gambling addiction helpline](https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/)
+- [Regional Council Darmstadt: OASIS player FAQs](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spieler-faqs)
 - [GGL: FAQ on gambling advertising](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-gluecksspielwerbung)
 - [GGL: player protection measures](https://www.gluecksspiel-behoerde.de/de/fuer-spielende/die-spielerschutzmassnahmen-des-gluestv21-im-ueberblick)
 - [GGL: deposit limits and maximum stakes](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-einzahlungslimit-und-hoechsteinsatz)

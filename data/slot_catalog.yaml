@@ -327,31 +327,31 @@ games:
       es: "Arte del juego Buffalo King Megaways con búfalos y fauna salvaje en la pradera norteamericana."
       pt: "Arte do jogo Buffalo King Megaways com búfalos e vida selvagem na pradaria norte-americana."
       ja: "Buffalo King Megawaysのゲームアート。北米の草原に暮らすバッファローと野生動物を描いています。"
-  - name: "Big Bass Splash"
-    anchor: big-bass-splash
-    image: /images/slots/catalog-big-bass-splash.webp
-    provider: "Pragmatic Play"
+  - name: "Mega Fortune"
+    anchor: mega-fortune
+    image: /images/slots/catalog-mega-fortune.webp
+    provider: NetEnt
     label:
-      de: "Angelszenen und einen großen goldenen Fisch"
-      en: "fishing scenes and a large golden fish"
-      pl: "sceny wędkarskie i dużą złotą rybę"
-      es: "escenas de pesca y un gran pez dorado"
-      pt: "cenas de pesca e um grande peixe dourado"
-      ja: "釣りの風景と大きな金色の魚"
+      de: "eine luxuriöse Yacht und einen glitzernden Jackpot"
+      en: "a luxury yacht and a glittering jackpot"
+      pl: "luksusowy jacht i lśniący jackpot"
+      es: "un yate de lujo y un jackpot brillante"
+      pt: "um iate de luxo e um jackpot reluzente"
+      ja: "豪華なヨットと輝くジャックポット"
     description:
-      de: "Ein Slot rund um Angelszenen und einen großen goldenen Fisch, ergänzt durch Fischsymbole und eine Sammel-Bonusfunktion."
-      en: "A slot built around fishing scenes and a large golden fish, featuring fish symbols and a collection bonus feature."
-      pl: "Slot inspirowany motywem sceny wędkarskie i dużą złotą rybę, z funkcją: symbole ryb i funkcję bonusową z kolekcją."
-      es: "Una tragamonedas ambientada en escenas de pesca y un gran pez dorado, con símbolos de peces y una función de bonificación por colección."
-      pt: "Um slot inspirado em cenas de pesca e um grande peixe dourado, com símbolos de peixes e uma funcionalidade de bónus de coleção."
-      ja: "釣りの風景と大きな金色の魚をテーマに、魚シンボルとコレクション型ボーナス機能を備えたスロットです。"
+      de: "Ein Slot rund um eine luxuriöse Yacht und einen glitzernden Jackpot, ergänzt durch progressive Jackpot-Stufen."
+      en: "A slot built around a luxury yacht and a glittering jackpot, featuring progressive jackpot tiers."
+      pl: "Slot inspirowany motywem luksusowy jacht i lśniący jackpot, z funkcją: progresywne poziomy jackpota."
+      es: "Una tragamonedas ambientada en un yate de lujo y un jackpot brillante, con niveles de jackpot progresivo."
+      pt: "Um slot inspirado em um iate de luxo e um jackpot reluzente, com níveis de jackpot progressivo."
+      ja: "豪華なヨットと輝くジャックポットをテーマに、段階式プログレッシブジャックポットを備えたスロットです。"
     alt:
-      de: "Big Bass Splash Spielgrafik mit Angelszenen und einen großen goldenen Fisch."
-      en: "Big Bass Splash slot game artwork showing fishing scenes and a large golden fish."
-      pl: "Grafika gry Big Bass Splash przedstawiająca sceny wędkarskie i dużą złotą rybę."
-      es: "Arte del juego Big Bass Splash con escenas de pesca y un gran pez dorado."
-      pt: "Arte do jogo Big Bass Splash com cenas de pesca e um grande peixe dourado."
-      ja: "Big Bass Splashのゲームアート。釣りの風景と大きな金色の魚を描いています。"
+      de: "Mega Fortune Spielgrafik mit eine luxuriöse Yacht und einen glitzernden Jackpot."
+      en: "Mega Fortune slot game artwork showing a luxury yacht and a glittering jackpot."
+      pl: "Grafika gry Mega Fortune przedstawiająca luksusowy jacht i lśniący jackpot."
+      es: "Arte del juego Mega Fortune con un yate de lujo y un jackpot brillante."
+      pt: "Arte do jogo Mega Fortune com um iate de luxo e um jackpot reluzente."
+      ja: "Mega Fortuneのゲームアート。豪華なヨットと輝くジャックポットを描いています。"
   - name: "Dead or Alive 2"
     anchor: dead-or-alive-2
     image: /images/slots/catalog-dead-or-alive-2.webp

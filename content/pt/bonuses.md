@@ -1,11 +1,16 @@
 ---
-title: Como comparar as condições dos bónus
-description: 'Requisitos de aposta, prazos, apostas máximas e restrições comuns dos bónus de casino.'
+title: Como compreender as condições dos bónus de casino
+description: Guia prático sobre requisitos de aposta, prazos, contribuição dos jogos, limites de levantamento e pagamentos.
 type: page
-seo_title: Como comparar as condições dos bónus | Instant Casino
-lastmod: '2026-10-28'
-article_review_status: editorial-review-pending
+author: cristina-tudose
+seo_title: Condições dos bónus de casino explicadas | Instant Casino
+lastmod: '2026-10-30'
+article_review_status: editorial-approved
+reviewed_by: Cristina Tudose
+review_date: '2026-10-30'
 build:
+  render: always
+  list: always
   render: always
   list: always
 aliases:
@@ -24,400 +29,144 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Ilustração editorial; não é uma captura de uma interface real do operador.'
 ---
-## Como comparar as condições dos bónus
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+# Como compreender as condições dos bónus de casino
 
-## Cashback
+Um bónus de 500 € pode parecer mais atrativo do que 50 rodadas grátis. Mas o valor anunciado não explica o que tens de fazer para utilizar o bónus ou levantar os ganhos. Confirma o requisito de aposta, os jogos elegíveis, o prazo de validade e as regras de levantamento antes de aceitar a promoção.
 
-## Cashback: condições completas em resumo
+Os detalhes importantes nem sempre aparecem junto ao valor anunciado. Lê as condições completas antes de aderir ou depositar. Este guia explica termos comuns; não descreve uma oferta atual da Instant Casino. Aplicam-se sempre as condições da promoção concreta e as regras do país em causa.
 
-No cashback, verifique o período, como são calculadas as perdas líquidas e se existe limite ou requisito de aposta. Esta ficha descreve a oferta com os campos registados. Valores em falta não são inferidos e ficam assinalados.
+## O que deves verificar primeiro
 
-### Detalhes da oferta
+| Ponto | O que esclarecer |
+|---|---|
+| Base de cálculo | O multiplicador aplica-se ao bónus ou ao depósito mais o bónus? |
+| Contribuição dos jogos | Que jogos contam na totalidade, parcialmente ou não contam? |
+| Prazos | Quando tens de ativar a oferta e concluir os requisitos? |
+| Aposta máxima | Existe um limite por ronda enquanto o bónus está ativo? |
+| Levantamentos | Há um limite para os ganhos ou condições adicionais? |
+| Max Cashout | Qual é o montante máximo que pode ser pago pela promoção? |
+| Depósito | Qual é o depósito mínimo e que métodos de pagamento são aceites? |
+| Verificação | Que documentos de identidade ou pagamento podem ser pedidos e quando? |
 
-| Campo de verificação | Valor registado | O que verificar |
-|---|---|---|
-| Valor indicado | 10% wöchentlich | Confirme se o valor corresponde a saldo de bónus, rodadas grátis ou oferta combinada. |
-| Código promocional | CASH10 | Confirme a escrita, o momento de utilização e se o código é obrigatório. |
-| Depósito mínimo | 50 | Verifique o depósito mínimo e os métodos de pagamento excluídos. |
-| Requisito de aposta | 10x | Confirme quais os jogos elegíveis e como é calculado o requisito de aposta. |
-| Validade (dias) | 7 | Distinga o prazo de ativação do prazo para cumprir as condições. |
-| Aposta máxima | 10 | Podem aplicar-se limites de aposta especiais durante o bónus. |
-| Nota sobre condições | Não indicado nesta entrada do catálogo | Leia todas as regras, incluindo exclusões e limites de levantamento. |
+A ausência de uma informação não significa que não exista uma restrição. Consulta as condições completas. Se uma regra importante continuar pouco clara, pergunta ao operador antes de depositar — ou não aceites a oferta.
 
-### Como interpretar as condições
+## Requisitos de aposta: o que significa 30x?
 
-O valor anunciado é apenas um indicador. Compare também depósito mínimo, multiplicador, prazos, aposta máxima, jogos excluídos e limites. Um campo em falta não significa ausência de restrições; significa apenas que esta ficha não as indica.
+O multiplicador, por si só, não indica quanto tens de apostar. A base de cálculo é essencial.
 
-### Comparação de formatos semelhantes
+Se receberes 100 € em bónus e o requisito for 30 vezes o valor do bónus:
 
-| Formato de bónus | Valor indicado | Depósito mínimo | Aposta | Validade (dias) |
-|---|---|---|---|---|
-| Bónus sem depósito | 20 rodadas grátis | 0 | 40x | 7 |
-| Bónus de boas-vindas para apostas desportivas | Até 1.000 € | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo |
-| Bónus do segundo depósito | 50% até 300 EUR | 20 | 30x | 30 |
-| Bónus de recarga de sexta-feira | 50% até 300 EUR | 20 | 30x | 14 |
+**100 € × 30 = 3.000 € em apostas.**
 
-A tabela compara apenas os campos registados em cada ficha. Um traço ou campo vazio não significa ausência de restrições.
+Se forem contabilizados o depósito e o bónus — por exemplo, um depósito de 100 € mais 100 € de bónus — o cálculo passa a ser:
 
-### Antes de ativar
+**(100 € + 100 €) × 30 = 6.000 €.**
 
-- Leia as condições completas da conta antes de ativar.
-- Confirme se a promoção é válida para a sua conta e país.
-- Compare as condições com outras ofertas em vez de escolher apenas o maior valor.
-- Mantenha o orçamento e o limite de tempo independentemente do bónus.
+A formulação pode duplicar o volume de apostas exigido. Procura uma indicação explícita sobre se o multiplicador se aplica apenas ao bónus ou à soma do depósito com o bónus.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
+Podes também encontrar a expressão inglesa «Wagering Requirement». Refere-se ao volume de apostas elegíveis que tem de ser cumprido. Verifica ainda que percentagem de cada aposta é contabilizada.
 
----
+## Contribuição dos jogos: o que significam 100%, 20% e 0%?
 
-## Bónus de recarga de sexta-feira
+A contribuição indica que parte de uma aposta conta para o requisito. Com uma contribuição de 100%, uma aposta de 10 € acrescenta 10 €. Com 20%, acrescenta 2 €. Com 0%, não contribui para o progresso do bónus.
 
-## Bónus de recarga de sexta-feira: condições completas em resumo
+| Categoria de jogo | Exemplos meramente ilustrativos | Significado |
+|---|---:|---|
+| Slots | 100% | Uma aposta de 10 € acrescenta 10 € ao volume contabilizado. |
+| Jogos de mesa | cerca de 5–20% | Uma aposta de 10 € acrescenta entre 0,50 € e 2 €. |
+| Casino ao vivo | por vezes 0% | As apostas podem ser totalmente excluídas. |
 
-Esta ficha trata «Bónus de recarga de sexta-feira» como uma promoção própria. Verifique a disponibilidade para a sua conta e se ativação, aposta e prazos têm regras distintas. Esta ficha descreve a oferta com os campos registados. Valores em falta não são inferidos e ficam assinalados.
+Estes valores são exemplos, não requisitos legais nem um padrão fiável para todo o mercado. Alguns jogos podem estar excluídos e cada promoção pode aplicar percentagens diferentes. A única referência segura é a tabela de contribuição nas condições atuais.
 
-### Detalhes da oferta
+## Prazos, códigos promocionais e ativação
 
-| Campo de verificação | Valor registado | O que verificar |
-|---|---|---|
-| Valor indicado | 50% até 300 EUR | Confirme se o valor corresponde a saldo de bónus, rodadas grátis ou oferta combinada. |
-| Código promocional | RELOAD50 | Confirme a escrita, o momento de utilização e se o código é obrigatório. |
-| Depósito mínimo | 20 | Verifique o depósito mínimo e os métodos de pagamento excluídos. |
-| Requisito de aposta | 30x | Confirme quais os jogos elegíveis e como é calculado o requisito de aposta. |
-| Validade (dias) | 14 | Distinga o prazo de ativação do prazo para cumprir as condições. |
-| Aposta máxima | 5 | Podem aplicar-se limites de aposta especiais durante o bónus. |
-| Nota sobre condições | Não indicado nesta entrada do catálogo | Leia todas as regras, incluindo exclusões e limites de levantamento. |
+Podem existir vários prazos: aceitar a oferta, efetuar o depósito elegível, concluir os requisitos de aposta ou utilizar as rodadas grátis. Confirma quando começa cada período — no registo, na ativação, no depósito ou no crédito do bónus.
 
-### Como interpretar as condições
+Consoante a promoção, o código pode ter de ser introduzido durante o registo, antes do depósito ou na área de promoções. Outras ofertas exigem uma adesão explícita. Se o código for introduzido demasiado tarde ou a adesão não for confirmada, o depósito pode não ser elegível. Não é garantida uma correção posterior. Confirma o procedimento antes de pagar.
 
-O valor anunciado é apenas um indicador. Compare também depósito mínimo, multiplicador, prazos, aposta máxima, jogos excluídos e limites. Um campo em falta não significa ausência de restrições; significa apenas que esta ficha não as indica.
+## Aposta máxima e jogos excluídos
 
-### Comparação de formatos semelhantes
+As condições podem definir uma aposta máxima por ronda enquanto o bónus estiver ativo. O limite pode ser inferior ao permitido tecnicamente pelo jogo. Confirma se também se aplica a rodadas grátis ou funcionalidades especiais.
 
-| Formato de bónus | Valor indicado | Depósito mínimo | Aposta | Validade (dias) |
-|---|---|---|---|---|
-| Bónus sem depósito | 20 rodadas grátis | 0 | 40x | 7 |
-| Cashback | 10% wöchentlich | 50 | 10x | 7 |
-| Bónus de boas-vindas para apostas desportivas | Até 1.000 € | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo |
-| Bónus do segundo depósito | 50% até 300 EUR | 20 | 30x | 30 |
+No mercado alemão regulado, a aposta máxima geral nas slots virtuais é de 1 € por ronda. Desde 1 de julho de 2026, é possível um aumento por etapas: primeiro até 3 € e, numa segunda fase, até 5 €. O operador tem de possuir a autorização correspondente da GGL. A aposta até 3 € só pode ser concedida a pessoas com 21 anos ou mais. A segunda fase, dos 3 € aos 5 €, exige ainda pelo menos 90 dias prévios sem indicadores de comportamento de jogo problemático e monitorização especial por parte do operador. O jogador não tem direito automático a um limite superior: o operador decide se o oferece e concede. A exceção está, por enquanto, limitada até 31 de dezembro de 2027. Uma promoção pode impor um limite de bónus inferior. Consulta as orientações da GGL e as condições do operador autorizado.
 
-A tabela compara apenas os campos registados em cada ficha. Um traço ou campo vazio não significa ausência de restrições.
+Alguns jogos podem não contar para os requisitos de aposta. Se uma regra da promoção for violada, as consequências possíveis — consoante a cláusula e as circunstâncias — podem incluir o cancelamento do bónus ou dos ganhos associados. Uma suspeita de manipulação pode levar a verificações adicionais ou medidas na conta. Não são consequências automáticas de qualquer erro.
 
-### Antes de ativar
+## Saldo de bónus, Max Cashout e levantamentos antecipados
 
-- Leia as condições completas da conta antes de ativar.
-- Confirme se a promoção é válida para a sua conta e país.
-- Compare as condições com outras ofertas em vez de escolher apenas o maior valor.
-- Mantenha o orçamento e o limite de tempo independentemente do bónus.
+O saldo de bónus não é necessariamente dinheiro disponível para levantamento. Pode ser preciso cumprir primeiro os requisitos de aposta. Verifica também se existe um limite máximo de levantamento.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
+**Max Cashout** significa que a promoção estabelece um teto para o montante que pode ser pago. Por exemplo, se o limite for 100 € e ganhares 500 € com o bónus, poderão ser pagos no máximo 100 €, desde que a cláusula limite precisamente esses ganhos. As condições devem explicar o que acontece ao valor restante.
 
----
+Pedir um levantamento antes de concluir os requisitos pode levar ao cancelamento do bónus e dos ganhos relacionados. Alguns operadores permitem levantar o saldo de dinheiro real apenas se renunciares ao bónus. As regras variam; lê as cláusulas de cancelamento e levantamento antes de fazer o pedido.
 
-## Bónus sem depósito
+## Depósito mínimo e métodos de pagamento
 
-## Bónus sem depósito: condições completas em resumo
+Uma promoção pode exigir um depósito mínimo e excluir determinados métodos de pagamento. Um método disponível para depósitos normais não é necessariamente elegível para um bónus. Confirma ambos os pontos antes de depositar.
 
-Numa oferta sem depósito, confirme se exige verificação, ativação por código, requisitos de aposta ou limite de levantamento. Esta ficha descreve a oferta com os campos registados. Valores em falta não são inferidos e ficam assinalados.
+No mercado alemão regulado, os depósitos e levantamentos têm de utilizar uma conta de pagamento em nome da pessoa que joga; os meios de pagamento anónimos são excluídos. Além disso, aplica-se, em regra, um limite agregado de depósitos de 1.000 € por mês civil entre operadores de jogo online. Em casos específicos pode ser autorizado um limite superior, mediante requisitos adicionais. Este limite legal não deve ser confundido com o depósito mínimo de uma promoção.
 
-### Detalhes da oferta
+## Vários bónus e verificação de identidade
 
-| Campo de verificação | Valor registado | O que verificar |
-|---|---|---|
-| Valor indicado | 20 rodadas grátis | Confirme se o valor corresponde a saldo de bónus, rodadas grátis ou oferta combinada. |
-| Código promocional | NODEP20 | Confirme a escrita, o momento de utilização e se o código é obrigatório. |
-| Depósito mínimo | 0 | Verifique o depósito mínimo e os métodos de pagamento excluídos. |
-| Requisito de aposta | 40x | Confirme quais os jogos elegíveis e como é calculado o requisito de aposta. |
-| Validade (dias) | 7 | Distinga o prazo de ativação do prazo para cumprir as condições. |
-| Aposta máxima | 5 | Podem aplicar-se limites de aposta especiais durante o bónus. |
-| Nota sobre condições | Não indicado nesta entrada do catálogo | Leia todas as regras, incluindo exclusões e limites de levantamento. |
+Nem todos os operadores permitem vários bónus ativos ao mesmo tempo. Aceitar uma nova promoção pode impedir a participação noutra ou terminar um bónus existente. Lê as regras de combinação antes de aderir a outra oferta.
 
-### Como interpretar as condições
+KYC significa «Know Your Customer». No mercado alemão regulado, a identidade é verificada antes de jogar. Em certos casos, podem ser pedidos documentos adicionais sobre a identidade ou os dados de pagamento. Envia documentos apenas através dos canais oficiais e seguros do operador e resolve verificações pendentes com antecedência.
 
-O valor anunciado é apenas um indicador. Compare também depósito mínimo, multiplicador, prazos, aposta máxima, jogos excluídos e limites. Um campo em falta não significa ausência de restrições; significa apenas que esta ficha não as indica.
+## Publicidade de bónus e jogo mais seguro na Alemanha
 
-### Comparação de formatos semelhantes
+A publicidade de jogo permitido na Alemanha está sujeita ao Tratado Estatal sobre o Jogo de 2021. A GGL explica que a publicidade de bónus deve indicar claramente, entre outros aspetos, quem pode beneficiar, o motivo e a duração da promoção e o valor da vantagem. A publicidade não deve criar pressão temporal inadequada nem minimizar os riscos. As FAQ da GGL são orientações, não uma decisão vinculativa para cada caso.
 
-| Formato de bónus | Valor indicado | Depósito mínimo | Aposta | Validade (dias) |
-|---|---|---|---|---|
-| Cashback | 10% wöchentlich | 50 | 10x | 7 |
-| Bónus de boas-vindas para apostas desportivas | Até 1.000 € | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo |
-| Bónus do segundo depósito | 50% até 300 EUR | 20 | 30x | 30 |
-| Bónus de recarga de sexta-feira | 50% até 300 EUR | 20 | 30x | 14 |
+Define um orçamento antes de considerar uma promoção. Não o aumentes para cumprir um requisito de aposta e não tentes recuperar perdas continuando a jogar.
 
-A tabela compara apenas os campos registados em cada ficha. Um traço ou campo vazio não significa ausência de restrições.
+O **Instituto Federal de Saúde Pública da Alemanha (BIÖG, anteriormente BZgA)** disponibiliza uma linha telefónica gratuita e anónima para problemas relacionados com o jogo através do número **0800 1 37 27 00**. O atendimento funciona de segunda a quinta-feira, das 10:00 às 22:00, e de sexta-feira a domingo, das 10:00 às 18:00, durante 363 dias por ano (encerra a 24 e 31 de dezembro). Quem pretender excluir-se pode pedir a autoexclusão através do **OASIS**, o sistema nacional alemão de bloqueio do jogo. A duração habitual é de um ano; pode ser pedida uma duração individual inferior, mas nunca abaixo de três meses. A exclusão não termina automaticamente: é necessário pedir o levantamento depois de cumprido o prazo mínimo. O OASIS é um sistema de bloqueio, não um serviço de aconselhamento.
 
-### Antes de ativar
+- [BIÖG: serviços de aconselhamento](https://www.check-dein-spiel.de/hilfe-fuer-spieler/telefon-beratung/)
+- [OASIS: informações para jogadores](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spieler-faqs)
+- [GGL: apoio e aconselhamento](https://gluecksspiel-behoerde.de/de/fuer-spielende/gluecksspielsucht-beratungs-und-hilfsangebote)
 
-- Leia as condições completas da conta antes de ativar.
-- Confirme se a promoção é válida para a sua conta e país.
-- Compare as condições com outras ofertas em vez de escolher apenas o maior valor.
-- Mantenha o orçamento e o limite de tempo independentemente do bónus.
+## Lista de verificação antes de ativar
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
+1. Abre as condições completas da promoção.
+2. Confirma os requisitos de participação e o país.
+3. Verifica a base de cálculo e o multiplicador.
+4. Consulta a contribuição dos jogos e os títulos excluídos.
+5. Confirma o depósito mínimo e o método de pagamento elegível.
+6. Introduz o código ou confirma a adesão dentro do prazo.
+7. Regista os prazos, a aposta máxima e o Max Cashout.
+8. Lê as regras sobre vários bónus, KYC e levantamentos antecipados.
 
----
+As condições dos bónus podem mudar. Confirma a versão atual imediatamente antes de aderir, na tua conta ou na página oficial da oferta. Guarda o texto completo em PDF ou através de uma captura de ecrã com a data e o URL. Assim, poderás consultar as regras apresentadas no momento da adesão.
 
-## Bónus do segundo depósito
+## Perguntas frequentes
 
-## Bónus do segundo depósito: condições completas em resumo
+### Um bónus de 100 € significa que posso levantar 100 €?
+Não. O saldo promocional pode estar sujeito a requisitos de aposta, prazos e regras de levantamento.
 
-Esta ficha trata «Bónus do segundo depósito» como uma promoção própria. Verifique a disponibilidade para a sua conta e se ativação, aposta e prazos têm regras distintas. Esta ficha descreve a oferta com os campos registados. Valores em falta não são inferidos e ficam assinalados.
+### O que significa 30x?
+Uma quantia definida tem de ser apostada 30 vezes. As condições devem indicar se se trata apenas do bónus ou do depósito mais o bónus.
 
-### Detalhes da oferta
+### Todos os jogos contam da mesma forma?
+Não. A contribuição depende da promoção e dos jogos indicados nas condições.
 
-| Campo de verificação | Valor registado | O que verificar |
-|---|---|---|
-| Valor indicado | 50% até 300 EUR | Confirme se o valor corresponde a saldo de bónus, rodadas grátis ou oferta combinada. |
-| Código promocional | DEP2 | Confirme a escrita, o momento de utilização e se o código é obrigatório. |
-| Depósito mínimo | 20 | Verifique o depósito mínimo e os métodos de pagamento excluídos. |
-| Requisito de aposta | 30x | Confirme quais os jogos elegíveis e como é calculado o requisito de aposta. |
-| Validade (dias) | 30 | Distinga o prazo de ativação do prazo para cumprir as condições. |
-| Aposta máxima | 5 | Podem aplicar-se limites de aposta especiais durante o bónus. |
-| Nota sobre condições | Não indicado nesta entrada do catálogo | Leia todas as regras, incluindo exclusões e limites de levantamento. |
+### O que é Max Cashout?
+É um limite máximo para o montante pago através de uma promoção. Se o limite for 100 €, não poderão ser pagos mais de 100 € de ganhos de 500 € quando a cláusula se aplicar a esses ganhos.
 
-### Como interpretar as condições
+### Posso levantar antes de cumprir os requisitos?
+Isso pode cancelar o bónus e os ganhos associados. Consulta as regras antes de pedir o levantamento.
 
-O valor anunciado é apenas um indicador. Compare também depósito mínimo, multiplicador, prazos, aposta máxima, jogos excluídos e limites. Um campo em falta não significa ausência de restrições; significa apenas que esta ficha não as indica.
+### Posso combinar vários bónus?
+Nem sempre. Algumas promoções não podem ser combinadas ou permitem apenas um bónus ativo.
 
-### Comparação de formatos semelhantes
+### Onde posso procurar ajuda para problemas com o jogo?
+O BIÖG disponibiliza informação e aconselhamento; o OASIS permite pedir autoexclusão no mercado alemão regulado.
 
-| Formato de bónus | Valor indicado | Depósito mínimo | Aposta | Validade (dias) |
-|---|---|---|---|---|
-| Bónus sem depósito | 20 rodadas grátis | 0 | 40x | 7 |
-| Cashback | 10% wöchentlich | 50 | 10x | 7 |
-| Bónus de boas-vindas para apostas desportivas | Até 1.000 € | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo |
-| Bónus de recarga de sexta-feira | 50% até 300 EUR | 20 | 30x | 14 |
+## Fontes e atualização
 
-A tabela compara apenas os campos registados em cada ficha. Um traço ou campo vazio não significa ausência de restrições.
+- [GGL: FAQ sobre publicidade de jogo](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-gluecksspielwerbung)
+- [GGL: medidas de proteção do jogador](https://www.gluecksspiel-behoerde.de/de/fuer-spielende/die-spielerschutzmassnahmen-des-gluestv21-im-ueberblick)
+- [GGL: limites de depósito e aposta máxima](https://gluecksspiel-behoerde.de/de/fuer-spielende/informationen-fuer-spielende-faqs/faq-einzahlungslimit-und-hoechsteinsatz)
 
-### Antes de ativar
+*Fontes oficiais verificadas em 30/10/2026. Antes da aprovação, confirma novamente as ligações, contactos, horários e informações legais.*
 
-- Leia as condições completas da conta antes de ativar.
-- Confirme se a promoção é válida para a sua conta e país.
-- Compare as condições com outras ofertas em vez de escolher apenas o maior valor.
-- Mantenha o orçamento e o limite de tempo independentemente do bónus.
-
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
-
-## Bónus de boas-vindas para apostas desportivas
-
-## Bónus de boas-vindas para apostas desportivas: condições completas em resumo
-
-Esta ficha trata «Bónus de boas-vindas para apostas desportivas» como uma promoção própria. Verifique a disponibilidade para a sua conta e se ativação, aposta e prazos têm regras distintas. Esta ficha descreve a oferta com os campos registados. Valores em falta não são inferidos e ficam assinalados.
-
-### Detalhes da oferta
-
-| Campo de verificação | Valor registado | O que verificar |
-|---|---|---|
-| Valor indicado | Até 1.000 € | Confirme se o valor corresponde a saldo de bónus, rodadas grátis ou oferta combinada. |
-| Código promocional | Não indicado nesta entrada do catálogo | Confirme a escrita, o momento de utilização e se o código é obrigatório. |
-| Depósito mínimo | Não indicado nesta entrada do catálogo | Verifique o depósito mínimo e os métodos de pagamento excluídos. |
-| Requisito de aposta | Não indicado nesta entrada do catálogo | Confirme quais os jogos elegíveis e como é calculado o requisito de aposta. |
-| Validade (dias) | Não indicado nesta entrada do catálogo | Distinga o prazo de ativação do prazo para cumprir as condições. |
-| Aposta máxima | Não indicado nesta entrada do catálogo | Podem aplicar-se limites de aposta especiais durante o bónus. |
-| Nota sobre condições | A captura não apresentava as odds, odds mínimas, requisitos de aposta, depósito ou validade. Confirme estas condições junto do operador antes de aderir. | Leia todas as regras, incluindo exclusões e limites de levantamento. |
-
-### Como interpretar as condições
-
-O valor anunciado é apenas um indicador. Compare também depósito mínimo, multiplicador, prazos, aposta máxima, jogos excluídos e limites. Um campo em falta não significa ausência de restrições; significa apenas que esta ficha não as indica.
-
-### Comparação de formatos semelhantes
-
-| Formato de bónus | Valor indicado | Depósito mínimo | Aposta | Validade (dias) |
-|---|---|---|---|---|
-| Bónus sem depósito | 20 rodadas grátis | 0 | 40x | 7 |
-| Cashback | 10% wöchentlich | 50 | 10x | 7 |
-| Bónus do segundo depósito | 50% até 300 EUR | 20 | 30x | 30 |
-| Bónus de recarga de sexta-feira | 50% até 300 EUR | 20 | 30x | 14 |
-
-A tabela compara apenas os campos registados em cada ficha. Um traço ou campo vazio não significa ausência de restrições.
-
-### Antes de ativar
-
-- Leia as condições completas da conta antes de ativar.
-- Confirme se a promoção é válida para a sua conta e país.
-- Compare as condições com outras ofertas em vez de escolher apenas o maior valor.
-- Mantenha o orçamento e o limite de tempo independentemente do bónus.
-
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
-
-## Bónus do terceiro depósito
-
-## Bónus do terceiro depósito: condições completas em resumo
-
-Esta ficha trata «Bónus do terceiro depósito» como uma promoção própria. Verifique a disponibilidade para a sua conta e se ativação, aposta e prazos têm regras distintas. Esta ficha descreve a oferta com os campos registados. Valores em falta não são inferidos e ficam assinalados.
-
-### Detalhes da oferta
-
-| Campo de verificação | Valor registado | O que verificar |
-|---|---|---|
-| Valor indicado | 25% até 200 EUR + 50 rodadas grátis | Confirme se o valor corresponde a saldo de bónus, rodadas grátis ou oferta combinada. |
-| Código promocional | DEP3 | Confirme a escrita, o momento de utilização e se o código é obrigatório. |
-| Depósito mínimo | 20 | Verifique o depósito mínimo e os métodos de pagamento excluídos. |
-| Requisito de aposta | 25x | Confirme quais os jogos elegíveis e como é calculado o requisito de aposta. |
-| Validade (dias) | 30 | Distinga o prazo de ativação do prazo para cumprir as condições. |
-| Aposta máxima | 5 | Podem aplicar-se limites de aposta especiais durante o bónus. |
-| Nota sobre condições | Não indicado nesta entrada do catálogo | Leia todas as regras, incluindo exclusões e limites de levantamento. |
-
-### Como interpretar as condições
-
-O valor anunciado é apenas um indicador. Compare também depósito mínimo, multiplicador, prazos, aposta máxima, jogos excluídos e limites. Um campo em falta não significa ausência de restrições; significa apenas que esta ficha não as indica.
-
-### Comparação de formatos semelhantes
-
-| Formato de bónus | Valor indicado | Depósito mínimo | Aposta | Validade (dias) |
-|---|---|---|---|---|
-| Bónus sem depósito | 20 rodadas grátis | 0 | 40x | 7 |
-| Cashback | 10% wöchentlich | 50 | 10x | 7 |
-| Bónus de boas-vindas para apostas desportivas | Até 1.000 € | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo |
-| Bónus do segundo depósito | 50% até 300 EUR | 20 | 30x | 30 |
-
-A tabela compara apenas os campos registados em cada ficha. Um traço ou campo vazio não significa ausência de restrições.
-
-### Antes de ativar
-
-- Leia as condições completas da conta antes de ativar.
-- Confirme se a promoção é válida para a sua conta e país.
-- Compare as condições com outras ofertas em vez de escolher apenas o maior valor.
-- Mantenha o orçamento e o limite de tempo independentemente do bónus.
-
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
-
-## Rodadas grátis de terça-feira
-
-## Rodadas grátis de terça-feira: condições completas em resumo
-
-Esta ficha trata «Rodadas grátis de terça-feira» como uma promoção própria. Verifique a disponibilidade para a sua conta e se ativação, aposta e prazos têm regras distintas. Esta ficha descreve a oferta com os campos registados. Valores em falta não são inferidos e ficam assinalados.
-
-### Detalhes da oferta
-
-| Campo de verificação | Valor registado | O que verificar |
-|---|---|---|
-| Valor indicado | 50 FS auf Book of Dead | Confirme se o valor corresponde a saldo de bónus, rodadas grátis ou oferta combinada. |
-| Código promocional | TUE50 | Confirme a escrita, o momento de utilização e se o código é obrigatório. |
-| Depósito mínimo | 10 | Verifique o depósito mínimo e os métodos de pagamento excluídos. |
-| Requisito de aposta | 25x | Confirme quais os jogos elegíveis e como é calculado o requisito de aposta. |
-| Validade (dias) | 3 | Distinga o prazo de ativação do prazo para cumprir as condições. |
-| Aposta máxima | 5 | Podem aplicar-se limites de aposta especiais durante o bónus. |
-| Nota sobre condições | Não indicado nesta entrada do catálogo | Leia todas as regras, incluindo exclusões e limites de levantamento. |
-
-### Como interpretar as condições
-
-O valor anunciado é apenas um indicador. Compare também depósito mínimo, multiplicador, prazos, aposta máxima, jogos excluídos e limites. Um campo em falta não significa ausência de restrições; significa apenas que esta ficha não as indica.
-
-### Comparação de formatos semelhantes
-
-| Formato de bónus | Valor indicado | Depósito mínimo | Aposta | Validade (dias) |
-|---|---|---|---|---|
-| Bónus sem depósito | 20 rodadas grátis | 0 | 40x | 7 |
-| Cashback | 10% wöchentlich | 50 | 10x | 7 |
-| Bónus de boas-vindas para apostas desportivas | Até 1.000 € | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo |
-| Bónus do segundo depósito | 50% até 300 EUR | 20 | 30x | 30 |
-
-A tabela compara apenas os campos registados em cada ficha. Um traço ou campo vazio não significa ausência de restrições.
-
-### Antes de ativar
-
-- Leia as condições completas da conta antes de ativar.
-- Confirme se a promoção é válida para a sua conta e país.
-- Compare as condições com outras ofertas em vez de escolher apenas o maior valor.
-- Mantenha o orçamento e o limite de tempo independentemente do bónus.
-
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
-
-## Bónus VIP
-
-## Bónus VIP: condições completas em resumo
-
-As ofertas VIP podem depender do estado da conta, de um convite ou da atividade. Confirme quais os benefícios descritos expressamente. Esta ficha descreve a oferta com os campos registados. Valores em falta não são inferidos e ficam assinalados.
-
-### Detalhes da oferta
-
-| Campo de verificação | Valor registado | O que verificar |
-|---|---|---|
-| Valor indicado | 200% até 1.000 EUR | Confirme se o valor corresponde a saldo de bónus, rodadas grátis ou oferta combinada. |
-| Código promocional | VIP200 | Confirme a escrita, o momento de utilização e se o código é obrigatório. |
-| Depósito mínimo | 100 | Verifique o depósito mínimo e os métodos de pagamento excluídos. |
-| Requisito de aposta | 45x | Confirme quais os jogos elegíveis e como é calculado o requisito de aposta. |
-| Validade (dias) | 30 | Distinga o prazo de ativação do prazo para cumprir as condições. |
-| Aposta máxima | 10 | Podem aplicar-se limites de aposta especiais durante o bónus. |
-| Nota sobre condições | Não indicado nesta entrada do catálogo | Leia todas as regras, incluindo exclusões e limites de levantamento. |
-
-### Como interpretar as condições
-
-O valor anunciado é apenas um indicador. Compare também depósito mínimo, multiplicador, prazos, aposta máxima, jogos excluídos e limites. Um campo em falta não significa ausência de restrições; significa apenas que esta ficha não as indica.
-
-### Comparação de formatos semelhantes
-
-| Formato de bónus | Valor indicado | Depósito mínimo | Aposta | Validade (dias) |
-|---|---|---|---|---|
-| Bónus sem depósito | 20 rodadas grátis | 0 | 40x | 7 |
-| Cashback | 10% wöchentlich | 50 | 10x | 7 |
-| Bónus de boas-vindas para apostas desportivas | Até 1.000 € | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo |
-| Bónus do segundo depósito | 50% até 300 EUR | 20 | 30x | 30 |
-
-A tabela compara apenas os campos registados em cada ficha. Um traço ou campo vazio não significa ausência de restrições.
-
-### Antes de ativar
-
-- Leia as condições completas da conta antes de ativar.
-- Confirme se a promoção é válida para a sua conta e país.
-- Compare as condições com outras ofertas em vez de escolher apenas o maior valor.
-- Mantenha o orçamento e o limite de tempo independentemente do bónus.
-
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
-
-## Pacote de boas-vindas de casino
-
-## Pacote de boas-vindas de casino: condições completas em resumo
-
-Num pacote de boas-vindas, o valor anunciado é apenas o ponto de partida. Verifique como cada parte é disponibilizada, os requisitos de aposta e os prazos. Esta ficha descreve a oferta com os campos registados. Valores em falta não são inferidos e ficam assinalados.
-
-### Detalhes da oferta
-
-| Campo de verificação | Valor registado | O que verificar |
-|---|---|---|
-| Valor indicado | Até 2.500 € + 525 FS | Confirme se o valor corresponde a saldo de bónus, rodadas grátis ou oferta combinada. |
-| Código promocional | Não indicado nesta entrada do catálogo | Confirme a escrita, o momento de utilização e se o código é obrigatório. |
-| Depósito mínimo | Não indicado nesta entrada do catálogo | Verifique o depósito mínimo e os métodos de pagamento excluídos. |
-| Requisito de aposta | Não indicado nesta entrada do catálogo | Confirme quais os jogos elegíveis e como é calculado o requisito de aposta. |
-| Validade (dias) | Não indicado nesta entrada do catálogo | Distinga o prazo de ativação do prazo para cumprir as condições. |
-| Aposta máxima | Não indicado nesta entrada do catálogo | Podem aplicar-se limites de aposta especiais durante o bónus. |
-| Nota sobre condições | A captura não apresentava os requisitos de aposta, o montante mínimo, o código promocional ou a validade. Confirme todas as condições junto do operador antes de aderir. | Leia todas as regras, incluindo exclusões e limites de levantamento. |
-
-### Como interpretar as condições
-
-O valor anunciado é apenas um indicador. Compare também depósito mínimo, multiplicador, prazos, aposta máxima, jogos excluídos e limites. Um campo em falta não significa ausência de restrições; significa apenas que esta ficha não as indica.
-
-### Comparação de formatos semelhantes
-
-| Formato de bónus | Valor indicado | Depósito mínimo | Aposta | Validade (dias) |
-|---|---|---|---|---|
-| Bónus sem depósito | 20 rodadas grátis | 0 | 40x | 7 |
-| Cashback | 10% wöchentlich | 50 | 10x | 7 |
-| Bónus de boas-vindas para apostas desportivas | Até 1.000 € | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo | Não indicado nesta entrada do catálogo |
-| Bónus do segundo depósito | 50% até 300 EUR | 20 | 30x | 30 |
-
-A tabela compara apenas os campos registados em cada ficha. Um traço ou campo vazio não significa ausência de restrições.
-
-### Antes de ativar
-
-- Leia as condições completas da conta antes de ativar.
-- Confirme se a promoção é válida para a sua conta e país.
-- Compare as condições com outras ofertas em vez de escolher apenas o maior valor.
-- Mantenha o orçamento e o limite de tempo independentemente do bónus.
-
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
+*Aviso: a Instant Casino pode receber comissões através de ligações de afiliados devidamente identificadas.*

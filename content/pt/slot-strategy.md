@@ -3,7 +3,7 @@ title: 'Guia de slots: funcionalidades e mecânicas'
 description: 'Compreenda RTP, volatilidade e mecânicas sem os tratar como previsões de resultados.'
 type: page
 seo_title: 'Guia de slots: funcionalidades e mecânicas | Instant Casino'
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -22,6 +22,8 @@ screenshots_note: 'Ilustração editorial; não é uma captura de uma interface 
 ## Guia de slots: funcionalidades e mecânicas
 
 Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+
+Um caso prático ajuda a explicar como funciona um jackpot progressivo: o nosso [artigo sobre o Mega Fortune e o prémio de 3,5 milhões de euros]({{< relref "mega-fortune-progressive-jackpot" >}}) separa os factos confirmados de 2018 das regras publicadas do jogo, do RTP e dos limites dos dados de volatilidade disponíveis.
 
 ## Gates of Olympus
 

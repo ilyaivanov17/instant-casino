@@ -69,7 +69,7 @@ Consoante a promoção, o código pode ter de ser introduzido durante o registo,
 
 As condições podem definir uma aposta máxima por ronda enquanto o bónus estiver ativo. O limite pode ser inferior ao permitido tecnicamente pelo jogo. Confirma se também se aplica a rodadas grátis ou funcionalidades especiais.
 
-No mercado alemão regulado, os jogos de slots virtuais estão também sujeitos a limites legais. A aposta máxima geral é de 1 € por ronda. Desde 1 de julho de 2026, podem existir exceções até 5 € sob condições específicas. Uma promoção pode continuar a impor um limite de bónus mais baixo. Consulta as informações atuais da GGL e as condições do operador autorizado.
+No mercado alemão regulado, a aposta máxima geral nas slots virtuais é de 1 € por ronda. Desde 1 de julho de 2026, é possível um aumento por etapas: primeiro até 3 € e, numa segunda fase, até 5 €. O operador tem de possuir a autorização correspondente da GGL. Para apostar mais de 1 €, é necessário ter pelo menos 21 anos. A fase dos 3 € aos 5 € exige ainda um período de qualificação de 90 dias sem indicadores de jogo de risco e monitorização comportamental adicional. Esta medida está, por enquanto, limitada até 31 de dezembro de 2027. Uma promoção pode impor um limite de bónus inferior. Consulta as orientações da GGL e as condições do operador autorizado.
 
 Alguns jogos podem não contar para os requisitos de aposta. Se uma regra da promoção for violada, as consequências possíveis — consoante a cláusula e as circunstâncias — podem incluir o cancelamento do bónus ou dos ganhos associados. Uma suspeita de manipulação pode levar a verificações adicionais ou medidas na conta. Não são consequências automáticas de qualquer erro.
 
@@ -85,7 +85,7 @@ Pedir um levantamento antes de concluir os requisitos pode levar ao cancelamento
 
 Uma promoção pode exigir um depósito mínimo e excluir determinados métodos de pagamento. Um método disponível para depósitos normais não é necessariamente elegível para um bónus. Confirma ambos os pontos antes de depositar.
 
-No mercado alemão regulado, os depósitos e levantamentos têm de utilizar uma conta de pagamento em nome da pessoa que joga. Segundo a GGL, os meios de pagamento anónimos são excluídos.
+No mercado alemão regulado, os depósitos e levantamentos têm de utilizar uma conta de pagamento em nome da pessoa que joga; os meios de pagamento anónimos são excluídos. Além disso, aplica-se, em regra, um limite agregado de depósitos de 1.000 € por mês civil entre operadores de jogo online. Em casos específicos pode ser autorizado um limite superior, mediante requisitos adicionais. Este limite legal não deve ser confundido com o depósito mínimo de uma promoção.
 
 ## Vários bónus e verificação de identidade
 
@@ -99,10 +99,10 @@ A publicidade de jogo permitido na Alemanha está sujeita ao Tratado Estatal sob
 
 Define um orçamento antes de considerar uma promoção. Não o aumentes para cumprir um requisito de aposta e não tentes recuperar perdas continuando a jogar.
 
-O **Instituto Federal de Saúde Pública da Alemanha (BIÖG, anteriormente BZgA)** disponibiliza aconselhamento telefónico gratuito sobre problemas relacionados com o jogo. O número, os horários e os serviços atuais estão no site oficial. Quem pretender excluir-se do jogo pode consultar o **OASIS**, o sistema nacional alemão de autoexclusão. O OASIS é um sistema de bloqueio, não um serviço de aconselhamento.
+O **Instituto Federal de Saúde Pública da Alemanha (BIÖG, anteriormente BZgA)** disponibiliza uma linha telefónica gratuita para problemas relacionados com o jogo através do número **0800 1 37 27 00**. O atendimento funciona de segunda a quinta-feira, das 10:00 às 22:00, e de sexta-feira a domingo, das 10:00 às 18:00. Quem pretender excluir-se pode pedir a autoexclusão através do **OASIS**, o sistema nacional alemão de bloqueio do jogo. A duração habitual é de um ano; pode ser pedida uma duração individual inferior, mas nunca abaixo de três meses. A exclusão não termina automaticamente: é necessário pedir o levantamento depois de cumprido o prazo mínimo. O OASIS é um sistema de bloqueio, não um serviço de aconselhamento.
 
-- [BIÖG: serviços de aconselhamento](https://www.bioeg.de/service/beratungsangebote/)
-- [OASIS: informações para jogadores](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spielerinnen-und-spieler)
+- [BIÖG: serviços de aconselhamento](https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/)
+- [OASIS: informações para jogadores](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spieler-faqs)
 - [GGL: apoio e aconselhamento](https://gluecksspiel-behoerde.de/de/fuer-spielende/gluecksspielsucht-beratungs-und-hilfsangebote)
 
 ## Lista de verificação antes de ativar

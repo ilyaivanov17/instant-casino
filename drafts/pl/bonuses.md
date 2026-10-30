@@ -69,7 +69,7 @@ W zależności od promocji kod trzeba wpisać podczas rejestracji, przed wpłat�
 
 Regulamin bonusu może określać maksymalną stawkę na rundę. Limit ten może być niższy niż maksymalna stawka technicznie dostępna w grze. Sprawdź, czy obejmuje także darmowe spiny i funkcje bonusowe.
 
-W regulowanym rynku niemieckim automaty online podlegają również limitom ustawowym. Zasadniczy maksymalny zakład wynosi 1 € na rundę. Od 1 lipca 2026 r. w określonych warunkach mogą obowiązywać wyjątki do 5 €. Promocja może jednak nadal przewidywać niższy limit bonusowy. Sprawdź aktualne informacje GGL oraz warunki licencjonowanego operatora.
+Na regulowanym rynku niemieckim podstawowy maksymalny zakład na wirtualnych automatach online wynosi 1 € na rundę. Od 1 lipca 2026 r. możliwe jest stopniowe podwyższenie limitu: najpierw do 3 €, a w drugim etapie do 5 €. Operator musi mieć odpowiednie zezwolenie GGL. Osoby stawiające więcej niż 1 € muszą mieć ukończone 21 lat. Przejście do limitu od 3 € do 5 € wymaga dodatkowo 90-dniowego okresu kwalifikacyjnego bez sygnałów ryzykownego zachowania oraz szczególnego monitorowania gry. Rozwiązanie obowiązuje obecnie tymczasowo do 31 grudnia 2027 r. Regulamin promocji może nadal przewidywać niższy limit bonusowy. Sprawdź aktualne informacje GGL i warunki licencjonowanego operatora.
 
 Niektóre gry mogą nie być zaliczane do wymaganego obrotu. Naruszenie warunku promocji może — zależnie od zapisu i okoliczności — skutkować anulowaniem bonusu lub powiązanych wygranych. Podejrzenie manipulacji może prowadzić do dodatkowej kontroli lub działań dotyczących konta. Nie są to automatyczne konsekwencje każdego błędu.
 
@@ -85,7 +85,7 @@ Złożenie wniosku o wypłatę przed spełnieniem wymagań obrotu może spowodow
 
 Promocja może wymagać minimalnej wpłaty i wykluczać określone metody płatności. Metoda dostępna przy zwykłych wpłatach nie musi kwalifikować się do bonusu. Sprawdź oba warunki przed wpłatą.
 
-Na regulowanym rynku niemieckim wpłaty i wypłaty muszą być realizowane za pośrednictwem rachunku płatniczego należącego do osoby grającej. Według GGL anonimowe środki płatnicze są wykluczone.
+Na regulowanym rynku niemieckim wpłaty i wypłaty muszą być realizowane za pośrednictwem rachunku płatniczego należącego do osoby grającej; anonimowe środki płatnicze są wykluczone. Ponadto co do zasady obowiązuje łączny limit wpłat na gry online w wysokości 1000 € na miesiąc kalendarzowy, obejmujący różnych operatorów. W szczególnych przypadkach, po spełnieniu dodatkowych wymogów, może zostać zatwierdzony wyższy limit. Nie należy mylić tego ustawowego limitu z minimalną wpłatą wymaganą przez promocję.
 
 ## Kilka bonusów i weryfikacja tożsamości
 
@@ -99,10 +99,10 @@ Reklama dozwolonego hazardu w Niemczech podlega przepisom Traktatu państwowego 
 
 Ustal budżet, zanim zaczniesz rozważać promocję. Nie zwiększaj go, aby spełnić wymagania obrotu, i nie próbuj odrabiać strat dalszą grą.
 
-**Federalny Instytut Zdrowia Publicznego (BIÖG, dawniej BZgA)** oferuje bezpłatne telefoniczne wsparcie w sprawach związanych z problemowym hazardem. Aktualny numer, godziny i zakres pomocy znajdują się na oficjalnej stronie. Osoby chcące wykluczyć się z gry mogą zapoznać się z systemem **OASIS**, ogólnokrajowym niemieckim systemem samowykluczenia. OASIS jest systemem blokad, a nie poradnią.
+**Federalny Instytut Zdrowia Publicznego (BIÖG, dawniej BZgA)** prowadzi bezpłatną infolinię dotyczącą problemów z hazardem pod numerem **0800 1 37 27 00**. Jest czynna od poniedziałku do czwartku w godz. 10:00–22:00 oraz od piątku do niedzieli w godz. 10:00–18:00. Osoby, które chcą wykluczyć się z gry, mogą złożyć wniosek o samowykluczenie w systemie **OASIS**, ogólnokrajowym niemieckim systemie blokad hazardowych. Standardowy okres wynosi rok; można wnioskować o krótszy indywidualny okres, ale nie krótszy niż trzy miesiące. Blokada nie kończy się automatycznie — po upływie minimalnego okresu trzeba złożyć wniosek o jej zniesienie. OASIS jest systemem blokad, a nie poradnią.
 
-- [BIÖG: poradnictwo i pomoc](https://www.bioeg.de/service/beratungsangebote/)
-- [OASIS: informacje dla graczy](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spielerinnen-und-spieler)
+- [BIÖG: poradnictwo i pomoc](https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/)
+- [OASIS: informacje dla graczy](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spieler-faqs)
 - [GGL: pomoc i poradnictwo](https://gluecksspiel-behoerde.de/de/fuer-spielende/gluecksspielsucht-beratungs-und-hilfsangebote)
 
 ## Lista kontrolna przed aktywacją

@@ -3,7 +3,8 @@ title: Bonusbedingungen verständlich vergleichen
 description: 'Umsatzbedingungen, Fristen, Höchsteinsätze und Einschränkungen bei Casino-Boni verständlich erklärt.'
 type: page
 seo_title: Bonusbedingungen verständlich vergleichen | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
+editor: cristina-tudose
 article_review_status: editorial-review-pending
 build:
   render: always

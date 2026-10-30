@@ -3,7 +3,8 @@ title: 'Slot-Leitfaden: Themen, Volatilität und Vergleich'
 description: 'Freispiele, Wilds, Scatter, Bonusspiele und weitere typische Slot-Funktionen erklärt.'
 type: page
 seo_title: 'Slot-Leitfaden: Themen, Volatilität und Vergleich | Instant Casino'
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
+editor: jon-pill
 article_review_status: editorial-review-pending
 build:
   render: always

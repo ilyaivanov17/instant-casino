@@ -3,7 +3,8 @@ title: Einzahlungen, Auszahlungen und Zahlungsmethoden
 description: 'Einzahlungen und Auszahlungen vergleichen: mögliche Gebühren, Bearbeitungszeiten und Verifizierung.'
 type: page
 seo_title: Einzahlungen, Auszahlungen und Zahlungsmethoden | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
+editor: corey-levitan
 article_review_status: editorial-review-pending
 build:
   render: always

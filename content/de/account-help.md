@@ -3,7 +3,8 @@ title: Konto, Registrierung, Login und häufige Fragen
 description: 'Hinweise zu Kontoerstellung, Anmeldung, Verifizierung, Datenschutz und sicherem Kontozugriff.'
 type: page
 seo_title: Konto, Registrierung, Login und häufige Fragen | Instant Casino
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
+editor: dan-michalski
 article_review_status: editorial-review-pending
 build:
   render: always

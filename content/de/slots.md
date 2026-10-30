@@ -3,7 +3,7 @@ title: 'Slot-Leitfaden: Grundlagen und Spielprofile'
 description: 'Spielprofile mit Regeln, Funktionen und Kennzahlen ausgewählter Online-Slots.'
 type: page
 seo_title: 'Slot-Leitfaden: Grundlagen und Spielprofile | Instant Casino'
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -16,11 +16,7 @@ aliases:
 - /catalog/slots/fruit-party/
 - /catalog/slots/
 slug: slots
-screenshots:
-- /images/slots/wolf-gold.webp
-screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
 ---
-## Slot-Leitfaden: Grundlagen und Spielprofile
 
 Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
 

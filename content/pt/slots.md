@@ -3,7 +3,7 @@ title: 'Guia de slots: fundamentos e perfis de jogos'
 description: 'Perfis de jogos com regras, funcionalidades e dados essenciais de slots online selecionadas.'
 type: page
 seo_title: 'Guia de slots: fundamentos e perfis de jogos | Instant Casino'
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -16,11 +16,7 @@ aliases:
 - /pt/catalog/slots/fruit-party/
 - /pt/catalog/slots/
 slug: slots
-screenshots:
-- /images/slots/wolf-gold.webp
-screenshots_note: 'Ilustração editorial; não é uma captura de uma interface real do operador.'
 ---
-## Guia de slots: fundamentos e perfis de jogos
 
 Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
 

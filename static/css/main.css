@@ -2571,3 +2571,190 @@ footer .glass-strong { border-radius: 22px; }
     object-fit:contain;
   }
 }
+
+
+/* === SLOT GAME GALLERY === */
+.slots-catalog{
+  margin:1.35rem 0 2.35rem;
+}
+.slots-catalog-heading{
+  max-width:780px;
+  margin:0 0 1.25rem;
+}
+.slots-catalog-heading-top{
+  display:flex;
+  align-items:center;
+  flex-wrap:wrap;
+  gap:.6rem;
+  margin-bottom:.55rem;
+}
+.slots-catalog-eyebrow{
+  color:var(--brand-accent,#f7c967);
+  font-size:.68rem;
+  font-weight:900;
+  letter-spacing:.15em;
+}
+.slots-catalog-count{
+  display:inline-flex;
+  align-items:center;
+  min-height:24px;
+  padding:.15rem .55rem;
+  border:1px solid rgba(247,201,103,.22);
+  border-radius:999px;
+  color:#d9c79f;
+  background:rgba(247,201,103,.07);
+  font-size:.68rem;
+  font-weight:750;
+}
+.slots-catalog-heading h2{
+  margin:0 0 .55rem;
+  color:var(--brand-text,#f5f7fb);
+  font-size:clamp(1.55rem,2.6vw,2.15rem);
+  line-height:1.16;
+  letter-spacing:-.035em;
+  font-weight:900;
+}
+.slots-catalog-heading p{
+  margin:0;
+  max-width:68ch;
+  color:var(--brand-muted,#aebbd0);
+  font-size:.96rem;
+  line-height:1.7;
+}
+.slots-catalog-grid{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:1.05rem;
+}
+.slot-game-card{
+  min-width:0;
+  overflow:hidden;
+  border:1px solid rgba(173,190,220,.17);
+  border-radius:18px;
+  background:linear-gradient(155deg,rgba(20,31,52,.98),rgba(8,14,27,.99));
+  box-shadow:0 12px 30px rgba(0,0,0,.16);
+  transition:transform .22s ease,border-color .22s ease,box-shadow .22s ease;
+}
+.slot-game-card:hover{
+  transform:translateY(-4px);
+  border-color:rgba(247,201,103,.46);
+  box-shadow:0 20px 42px rgba(0,0,0,.26);
+}
+.slot-game-card-link{
+  display:flex;
+  height:100%;
+  min-width:0;
+  flex-direction:column;
+  color:inherit;
+  text-decoration:none;
+}
+.slot-game-card-link:focus-visible{
+  outline:3px solid #f7c967;
+  outline-offset:-4px;
+}
+.slot-game-card-art{
+  position:relative;
+  display:grid;
+  width:100%;
+  aspect-ratio:16 / 9;
+  min-height:0;
+  place-items:center;
+  overflow:hidden;
+  border-bottom:1px solid rgba(173,190,220,.13);
+  background:
+    radial-gradient(ellipse at 50% 46%,rgba(104,73,40,.22),transparent 64%),
+    linear-gradient(145deg,#10192b,#080e1b);
+}
+.slot-game-card-art img{
+  display:block;
+  width:100%;
+  height:100%;
+  max-width:none;
+  max-height:none;
+  object-fit:contain;
+  object-position:center;
+}
+.slot-game-card-content{
+  display:flex;
+  flex:1;
+  min-width:0;
+  flex-direction:column;
+  align-items:flex-start;
+  padding:1.05rem 1.15rem 1.15rem;
+}
+.slot-game-card-topline{
+  display:flex;
+  width:100%;
+  align-items:center;
+  justify-content:space-between;
+  gap:.65rem;
+  margin-bottom:.45rem;
+}
+.slot-game-card-eyebrow{
+  color:#c7a968;
+  font-size:.62rem;
+  font-weight:850;
+  letter-spacing:.12em;
+}
+.slot-game-card-number{
+  color:rgba(206,216,232,.42);
+  font-size:.72rem;
+  font-weight:800;
+  font-variant-numeric:tabular-nums;
+}
+.slot-game-card-content h3{
+  margin:0 0 .62rem;
+  color:#fff;
+  font-size:clamp(1.08rem,1.45vw,1.28rem);
+  line-height:1.25;
+  font-weight:900;
+  letter-spacing:-.025em;
+}
+.slot-game-card-label{
+  display:inline-flex;
+  align-items:center;
+  margin:0 0 .65rem;
+  padding:.28rem .58rem;
+  border:1px solid rgba(247,201,103,.19);
+  border-radius:999px;
+  color:#f2d99f;
+  background:rgba(247,201,103,.075);
+  font-size:.68rem;
+  line-height:1.35;
+  font-weight:750;
+}
+.slot-game-card-content p{
+  margin:0 0 1rem;
+  color:#b9c4d6;
+  font-size:.86rem;
+  line-height:1.65;
+}
+.slot-game-card-action{
+  display:inline-flex;
+  align-items:center;
+  gap:.48rem;
+  margin-top:auto;
+  color:var(--brand-accent,#f7c967);
+  font-size:.8rem;
+  font-weight:850;
+}
+.slot-game-card-action span{
+  transition:transform .18s ease;
+}
+.slot-game-card-link:hover .slot-game-card-action span{
+  transform:translateX(3px);
+}
+@media(max-width:920px){
+  .slots-catalog-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:620px){
+  .slots-catalog{margin:1rem 0 1.8rem}
+  .slots-catalog-grid{grid-template-columns:minmax(0,1fr);gap:.85rem}
+  .slot-game-card-art{aspect-ratio:16 / 9}
+  .slot-game-card-content{padding:1rem 1.05rem 1.1rem}
+  .slot-game-card-content h3{font-size:1.12rem}
+}
+@media(prefers-reduced-motion:reduce){
+  .slot-game-card,.slot-game-card-action span{transition:none!important}
+  .slot-game-card:hover{transform:none}
+}

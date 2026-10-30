@@ -1,0 +1,46 @@
+{{ $lang := .Site.Language.Lang }}
+{{ $catalog := site.Data.slot_catalog }}
+{{ $title := index $catalog.section_title $lang | default (index $catalog.section_title "en") }}
+{{ $description := index $catalog.section_description $lang | default (index $catalog.section_description "en") }}
+{{ $readMore := index $catalog.read_more $lang | default (index $catalog.read_more "en") }}
+{{ $eyebrow := index $catalog.eyebrow $lang | default (index $catalog.eyebrow "en") }}
+<section class="slots-catalog" aria-labelledby="slots-catalog-title">
+  <div class="slots-catalog-heading">
+    <div class="slots-catalog-heading-top">
+      <span class="slots-catalog-eyebrow">{{ $eyebrow }}</span>
+      <span class="slots-catalog-count">{{ len $catalog.games }} {{ if eq $lang "de" }}Spiele{{ else if eq $lang "en" }}games{{ else if eq $lang "pl" }}gry{{ else if eq $lang "es" }}juegos{{ else if eq $lang "pt" }}jogos{{ else }}ゲーム{{ end }}</span>
+    </div>
+    <h2 id="slots-catalog-title">{{ $title }}</h2>
+    <p>{{ $description }}</p>
+  </div>
+  <div class="slots-catalog-grid">
+    {{ range $index, $game := $catalog.games }}
+      {{ $label := index $game.label $lang | default (index $game.label "en") }}
+      {{ $summary := index $game.description $lang | default (index $game.description "en") }}
+      {{ $alt := index $game.alt $lang | default (index $game.alt "en") }}
+      <article class="slot-game-card">
+        <a class="slot-game-card-link" href="{{ printf "%s#%s" $.RelPermalink $game.anchor }}">
+          <div class="slot-game-card-art">
+            <img
+              src="{{ $game.image | relURL }}"
+              alt="{{ $alt }}"
+              width="1440"
+              height="810"
+              loading="lazy"
+              decoding="async">
+          </div>
+          <div class="slot-game-card-content">
+            <div class="slot-game-card-topline">
+              <span class="slot-game-card-eyebrow">{{ $eyebrow }}</span>
+              <span class="slot-game-card-number">{{ printf "%02d" (add $index 1) }}</span>
+            </div>
+            <h3>{{ $game.name }}</h3>
+            <span class="slot-game-card-label">{{ $label }}</span>
+            <p>{{ $summary }}</p>
+            <span class="slot-game-card-action">{{ $readMore }} <span aria-hidden="true">→</span></span>
+          </div>
+        </a>
+      </article>
+    {{ end }}
+  </div>
+</section>

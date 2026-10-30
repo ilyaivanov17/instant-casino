@@ -1,0 +1,149 @@
+section_title:
+  de: Fünf Spiele im Überblick
+  en: Explore the game collection
+  pl: Poznaj wybrane gry
+  es: Explora la selección de juegos
+  pt: Explore a seleção de jogos
+  ja: ゲームコレクションを見る
+section_description:
+  de: Entdecke die Themen und Spielmechaniken der fünf vorgestellten Slots. Jedes Profil führt direkt zu den ausführlichen Informationen weiter unten.
+  en: Browse the themes and mechanics of five featured slots. Each card takes you straight to its detailed guide below.
+  pl: Poznaj motywy i mechanikę pięciu wybranych automatów. Każda karta prowadzi bezpośrednio do szczegółowego profilu poniżej.
+  es: Descubre los temas y las mecánicas de cinco tragaperras seleccionadas. Cada tarjeta enlaza con su guía detallada.
+  pt: Conheça os temas e as mecânicas de cinco slots selecionados. Cada cartão leva diretamente ao respetivo guia detalhado.
+  ja: 5つのスロットのテーマとゲームの仕組みを紹介します。各カードから下部の詳しいガイドへ移動できます。
+read_more:
+  de: Spielprofil ansehen
+  en: Read game guide
+  pl: Zobacz profil gry
+  es: Ver guía del juego
+  pt: Consultar guia do jogo
+  ja: ゲームガイドを読む
+eyebrow:
+  de: SPIELPROFILE
+  en: GAME PROFILES
+  pl: PROFILE GIER
+  es: PERFILES DE JUEGO
+  pt: PERFIS DE JOGOS
+  ja: ゲームプロフィール
+games:
+  - name: Bigger Bass Bonanza
+    anchor: bigger-bass-bonanza
+    image: /images/slots/bigger-bass-bonanza-cover.webp
+    label:
+      de: Angeln · Freispiele
+      en: Fishing · Free spins
+      pl: Wędkarstwo · Darmowe spiny
+      es: Pesca · Giros gratis
+      pt: Pesca · Rodadas grátis
+      ja: 釣りテーマ · フリースピン
+    description:
+      de: Ein Angelthema mit Fischsymbolen, einer Freispielrunde und einer Bonusmechanik mit Multiplikatoren.
+      en: A fishing theme with fish symbols, a free-spins round and a bonus feature with multipliers.
+      pl: Motyw wędkarski, symbole ryb, runda darmowych spinów i funkcja bonusowa z mnożnikami.
+      es: Una temática de pesca con símbolos de peces, una ronda de giros gratis y una función de bonificación con multiplicadores.
+      pt: Um tema de pesca com símbolos de peixes, uma ronda de rodadas grátis e uma funcionalidade de bónus com multiplicadores.
+      ja: 魚のシンボル、フリースピン、倍率機能を備えた釣りテーマのスロットです。
+    alt:
+      de: Bigger Bass Bonanza Spielgrafik mit Angler, goldenem Fisch und tropischem Hintergrund
+      en: Bigger Bass Bonanza game artwork showing a fisherman, a golden fish and a tropical background
+      pl: Grafika gry Bigger Bass Bonanza przedstawiająca wędkarza, złotą rybę i tropikalne tło
+      es: Arte de Bigger Bass Bonanza con un pescador, un pez dorado y un fondo tropical
+      pt: Arte de Bigger Bass Bonanza com um pescador, um peixe dourado e um cenário tropical
+      ja: 釣り人と金色の魚、南国の背景を描いたBigger Bass Bonanzaのゲームアート
+  - name: Bonanza
+    anchor: bonanza
+    image: /images/slots/bonanza-cover.webp
+    label:
+      de: Megaways · Kaskaden
+      en: Megaways · Cascades
+      pl: Megaways · Kaskady
+      es: Megaways · Cascadas
+      pt: Megaways · Cascatas
+      ja: Megaways · カスケード
+    description:
+      de: Ein Goldgräbermotiv mit wechselnder Walzenstruktur und kaskadierenden Symbolen.
+      en: A gold-mining theme with changing reel layouts and cascading symbols.
+      pl: Motyw poszukiwania złota ze zmiennym układem bębnów i kaskadowymi symbolami.
+      es: Una temática minera con configuraciones variables de carretes y símbolos en cascada.
+      pt: Um tema de exploração mineira com configurações variáveis dos rolos e símbolos em cascata.
+      ja: 金鉱をテーマに、リール構成が変化し、シンボルが連続して落下するスロットです。
+    alt:
+      de: Bonanza Spielgrafik mit rotem Edelstein und goldener Schrift auf einem hölzernen Schild
+      en: Bonanza game artwork with a red gemstone and gold lettering on a wooden sign
+      pl: Grafika Bonanza z czerwonym klejnotem i złotym napisem na drewnianej tablicy
+      es: Arte de Bonanza con una gema roja y letras doradas sobre un letrero de madera
+      pt: Arte de Bonanza com uma gema vermelha e letras douradas numa placa de madeira
+      ja: 赤い宝石と木製の看板に描かれた金色の文字が特徴のBonanzaゲームアート
+  - name: Book of Dead
+    anchor: book-of-dead
+    image: /images/slots/book-of-dead-cover.webp
+    label:
+      de: Ägypten · Freispiele
+      en: Ancient Egypt · Free spins
+      pl: Starożytny Egipt · Darmowe spiny
+      es: Antiguo Egipto · Giros gratis
+      pt: Antigo Egito · Rodadas grátis
+      ja: 古代エジプト · フリースピン
+    description:
+      de: Ein Abenteuer rund um das alte Ägypten mit Scatter-Symbolen, Freispielen und erweiternden Symbolen.
+      en: An ancient-Egypt adventure with scatter symbols, free spins and expanding symbols.
+      pl: Przygoda w scenerii starożytnego Egiptu z symbolami Scatter, darmowymi spinami i rozszerzającymi się symbolami.
+      es: Una aventura ambientada en el antiguo Egipto con símbolos scatter, giros gratis y símbolos expansivos.
+      pt: Uma aventura no antigo Egito com símbolos scatter, rodadas grátis e símbolos expansíveis.
+      ja: 古代エジプトを舞台に、Scatterシンボル、フリースピン、拡張シンボルが登場する冒険テーマです。
+    alt:
+      de: Book of Dead Spielgrafik mit Abenteurer und magischem Buch vor ägyptischer Tempelkulisse
+      en: Book of Dead game artwork showing an explorer and a mysterious book in an ancient Egyptian setting
+      pl: Grafika Book of Dead przedstawiająca poszukiwacza przygód i tajemniczą księgę na tle starożytnego Egiptu
+      es: Arte de Book of Dead con un explorador y un libro misterioso en un entorno del antiguo Egipto
+      pt: Arte de Book of Dead com um explorador e um livro misterioso num cenário do antigo Egito
+      ja: 古代エジプトを背景に探検家と神秘的な本を描いたBook of Deadのゲームアート
+  - name: "Dragon's Luck"
+    anchor: dragons-luck
+    image: /images/slots/dragons-luck-cover.webp
+    label:
+      de: Drache · Münzfunktionen
+      en: Dragon · Coin features
+      pl: Smok · Funkcje monet
+      es: Dragón · Funciones de monedas
+      pt: Dragão · Funcionalidades de moedas
+      ja: ドラゴン · コイン機能
+    description:
+      de: Ein fernöstliches Drachenthema mit Dragon-Coin- und Mega-Coin-Funktionen.
+      en: An East Asian dragon theme with Dragon Coin and Mega Coin features.
+      pl: Motyw smoka inspirowany Azją Wschodnią z funkcjami Dragon Coin i Mega Coin.
+      es: Una temática de dragones de Asia oriental con funciones Dragon Coin y Mega Coin.
+      pt: Um tema de dragões do Leste Asiático com funcionalidades Dragon Coin e Mega Coin.
+      ja: 東アジアの龍をテーマに、Dragon CoinとMega Coinの機能が登場します。
+    alt:
+      de: Dragon's Luck Spielgrafik mit goldenem Drachenkopf auf einem roten Hintergrund
+      en: Dragon's Luck game artwork featuring a golden dragon head on a red background
+      pl: Grafika Dragon's Luck przedstawiająca złotą głowę smoka na czerwonym tle
+      es: Arte de Dragon's Luck con una cabeza de dragón dorada sobre fondo rojo
+      pt: Arte de Dragon's Luck com uma cabeça de dragão dourada sobre um fundo vermelho
+      ja: 赤い背景に金色の龍の頭を描いたDragon's Luckのゲームアート
+  - name: Fruit Party
+    anchor: fruit-party
+    image: /images/slots/fruit-party-cover.webp
+    label:
+      de: Früchte · Multiplikatoren
+      en: Fruit · Multipliers
+      pl: Owoce · Mnożniki
+      es: Frutas · Multiplicadores
+      pt: Fruta · Multiplicadores
+      ja: フルーツ · 倍率
+    description:
+      de: Ein farbenfrohes 7×7-Cluster-Spiel mit Symbolmultiplikatoren und einer Freispielrunde.
+      en: A colourful 7×7 cluster game with symbol multipliers and a free-spins round.
+      pl: Kolorowa gra klastrowa 7×7 z mnożnikami symboli i rundą darmowych spinów.
+      es: Un colorido juego de clústeres de 7×7 con multiplicadores en los símbolos y una ronda de giros gratis.
+      pt: Um jogo de clusters 7×7 colorido, com multiplicadores nos símbolos e uma ronda de rodadas grátis.
+      ja: 7×7のカラフルなクラスターゲームで、シンボル倍率とフリースピン機能を備えています。
+    alt:
+      de: Fruit Party Spielgrafik mit bunten Früchten und dem mehrfarbigen Spieletitel
+      en: Fruit Party game artwork with colourful fruit and the multicoloured game title
+      pl: Grafika Fruit Party z kolorowymi owocami i wielobarwnym tytułem gry
+      es: Arte de Fruit Party con frutas de colores y el título multicolor del juego
+      pt: Arte de Fruit Party com frutas coloridas e o título multicolorido do jogo
+      ja: カラフルなフルーツと多色のタイトルを描いたFruit Partyのゲームアート

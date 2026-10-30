@@ -3,7 +3,7 @@ title: 'Przewodnik po slotach: podstawy i profile gier'
 description: 'Profile wybranych automatów online: zasady, funkcje i najważniejsze informacje.'
 type: page
 seo_title: 'Przewodnik po slotach: podstawy i profile gier | Instant Casino'
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -16,11 +16,7 @@ aliases:
 - /pl/catalog/slots/fruit-party/
 - /pl/catalog/slots/
 slug: slots
-screenshots:
-- /images/slots/wolf-gold.webp
-screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfejsu operatora.'
 ---
-## Przewodnik po slotach: podstawy i profile gier
 
 Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
 

@@ -11,10 +11,10 @@ build:
   list: always
 slug: mega-fortune-progressive-jackpot
 screenshots:
-- https://mb.cision.com/Public/13524/2642346/9a245ea853fe3193_800x800ar.jpg
-screenshots_alt: 'Imagem do jackpot de Mega Fortune incluída no comunicado da NetEnt de 2018'
-screenshots_caption: 'Imagem oficial do jackpot no comunicado da NetEnt de 11 de outubro de 2018.'
-screenshots_note: 'Crédito da imagem: NetEnt/Cision, comunicado de 11 de outubro de 2018. A imagem mostra o jackpot, não o vencedor.'
+- /images/mega-fortune-editorial.webp
+screenshots_alt: 'Imagem ilustrativa de Mega Fortune: uma máquina de jogo num ambiente luxuoso'
+screenshots_caption: 'Ilustração editorial para o estudo de caso do jackpot de Mega Fortune.'
+screenshots_note: 'Esta ilustração foi criada para o artigo. Não representa a interface original do jogo nem o vencedor do jackpot de 2018.'
 ---
 
 ## Um prémio recorde — e uma distinção importante

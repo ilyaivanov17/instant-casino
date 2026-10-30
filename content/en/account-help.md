@@ -103,6 +103,8 @@ Age and identity checks may be required. Use the official account area and follo
 
 Bonus wagering and withdrawal processing are governed by the terms for the particular offer and payment method. Check those terms before depositing or requesting a payout.
 
+The official [Instant Casino FAQ](https://www.instantcasino.com/faq) currently lists a minimum deposit of €20. The applicable limit may vary by payment method and account, so confirm the amount shown in the cashier before depositing.
+
 ## Find the detailed answer
 
 Common topics include account registration, verification, bonus terms, payments, game mechanics and the identity of the operator. Each detail page answers one focused question. The links below take you directly from a broad topic to the specific explanation.

@@ -99,7 +99,8 @@
   "description":{{ $description | jsonify | safeJS }},
   "inLanguage":{{ .Site.Language.Name | jsonify | safeJS }},
   "mainEntityOfPage":{"@type":"WebPage","@id":{{ .Permalink | jsonify | safeJS }}},
-  "author":{"@type":"Organization","name":{{ $settings.author | jsonify | safeJS }}}
+  "author":{{ with .Params.author }}{{ $authorPage := site.GetPage (printf "/authors/%s" .) }}{{ if $authorPage }}{"@type":"Person","@id":{{ printf "%s#person" $authorPage.Permalink | jsonify | safeJS }},"name":{{ $authorPage.Title | jsonify | safeJS }},"url":{{ $authorPage.Permalink | jsonify | safeJS }}}{{ else }}{"@type":"Organization","name":{{ $settings.author | jsonify | safeJS }}}{{ end }}{{ else }}{"@type":"Organization","name":{{ $settings.author | jsonify | safeJS }}}{{ end }},
+  "publisher":{"@type":"Organization","name":{{ $brand | jsonify | safeJS }},"url":{{ .Site.BaseURL | jsonify | safeJS }}}
   {{- with .Date }},"datePublished":{{ .Format "2006-01-02" | jsonify | safeJS }}{{ end }}
   {{- with .Lastmod }},"dateModified":{{ .Format "2006-01-02" | jsonify | safeJS }}{{ end }}
 }

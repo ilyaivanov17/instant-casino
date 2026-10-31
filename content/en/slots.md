@@ -285,122 +285,172 @@ A volatility label is, at most, a broad guide when the provider explains what it
 
 A slot built around space and colourful gemstones, featuring expanding Wilds and respins.
 
+The expanding Wild feature can change how symbols connect across the reels; check the game rules for its exact trigger and respin conditions.
+
 
 <h2 id="the-dog-house">The Dog House</h2>
 
 A slot built around dogs and a playful doghouse, featuring Sticky Wilds and free spins.
+
+Sticky Wilds remain in position during the relevant feature, making the bonus-round rules and symbol positions especially important.
 
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
 A slot built around ancient Egyptian temples and golden scarabs, featuring free spins and expanding symbols.
 
+The expanding-symbol feature changes the reel layout during free spins; the paytable explains which symbol is selected and how the expansion works.
+
 
 <h2 id="reactoonz">Reactoonz</h2>
 
 A slot built around colourful aliens in a space setting, featuring cluster wins and the Quantum Leap feature.
+
+Wins are evaluated through adjacent symbol groups rather than standard paylines, so the required cluster size and symbol-clearing rules matter.
 
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
 A slot built around cowboys and gold in the Wild West, featuring Sticky Wilds and respins.
 
+Sticky Wilds remain in position during the relevant feature, making the bonus-round rules and symbol positions especially important.
+
 
 <h2 id="starlight-princess">Starlight Princess</h2>
 
 A slot built around a magical princess in a fantasy world, featuring tumble wins and multipliers.
+
+Winning symbols are removed and replaced, allowing consecutive results within one paid spin; multiplier rules vary by game.
 
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
 A slot built around buffalo and wildlife across the North American prairie, featuring Megaways reels and cascades.
 
+The number of symbols on each reel can vary from spin to spin, changing the available winning ways; the displayed game rules define the exact range.
+
 
 <h2 id="mega-fortune">Mega Fortune</h2>
 
 A slot built around a luxury yacht and a glittering jackpot, featuring progressive jackpot tiers.
+
+The jackpot element follows its own rules and may depend on the version or operator; check the live game display for current eligibility and prize details.
 
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
 A slot built around a dusty Wild West town and gunslingers, featuring multiple free-spins modes.
 
+The free-spins feature has its own entry and round rules, including any retrigger conditions; these should be checked in the in-game help.
+
 
 <h2 id="twin-spin">Twin Spin</h2>
 
 A slot built around classic slot symbols and linked reels, featuring twin-reel features and random symbols.
+
+Linked reels can act together as a feature, so the way matching symbols are copied or paired is central to understanding the game.
 
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
 A slot built around Anubis and ancient Egyptian imagery, featuring collectible symbols and bonus features.
 
+Collection symbols and bonus triggers determine how the feature develops; consult the paytable for the exact collection and award conditions.
+
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
 A slot built around sweets, candy and a colourful fantasy world, featuring cluster wins and growing multipliers.
+
+Wins are evaluated through adjacent symbol groups rather than standard paylines, so the required cluster size and symbol-clearing rules matter.
 
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
 A slot built around vampire characters and a gothic romance, featuring free spins and the Wild Desire feature.
 
+The free-spins feature has its own entry and round rules, including any retrigger conditions; these should be checked in the in-game help.
+
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
 A slot built around five golden lions in an Asian-inspired temple setting, featuring Megaways reels and free spins.
+
+The number of symbols on each reel can vary from spin to spin, changing the available winning ways; the displayed game rules define the exact range.
 
 
 <h2 id="le-bandit">Le Bandit</h2>
 
 A slot built around a raccoon thief in a Parisian setting, featuring cluster wins and bonus features.
 
+Wins are evaluated through adjacent symbol groups rather than standard paylines, so the required cluster size and symbol-clearing rules matter.
+
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
 A slot built around masked gunslingers in the Wild West, featuring bonus rounds and duel features.
+
+The bonus round is a central part of the game, but its trigger and sequence are version-specific details best confirmed in the paytable.
 
 
 <h2 id="money-train-3">Money Train 3</h2>
 
 A slot built around a futuristic train and two outlaws, featuring bonus symbols and multiplier features.
 
+Collection symbols and bonus triggers determine how the feature develops; consult the paytable for the exact collection and award conditions.
+
 
 <h2 id="money-train-4">Money Train 4</h2>
 
 A slot built around outlaws and a futuristic train adventure, featuring collectible symbols and bonus features.
+
+Collection symbols and bonus triggers determine how the feature develops; consult the paytable for the exact collection and award conditions.
 
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
 A slot built around Norse gods and the world of Vikings, featuring free spins and special bonus features.
 
+The free-spins feature has its own entry and round rules, including any retrigger conditions; these should be checked in the in-game help.
+
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
 A slot built around colourful fruit and a bright fantasy world, featuring cluster wins and multipliers.
+
+Wins are evaluated through adjacent symbol groups rather than standard paylines, so the required cluster size and symbol-clearing rules matter.
 
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
 A slot built around Zeus and a grand temple on Mount Olympus, featuring tumble wins and multipliers.
 
+Winning symbols are removed and replaced, allowing consecutive results within one paid spin; multiplier rules vary by game.
+
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
 A slot built around an explorer searching for El Dorado, featuring cascading wins and rising multipliers.
+
+Winning symbols are removed and replaced, allowing consecutive results within one paid spin; multiplier rules vary by game.
 
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
 A slot built around sweets and fruit in a colourful fantasy world, featuring tumble wins and multipliers.
 
+Winning symbols are removed and replaced, allowing consecutive results within one paid spin; multiplier rules vary by game.
+
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
 A slot built around wolves and the North American wilderness, featuring Wild symbols, respins and jackpot features.
 
+The jackpot element follows its own rules and may depend on the version or operator; check the live game display for current eligibility and prize details.
+
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
 A slot built around a lion and the African savannah, featuring progressive jackpot tiers.
+
+The jackpot element follows its own rules and may depend on the version or operator; check the live game display for current eligibility and prize details.

@@ -105,7 +105,7 @@
     var searchableCards = catalogueCards.map(function (card) {
       return {
         element: card,
-        text: normalizeCatalogueSearch((card.getAttribute('data-search') || '') + ' ' + card.textContent)
+        text: normalizeCatalogueSearch(card.getAttribute('data-search') || '')
       };
     });
 

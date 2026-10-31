@@ -1,8 +1,8 @@
 ---
 title: スロットガイド：基本とゲームプロフィール
-description: 'オンラインスロットのルール、機能、主要情報をまとめたゲーム別ガイドです。'
+description: 'ゲームの仕組み、独自分析、選定した肯定的なプレイヤーの感想をまとめたスロット紹介。'
 type: page
-seo_title: スロットガイド：基本とゲームプロフィール | Instant Casino
+seo_title: 'スロットガイド：ゲーム分析とプレイヤーの感想 | Instant Casino'
 lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:

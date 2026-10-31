@@ -66,7 +66,9 @@
             <span class="slot-game-card-action">{{ $readMore }} <span aria-hidden="true">→</span></span>
           </div>
         </a>
-        {{ if eq $lang "de" }}<a class="slot-game-card-bonus-link" href="{{ $.RelPermalink }}#de-affiliate-title" aria-label="Bonusangebote im Überblick ansehen">Bonusangebote ansehen <span aria-hidden="true">↓</span></a>{{ end }}
+        {{ $bonusHref := index (dict "de" (printf "%s#de-affiliate-title" $.RelPermalink) "en" "/en/bonuses/" "pl" "/pl/bonuses/" "es" "/es/bonuses/" "pt" "/pt/bonuses/" "ja" "/ja/bonuses/") $lang }}
+        {{ $bonusLabel := index (dict "de" "Bonusangebote ansehen" "en" "Explore bonus terms" "pl" "Sprawdź warunki bonusów" "es" "Ver condiciones de bonos" "pt" "Ver condições dos bónus" "ja" "ボーナス条件を見る") $lang }}
+        <a class="slot-game-card-bonus-link" href="{{ $bonusHref }}" aria-label="{{ $bonusLabel }}">{{ $bonusLabel }} <span aria-hidden="true">↓</span></a>
       </article>
     {{ end }}
   </div>

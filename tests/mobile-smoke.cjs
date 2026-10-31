@@ -89,6 +89,10 @@ async function inspectPage(page, path, expectedCards = null) {
   const firstTitle = await searchPage.locator('.slot-game-card:visible h3').first().textContent();
   await search.fill('Bigger Bass');
   const multiWordMatches = await searchPage.locator('.slot-game-card:visible').count();
+  // Search a phrase that appears in the game description, not the title/provider.
+  await search.fill('gold mining theme');
+  const descriptionMatches = await searchPage.locator('.slot-game-card:visible').count();
+  const descriptionMatchTitle = await searchPage.locator('.slot-game-card:visible h3').first().textContent();
   await search.fill('Pragmatic Play');
   const providerMatches = await searchPage.locator('.slot-game-card:visible').count();
   await search.fill('no-such-game-123');
@@ -96,8 +100,9 @@ async function inspectPage(page, path, expectedCards = null) {
   await searchPage.locator('#slot-catalog-clear').click();
   const restoredCount = await searchPage.locator('.slot-game-card:visible').count();
   const searchOk = titleMatches === 1 && firstTitle.trim() === 'Bigger Bass Bonanza' &&
-    multiWordMatches === 1 && providerMatches > 0 && emptyStateVisible && restoredCount === 30;
-  console.log(`${searchOk ? 'OK' : 'FAIL'} catalogue search title=${titleMatches} multiword=${multiWordMatches} provider=${providerMatches} empty=${emptyStateVisible} reset=${restoredCount}/30`);
+    multiWordMatches === 1 && descriptionMatches === 1 && descriptionMatchTitle.trim() === 'Bonanza' &&
+    providerMatches > 0 && emptyStateVisible && restoredCount === 30;
+  console.log(`${searchOk ? 'OK' : 'FAIL'} catalogue search title=${titleMatches} multiword=${multiWordMatches} description=${descriptionMatches} (${descriptionMatchTitle?.trim()}) provider=${providerMatches} empty=${emptyStateVisible} reset=${restoredCount}/30`);
   if (!searchOk) failed = true;
   await searchPage.close();
 

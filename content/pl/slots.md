@@ -350,122 +350,172 @@ Tabela wypłat jest podstawowym źródłem wartości symboli i warunków wygrane
 
 Slot inspirowany motywem kosmos i kolorowe klejnoty, z funkcją: rozszerzające się symbole Wild i respiny.
 
+Rozszerzające się symbole Wild mogą zmieniać układ połączeń na bębnach. Zasady gry wyjaśniają dokładne warunki ich aktywacji i respinów.
+
 
 <h2 id="the-dog-house">The Dog House</h2>
 
 Slot inspirowany motywem psy i wesołą budę dla psów, z funkcją: Sticky Wild i darmowe spiny.
+
+Sticky Wild pozostają na swoich pozycjach podczas odpowiedniej funkcji. Dlatego warto sprawdzić zasady rundy bonusowej i rozmieszczenie symboli.
 
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
 Slot inspirowany motywem starożytne egipskie świątynie i złote skarabeusze, z funkcją: darmowe spiny i rozszerzające się symbole.
 
+Funkcja rozszerzania symboli zmienia układ bębnów podczas darmowych spinów. Tabela wypłat wyjaśnia wybór symbolu i przebieg tej funkcji.
+
 
 <h2 id="reactoonz">Reactoonz</h2>
 
 Slot inspirowany motywem kolorowi kosmici w kosmicznej scenerii, z funkcją: wygrane klastrowe i funkcję Quantum Leap.
+
+Wygrane są tworzone przez sąsiadujące grupy symboli, a nie standardowe linie. Znaczenie mają wymagana wielkość klastra i zasady usuwania symboli.
 
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
 Slot inspirowany motywem kowboje i złoto Dzikiego Zachodu, z funkcją: Sticky Wild i respiny.
 
+Sticky Wild pozostają na swoich pozycjach podczas odpowiedniej funkcji. Dlatego warto sprawdzić zasady rundy bonusowej i rozmieszczenie symboli.
+
 
 <h2 id="starlight-princess">Starlight Princess</h2>
 
 Slot inspirowany motywem magiczna księżniczka w świecie fantasy, z funkcją: wygrane kaskadowe i mnożniki.
+
+Wygrywające symbole znikają i są zastępowane nowymi, co pozwala uzyskać kolejne wyniki w ramach jednego opłaconego spinu. Zasady mnożników zależą od gry.
 
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
 Slot inspirowany motywem bawoły i dzikie zwierzęta na północnoamerykańskiej prerii, z funkcją: bębny Megaways i kaskady.
 
+Liczba symboli na każdym bębnie może zmieniać się między spinami, wpływając na liczbę sposobów wygranej. Dokładny zakres określają zasady gry.
+
 
 <h2 id="mega-fortune">Mega Fortune</h2>
 
 Slot inspirowany motywem luksusowy jacht i lśniący jackpot, z funkcją: progresywne poziomy jackpota.
+
+Jackpot podlega osobnym zasadom, które mogą zależeć od wersji gry i operatora. Aktualne warunki oraz szczegóły nagrody sprawdź w grze.
 
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
 Slot inspirowany motywem zakurzone miasteczko Dzikiego Zachodu i rewolwerowców, z funkcją: kilka trybów darmowych spinów.
 
+Darmowe spiny mają własne warunki uruchomienia i przebiegu, w tym zasady ponownego przyznania. Szczegóły znajdują się w pomocy gry.
+
 
 <h2 id="twin-spin">Twin Spin</h2>
 
 Slot inspirowany motywem klasyczne symbole automatów i połączone bębny, z funkcją: funkcje podwójnych bębnów i losowe symbole.
+
+Połączone bębny mogą działać jako wspólna funkcja. Ważne jest, w jaki sposób pasujące symbole są kopiowane lub łączone.
 
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
 Slot inspirowany motywem Anubisa i starożytne egipskie motywy, z funkcją: symbole kolekcjonerskie i funkcje bonusowe.
 
+Symbole kolekcjonerskie i wyzwalacze bonusów wpływają na przebieg funkcji. Tabela wypłat podaje dokładne warunki zbierania i przyznawania nagród.
+
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
 Slot inspirowany motywem słodycze i kolorowy świat fantasy, z funkcją: wygrane klastrowe i rosnące mnożniki.
+
+Wygrane są tworzone przez sąsiadujące grupy symboli, a nie standardowe linie. Znaczenie mają wymagana wielkość klastra i zasady usuwania symboli.
 
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
 Slot inspirowany motywem wampiryczne postacie i gotycka opowieść o miłości, z funkcją: darmowe spiny i funkcję Wild Desire.
 
+Darmowe spiny mają własne warunki uruchomienia i przebiegu, w tym zasady ponownego przyznania. Szczegóły znajdują się w pomocy gry.
+
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
 Slot inspirowany motywem pięć złotych lwów w świątynnym świecie inspirowanym Azją, z funkcją: bębny Megaways i darmowe spiny.
+
+Liczba symboli na każdym bębnie może zmieniać się między spinami, wpływając na liczbę sposobów wygranej. Dokładny zakres określają zasady gry.
 
 
 <h2 id="le-bandit">Le Bandit</h2>
 
 Slot inspirowany motywem szopa-złodzieja w paryskiej scenerii, z funkcją: wygrane klastrowe i funkcje bonusowe.
 
+Wygrane są tworzone przez sąsiadujące grupy symboli, a nie standardowe linie. Znaczenie mają wymagana wielkość klastra i zasady usuwania symboli.
+
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
 Slot inspirowany motywem zamaskowanych rewolwerowców na Dzikim Zachodzie, z funkcją: rundy bonusowe i funkcje pojedynków.
+
+Runda bonusowa jest ważnym elementem rozgrywki. Jej wyzwalacze i przebieg należy jednak sprawdzić w aktualnej tabeli wypłat.
 
 
 <h2 id="money-train-3">Money Train 3</h2>
 
 Slot inspirowany motywem futurystyczny pociąg i dwoje banitów, z funkcją: symbole bonusowe i funkcje mnożników.
 
+Symbole kolekcjonerskie i wyzwalacze bonusów wpływają na przebieg funkcji. Tabela wypłat podaje dokładne warunki zbierania i przyznawania nagród.
+
 
 <h2 id="money-train-4">Money Train 4</h2>
 
 Slot inspirowany motywem banitów i futurystyczną przygodę kolejową, z funkcją: symbole kolekcjonerskie i funkcje bonusowe.
+
+Symbole kolekcjonerskie i wyzwalacze bonusów wpływają na przebieg funkcji. Tabela wypłat podaje dokładne warunki zbierania i przyznawania nagród.
 
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
 Slot inspirowany motywem nordyckich bogów i świat Wikingów, z funkcją: darmowe spiny i specjalne funkcje bonusowe.
 
+Darmowe spiny mają własne warunki uruchomienia i przebiegu, w tym zasady ponownego przyznania. Szczegóły znajdują się w pomocy gry.
+
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
 Slot inspirowany motywem kolorowe owoce i słoneczny świat fantasy, z funkcją: wygrane klastrowe i mnożniki.
+
+Wygrane są tworzone przez sąsiadujące grupy symboli, a nie standardowe linie. Znaczenie mają wymagana wielkość klastra i zasady usuwania symboli.
 
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
 Slot inspirowany motywem Zeusa i wspaniałą świątynię na Olimpie, z funkcją: wygrane kaskadowe i mnożniki.
 
+Wygrywające symbole znikają i są zastępowane nowymi, co pozwala uzyskać kolejne wyniki w ramach jednego opłaconego spinu. Zasady mnożników zależą od gry.
+
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
 Slot inspirowany motywem odkrywcę poszukującego El Dorado, z funkcją: wygrane kaskadowe i rosnące mnożniki.
+
+Wygrywające symbole znikają i są zastępowane nowymi, co pozwala uzyskać kolejne wyniki w ramach jednego opłaconego spinu. Zasady mnożników zależą od gry.
 
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
 Slot inspirowany motywem słodycze i owoce w kolorowym świecie fantasy, z funkcją: wygrane kaskadowe i mnożniki.
 
+Wygrywające symbole znikają i są zastępowane nowymi, co pozwala uzyskać kolejne wyniki w ramach jednego opłaconego spinu. Zasady mnożników zależą od gry.
+
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
 Slot inspirowany motywem wilki i północnoamerykańską dziką przyrodę, z funkcją: symbole Wild, respiny i funkcje jackpot.
 
+Jackpot podlega osobnym zasadom, które mogą zależeć od wersji gry i operatora. Aktualne warunki oraz szczegóły nagrody sprawdź w grze.
+
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
 Slot inspirowany motywem lwa i afrykańską sawannę, z funkcją: progresywne poziomy jackpota.
+
+Jackpot podlega osobnym zasadom, które mogą zależeć od wersji gry i operatora. Aktualne warunki oraz szczegóły nagrody sprawdź w grze.

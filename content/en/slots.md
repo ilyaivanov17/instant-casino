@@ -46,6 +46,8 @@ Before playing, confirm the game version, RTP setting where disclosed, stake lim
 
 The player notes below are selective examples of positive comments published by players on external review or discussion sites. They are not a representative survey, a verified record of outcomes or a promise of results. Our own analysis is separate: it explains the game's structure and the mechanics that distinguish it. We do not reproduce full reviews or treat individual wins as evidence of expected performance.
 
+Some review platforms disclose commercial or affiliate relationships; we use player comments only as qualitative examples, not as independent performance data.
+
 ---
 
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>

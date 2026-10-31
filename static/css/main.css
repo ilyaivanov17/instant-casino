@@ -3247,3 +3247,53 @@ svg.slot-search-icon{
   .prose :where(th):not(:where([class~="not-prose"] *)),
   .prose :where(td):not(:where([class~="not-prose"] *)){padding:.7rem .75rem;font-size:.82rem}
 }
+
+
+/* Horizontally scrollable editorial tables, including long feature descriptions. */
+.prose table:not([class~="not-prose"] *){display:block;width:100%;max-width:100%;overflow-x:auto;overflow-y:hidden;border-collapse:separate;scrollbar-width:thin;-webkit-overflow-scrolling:touch}
+.prose table:not([class~="not-prose"] *) thead,.prose table:not([class~="not-prose"] *) tbody{display:table;width:max-content;min-width:100%;table-layout:auto}
+.prose table:not([class~="not-prose"] *) th,.prose table:not([class~="not-prose"] *) td{white-space:normal;overflow-wrap:anywhere}
+.prose table:not([class~="not-prose"] *) td:last-child,.prose table:not([class~="not-prose"] *) th:last-child{min-width:18rem}
+@media(max-width:640px){.prose table:not([class~="not-prose"] *) td:last-child,.prose table:not([class~="not-prose"] *) th:last-child{min-width:22rem}}
+
+/* Bonus call-to-action below each localized slot profile. */
+.slot-profile-bonus-cta{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;margin:1.75rem 0 2.5rem;padding:1rem 1.15rem;border:1px solid rgba(244,189,80,.24);border-radius:12px;background:linear-gradient(105deg,rgba(244,189,80,.09),rgba(13,23,40,.72))}
+.slot-profile-bonus-cta p{margin:0!important;color:#e2d4b8}
+.slot-profile-bonus-cta a{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;padding:.72rem 1rem;border-radius:8px;background:#f4bd50;color:#160d04!important;font-weight:800;text-decoration:none!important}
+.slot-profile-bonus-cta a:hover{background:#ffcf6d;color:#160d04!important}
+@media(max-width:640px){.slot-profile-bonus-cta{align-items:stretch;flex-direction:column}.slot-profile-bonus-cta a{width:100%}}
+
+
+/* === RESPONSIVE MARKDOWN TABLES === */
+.table-scroll-container {
+  width: 100%;
+  max-width: 100%;
+  margin: 1.5rem 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+}
+.table-scroll-container:focus-visible {
+  outline: 2px solid #fbbf24;
+  outline-offset: 3px;
+}
+.prose .table-scroll-container table {
+  display: table;
+  width: max-content;
+  min-width: 100%;
+  max-width: none;
+  margin: 0;
+  white-space: normal;
+}
+.prose .table-scroll-container th,
+.prose .table-scroll-container td {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  vertical-align: top;
+}
+@media (max-width: 767px) {
+  .prose .table-scroll-container table {
+    min-width: 620px;
+  }
+}

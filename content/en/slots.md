@@ -103,6 +103,12 @@ A volatility label is, at most, a broad guide when the provider explains what it
 The core loop is easy to follow: the Fisherman Wild collects fish values, while free spins and retriggers determine how the feature develops. The most useful comparison point is how collection and extra spins interact, not the fishing theme alone.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="bonanza">Bonanza</h2>
 
 ## Bonanza: a quick guide
@@ -156,6 +162,12 @@ A volatility label is, at most, a broad guide when the provider explains what it
 Bonanza pairs a changing Megaways grid with cascading wins and a multiplier that can build during free spins. Its defining detail is the way each cascade can affect the next multiplier step.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="book-of-dead">Book of Dead</h2>
 
 ## Book of Dead: a quick guide
@@ -215,6 +227,12 @@ A published player review highlights the Egyptian atmosphere, soundtrack and str
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/book-of-dead-play-n-go)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
 ## Dragon's Luck: a quick guide
@@ -268,6 +286,12 @@ A volatility label is, at most, a broad guide when the provider explains what it
 Dragon's Luck centres on coin symbols that reveal or transform symbols on the reels rather than a conventional free-spin sequence. The paytable is the best guide to the exact role of Dragon Coin and Mega Coin.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="fruit-party">Fruit Party</h2>
 
 ## Fruit Party: a quick guide
@@ -325,6 +349,12 @@ A player review points to the clear cluster-pay format and cascading wins as mem
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/fruit-party-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="starburst">Starburst</h2>
 
 A slot built around space and colourful gemstones, featuring expanding Wilds and respins.
@@ -342,6 +372,12 @@ A player review praises the colourful graphics and smooth presentation, while an
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/starburst)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="the-dog-house">The Dog House</h2>
 
 A slot built around dogs and a playful doghouse, featuring Sticky Wilds and free spins.
@@ -353,6 +389,12 @@ Sticky Wilds remain in position during the relevant feature, making the bonus-ro
 Sticky Wilds make The Dog House bonus round a game of position and persistence: a Wild that stays on the reels changes the combinations available on later spins. The barrel and retrigger rules are the details worth checking.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
 A slot built around ancient Egyptian temples and golden scarabs, featuring free spins and expanding symbols.
@@ -370,6 +412,12 @@ A player review singles out the retrigger mechanic that can add further expandin
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/legacy-of-dead-playtech)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="reactoonz">Reactoonz</h2>
 
 A slot built around colourful aliens in a space setting, featuring cluster wins and the Quantum Leap feature.
@@ -387,6 +435,12 @@ Reactoonz appears in a public forum participant's personal list of favourite slo
 [Read the published player discussion](https://www.lcb.org/onlinecasinobonusforum/online-slot-discussion/what-is-your-top-5-most-played-slot-in-2026)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
 A slot built around cowboys and gold in the Wild West, featuring Sticky Wilds and respins.
@@ -404,6 +458,12 @@ A player review highlights the Western soundtrack and sticky multiplier Wilds as
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/wild-west-gold-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="starlight-princess">Starlight Princess</h2>
 
 A slot built around a magical princess in a fantasy world, featuring tumble wins and multipliers.
@@ -421,6 +481,12 @@ A player review gives particular attention to the anime-inspired atmosphere, vis
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/starlight-princess-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
 A slot built around buffalo and wildlife across the North American prairie, featuring Megaways reels and cascades.
@@ -438,6 +504,12 @@ A player review calls out the colourful presentation and animal-themed visual de
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/buffalo-king-megaways-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="mega-fortune">Mega Fortune</h2>
 
 A slot built around a luxury yacht and a glittering jackpot, featuring progressive jackpot tiers.
@@ -455,6 +527,12 @@ A player review praises the polished visuals and the distinction between the fre
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/mega-fortune)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
 A slot built around a dusty Wild West town and gunslingers, featuring multiple free-spins modes.
@@ -472,6 +550,12 @@ Several player reviews praise the visual presentation and the choice between thr
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/dead-or-alive-2-netent)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="twin-spin">Twin Spin</h2>
 
 A slot built around classic slot symbols and linked reels, featuring twin-reel features and random symbols.
@@ -489,6 +573,12 @@ A long-time player highlights the linked-reel feature, retro atmosphere and soun
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/twin-spin)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
 A slot built around Anubis and ancient Egyptian imagery, featuring collectible symbols and bonus features.
@@ -500,6 +590,12 @@ Collection symbols and bonus triggers determine how the feature develops; consul
 Hand of Anubis combines cluster pays with collection and bonus features. The important analytical question is how symbols are gathered and how each stage changes the state of the feature round.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="sugar-rush">Sugar Rush</h2>
 
 A slot built around sweets, candy and a colourful fantasy world, featuring cluster wins and growing multipliers.
@@ -511,6 +607,12 @@ Wins are evaluated through adjacent symbol groups rather than standard paylines,
 Sugar Rush uses a 7×7 cluster grid with tumbles and multipliers that can remain on the board. The distinctive detail is how multiplier positions may influence later cascades in the same spin.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="immortal-romance">Immortal Romance</h2>
 
 A slot built around vampire characters and a gothic romance, featuring free spins and the Wild Desire feature.
@@ -528,6 +630,12 @@ Player reviews highlight the gothic storyline, soundtrack and character-specific
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/immortal-romance)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
 A slot built around five golden lions in an Asian-inspired temple setting, featuring Megaways reels and free spins.
@@ -545,6 +653,12 @@ A player review says the game grew on them after several sessions and notes its 
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/5-lions-megaways-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="le-bandit">Le Bandit</h2>
 
 A slot built around a raccoon thief in a Parisian setting, featuring cluster wins and bonus features.
@@ -556,6 +670,12 @@ Wins are evaluated through adjacent symbol groups rather than standard paylines,
 Le Bandit uses a cluster grid and a collection-led bonus structure, creating a more layered feature round than a classic line slot. The key is how the bonus symbols interact, not the raccoon character alone.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
 A slot built around masked gunslingers in the Wild West, featuring bonus rounds and duel features.
@@ -573,6 +693,12 @@ A player review gives the game a positive rating and singles out its gritty West
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/wanted-dead-or-a-wild-hacksaw-gaming)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="money-train-3">Money Train 3</h2>
 
 A slot built around a futuristic train and two outlaws, featuring bonus symbols and multiplier features.
@@ -590,6 +716,12 @@ A player review praises the presentation and the variety created by persistent f
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/money-train-3-relax-gaming)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="money-train-4">Money Train 4</h2>
 
 A slot built around outlaws and a futuristic train adventure, featuring collectible symbols and bonus features.
@@ -601,6 +733,12 @@ Collection symbols and bonus triggers determine how the feature develops; consul
 Money Train 4 expands the feature-symbol roster and adds more layers to the hold-and-respin format. Understanding what each modifier does is more useful than simply counting the number of special symbols.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
 A slot built around Norse gods and the world of Vikings, featuring free spins and special bonus features.
@@ -618,6 +756,12 @@ Player reviews highlight the four character-led free-spins modes, soundtrack and
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/thunderstruck-2)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
 A slot built around colourful fruit and a bright fantasy world, featuring cluster wins and multipliers.
@@ -629,6 +773,12 @@ Wins are evaluated through adjacent symbol groups rather than standard paylines,
 Fruit Party 2 builds on the fruit-cluster format with evolving Wild and multiplier effects alongside free spins. It is worth comparing how its Wild growth works with the original rather than assuming the two versions are identical.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
 A slot built around Zeus and a grand temple on Mount Olympus, featuring tumble wins and multipliers.
@@ -646,6 +796,12 @@ A player review praises the mythological setting and describes the multiplier fe
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/gates-of-olympus-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
 A slot built around an explorer searching for El Dorado, featuring cascading wins and rising multipliers.
@@ -663,6 +819,12 @@ A player review mentions Gonzo's animations, the jungle setting and the music as
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/gonzos-quest)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
 A slot built around sweets and fruit in a colourful fantasy world, featuring tumble wins and multipliers.
@@ -680,6 +842,12 @@ In a public slot discussion, a player names Sweet Bonanza among the Pragmatic Pl
 [Read the published player discussion](https://www.reddit.com/r/slots/comments/1u32p2u/my_best_online_slot_providers_list_in_2026_will/)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="wolf-gold">Wolf Gold</h2>
 
 A slot built around wolves and the North American wilderness, featuring Wild symbols, respins and jackpot features.
@@ -697,6 +865,12 @@ Player reviews describe Wolf Gold as a personal favourite and mention its animal
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/wolf-gold-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>
 <h2 id="mega-moolah">Mega Moolah</h2>
 
 A slot built around a lion and the African savannah, featuring progressive jackpot tiers.
@@ -714,3 +888,9 @@ A player review highlights the nostalgic safari theme and the appeal of having f
 [Read the published player discussion](https://www.askgamblers.com/casino-games/online-slots/reviews/mega-moolah)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/bonuses/">Explore bonus terms →</a>
+</div>

@@ -108,6 +108,12 @@ O ritmo depende das animações, pausas, transições automáticas e facilidade 
 O ciclo principal é simples de acompanhar: o Wild do pescador recolhe valores dos peixes, enquanto as rodadas grátis e as reativações determinam a evolução do bónus. O ponto mais interessante é a relação entre a recolha de valores e as rodadas adicionais.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="bonanza">Bonanza</h2>
 
 ## Bonanza: guia rápido
@@ -166,6 +172,12 @@ O ritmo depende das animações, pausas, transições automáticas e facilidade 
 Bonanza combina uma grelha Megaways variável com cascatas e um multiplicador que pode aumentar durante as rodadas grátis. O seu elemento distintivo é a forma como cada cascata pode influenciar o nível seguinte do multiplicador.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="book-of-dead">Book of Dead</h2>
 
 ## Book of Dead: guia rápido
@@ -230,6 +242,12 @@ Uma opinião publicada destaca o ambiente egípcio, a banda sonora e o bónus si
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/book-of-dead-play-n-go)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
 ## Dragon's Luck: guia rápido
@@ -288,6 +306,12 @@ O ritmo depende das animações, pausas, transições automáticas e facilidade 
 Dragon's Luck centra-se em símbolos de moedas que revelam ou transformam símbolos nos rolos, em vez de uma sequência convencional de rodadas grátis. A tabela de pagamentos explica a função exata de Dragon Coin e Mega Coin.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="fruit-party">Fruit Party</h2>
 
 ## Fruit Party: guia rápido
@@ -350,6 +374,12 @@ Uma opinião de jogador destaca o sistema de clusters e as cascatas como element
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/fruit-party-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="starburst">Starburst</h2>
 
 Um slot inspirado em o espaço e as gemas coloridas, com símbolos Wild expansivos e respins.
@@ -367,6 +397,12 @@ Uma opinião elogia os gráficos coloridos e a apresentação fluida; outra dest
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/starburst)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="the-dog-house">The Dog House</h2>
 
 Um slot inspirado em cães e uma casota divertida, com Sticky Wilds e rodadas grátis.
@@ -378,6 +414,12 @@ Os Sticky Wild permanecem na mesma posição durante a funcionalidade correspond
 Os Sticky Wild fazem com que o bónus de The Dog House dependa da posição e da permanência dos símbolos: um Wild que fica nos rolos altera as combinações possíveis nas jogadas seguintes. Vale a pena verificar as regras dos barris e das reativações.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
 Um slot inspirado em templos do antigo Egito e escaravelhos dourados, com rodadas grátis e símbolos expansíveis.
@@ -395,6 +437,12 @@ Uma opinião destaca a reativação que pode acrescentar mais símbolos expansiv
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/legacy-of-dead-playtech)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="reactoonz">Reactoonz</h2>
 
 Um slot inspirado em alienígenas coloridos num cenário espacial, com prémios por grupos e a funcionalidade Quantum Leap.
@@ -412,6 +460,12 @@ Reactoonz surge na lista pessoal de slots favoritos de um participante numa disc
 [Ler a opinião publicada](https://www.lcb.org/onlinecasinobonusforum/online-slot-discussion/what-is-your-top-5-most-played-slot-in-2026)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
 Um slot inspirado em cowboys e ouro do Oeste Selvagem, com Sticky Wilds e respins.
@@ -429,6 +483,12 @@ Uma opinião destaca a banda sonora western e os Wild pegajosos com multiplicado
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/wild-west-gold-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="starlight-princess">Starlight Princess</h2>
 
 Um slot inspirado em uma princesa mágica num mundo de fantasia, com prémios em cascata e multiplicadores.
@@ -446,6 +506,12 @@ Uma opinião dá especial destaque ao ambiente inspirado em anime, aos visuais e
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/starlight-princess-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
 Um slot inspirado em búfalos e vida selvagem na pradaria norte-americana, com rolos Megaways e cascatas.
@@ -463,6 +529,12 @@ Uma opinião destaca a apresentação colorida e o design visual inspirado em an
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/buffalo-king-megaways-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="mega-fortune">Mega Fortune</h2>
 
 Um slot inspirado em um iate de luxo e um jackpot reluzente, com níveis de jackpot progressivo.
@@ -480,6 +552,12 @@ Uma opinião elogia os visuais cuidados e a distinção entre as rodadas grátis
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/mega-fortune)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
 Um slot inspirado em uma cidade poeirenta do Oeste e pistoleiros, com vários modos de rodadas grátis.
@@ -497,6 +575,12 @@ Várias opiniões elogiam a apresentação visual e a escolha entre três modos 
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/dead-or-alive-2-netent)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="twin-spin">Twin Spin</h2>
 
 Um slot inspirado em símbolos clássicos de slots e rolos ligados, com funcionalidades de rolos gémeos e símbolos aleatórios.
@@ -514,6 +598,12 @@ Um jogador de longa data destaca os rolos ligados, o ambiente retro e o som como
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/twin-spin)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
 Um slot inspirado em Anúbis e motivos do antigo Egito, com símbolos colecionáveis e funcionalidades de bónus.
@@ -525,6 +615,12 @@ Os símbolos de coleção e os gatilhos de bónus determinam o desenvolvimento d
 Hand of Anubis combina prémios por grupos com funcionalidades de coleção e bónus. A análise deve focar-se na forma como os símbolos são recolhidos e como cada etapa altera o estado da ronda.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="sugar-rush">Sugar Rush</h2>
 
 Um slot inspirado em doces e um mundo de fantasia colorido, com prémios por grupos e multiplicadores crescentes.
@@ -536,6 +632,12 @@ As combinações são avaliadas por grupos de símbolos adjacentes, e não por l
 Sugar Rush utiliza uma grelha de clusters 7×7 com cascatas e multiplicadores que podem permanecer no tabuleiro. O elemento distintivo é a forma como a posição dos multiplicadores pode influenciar cascatas posteriores na mesma jogada.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="immortal-romance">Immortal Romance</h2>
 
 Um slot inspirado em personagens vampíricas e um romance gótico, com rodadas grátis e a funcionalidade Wild Desire.
@@ -553,6 +655,12 @@ As opiniões dos jogadores destacam a narrativa gótica, a banda sonora e os mod
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/immortal-romance)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
 Um slot inspirado em cinco leões dourados num cenário de templos inspirado na Ásia, com rolos Megaways e rodadas grátis.
@@ -570,6 +678,12 @@ Um jogador refere que passou a gostar mais do jogo após várias sessões e dest
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/5-lions-megaways-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="le-bandit">Le Bandit</h2>
 
 Um slot inspirado em um guaxinim ladrão num cenário parisiense, com prémios por grupos e funcionalidades de bónus.
@@ -581,6 +695,12 @@ As combinações são avaliadas por grupos de símbolos adjacentes, e não por l
 Le Bandit utiliza uma grelha de clusters e uma estrutura de bónus baseada na recolha de símbolos, criando uma ronda mais complexa do que um slot clássico de linhas. O essencial é a interação entre os símbolos de bónus.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
 Um slot inspirado em pistoleiros mascarados no Oeste Selvagem, com rondas de bónus e funcionalidades de duelo.
@@ -598,6 +718,12 @@ Uma opinião atribui uma avaliação positiva e destaca os visuais western marca
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/wanted-dead-or-a-wild-hacksaw-gaming)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="money-train-3">Money Train 3</h2>
 
 Um slot inspirado em um comboio futurista e dois fora da lei, com símbolos de bónus e funcionalidades de multiplicadores.
@@ -615,6 +741,12 @@ Uma opinião elogia a apresentação e a variedade criada pelas personagens pers
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/money-train-3-relax-gaming)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="money-train-4">Money Train 4</h2>
 
 Um slot inspirado em fora da lei e uma aventura ferroviária futurista, com símbolos colecionáveis e funcionalidades de bónus.
@@ -626,6 +758,12 @@ Os símbolos de coleção e os gatilhos de bónus determinam o desenvolvimento d
 Money Train 4 amplia o conjunto de símbolos de funcionalidade e acrescenta camadas ao formato hold-and-respin. É mais útil compreender o que cada modificador faz do que contar os símbolos especiais.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
 Um slot inspirado em deuses nórdicos e o mundo dos vikings, com rodadas grátis e funcionalidades de bónus especiais.
@@ -643,6 +781,12 @@ As opiniões destacam os quatro modos de rodadas grátis associados às personag
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/thunderstruck-2)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
 Um slot inspirado em frutas coloridas e um mundo de fantasia soalheiro, com prémios por grupos e multiplicadores.
@@ -654,6 +798,12 @@ As combinações são avaliadas por grupos de símbolos adjacentes, e não por l
 Fruit Party 2 desenvolve o formato de clusters de fruta com efeitos variáveis de Wild e multiplicadores, além de rodadas grátis. Compare o crescimento dos Wilds com o original sem presumir que as regras são iguais.
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
 Um slot inspirado em Zeus e um magnífico templo no Olimpo, com prémios em cascata e multiplicadores.
@@ -671,6 +821,12 @@ Uma opinião elogia o tema mitológico e destaca os multiplicadores como parte m
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/gates-of-olympus-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
 Um slot inspirado em um explorador à procura de El Dorado, com prémios em cascata e multiplicadores crescentes.
@@ -688,6 +844,12 @@ Uma opinião menciona as animações de Gonzo, o cenário de selva e a música c
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/gonzos-quest)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
 Um slot inspirado em doces e frutas num mundo de fantasia colorido, com prémios em cascata e multiplicadores.
@@ -705,6 +867,12 @@ Numa discussão pública sobre slots, um jogador inclui Sweet Bonanza entre os t
 [Ler a opinião publicada](https://www.reddit.com/r/slots/comments/1u32p2u/my_best_online_slot_providers_list_in_2026_will/)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="wolf-gold">Wolf Gold</h2>
 
 Um slot inspirado em lobos e a natureza selvagem da América do Norte, com símbolos Wild, respins e funcionalidades de jackpot.
@@ -722,6 +890,12 @@ Algumas opiniões descrevem Wolf Gold como um slot favorito e mencionam o tema a
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/wolf-gold-pragmatic-play)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>
 <h2 id="mega-moolah">Mega Moolah</h2>
 
 Um slot inspirado em um leão e a savana africana, com níveis de jackpot progressivo.
@@ -739,3 +913,9 @@ Uma opinião destaca o tema safari nostálgico e o interesse de ter quatro níve
 [Ler a opinião publicada](https://www.askgamblers.com/casino-games/online-slots/reviews/mega-moolah)
 
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+</div>

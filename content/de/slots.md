@@ -84,7 +84,7 @@ Die Besonderheit liegt im Zusammenspiel von Fischsymbolen, Sammelfunktion und Fr
   <p>Bonusangebote ansehen</p>
   <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
 </div>
-## Bonanza
+<h2 id="bonanza">Bonanza</h2>
 
 ### Kurz erklärt
 
@@ -116,7 +116,7 @@ Bonanza sollte nicht als Cluster-Slot beschrieben werden: Das prägende Merkmal 
   <p>Bonusangebote ansehen</p>
   <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
 </div>
-## Book of Dead
+<h2 id="book-of-dead">Book of Dead</h2>
 
 ### Kurz erklärt
 
@@ -148,7 +148,7 @@ Der zentrale Vergleichspunkt ist das expandierende Symbol in den Freispielen. Ne
   <p>Bonusangebote ansehen</p>
   <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
 </div>
-## Dragon's Luck
+<h2 id="dragons-luck">Dragon's Luck</h2>
 
 ### Kurz erklärt
 
@@ -180,7 +180,7 @@ Dragon's Luck stellt Münzfunktionen in den Mittelpunkt. Dragon Coin, Dragon’s
   <p>Bonusangebote ansehen</p>
   <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
 </div>
-## Fruit Party
+<h2 id="fruit-party">Fruit Party</h2>
 
 ### Kurz erklärt
 

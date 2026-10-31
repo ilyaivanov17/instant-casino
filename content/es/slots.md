@@ -290,122 +290,172 @@ El rango de apuestas de la página debe compararse con la interfaz actual. Los l
 
 Una tragamonedas ambientada en el espacio y las gemas de colores, con símbolos Wild expansivos y respins.
 
+Los Wild expansivos pueden cambiar las conexiones entre símbolos en los rodillos. La ayuda del juego explica sus activadores y las condiciones de los respins.
+
 
 <h2 id="the-dog-house">The Dog House</h2>
 
 Una tragamonedas ambientada en perros y una caseta de colores, con Sticky Wilds y giros gratis.
+
+Los Sticky Wild permanecen en su posición durante la función correspondiente. Por eso conviene revisar las reglas de la ronda de bonificación y la posición de los símbolos.
 
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
 Una tragamonedas ambientada en templos del antiguo Egipto y escarabajos dorados, con giros gratis y símbolos expansivos.
 
+La función de expansión modifica la disposición de los rodillos durante los giros gratis. La tabla de pagos explica qué símbolo se selecciona y cómo funciona.
+
 
 <h2 id="reactoonz">Reactoonz</h2>
 
 Una tragamonedas ambientada en alienígenas de colores en un entorno espacial, con premios por grupos y la función Quantum Leap.
+
+Las combinaciones se forman con grupos de símbolos adyacentes, no con líneas de pago tradicionales. Importan el tamaño mínimo del grupo y las reglas para retirar símbolos.
 
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
 Una tragamonedas ambientada en vaqueros y oro del Salvaje Oeste, con Sticky Wilds y respins.
 
+Los Sticky Wild permanecen en su posición durante la función correspondiente. Por eso conviene revisar las reglas de la ronda de bonificación y la posición de los símbolos.
+
 
 <h2 id="starlight-princess">Starlight Princess</h2>
 
 Una tragamonedas ambientada en una princesa mágica en un mundo fantástico, con premios en cascada y multiplicadores.
+
+Los símbolos ganadores desaparecen y son sustituidos por otros, lo que permite varios resultados dentro de una misma tirada pagada. Las reglas de los multiplicadores varían.
 
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
 Una tragamonedas ambientada en búfalos y fauna salvaje en la pradera norteamericana, con rodillos Megaways y cascadas.
 
+El número de símbolos de cada rodillo puede variar en cada giro y cambiar las formas de ganar. Las reglas del juego indican el rango exacto.
+
 
 <h2 id="mega-fortune">Mega Fortune</h2>
 
 Una tragamonedas ambientada en un yate de lujo y un jackpot brillante, con niveles de jackpot progresivo.
+
+El jackpot tiene reglas propias que pueden depender de la versión o del operador. Consulta en el juego las condiciones vigentes y los detalles del premio.
 
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
 Una tragamonedas ambientada en un pueblo polvoriento del Oeste y pistoleros, con varios modos de giros gratis.
 
+Los giros gratis tienen sus propias condiciones de activación y desarrollo, incluidas las posibles reactivaciones. La ayuda del juego recoge esos detalles.
+
 
 <h2 id="twin-spin">Twin Spin</h2>
 
 Una tragamonedas ambientada en símbolos clásicos de tragaperras y rodillos enlazados, con funciones de rodillos gemelos y símbolos aleatorios.
+
+Los rodillos vinculados pueden funcionar conjuntamente como una característica especial. Es importante entender cómo se copian o emparejan los símbolos coincidentes.
 
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
 Una tragamonedas ambientada en Anubis y motivos del antiguo Egipto, con símbolos coleccionables y funciones de bonificación.
 
+Los símbolos de colección y los activadores de bonificación determinan cómo avanza la función. La tabla de pagos detalla las condiciones de recogida y premio.
+
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
 Una tragamonedas ambientada en dulces y un mundo fantástico lleno de color, con premios por grupos y multiplicadores crecientes.
+
+Las combinaciones se forman con grupos de símbolos adyacentes, no con líneas de pago tradicionales. Importan el tamaño mínimo del grupo y las reglas para retirar símbolos.
 
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
 Una tragamonedas ambientada en personajes vampíricos y un romance gótico, con giros gratis y la función Wild Desire.
 
+Los giros gratis tienen sus propias condiciones de activación y desarrollo, incluidas las posibles reactivaciones. La ayuda del juego recoge esos detalles.
+
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
 Una tragamonedas ambientada en cinco leones dorados en un entorno de templos inspirado en Asia, con rodillos Megaways y giros gratis.
+
+El número de símbolos de cada rodillo puede variar en cada giro y cambiar las formas de ganar. Las reglas del juego indican el rango exacto.
 
 
 <h2 id="le-bandit">Le Bandit</h2>
 
 Una tragamonedas ambientada en un mapache ladrón en un entorno parisino, con premios por grupos y funciones de bonificación.
 
+Las combinaciones se forman con grupos de símbolos adyacentes, no con líneas de pago tradicionales. Importan el tamaño mínimo del grupo y las reglas para retirar símbolos.
+
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
 Una tragamonedas ambientada en pistoleros enmascarados en el Salvaje Oeste, con rondas de bonificación y funciones de duelo.
+
+La ronda de bonificación es una parte central del juego. Sus activadores y su desarrollo deben confirmarse en la tabla de pagos actual.
 
 
 <h2 id="money-train-3">Money Train 3</h2>
 
 Una tragamonedas ambientada en un tren futurista y dos forajidos, con símbolos de bonificación y funciones de multiplicadores.
 
+Los símbolos de colección y los activadores de bonificación determinan cómo avanza la función. La tabla de pagos detalla las condiciones de recogida y premio.
+
 
 <h2 id="money-train-4">Money Train 4</h2>
 
 Una tragamonedas ambientada en forajidos y una aventura ferroviaria futurista, con símbolos coleccionables y funciones de bonificación.
+
+Los símbolos de colección y los activadores de bonificación determinan cómo avanza la función. La tabla de pagos detalla las condiciones de recogida y premio.
 
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
 Una tragamonedas ambientada en dioses nórdicos y el mundo vikingo, con giros gratis y funciones de bonificación especiales.
 
+Los giros gratis tienen sus propias condiciones de activación y desarrollo, incluidas las posibles reactivaciones. La ayuda del juego recoge esos detalles.
+
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
 Una tragamonedas ambientada en frutas de colores y un mundo fantástico y soleado, con premios por grupos y multiplicadores.
+
+Las combinaciones se forman con grupos de símbolos adyacentes, no con líneas de pago tradicionales. Importan el tamaño mínimo del grupo y las reglas para retirar símbolos.
 
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
 Una tragamonedas ambientada en Zeus y un magnífico templo en el Olimpo, con premios en cascada y multiplicadores.
 
+Los símbolos ganadores desaparecen y son sustituidos por otros, lo que permite varios resultados dentro de una misma tirada pagada. Las reglas de los multiplicadores varían.
+
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
 Una tragamonedas ambientada en un explorador en busca de El Dorado, con premios en cascada y multiplicadores crecientes.
+
+Los símbolos ganadores desaparecen y son sustituidos por otros, lo que permite varios resultados dentro de una misma tirada pagada. Las reglas de los multiplicadores varían.
 
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
 Una tragamonedas ambientada en dulces y frutas en un mundo fantástico lleno de color, con premios en cascada y multiplicadores.
 
+Los símbolos ganadores desaparecen y son sustituidos por otros, lo que permite varios resultados dentro de una misma tirada pagada. Las reglas de los multiplicadores varían.
+
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
 Una tragamonedas ambientada en lobos y la naturaleza salvaje de Norteamérica, con símbolos Wild, respins y funciones de jackpot.
 
+El jackpot tiene reglas propias que pueden depender de la versión o del operador. Consulta en el juego las condiciones vigentes y los detalles del premio.
+
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
 Una tragamonedas ambientada en un león y la sabana africana, con niveles de jackpot progresivo.
+
+El jackpot tiene reglas propias que pueden depender de la versión o del operador. Consulta en el juego las condiciones vigentes y los detalles del premio.

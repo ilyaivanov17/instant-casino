@@ -52,7 +52,9 @@ Spielermeinungen werden derzeit nicht als Beleg verwendet: Für die zuvor aufgef
 
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
-## Bigger Bass Bonanza: kurz erklärt
+## Bigger Bass Bonanza
+
+### Kurz erklärt
 
 Das Angler-Thema und die Bonusmechanik geben Bigger Bass Bonanza seinen eigenen Charakter. In der hinterlegten Liste stehen Freispiele und Multiplikatoren. Entscheidend ist, welche Symbole die Bonusphase starten und wie die Spielhilfe den Ablauf beschreibt.
 
@@ -72,11 +74,13 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 ---
 
-## Bigger Bass Bonanza: Mechanik im Fokus
+### Mechanik im Fokus
 
 Die Besonderheit liegt im Zusammenspiel von Fischsymbolen, Sammelfunktion und Freispiele-Bonus. Für eine belastbare Beschreibung sind drei Punkte getrennt zu prüfen: welche Symbole die Bonusphase auslösen, wie Fischwerte gesammelt werden und wie sie am Ende der Runde gewertet werden. Die konkrete Ausgestaltung kann je nach Spielversion abweichen.
 
-## Bonanza: kurz erklärt
+## Bonanza
+
+### Kurz erklärt
 
 Bonanza von Big Time Gaming nutzt das Megaways-Prinzip mit variabler Walzenhöhe und Kaskaden. Die Freispiele bilden eine eigene Bonusphase. Die genauen Auslöser und Regeln sind in der Hilfe der geladenen Spielversion zu prüfen.
 
@@ -96,11 +100,13 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 ---
 
-## Bonanza: Mechanik im Fokus
+### Mechanik im Fokus
 
 Bonanza sollte nicht als Cluster-Slot beschrieben werden: Das prägende Merkmal ist Megaways mit variabler Walzenhöhe. In der Grundrunde sind die wechselnde Zahl der Gewinnwege und die Kaskaden getrennt zu betrachten. Für die Freispiele ist zusätzlich zu prüfen, wie der Multiplikator aufgebaut wird und wann die Bonusphase endet.
 
-## Book of Dead: kurz erklärt
+## Book of Dead
+
+### Kurz erklärt
 
 Book of Dead setzt auf eine Abenteuerwelt rund um das alte Ägypten. Im Mittelpunkt stehen das Buchmotiv, Scatter-Symbole und Freispiele; das erweiternde Symbol gehört zu den bekannten Merkmalen des Spiels. Wer sich für den Bonus interessiert, sollte vor dem Start nachlesen, wann Freispiele ausgelöst werden und welche Symbole sich erweitern können.
 
@@ -120,11 +126,13 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 ---
 
-## Book of Dead: Mechanik im Fokus
+### Mechanik im Fokus
 
 Der zentrale Vergleichspunkt ist das expandierende Symbol in den Freispielen. Neben der Scatter-Auslösung sollte die Spielhilfe erklären, welches Symbol für die Bonusrunde ausgewählt wird und wie viele Walzen es abdecken kann. Diese Regeln sind anhand der geladenen Version zu kontrollieren, nicht aus ähnlichen Book-Slots abzuleiten.
 
-## Dragon's Luck: kurz erklärt
+## Dragon's Luck
+
+### Kurz erklärt
 
 Dragon's Luck ist ein Red-Tiger-Slot mit Drachenmotiv und den Funktionen Dragon Coin, Dragon's Help und Mega Coin. Prüfe die [offiziellen Spielinformationen](https://games.evolution.com/slots/dragons-luck/) sowie die Auszahlungstabelle der geladenen Version, um die genauen Regeln zu erfahren.
 
@@ -144,11 +152,13 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 ---
 
-## Dragon's Luck: Mechanik im Fokus
+### Mechanik im Fokus
 
 Dragon's Luck stellt Münzfunktionen in den Mittelpunkt. Dragon Coin, Dragon’s Help und Mega Coin sollten einzeln erklärt werden: Welche Aktion löst sie aus, welche Symbole oder Werte verändern sie und wie wirkt sich das auf die Auswertung aus? Die Namen allein reichen nicht aus, um die Funktion oder ihren Wert zu beurteilen.
 
-## Fruit Party: kurz erklärt
+## Fruit Party
+
+### Kurz erklärt
 
 Fruit Party verbindet eine helle Fruchtoptik mit Tumble-Gewinnen und Multiplikatoren. Die gespeicherte Funktionsliste nennt außerdem Freispiele. Wie sich Gewinne aufeinander aufbauen können und welche Bedingungen für den Bonus gelten, erklärt die Spielhilfe.
 
@@ -168,6 +178,6 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 ---
 
-## Fruit Party: Mechanik im Fokus
+### Mechanik im Fokus
 
 Fruit Party arbeitet mit einem 7×7-Raster und Cluster-Auszahlungen. Nach einem Gewinn können Symbole verschwinden und neue nachrücken; Multiplikatoren beeinflussen die Abrechnung nach den Regeln der jeweiligen Funktion. Für einen fairen Vergleich sind Clustergröße, Kaskadenablauf und Multiplikatorregeln getrennt zu dokumentieren.

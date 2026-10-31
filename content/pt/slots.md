@@ -95,6 +95,11 @@ O ritmo depende das animações, pausas, transições automáticas e facilidade 
 
 ---
 
+### A nossa análise
+
+O ciclo principal é simples de acompanhar: o Wild do pescador recolhe valores dos peixes, enquanto as rodadas grátis e as reativações determinam a evolução do bónus. O ponto mais interessante é a relação entre a recolha de valores e as rodadas adicionais.
+
+
 <h2 id="bonanza">Bonanza</h2>
 
 ## Bonanza: guia rápido
@@ -147,6 +152,11 @@ O ritmo depende das animações, pausas, transições automáticas e facilidade 
 ### O que uma sessão de teste mostra
 
 ---
+
+### A nossa análise
+
+Bonanza combina uma grelha Megaways variável com cascatas e um multiplicador que pode aumentar durante as rodadas grátis. O seu elemento distintivo é a forma como cada cascata pode influenciar o nível seguinte do multiplicador.
+
 
 <h2 id="book-of-dead">Book of Dead</h2>
 
@@ -201,6 +211,11 @@ O ritmo depende das animações, pausas, transições automáticas e facilidade 
 
 ---
 
+### A nossa análise
+
+Book of Dead concentra o bónus num único símbolo expansivo escolhido para as rodadas grátis. Esta mecânica clara torna o jogo uma referência útil para comparar outros slots egípcios do tipo Book.
+
+
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
 ## Dragon's Luck: guia rápido
@@ -254,6 +269,11 @@ O ritmo depende das animações, pausas, transições automáticas e facilidade 
 
 ---
 
+### A nossa análise
+
+Dragon's Luck centra-se em símbolos de moedas que revelam ou transformam símbolos nos rolos, em vez de uma sequência convencional de rodadas grátis. A tabela de pagamentos explica a função exata de Dragon Coin e Mega Coin.
+
+
 <h2 id="fruit-party">Fruit Party</h2>
 
 ## Fruit Party: guia rápido
@@ -305,12 +325,20 @@ O ritmo depende das animações, pausas, transições automáticas e facilidade 
 
 ### O que uma sessão de teste mostra
 
+### A nossa análise
+
+Fruit Party utiliza uma grelha 7×7 com grupos de símbolos: uma combinação vencedora pode ativar uma cascata e criar uma nova disposição. Os multiplicadores são importantes porque podem influenciar vitórias consecutivas na mesma jogada.
+
 
 <h2 id="starburst">Starburst</h2>
 
 Um slot inspirado em o espaço e as gemas coloridas, com símbolos Wild expansivos e respins.
 
 Os Wild expansivos podem alterar as ligações entre símbolos nos rolos. A ajuda do jogo explica os respetivos gatilhos e as condições dos respins.
+
+### A nossa análise
+
+Starburst assenta num ciclo compacto de Wild e respins, em vez de um bónus longo com várias fases. A grelha simples e a funcionalidade facilmente reconhecível definem a identidade do jogo.
 
 
 <h2 id="the-dog-house">The Dog House</h2>
@@ -319,12 +347,20 @@ Um slot inspirado em cães e uma casota divertida, com Sticky Wilds e rodadas gr
 
 Os Sticky Wild permanecem na mesma posição durante a funcionalidade correspondente. Por isso, importa consultar as regras da ronda de bónus e a posição dos símbolos.
 
+### A nossa análise
+
+Os Sticky Wild fazem com que o bónus de The Dog House dependa da posição e da permanência dos símbolos: um Wild que fica nos rolos altera as combinações possíveis nas jogadas seguintes. Vale a pena verificar as regras dos barris e das reativações.
+
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
 Um slot inspirado em templos do antigo Egito e escaravelhos dourados, com rodadas grátis e símbolos expansíveis.
 
 A funcionalidade de expansão altera a disposição dos rolos durante as rodadas grátis. A tabela de pagamentos explica qual o símbolo escolhido e como funciona.
+
+### A nossa análise
+
+Legacy of Dead desenvolve o formato clássico dos slots Book com símbolos expansivos: as reativações podem acrescentar mais símbolos expansivos. Essa progressão é o principal ponto de diferença face a jogos semelhantes.
 
 
 <h2 id="reactoonz">Reactoonz</h2>
@@ -333,12 +369,20 @@ Um slot inspirado em alienígenas coloridos num cenário espacial, com prémios 
 
 As combinações são avaliadas por grupos de símbolos adjacentes, e não por linhas de pagamento tradicionais. Importam o tamanho mínimo do grupo e as regras de remoção.
 
+### A nossa análise
+
+Reactoonz é mais do que uma grelha de clusters: o medidor de carga, as transformações das criaturas e as reações em cadeia criam uma funcionalidade que evolui ao longo da ronda. Os limites do medidor são essenciais para compreender o jogo.
+
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
 Um slot inspirado em cowboys e ouro do Oeste Selvagem, com Sticky Wilds e respins.
 
 Os Sticky Wild permanecem na mesma posição durante a funcionalidade correspondente. Por isso, importa consultar as regras da ronda de bónus e a posição dos símbolos.
+
+### A nossa análise
+
+Wild West Gold combina Wild pegajosos com multiplicadores e estrelas de xerife que podem prolongar as rodadas grátis. A interação entre Wilds retidos e rodadas adicionais é mais importante do que o tema western.
 
 
 <h2 id="starlight-princess">Starlight Princess</h2>
@@ -347,12 +391,20 @@ Um slot inspirado em uma princesa mágica num mundo de fantasia, com prémios em
 
 Os símbolos vencedores desaparecem e são substituídos por outros, permitindo vários resultados numa única jogada paga. As regras dos multiplicadores variam.
 
+### A nossa análise
+
+Starlight Princess combina ganhos em qualquer posição, cascatas e multiplicadores aleatórios. Uma boa análise explica como os multiplicadores são recolhidos e aplicados a uma sequência de cascatas.
+
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
 Um slot inspirado em búfalos e vida selvagem na pradaria norte-americana, com rolos Megaways e cascatas.
 
 O número de símbolos em cada rolo pode variar de rodada para rodada, alterando as formas de ganhar. As regras do jogo indicam o intervalo exato.
+
+### A nossa análise
+
+Buffalo King Megaways combina alturas variáveis dos rolos com cascatas e Wilds multiplicadores nas rodadas grátis. Convém separar o número variável de formas de ganhar das regras dos multiplicadores no bónus.
 
 
 <h2 id="mega-fortune">Mega Fortune</h2>
@@ -361,12 +413,20 @@ Um slot inspirado em um iate de luxo e um jackpot reluzente, com níveis de jack
 
 O jackpot tem regras próprias, que podem depender da versão ou do operador. Consulte no jogo as condições atuais e os detalhes do prémio.
 
+### A nossa análise
+
+Mega Fortune tem duas vias de bónus distintas: rodadas grátis com modificadores e uma roda de jackpot separada. As condições de participação e os níveis do jackpot são independentes dos prémios normais dos símbolos e devem ser confirmados na versão ativa.
+
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
 Um slot inspirado em uma cidade poeirenta do Oeste e pistoleiros, com vários modos de rodadas grátis.
 
 As rodadas grátis têm condições próprias de ativação e funcionamento, incluindo eventuais reativações. A ajuda do jogo apresenta esses detalhes.
+
+### A nossa análise
+
+Os três modos de rodadas grátis fazem da escolha do jogador parte do desenho do bónus de Dead or Alive 2. Compare os modificadores e as regras de cada modo em vez de tratar o bónus como uma única funcionalidade.
 
 
 <h2 id="twin-spin">Twin Spin</h2>
@@ -375,12 +435,20 @@ Um slot inspirado em símbolos clássicos de slots e rolos ligados, com funciona
 
 Os rolos ligados podem funcionar em conjunto como uma funcionalidade. É importante perceber como os símbolos correspondentes são copiados ou emparelhados.
 
+### A nossa análise
+
+Twin Spin coloca os rolos ligados no centro da experiência: a sincronização aleatória altera a grelha antes da avaliação das combinações. O ponto principal é quando a funcionalidade surge e até onde se estende.
+
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
 Um slot inspirado em Anúbis e motivos do antigo Egito, com símbolos colecionáveis e funcionalidades de bónus.
 
 Os símbolos de coleção e os gatilhos de bónus determinam o desenvolvimento da funcionalidade. A tabela de pagamentos indica as condições exatas de recolha e atribuição.
+
+### A nossa análise
+
+Hand of Anubis combina prémios por grupos com funcionalidades de coleção e bónus. A análise deve focar-se na forma como os símbolos são recolhidos e como cada etapa altera o estado da ronda.
 
 
 <h2 id="sugar-rush">Sugar Rush</h2>
@@ -389,12 +457,20 @@ Um slot inspirado em doces e um mundo de fantasia colorido, com prémios por gru
 
 As combinações são avaliadas por grupos de símbolos adjacentes, e não por linhas de pagamento tradicionais. Importam o tamanho mínimo do grupo e as regras de remoção.
 
+### A nossa análise
+
+Sugar Rush utiliza uma grelha de clusters 7×7 com cascatas e multiplicadores que podem permanecer no tabuleiro. O elemento distintivo é a forma como a posição dos multiplicadores pode influenciar cascatas posteriores na mesma jogada.
+
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
 Um slot inspirado em personagens vampíricas e um romance gótico, com rodadas grátis e a funcionalidade Wild Desire.
 
 As rodadas grátis têm condições próprias de ativação e funcionamento, incluindo eventuais reativações. A ajuda do jogo apresenta esses detalhes.
+
+### A nossa análise
+
+Immortal Romance oferece vários modos de rodadas grátis associados a personagens através da estrutura Chamber of Spins. Cada modo tem um modificador diferente, pelo que a estrutura do bónus e a narrativa se complementam.
 
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
@@ -403,12 +479,20 @@ Um slot inspirado em cinco leões dourados num cenário de templos inspirado na 
 
 O número de símbolos em cada rolo pode variar de rodada para rodada, alterando as formas de ganhar. As regras do jogo indicam o intervalo exato.
 
+### A nossa análise
+
+5 Lions Megaways combina rolos de altura variável com símbolos de inspiração asiática e uma funcionalidade de rodadas grátis. Separe o número variável de formas de ganhar das regras do bónus.
+
 
 <h2 id="le-bandit">Le Bandit</h2>
 
 Um slot inspirado em um guaxinim ladrão num cenário parisiense, com prémios por grupos e funcionalidades de bónus.
 
 As combinações são avaliadas por grupos de símbolos adjacentes, e não por linhas de pagamento tradicionais. Importam o tamanho mínimo do grupo e as regras de remoção.
+
+### A nossa análise
+
+Le Bandit utiliza uma grelha de clusters e uma estrutura de bónus baseada na recolha de símbolos, criando uma ronda mais complexa do que um slot clássico de linhas. O essencial é a interação entre os símbolos de bónus.
 
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
@@ -417,12 +501,20 @@ Um slot inspirado em pistoleiros mascarados no Oeste Selvagem, com rondas de bó
 
 A ronda de bónus é uma parte central do jogo. Os respetivos gatilhos e funcionamento devem ser confirmados na tabela de pagamentos atual.
 
+### A nossa análise
+
+Wanted Dead or a Wild destaca-se pelos diferentes modos de bónus e pela apresentação de duelos. Uma comparação útil observa as escolhas e os modificadores de cada modo, em vez de se apoiar apenas nos valores máximos anunciados.
+
 
 <h2 id="money-train-3">Money Train 3</h2>
 
 Um slot inspirado em um comboio futurista e dois fora da lei, com símbolos de bónus e funcionalidades de multiplicadores.
 
 Os símbolos de coleção e os gatilhos de bónus determinam o desenvolvimento da funcionalidade. A tabela de pagamentos indica as condições exatas de recolha e atribuição.
+
+### A nossa análise
+
+Em Money Train 3, as personagens persistentes têm funções distintas, como recolher valores ou aplicar multiplicadores durante a ronda de respins. A interação entre essas funções é o principal ponto de análise.
 
 
 <h2 id="money-train-4">Money Train 4</h2>
@@ -431,12 +523,20 @@ Um slot inspirado em fora da lei e uma aventura ferroviária futurista, com sím
 
 Os símbolos de coleção e os gatilhos de bónus determinam o desenvolvimento da funcionalidade. A tabela de pagamentos indica as condições exatas de recolha e atribuição.
 
+### A nossa análise
+
+Money Train 4 amplia o conjunto de símbolos de funcionalidade e acrescenta camadas ao formato hold-and-respin. É mais útil compreender o que cada modificador faz do que contar os símbolos especiais.
+
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
 Um slot inspirado em deuses nórdicos e o mundo dos vikings, com rodadas grátis e funcionalidades de bónus especiais.
 
 As rodadas grátis têm condições próprias de ativação e funcionamento, incluindo eventuais reativações. A ajuda do jogo apresenta esses detalhes.
+
+### A nossa análise
+
+Thunderstruck II organiza as rodadas grátis em quatro câmaras associadas a personagens, cada uma com um modificador diferente. O progresso de desbloqueio e as diferenças entre os modos são centrais para a estrutura do jogo.
 
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
@@ -445,12 +545,20 @@ Um slot inspirado em frutas coloridas e um mundo de fantasia soalheiro, com pré
 
 As combinações são avaliadas por grupos de símbolos adjacentes, e não por linhas de pagamento tradicionais. Importam o tamanho mínimo do grupo e as regras de remoção.
 
+### A nossa análise
+
+Fruit Party 2 desenvolve o formato de clusters de fruta com efeitos variáveis de Wild e multiplicadores, além de rodadas grátis. Compare o crescimento dos Wilds com o original sem presumir que as regras são iguais.
+
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
 Um slot inspirado em Zeus e um magnífico templo no Olimpo, com prémios em cascata e multiplicadores.
 
 Os símbolos vencedores desaparecem e são substituídos por outros, permitindo vários resultados numa única jogada paga. As regras dos multiplicadores variam.
+
+### A nossa análise
+
+Gates of Olympus utiliza uma grelha sem linhas de pagamento e símbolos multiplicadores aleatórios, criando um ritmo diferente dos slots tradicionais. O detalhe principal é quando os multiplicadores são recolhidos e como se aplicam à sequência de cascatas atual.
 
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
@@ -459,12 +567,20 @@ Um slot inspirado em um explorador à procura de El Dorado, com prémios em casc
 
 Os símbolos vencedores desaparecem e são substituídos por outros, permitindo vários resultados numa única jogada paga. As regras dos multiplicadores variam.
 
+### A nossa análise
+
+Gonzo's Quest transforma cada jogada numa sequência de resultados ligados através de ganhos Avalanche e multiplicadores crescentes. A personagem exploradora, a selva e a banda sonora também fazem parte da identidade do jogo.
+
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
 Um slot inspirado em doces e frutas num mundo de fantasia colorido, com prémios em cascata e multiplicadores.
 
 Os símbolos vencedores desaparecem e são substituídos por outros, permitindo vários resultados numa única jogada paga. As regras dos multiplicadores variam.
+
+### A nossa análise
+
+Sweet Bonanza combina clusters de fruta e doces com cascatas e multiplicadores aleatórios. O ciclo central consiste na queda repetida de símbolos numa única jogada, com uma apresentação visual distinta.
 
 
 <h2 id="wolf-gold">Wolf Gold</h2>
@@ -473,9 +589,19 @@ Um slot inspirado em lobos e a natureza selvagem da América do Norte, com símb
 
 O jackpot tem regras próprias, que podem depender da versão ou do operador. Consulte no jogo as condições atuais e os detalhes do prémio.
 
+### A nossa análise
+
+Wolf Gold combina linhas de pagamento clássicas com símbolos gigantes nas rodadas grátis e uma funcionalidade separada de respins de jackpot. São duas vias de bónus diferentes e devem ser avaliadas separadamente.
+
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
 Um slot inspirado em um leão e a savana africana, com níveis de jackpot progressivo.
 
 O jackpot tem regras próprias, que podem depender da versão ou do operador. Consulte no jogo as condições atuais e os detalhes do prémio.
+
+### A nossa análise
+
+Mega Moolah combina um slot clássico de linhas com quatro níveis de jackpot progressivo, enquanto as rodadas grátis acrescentam um multiplicador próprio. O perfil deve distinguir as funcionalidades normais do sistema de jackpot em rede.
+
+

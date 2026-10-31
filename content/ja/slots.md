@@ -20,7 +20,7 @@ slug: slots
 
 既存の情報をテーマ別にまとめ、ルールや制限を比較しやすくしました。ゲームルール、RTP、ボーナス条件、決済方法、利用できる地域は、バージョン・運営者・国によって異なる場合があります。現在提供されているバージョンで直接確認してください。
 
-## Bigger Bass Bonanza
+<h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
 ## Bigger Bass Bonanza：ゲームの概要
 
@@ -60,7 +60,7 @@ Bigger Bass Bonanzaのレビューでは、体験についての一般的な宣�
 
 ---
 
-## Bonanza
+<h2 id="bonanza">Bonanza</h2>
 
 ## Bonanza：ゲームの概要
 
@@ -100,7 +100,7 @@ Bonanzaのレビューでは、体験についての一般的な宣伝文句で�
 
 ---
 
-## Book of Dead
+<h2 id="book-of-dead">Book of Dead</h2>
 
 ## Book of Dead：ゲームの概要
 
@@ -140,7 +140,7 @@ Book of Deadのレビューでは、体験についての一般的な宣伝文�
 
 ---
 
-## Dragon's Luck
+<h2 id="dragons-luck">Dragon's Luck</h2>
 
 ## Dragon's Luck：ゲームの概要
 
@@ -180,7 +180,7 @@ Dragon's Luckのレビューでは、体験についての一般的な宣伝文�
 
 ---
 
-## Fruit Party
+<h2 id="fruit-party">Fruit Party</h2>
 
 ## Fruit Party：ゲームの概要
 
@@ -217,3 +217,128 @@ RTP は非常に多くのゲームラウンドを対象にした理論値です�
 以下は編集上の例示シナリオであり、実際にプレイした個人的体験を主張するものではありません。
 
 Fruit Partyのレビューでは、体験についての一般的な宣伝文句ではなく、確認できる機能から検証を始めます。重要なのは、画面に表示される内容と、ルールで確認できる内容を分けることです。レビューでは、まずゲーム内ヘルプとこのページの情報を照合し、操作性や制限事項を記録します。一度の印象から長期的な還元や将来の結果を予測することはできません。
+
+
+<h2 id="starburst">Starburst</h2>
+
+宇宙と色鮮やかな宝石をテーマに、拡張Wildシンボルとリスピンを備えたスロットです。
+
+
+<h2 id="the-dog-house">The Dog House</h2>
+
+犬たちとカラフルな犬小屋をテーマに、Sticky Wildとフリースピンを備えたスロットです。
+
+
+<h2 id="legacy-of-dead">Legacy of Dead</h2>
+
+古代エジプトの神殿と黄金のスカラベをテーマに、フリースピンと拡張シンボルを備えたスロットです。
+
+
+<h2 id="reactoonz">Reactoonz</h2>
+
+宇宙を舞台にしたカラフルなエイリアンをテーマに、クラスター配当とQuantum Leap機能を備えたスロットです。
+
+
+<h2 id="wild-west-gold">Wild West Gold</h2>
+
+西部開拓時代のカウボーイと金をテーマに、Sticky Wildとリスピンを備えたスロットです。
+
+
+<h2 id="starlight-princess">Starlight Princess</h2>
+
+幻想的な世界の魔法のプリンセスをテーマに、連続落下配当と倍率を備えたスロットです。
+
+
+<h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
+
+北米の草原に暮らすバッファローと野生動物をテーマに、Megawaysリールとカスケードを備えたスロットです。
+
+
+<h2 id="mega-fortune">Mega Fortune</h2>
+
+豪華なヨットと輝くジャックポットをテーマに、段階式プログレッシブジャックポットを備えたスロットです。
+
+
+<h2 id="dead-or-alive-2">Dead or Alive 2</h2>
+
+西部の荒野の町とガンマンをテーマに、複数のフリースピンモードを備えたスロットです。
+
+
+<h2 id="twin-spin">Twin Spin</h2>
+
+クラシックなスロットシンボルと連動リールをテーマに、ツインリール機能とランダムシンボルを備えたスロットです。
+
+
+<h2 id="hand-of-anubis">Hand of Anubis</h2>
+
+アヌビスと古代エジプトのモチーフをテーマに、コレクションシンボルとボーナス機能を備えたスロットです。
+
+
+<h2 id="sugar-rush">Sugar Rush</h2>
+
+お菓子とカラフルなファンタジーの世界をテーマに、クラスター配当と上昇する倍率を備えたスロットです。
+
+
+<h2 id="immortal-romance">Immortal Romance</h2>
+
+吸血鬼の登場人物とゴシックな恋物語をテーマに、フリースピンとWild Desire機能を備えたスロットです。
+
+
+<h2 id="5-lions-megaways">5 Lions Megaways</h2>
+
+アジア風の寺院を舞台にした5頭の黄金の獅子をテーマに、Megawaysリールとフリースピンを備えたスロットです。
+
+
+<h2 id="le-bandit">Le Bandit</h2>
+
+パリを舞台にしたアライグマの盗賊をテーマに、クラスター配当とボーナス機能を備えたスロットです。
+
+
+<h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
+
+西部開拓時代の覆面ガンマンをテーマに、ボーナスラウンドと決闘機能を備えたスロットです。
+
+
+<h2 id="money-train-3">Money Train 3</h2>
+
+未来的な列車と2人のアウトローをテーマに、ボーナスシンボルと倍率機能を備えたスロットです。
+
+
+<h2 id="money-train-4">Money Train 4</h2>
+
+アウトローたちと未来的な列車の冒険をテーマに、コレクションシンボルとボーナス機能を備えたスロットです。
+
+
+<h2 id="thunderstruck-ii">Thunderstruck II</h2>
+
+北欧の神々とヴァイキングの世界をテーマに、フリースピンと特別なボーナス機能を備えたスロットです。
+
+
+<h2 id="fruit-party-2">Fruit Party 2</h2>
+
+カラフルなフルーツと明るいファンタジーの世界をテーマに、クラスター配当と倍率を備えたスロットです。
+
+
+<h2 id="gates-of-olympus">Gates of Olympus</h2>
+
+ゼウスとオリンポスの壮大な神殿をテーマに、連続落下配当と倍率を備えたスロットです。
+
+
+<h2 id="gonzos-quest">Gonzo's Quest</h2>
+
+エルドラドを探す冒険家をテーマに、カスケード配当と上昇する倍率を備えたスロットです。
+
+
+<h2 id="sweet-bonanza">Sweet Bonanza</h2>
+
+カラフルなファンタジー世界のお菓子とフルーツをテーマに、連続落下配当と倍率を備えたスロットです。
+
+
+<h2 id="wolf-gold">Wolf Gold</h2>
+
+オオカミと北米の荒野をテーマに、Wildシンボル、リスピン、ジャックポット機能を備えたスロットです。
+
+
+<h2 id="mega-moolah">Mega Moolah</h2>
+
+ライオンとアフリカのサバンナをテーマに、段階式プログレッシブジャックポットを備えたスロットです。

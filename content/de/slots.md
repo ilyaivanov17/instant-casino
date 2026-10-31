@@ -20,7 +20,7 @@ slug: slots
 
 Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
 
-## Bigger Bass Bonanza
+<h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
 ## Bigger Bass Bonanza: kurz erklärt
 
@@ -72,7 +72,7 @@ Das Tempo einer Slot-Sitzung entsteht aus Animationen, Wartezeiten, automatische
 
 ---
 
-## Bonanza
+<h2 id="bonanza">Bonanza</h2>
 
 ## Bonanza: kurz erklärt
 
@@ -124,7 +124,7 @@ Das Tempo einer Slot-Sitzung entsteht aus Animationen, Wartezeiten, automatische
 
 ---
 
-## Book of Dead
+<h2 id="book-of-dead">Book of Dead</h2>
 
 ## Book of Dead: kurz erklärt
 
@@ -176,7 +176,7 @@ Das Tempo einer Slot-Sitzung entsteht aus Animationen, Wartezeiten, automatische
 
 ---
 
-## Dragon's Luck
+<h2 id="dragons-luck">Dragon's Luck</h2>
 
 ## Dragon's Luck: kurz erklärt
 
@@ -228,7 +228,7 @@ Das Tempo einer Slot-Sitzung entsteht aus Animationen, Wartezeiten, automatische
 
 ---
 
-## Fruit Party
+<h2 id="fruit-party">Fruit Party</h2>
 
 ## Fruit Party: kurz erklärt
 
@@ -277,3 +277,128 @@ Der auf der Seite angegebene Einsatzbereich muss vor Veröffentlichung mit der a
 Das Tempo einer Slot-Sitzung entsteht aus Animationen, Wartezeiten, automatischen Übergängen und der Frage, wie gut sich Funktionen nachvollziehen lassen. Prüfe Fruit Party auf einem kleinen Bildschirm ebenso wie am Desktop, sofern beide Varianten verfügbar sind. Die Bedienung sollte Einsatz, Kontostand und Funktionserklärungen klar erkennbar halten; schnelle Animationen dürfen wichtige Informationen nicht verdecken. Ein hilfreicher Usability-Test notiert, ob Schaltflächen eindeutig beschriftet sind, ob eine versehentliche Einsatzänderung leicht möglich ist und ob sich die Sitzung jederzeit stoppen lässt. Barrierearme Kontraste, verständliche Symbole und lesbare Texte sind ebenfalls wichtig. Solche Punkte sagen etwas über die Oberfläche aus, nicht über die Höhe möglicher Auszahlungen.
 
 ### Auszahlungstabelle lesen
+
+
+<h2 id="starburst">Starburst</h2>
+
+Ein Slot rund um Weltraum und bunte Edelsteine, ergänzt durch erweiternde Wild-Symbole und Respins.
+
+
+<h2 id="the-dog-house">The Dog House</h2>
+
+Ein Slot rund um Hunde und ein gemütliches Hundehäuschen, ergänzt durch Sticky Wilds und Freispiele.
+
+
+<h2 id="legacy-of-dead">Legacy of Dead</h2>
+
+Ein Slot rund um altägyptische Tempel und goldene Skarabäen, ergänzt durch Freispiele und expandierende Symbole.
+
+
+<h2 id="reactoonz">Reactoonz</h2>
+
+Ein Slot rund um bunte Außerirdische in einer Weltraumwelt, ergänzt durch Cluster-Gewinne und die Quantum-Leap-Funktion.
+
+
+<h2 id="wild-west-gold">Wild West Gold</h2>
+
+Ein Slot rund um Cowboys und Gold im Wilden Westen, ergänzt durch Sticky Wilds und Respins.
+
+
+<h2 id="starlight-princess">Starlight Princess</h2>
+
+Ein Slot rund um eine magische Prinzessin in einer Fantasiewelt, ergänzt durch Kaskaden-Gewinne und Multiplikatoren.
+
+
+<h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
+
+Ein Slot rund um Büffel und Wildtiere in der nordamerikanischen Prärie, ergänzt durch Megaways-Walzen und Kaskaden.
+
+
+<h2 id="mega-fortune">Mega Fortune</h2>
+
+Ein Slot rund um eine luxuriöse Yacht und einen glitzernden Jackpot, ergänzt durch progressive Jackpot-Stufen.
+
+
+<h2 id="dead-or-alive-2">Dead or Alive 2</h2>
+
+Ein Slot rund um eine staubige Westernstadt und Revolverhelden, ergänzt durch mehrere Freispiele-Modi.
+
+
+<h2 id="twin-spin">Twin Spin</h2>
+
+Ein Slot rund um klassische Spielautomaten-Symbole und verbundene Walzen, ergänzt durch Twin-Reel-Funktionen und zufällige Symbole.
+
+
+<h2 id="hand-of-anubis">Hand of Anubis</h2>
+
+Ein Slot rund um Anubis und altägyptische Symbolwelten, ergänzt durch Sammelsymbole und Bonusfunktionen.
+
+
+<h2 id="sugar-rush">Sugar Rush</h2>
+
+Ein Slot rund um Süßigkeiten, Bonbons und eine bunte Fantasiewelt, ergänzt durch Cluster-Gewinne und steigende Multiplikatoren.
+
+
+<h2 id="immortal-romance">Immortal Romance</h2>
+
+Ein Slot rund um vampirische Figuren und eine gotische Liebesgeschichte, ergänzt durch Freispiele und die Wild-Desire-Funktion.
+
+
+<h2 id="5-lions-megaways">5 Lions Megaways</h2>
+
+Ein Slot rund um fünf goldene Löwen in einer asiatisch inspirierten Tempelwelt, ergänzt durch Megaways-Walzen und Freispiele.
+
+
+<h2 id="le-bandit">Le Bandit</h2>
+
+Ein Slot rund um einen Waschbär-Dieb in einer Pariser Kulisse, ergänzt durch Cluster-Gewinne und Bonusfunktionen.
+
+
+<h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
+
+Ein Slot rund um maskierte Revolverhelden im Wilden Westen, ergänzt durch Bonusrunden und Duell-Funktionen.
+
+
+<h2 id="money-train-3">Money Train 3</h2>
+
+Ein Slot rund um einen futuristischen Zug und zwei Outlaws, ergänzt durch Bonus-Symbole und Multiplikator-Funktionen.
+
+
+<h2 id="money-train-4">Money Train 4</h2>
+
+Ein Slot rund um Outlaws und ein futuristisches Zugabenteuer, ergänzt durch Sammelsymbole und Bonusfunktionen.
+
+
+<h2 id="thunderstruck-ii">Thunderstruck II</h2>
+
+Ein Slot rund um nordische Götter und die Welt der Wikinger, ergänzt durch Freispiele und besondere Bonusfunktionen.
+
+
+<h2 id="fruit-party-2">Fruit Party 2</h2>
+
+Ein Slot rund um bunte Früchte und eine sonnige Fantasiewelt, ergänzt durch Cluster-Gewinne und Multiplikatoren.
+
+
+<h2 id="gates-of-olympus">Gates of Olympus</h2>
+
+Ein Slot rund um Zeus und einen prachtvollen Tempel auf dem Olymp, ergänzt durch Kaskaden-Gewinne und Multiplikatoren.
+
+
+<h2 id="gonzos-quest">Gonzo's Quest</h2>
+
+Ein Slot rund um einen Abenteurer auf der Suche nach El Dorado, ergänzt durch Kaskaden-Gewinne und steigende Multiplikatoren.
+
+
+<h2 id="sweet-bonanza">Sweet Bonanza</h2>
+
+Ein Slot rund um Süßigkeiten und Früchte in einer bunten Fantasiewelt, ergänzt durch Tumble-Gewinne und Multiplikatoren.
+
+
+<h2 id="wolf-gold">Wolf Gold</h2>
+
+Ein Slot rund um Wölfe und die nordamerikanische Wildnis, ergänzt durch Wild-Symbole, Respins und Jackpot-Funktionen.
+
+
+<h2 id="mega-moolah">Mega Moolah</h2>
+
+Ein Slot rund um einen Löwen und die afrikanische Savanne, ergänzt durch progressive Jackpot-Stufen.

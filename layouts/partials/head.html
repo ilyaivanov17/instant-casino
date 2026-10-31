@@ -24,8 +24,8 @@
 <meta property="og:description" content="{{ $description }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ $brand }}">
-<meta property="og:locale" content="{{ $settings.locale | default .Site.Language.Name }}">
-{{ range .AllTranslations }}{{ if ne .Language.Name $.Language.Name }}{{ $translationSettings := .Site.GetPage "/editorial/settings" }}<meta property="og:locale:alternate" content="{{ $translationSettings.Params.locale | default .Language.Name }}">{{ end }}{{ end }}
+<meta property="og:locale" content="{{ $settings.locale | default .Site.Language.Lang }}">
+{{ range .AllTranslations }}{{ if ne .Language.Lang $.Language.Lang }}{{ $translationSettings := .Site.GetPage "/editorial/settings" }}<meta property="og:locale:alternate" content="{{ $translationSettings.Params.locale | default .Language.Lang }}">{{ end }}{{ end }}
 {{ $og := .Params.ogImage | default $settings.og_image | default site.Params.images.social }}
 <meta property="og:image" content="{{ $og | absURL }}">
 <meta property="og:image:alt" content="{{ $title }}">
@@ -63,7 +63,7 @@
   "name":{{ $settings.brand | jsonify | safeJS }},
   "url":{{ .Site.BaseURL | jsonify | safeJS }},
   "description":{{ $description | jsonify | safeJS }},
-  "inLanguage":{{ .Site.Language.Name | jsonify | safeJS }}
+  "inLanguage":{{ .Site.Language.Lang | jsonify | safeJS }}
 }
 </script>
 <script type="application/ld+json">
@@ -97,7 +97,7 @@
   "headline":{{ $title | jsonify | safeJS }},
   "url":{{ .Permalink | jsonify | safeJS }},
   "description":{{ $description | jsonify | safeJS }},
-  "inLanguage":{{ .Site.Language.Name | jsonify | safeJS }},
+  "inLanguage":{{ .Site.Language.Lang | jsonify | safeJS }},
   "mainEntityOfPage":{"@type":"WebPage","@id":{{ .Permalink | jsonify | safeJS }}},
   "author":{{ with .Params.author }}{{ $authorPage := site.GetPage (printf "/authors/%s" .) }}{{ if $authorPage }}{"@type":"Person","@id":{{ printf "%s#person" $authorPage.Permalink | jsonify | safeJS }},"name":{{ $authorPage.Title | jsonify | safeJS }},"url":{{ $authorPage.Permalink | jsonify | safeJS }}}{{ else }}{"@type":"Organization","name":{{ $settings.author | jsonify | safeJS }}}{{ end }}{{ else }}{"@type":"Organization","name":{{ $settings.author | jsonify | safeJS }}}{{ end }},
   "publisher":{"@type":"Organization","name":{{ $brand | jsonify | safeJS }},"url":{{ .Site.BaseURL | jsonify | safeJS }}}
@@ -111,7 +111,7 @@
   "name":{{ $title | jsonify | safeJS }},
   "url":{{ .Permalink | jsonify | safeJS }},
   "description":{{ $description | jsonify | safeJS }},
-  "inLanguage":{{ .Site.Language.Name | jsonify | safeJS }},
+  "inLanguage":{{ .Site.Language.Lang | jsonify | safeJS }},
   "isPartOf":{"@type":"WebSite","name":{{ $settings.brand | jsonify | safeJS }},"url":{{ .Site.BaseURL | jsonify | safeJS }}},
   "author":{{ if .Params.author }}{"@type":"Person","@id":{{ printf "%sauthors/%s/#person" site.BaseURL .Params.author | jsonify | safeJS }},"name":{{ .Params.author_name | default "Marco Ibarra" | jsonify | safeJS }},"jobTitle":{{ .Params.author_role | default "iGaming-Autor und Redakteur" | jsonify | safeJS }},"url":{{ printf "%sauthors/%s/" site.BaseURL .Params.author | jsonify | safeJS }}}{{ else }}{"@type":"Organization","name":{{ $settings.author | jsonify | safeJS }}}{{ end }}
 }
@@ -137,4 +137,4 @@
 {{ end }}
 {{ end }}
 
-<link rel="stylesheet" href="{{ "css/main.css" | relURL }}?v=20261030-slot-game-gallery">
+<link rel="stylesheet" href="{{ "css/main.css" | relURL }}?v=20261030-slot-catalog-30">

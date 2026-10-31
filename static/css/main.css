@@ -3262,3 +3262,38 @@ svg.slot-search-icon{
 .slot-profile-bonus-cta a{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;padding:.72rem 1rem;border-radius:8px;background:#f4bd50;color:#160d04!important;font-weight:800;text-decoration:none!important}
 .slot-profile-bonus-cta a:hover{background:#ffcf6d;color:#160d04!important}
 @media(max-width:640px){.slot-profile-bonus-cta{align-items:stretch;flex-direction:column}.slot-profile-bonus-cta a{width:100%}}
+
+
+/* === RESPONSIVE MARKDOWN TABLES === */
+.table-scroll-container {
+  width: 100%;
+  max-width: 100%;
+  margin: 1.5rem 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+}
+.table-scroll-container:focus-visible {
+  outline: 2px solid #fbbf24;
+  outline-offset: 3px;
+}
+.prose .table-scroll-container table {
+  display: table;
+  width: max-content;
+  min-width: 100%;
+  max-width: none;
+  margin: 0;
+  white-space: normal;
+}
+.prose .table-scroll-container th,
+.prose .table-scroll-container td {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  vertical-align: top;
+}
+@media (max-width: 767px) {
+  .prose .table-scroll-container table {
+    min-width: 620px;
+  }
+}

@@ -13,21 +13,29 @@
     <h2 id="slots-catalog-title">{{ $title }}</h2>
     <p>{{ $description }}</p>
   </div>
-  <div class="slots-catalog-tools">
-    <label class="sr-only" for="slot-catalog-search">{{ if eq $lang "de" }}Spiele suchen{{ else if eq $lang "en" }}Search games{{ else if eq $lang "es" }}Buscar juegos{{ else if eq $lang "pt" }}Pesquisar jogos{{ else if eq $lang "ja" }}ゲームを検索{{ else }}Szukaj gier{{ end }}</label>
-    <div class="slot-search-field">
-      <svg class="slot-search-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4.2 4.2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
-      <input id="slot-catalog-search" class="slot-catalog-search" type="search" autocomplete="off" spellcheck="false" enterkeyhint="search" placeholder="{{ if eq $lang "de" }}Spiel, Anbieter oder Funktion suchen…{{ else if eq $lang "en" }}Search games, providers or features…{{ else if eq $lang "es" }}Buscar juegos, proveedores o funciones…{{ else if eq $lang "pt" }}Pesquisar jogos, fornecedores ou funcionalidades…{{ else if eq $lang "ja" }}ゲーム・プロバイダー・機能を検索…{{ else }}Szukaj gier, dostawców lub funkcji…{{ end }}" aria-controls="slot-catalog-grid" aria-describedby="slot-catalog-results">
-      <button class="slot-search-clear" id="slot-catalog-clear" type="button" aria-label="{{ if eq $lang "de" }}Suche löschen{{ else if eq $lang "en" }}Clear search{{ else if eq $lang "es" }}Borrar búsqueda{{ else if eq $lang "pt" }}Limpar pesquisa{{ else if eq $lang "ja" }}検索をクリア{{ else }}Wyczyść wyszukiwanie{{ end }}" hidden>×</button>
+  <div class="slots-catalog-tools" role="search" aria-label="{{ if eq $lang "de" }}Spielekatalog durchsuchen{{ else if eq $lang "en" }}Search the game catalogue{{ else if eq $lang "es" }}Buscar en el catálogo de juegos{{ else if eq $lang "pt" }}Pesquisar no catálogo de jogos{{ else if eq $lang "ja" }}ゲームカタログを検索{{ else }}Przeszukaj katalog gier{{ end }}">
+    <div class="slot-search-panel">
+      <label class="slot-search-label" for="slot-catalog-search">
+        <span class="slot-search-label-title">{{ if eq $lang "de" }}Finde dein Spiel{{ else if eq $lang "en" }}Find your game{{ else if eq $lang "es" }}Encuentra tu juego{{ else if eq $lang "pt" }}Encontre seu jogo{{ else if eq $lang "ja" }}ゲームを見つけよう{{ else }}Znajdź swoją grę{{ end }}</span>
+        <span class="slot-search-label-hint">{{ if eq $lang "de" }}Suche in Titeln, Anbietern und Kurzbeschreibungen{{ else if eq $lang "en" }}Search titles, providers and short descriptions{{ else if eq $lang "es" }}Busca títulos, proveedores y descripciones breves{{ else if eq $lang "pt" }}Pesquise títulos, fornecedores e descrições curtas{{ else if eq $lang "ja" }}タイトル、プロバイダー、短い説明を検索{{ else }}Szukaj w nazwach, dostawcach i krótkich opisach{{ end }}</span>
+      </label>
+      <div class="slot-search-field">
+        <svg class="slot-search-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4.2 4.2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        <input id="slot-catalog-search" class="slot-catalog-search" type="search" autocomplete="off" autocapitalize="none" spellcheck="false" enterkeyhint="search" placeholder="{{ if eq $lang "de" }}z. B. Book of Dead oder Play'n GO{{ else if eq $lang "en" }}e.g. Book of Dead or Play'n GO{{ else if eq $lang "es" }}ej. Book of Dead o Play'n GO{{ else if eq $lang "pt" }}ex. Book of Dead ou Play'n GO{{ else if eq $lang "ja" }}例：Book of Dead、Play'n GO{{ else }}np. Book of Dead lub Play'n GO{{ end }}" aria-controls="slot-catalog-grid" aria-describedby="slot-catalog-results">
+        <button class="slot-search-clear" id="slot-catalog-clear" type="button" aria-label="{{ if eq $lang "de" }}Suche löschen{{ else if eq $lang "en" }}Clear search{{ else if eq $lang "es" }}Borrar búsqueda{{ else if eq $lang "pt" }}Limpar pesquisa{{ else if eq $lang "ja" }}検索をクリア{{ else }}Wyczyść wyszukiwanie{{ end }}" hidden>×</button>
+      </div>
+      <div class="slot-search-footer">
+        <span class="slot-search-tip">{{ if eq $lang "de" }}Auch die Kurzbeschreibungen der Spiele werden durchsucht{{ else if eq $lang "en" }}Only short game descriptions are included{{ else if eq $lang "es" }}También se buscan las descripciones breves de los juegos{{ else if eq $lang "pt" }}As descrições curtas dos jogos também são pesquisadas{{ else if eq $lang "ja" }}ゲームの短い説明文も検索対象です{{ else }}Wyszukiwanie obejmuje również krótkie opisy gier{{ end }}</span>
+        <span class="slot-catalog-results" id="slot-catalog-results" aria-live="polite">{{ len $catalog.games }} {{ if eq $lang "de" }}Spiele{{ else if eq $lang "en" }}games{{ else if eq $lang "pl" }}gier{{ else if eq $lang "es" }}juegos{{ else if eq $lang "pt" }}jogos{{ else }}ゲーム{{ end }}</span>
+      </div>
     </div>
-    <span class="slot-catalog-results" id="slot-catalog-results" aria-live="polite">{{ len $catalog.games }} {{ if eq $lang "de" }}Spiele{{ else if eq $lang "en" }}games{{ else if eq $lang "pl" }}gier{{ else if eq $lang "es" }}juegos{{ else if eq $lang "pt" }}jogos{{ else }}ゲーム{{ end }}</span>
   </div>
   <div class="slots-catalog-grid" id="slot-catalog-grid">
     {{ range $index, $game := $catalog.games }}
       {{ $label := index $game.label $lang | default (index $game.label "en") }}
       {{ $summary := index $game.description $lang | default (index $game.description "en") }}
       {{ $alt := index $game.alt $lang | default (index $game.alt "en") }}
-      <article class="slot-game-card" data-search="{{ printf "%s %s %s %s" $game.name $game.provider $label $summary | lower }}">
+      <article class="slot-game-card" data-search="{{ printf "%s %s %s" $game.name $game.provider $summary | lower }}">
         <a class="slot-game-card-link" href="{{ printf "%s#%s" $.RelPermalink $game.anchor }}">
           <div class="slot-game-card-art">
             <span class="slot-game-card-art-fallback" aria-hidden="true">{{ $game.name }}</span>

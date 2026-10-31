@@ -76,7 +76,7 @@
     });
   }
 
-  /* Search the existing game catalogue by title, provider and game details. */
+  /* Search the complete game catalogue with token-based, accent-insensitive matching. */
   var catalogueSearch = document.getElementById('slot-catalog-search');
   var catalogueGrid = document.getElementById('slot-catalog-grid');
   if (catalogueSearch && catalogueGrid) {
@@ -85,31 +85,50 @@
     var catalogueEmpty = document.getElementById('slot-catalog-empty');
     var catalogueClear = document.getElementById('slot-catalog-clear');
     var catalogueLang = (document.documentElement.getAttribute('lang') || 'en').slice(0, 2);
-    var countLabels = { de: ["Spiel", "Spiele"], en: ["game", "games"], pl: ["gra", "gier"], es: ["juego", "juegos"], pt: ["jogo", "jogos"], ja: ["件", "件"] };
+    var countLabels = {
+      de: ['Spiel', 'Spiele'], en: ['game', 'games'], pl: ['gra', 'gier'],
+      es: ['juego', 'juegos'], pt: ['jogo', 'jogos'], ja: ['件', '件']
+    };
 
     function normalizeCatalogueSearch(value) {
       var text = String(value || '').toLocaleLowerCase();
       if (typeof text.normalize === 'function') {
         text = text.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
       }
-      return text.replace(/\s+/g, ' ').trim();
+      return text
+        .replace(/[’‘]/g, "'")
+        .replace(/[^\p{L}\p{N}' ]+/gu, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
     }
+
+    var searchableCards = catalogueCards.map(function (card) {
+      return {
+        element: card,
+        text: normalizeCatalogueSearch(card.getAttribute('data-search') || '')
+      };
+    });
 
     function filterCatalogue() {
       var query = normalizeCatalogueSearch(catalogueSearch.value);
+      var terms = query ? query.split(' ').filter(Boolean) : [];
       var visible = 0;
-      catalogueCards.forEach(function (card) {
-        var searchable = card.getAttribute('data-search') || card.textContent || '';
-        var matches = !query || normalizeCatalogueSearch(searchable).indexOf(query) !== -1;
-        card.hidden = !matches;
+
+      searchableCards.forEach(function (item) {
+        var matches = terms.every(function (term) {
+          return item.text.indexOf(term) !== -1;
+        });
+        item.element.hidden = !matches;
         if (matches) visible += 1;
       });
+
       if (catalogueCount) {
         var labels = countLabels[catalogueLang] || countLabels.en;
         catalogueCount.textContent = visible + ' ' + (visible === 1 ? labels[0] : labels[1]);
       }
       if (catalogueEmpty) catalogueEmpty.hidden = visible !== 0;
-      if (catalogueClear) catalogueClear.hidden = catalogueSearch.value.length === 0;
+      if (catalogueClear) catalogueClear.hidden = query.length === 0;
+      catalogueSearch.setAttribute('aria-invalid', String(visible === 0 && query.length > 0));
     }
 
     catalogueSearch.addEventListener('input', filterCatalogue);

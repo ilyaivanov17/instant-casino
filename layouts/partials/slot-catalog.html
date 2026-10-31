@@ -66,7 +66,7 @@
             <span class="slot-game-card-action">{{ $readMore }} <span aria-hidden="true">→</span></span>
           </div>
         </a>
-        {{ if eq $lang "de" }}<a class="slot-game-card-bonus-link" href="/go/bonus" rel="sponsored" aria-label="Bonusangebote für {{ $game.name }} beim Anbieter prüfen">Bonusangebote zu {{ $game.name }} prüfen <span aria-hidden="true">↗</span></a>{{ end }}
+        {{ if eq $lang "de" }}<a class="slot-game-card-bonus-link" href="{{ $.RelPermalink }}#de-affiliate-title" aria-label="Bonusangebote im Überblick ansehen">Bonusangebote ansehen <span aria-hidden="true">↓</span></a>{{ end }}
       </article>
     {{ end }}
   </div>

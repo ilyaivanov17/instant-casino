@@ -44,7 +44,9 @@ def read_front_matter(path):
                 continue
             parent = key.strip()
             value = value.strip()
-            data[parent] = yaml_scalar(value) if value else {}
+            data[parent] = yaml_scalar(value) if value else ([] if parent == "screenshots" else {})
+        elif parent == "screenshots" and line.strip().startswith("- "):
+            data[parent].append(yaml_scalar(line.strip()[2:].strip()))
         elif parent in {"ui", "sitemap", "build"}:
             key, separator, value = line.strip().partition(":")
             if separator:
@@ -147,6 +149,16 @@ def main():
         except Exception as exc:
             errors.append(str(exc))
             continue
+        # Validate every local screenshot reference against Hugo's static directory.
+        screenshots = fm.get("screenshots", [])
+        if isinstance(screenshots, str):
+            screenshots = [screenshots]
+        for image_ref in screenshots or []:
+            if isinstance(image_ref, str) and image_ref.startswith("/"):
+                asset_path = os.path.join(root, "static", image_ref.lstrip("/"))
+                if not os.path.isfile(asset_path):
+                    errors.append(f"{path}: screenshot asset is missing: {image_ref}")
+
         # Files marked build.render=never are source/configuration records, not public pages.
         build_settings = fm.get("build", {})
         if isinstance(build_settings, dict) and str(build_settings.get("render", "")).strip("'\"") == "never":

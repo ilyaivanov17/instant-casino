@@ -35,7 +35,10 @@
       {{ $label := index $game.label $lang | default (index $game.label "en") }}
       {{ $summary := index $game.description $lang | default (index $game.description "en") }}
       {{ $alt := index $game.alt $lang | default (index $game.alt "en") }}
-      <article class="slot-game-card" data-search="{{ printf "%s %s %s" $game.name $game.provider $summary | lower }}">
+      {{ $searchText := printf "%s %s %s" $game.name $game.provider $game.anchor }}
+      {{ range $game.description }}{{ $searchText = printf "%s %s" $searchText . }}{{ end }}
+      {{ range $game.label }}{{ $searchText = printf "%s %s" $searchText . }}{{ end }}
+      <article class="slot-game-card" data-search="{{ $searchText | lower }}">
         <a class="slot-game-card-link" href="{{ printf "%s#%s" $.RelPermalink $game.anchor }}">
           <div class="slot-game-card-art">
             <span class="slot-game-card-art-fallback" aria-hidden="true">{{ $game.name }}</span>

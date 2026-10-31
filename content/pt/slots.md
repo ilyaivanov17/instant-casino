@@ -310,122 +310,172 @@ O ritmo depende das animações, pausas, transições automáticas e facilidade 
 
 Um slot inspirado em o espaço e as gemas coloridas, com símbolos Wild expansivos e respins.
 
+Os Wild expansivos podem alterar as ligações entre símbolos nos rolos. A ajuda do jogo explica os respetivos gatilhos e as condições dos respins.
+
 
 <h2 id="the-dog-house">The Dog House</h2>
 
 Um slot inspirado em cães e uma casota divertida, com Sticky Wilds e rodadas grátis.
+
+Os Sticky Wild permanecem na mesma posição durante a funcionalidade correspondente. Por isso, importa consultar as regras da ronda de bónus e a posição dos símbolos.
 
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
 Um slot inspirado em templos do antigo Egito e escaravelhos dourados, com rodadas grátis e símbolos expansíveis.
 
+A funcionalidade de expansão altera a disposição dos rolos durante as rodadas grátis. A tabela de pagamentos explica qual o símbolo escolhido e como funciona.
+
 
 <h2 id="reactoonz">Reactoonz</h2>
 
 Um slot inspirado em alienígenas coloridos num cenário espacial, com prémios por grupos e a funcionalidade Quantum Leap.
+
+As combinações são avaliadas por grupos de símbolos adjacentes, e não por linhas de pagamento tradicionais. Importam o tamanho mínimo do grupo e as regras de remoção.
 
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
 Um slot inspirado em cowboys e ouro do Oeste Selvagem, com Sticky Wilds e respins.
 
+Os Sticky Wild permanecem na mesma posição durante a funcionalidade correspondente. Por isso, importa consultar as regras da ronda de bónus e a posição dos símbolos.
+
 
 <h2 id="starlight-princess">Starlight Princess</h2>
 
 Um slot inspirado em uma princesa mágica num mundo de fantasia, com prémios em cascata e multiplicadores.
+
+Os símbolos vencedores desaparecem e são substituídos por outros, permitindo vários resultados numa única jogada paga. As regras dos multiplicadores variam.
 
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
 Um slot inspirado em búfalos e vida selvagem na pradaria norte-americana, com rolos Megaways e cascatas.
 
+O número de símbolos em cada rolo pode variar de rodada para rodada, alterando as formas de ganhar. As regras do jogo indicam o intervalo exato.
+
 
 <h2 id="mega-fortune">Mega Fortune</h2>
 
 Um slot inspirado em um iate de luxo e um jackpot reluzente, com níveis de jackpot progressivo.
+
+O jackpot tem regras próprias, que podem depender da versão ou do operador. Consulte no jogo as condições atuais e os detalhes do prémio.
 
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
 Um slot inspirado em uma cidade poeirenta do Oeste e pistoleiros, com vários modos de rodadas grátis.
 
+As rodadas grátis têm condições próprias de ativação e funcionamento, incluindo eventuais reativações. A ajuda do jogo apresenta esses detalhes.
+
 
 <h2 id="twin-spin">Twin Spin</h2>
 
 Um slot inspirado em símbolos clássicos de slots e rolos ligados, com funcionalidades de rolos gémeos e símbolos aleatórios.
+
+Os rolos ligados podem funcionar em conjunto como uma funcionalidade. É importante perceber como os símbolos correspondentes são copiados ou emparelhados.
 
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
 Um slot inspirado em Anúbis e motivos do antigo Egito, com símbolos colecionáveis e funcionalidades de bónus.
 
+Os símbolos de coleção e os gatilhos de bónus determinam o desenvolvimento da funcionalidade. A tabela de pagamentos indica as condições exatas de recolha e atribuição.
+
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
 Um slot inspirado em doces e um mundo de fantasia colorido, com prémios por grupos e multiplicadores crescentes.
+
+As combinações são avaliadas por grupos de símbolos adjacentes, e não por linhas de pagamento tradicionais. Importam o tamanho mínimo do grupo e as regras de remoção.
 
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
 Um slot inspirado em personagens vampíricas e um romance gótico, com rodadas grátis e a funcionalidade Wild Desire.
 
+As rodadas grátis têm condições próprias de ativação e funcionamento, incluindo eventuais reativações. A ajuda do jogo apresenta esses detalhes.
+
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
 Um slot inspirado em cinco leões dourados num cenário de templos inspirado na Ásia, com rolos Megaways e rodadas grátis.
+
+O número de símbolos em cada rolo pode variar de rodada para rodada, alterando as formas de ganhar. As regras do jogo indicam o intervalo exato.
 
 
 <h2 id="le-bandit">Le Bandit</h2>
 
 Um slot inspirado em um guaxinim ladrão num cenário parisiense, com prémios por grupos e funcionalidades de bónus.
 
+As combinações são avaliadas por grupos de símbolos adjacentes, e não por linhas de pagamento tradicionais. Importam o tamanho mínimo do grupo e as regras de remoção.
+
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
 Um slot inspirado em pistoleiros mascarados no Oeste Selvagem, com rondas de bónus e funcionalidades de duelo.
+
+A ronda de bónus é uma parte central do jogo. Os respetivos gatilhos e funcionamento devem ser confirmados na tabela de pagamentos atual.
 
 
 <h2 id="money-train-3">Money Train 3</h2>
 
 Um slot inspirado em um comboio futurista e dois fora da lei, com símbolos de bónus e funcionalidades de multiplicadores.
 
+Os símbolos de coleção e os gatilhos de bónus determinam o desenvolvimento da funcionalidade. A tabela de pagamentos indica as condições exatas de recolha e atribuição.
+
 
 <h2 id="money-train-4">Money Train 4</h2>
 
 Um slot inspirado em fora da lei e uma aventura ferroviária futurista, com símbolos colecionáveis e funcionalidades de bónus.
+
+Os símbolos de coleção e os gatilhos de bónus determinam o desenvolvimento da funcionalidade. A tabela de pagamentos indica as condições exatas de recolha e atribuição.
 
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
 Um slot inspirado em deuses nórdicos e o mundo dos vikings, com rodadas grátis e funcionalidades de bónus especiais.
 
+As rodadas grátis têm condições próprias de ativação e funcionamento, incluindo eventuais reativações. A ajuda do jogo apresenta esses detalhes.
+
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
 Um slot inspirado em frutas coloridas e um mundo de fantasia soalheiro, com prémios por grupos e multiplicadores.
+
+As combinações são avaliadas por grupos de símbolos adjacentes, e não por linhas de pagamento tradicionais. Importam o tamanho mínimo do grupo e as regras de remoção.
 
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
 Um slot inspirado em Zeus e um magnífico templo no Olimpo, com prémios em cascata e multiplicadores.
 
+Os símbolos vencedores desaparecem e são substituídos por outros, permitindo vários resultados numa única jogada paga. As regras dos multiplicadores variam.
+
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
 Um slot inspirado em um explorador à procura de El Dorado, com prémios em cascata e multiplicadores crescentes.
+
+Os símbolos vencedores desaparecem e são substituídos por outros, permitindo vários resultados numa única jogada paga. As regras dos multiplicadores variam.
 
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
 Um slot inspirado em doces e frutas num mundo de fantasia colorido, com prémios em cascata e multiplicadores.
 
+Os símbolos vencedores desaparecem e são substituídos por outros, permitindo vários resultados numa única jogada paga. As regras dos multiplicadores variam.
+
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
 Um slot inspirado em lobos e a natureza selvagem da América do Norte, com símbolos Wild, respins e funcionalidades de jackpot.
 
+O jackpot tem regras próprias, que podem depender da versão ou do operador. Consulte no jogo as condições atuais e os detalhes do prémio.
+
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
 Um slot inspirado em um leão e a savana africana, com níveis de jackpot progressivo.
+
+O jackpot tem regras próprias, que podem depender da versão ou do operador. Consulte no jogo as condições atuais e os detalhes do prémio.

@@ -44,7 +44,9 @@ def read_front_matter(path):
                 continue
             parent = key.strip()
             value = value.strip()
-            data[parent] = yaml_scalar(value) if value else {}
+            data[parent] = yaml_scalar(value) if value else ([] if parent == "screenshots" else {})
+        elif parent == "screenshots" and line.strip().startswith("- "):
+            data[parent].append(yaml_scalar(line.strip()[2:].strip()))
         elif parent in {"ui", "sitemap", "build"}:
             key, separator, value = line.strip().partition(":")
             if separator:

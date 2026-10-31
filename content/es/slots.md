@@ -46,6 +46,8 @@ Comprueba la versión disponible, el RTP indicado cuando se publique, los límit
 
 Las notas de jugadores que aparecen a continuación son ejemplos seleccionados de comentarios positivos publicados en sitios externos de reseñas o debate. No constituyen una encuesta representativa, un registro verificado de resultados ni una promesa de ganancias. Nuestro análisis es independiente y explica la estructura del juego y sus mecánicas distintivas. No reproducimos reseñas completas ni presentamos premios individuales como prueba de resultados esperados.
 
+Algunas plataformas de reseñas declaran relaciones comerciales o de afiliación; por eso utilizamos los comentarios de jugadores solo como ejemplos cualitativos, no como datos independientes de rendimiento.
+
 ---
 
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>

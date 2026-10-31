@@ -3,7 +3,7 @@ title: スロットガイド：基本とゲームプロフィール
 description: 'オンラインスロットのルール、機能、主要情報をまとめたゲーム別ガイドです。'
 type: page
 seo_title: スロットガイド：基本とゲームプロフィール | Instant Casino
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always

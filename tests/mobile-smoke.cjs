@@ -87,6 +87,8 @@ async function inspectPage(page, path, expectedCards = null) {
   await search.fill('Bigger Bass Bonanza');
   const titleMatches = await searchPage.locator('.slot-game-card:visible').count();
   const firstTitle = await searchPage.locator('.slot-game-card:visible h3').first().textContent();
+  await search.fill('Bigger Bass');
+  const multiWordMatches = await searchPage.locator('.slot-game-card:visible').count();
   await search.fill('Pragmatic Play');
   const providerMatches = await searchPage.locator('.slot-game-card:visible').count();
   await search.fill('no-such-game-123');
@@ -94,10 +96,45 @@ async function inspectPage(page, path, expectedCards = null) {
   await searchPage.locator('#slot-catalog-clear').click();
   const restoredCount = await searchPage.locator('.slot-game-card:visible').count();
   const searchOk = titleMatches === 1 && firstTitle.trim() === 'Bigger Bass Bonanza' &&
-    providerMatches > 0 && emptyStateVisible && restoredCount === 30;
-  console.log(`${searchOk ? 'OK' : 'FAIL'} catalogue search title=${titleMatches} provider=${providerMatches} empty=${emptyStateVisible} reset=${restoredCount}/30`);
+    multiWordMatches === 1 && providerMatches > 0 && emptyStateVisible && restoredCount === 30;
+  console.log(`${searchOk ? 'OK' : 'FAIL'} catalogue search title=${titleMatches} multiword=${multiWordMatches} provider=${providerMatches} empty=${emptyStateVisible} reset=${restoredCount}/30`);
   if (!searchOk) failed = true;
   await searchPage.close();
+
+  // Check the redesigned search control at narrow mobile and desktop widths.
+  const mobileSearchPage = await browser.newPage({ viewport: { width: 360, height: 780 }, deviceScaleFactor: 1, isMobile: true, hasTouch: true });
+  await mobileSearchPage.goto('http://127.0.0.1:4173/slots/', { waitUntil: 'networkidle' });
+  const mobileSearchMetrics = await mobileSearchPage.locator('.slot-search-panel').evaluate(panel => {
+    const field = panel.querySelector('.slot-search-field');
+    const input = panel.querySelector('#slot-catalog-search');
+    const panelRect = panel.getBoundingClientRect();
+    const fieldRect = field.getBoundingClientRect();
+    return {
+      panelWidth: panelRect.width,
+      panelRight: panelRect.right,
+      fieldWidth: fieldRect.width,
+      fieldHeight: fieldRect.height,
+      inputFontSize: parseFloat(getComputedStyle(input).fontSize),
+      visibleLabel: Boolean(panel.querySelector('.slot-search-label-title')?.textContent.trim())
+    };
+  });
+  const mobileSearchOk = mobileSearchMetrics.panelRight <= 360 && mobileSearchMetrics.fieldWidth > 280 &&
+    mobileSearchMetrics.fieldHeight >= 54 && mobileSearchMetrics.inputFontSize >= 16 && mobileSearchMetrics.visibleLabel;
+  console.log(`${mobileSearchOk ? 'OK' : 'FAIL'} mobile search panel width=${mobileSearchMetrics.panelWidth.toFixed(1)} field=${mobileSearchMetrics.fieldWidth.toFixed(1)}x${mobileSearchMetrics.fieldHeight.toFixed(1)} font=${mobileSearchMetrics.inputFontSize}px`);
+  if (!mobileSearchOk) failed = true;
+  await mobileSearchPage.close();
+
+  const desktopSearchPage = await browser.newPage({ viewport: { width: 1440, height: 900 }, deviceScaleFactor: 1 });
+  await desktopSearchPage.goto('http://127.0.0.1:4173/slots/', { waitUntil: 'networkidle' });
+  const desktopSearchMetrics = await desktopSearchPage.locator('.slot-search-panel').evaluate(panel => {
+    const rect = panel.getBoundingClientRect();
+    const field = panel.querySelector('.slot-search-field').getBoundingClientRect();
+    return { panelWidth: rect.width, fieldWidth: field.width, fieldHeight: field.height };
+  });
+  const desktopSearchOk = desktopSearchMetrics.panelWidth >= 500 && desktopSearchMetrics.fieldWidth >= 450 && desktopSearchMetrics.fieldHeight >= 58;
+  console.log(`${desktopSearchOk ? 'OK' : 'FAIL'} desktop search panel width=${desktopSearchMetrics.panelWidth.toFixed(1)} field=${desktopSearchMetrics.fieldWidth.toFixed(1)}x${desktopSearchMetrics.fieldHeight.toFixed(1)}`);
+  if (!desktopSearchOk) failed = true;
+  await desktopSearchPage.close();
 
   // Check the intended four-column desktop layout on the German catalogue.
   const desktop = await browser.newPage({ viewport: { width: 1440, height: 1000 }, deviceScaleFactor: 1 });

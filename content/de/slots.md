@@ -305,122 +305,172 @@ Das Tempo einer Slot-Sitzung entsteht aus Animationen, Wartezeiten, automatische
 
 Ein Slot rund um Weltraum und bunte Edelsteine, ergänzt durch erweiternde Wild-Symbole und Respins.
 
+Expandierende Wild-Symbole können Verbindungen über die Walzen verändern. Die Spielhilfe erklärt die Auslöser und Respins im Detail.
+
 
 <h2 id="the-dog-house">The Dog House</h2>
 
 Ein Slot rund um Hunde und ein gemütliches Hundehäuschen, ergänzt durch Sticky Wilds und Freispiele.
+
+Sticky Wilds bleiben während der entsprechenden Funktion an ihrer Position. Deshalb sind die Regeln der Bonusrunde und die Symbolpositionen besonders wichtig.
 
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
 Ein Slot rund um altägyptische Tempel und goldene Skarabäen, ergänzt durch Freispiele und expandierende Symbole.
 
+Die Erweiterungsfunktion verändert während der Freispiele das Walzenbild. Die Auszahlungstabelle erklärt, welches Symbol gewählt wird und wie die Erweiterung abläuft.
+
 
 <h2 id="reactoonz">Reactoonz</h2>
 
 Ein Slot rund um bunte Außerirdische in einer Weltraumwelt, ergänzt durch Cluster-Gewinne und die Quantum-Leap-Funktion.
+
+Gewinne entstehen durch benachbarte Symbolgruppen statt durch klassische Gewinnlinien. Entscheidend sind die erforderliche Clustergröße und die Regeln zum Entfernen der Symbole.
 
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
 Ein Slot rund um Cowboys und Gold im Wilden Westen, ergänzt durch Sticky Wilds und Respins.
 
+Sticky Wilds bleiben während der entsprechenden Funktion an ihrer Position. Deshalb sind die Regeln der Bonusrunde und die Symbolpositionen besonders wichtig.
+
 
 <h2 id="starlight-princess">Starlight Princess</h2>
 
 Ein Slot rund um eine magische Prinzessin in einer Fantasiewelt, ergänzt durch Kaskaden-Gewinne und Multiplikatoren.
+
+Gewinnende Symbole verschwinden und werden ersetzt, sodass mehrere Ergebnisse innerhalb eines bezahlten Spiels möglich sind. Die Multiplikatorregeln unterscheiden sich je nach Titel.
 
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
 Ein Slot rund um Büffel und Wildtiere in der nordamerikanischen Prärie, ergänzt durch Megaways-Walzen und Kaskaden.
 
+Die Anzahl der Symbole pro Walze kann sich von Dreh zu Dreh ändern und damit auch die Gewinnwege. Die Spielhilfe nennt den genauen Bereich.
+
 
 <h2 id="mega-fortune">Mega Fortune</h2>
 
 Ein Slot rund um eine luxuriöse Yacht und einen glitzernden Jackpot, ergänzt durch progressive Jackpot-Stufen.
+
+Für den Jackpot gelten eigene Regeln, die von Version und Betreiber abhängen können. Prüfe die aktuelle Anzeige und die Teilnahmebedingungen im Spiel.
 
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
 Ein Slot rund um eine staubige Westernstadt und Revolverhelden, ergänzt durch mehrere Freispiele-Modi.
 
+Die Freispiele haben eigene Start- und Ablaufregeln, einschließlich möglicher erneuter Auslösungen. Diese Details stehen in der Spielhilfe.
+
 
 <h2 id="twin-spin">Twin Spin</h2>
 
 Ein Slot rund um klassische Spielautomaten-Symbole und verbundene Walzen, ergänzt durch Twin-Reel-Funktionen und zufällige Symbole.
+
+Gekoppelte Walzen können gemeinsam als Funktion agieren. Entscheidend ist, wie passende Symbole übernommen oder miteinander verbunden werden.
 
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
 Ein Slot rund um Anubis und altägyptische Symbolwelten, ergänzt durch Sammelsymbole und Bonusfunktionen.
 
+Sammelsymbole und Bonusauslöser bestimmen den Ablauf der Funktion. Die Auszahlungstabelle nennt die genauen Sammel- und Gewinnbedingungen.
+
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
 Ein Slot rund um Süßigkeiten, Bonbons und eine bunte Fantasiewelt, ergänzt durch Cluster-Gewinne und steigende Multiplikatoren.
+
+Gewinne entstehen durch benachbarte Symbolgruppen statt durch klassische Gewinnlinien. Entscheidend sind die erforderliche Clustergröße und die Regeln zum Entfernen der Symbole.
 
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
 Ein Slot rund um vampirische Figuren und eine gotische Liebesgeschichte, ergänzt durch Freispiele und die Wild-Desire-Funktion.
 
+Die Freispiele haben eigene Start- und Ablaufregeln, einschließlich möglicher erneuter Auslösungen. Diese Details stehen in der Spielhilfe.
+
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
 Ein Slot rund um fünf goldene Löwen in einer asiatisch inspirierten Tempelwelt, ergänzt durch Megaways-Walzen und Freispiele.
+
+Die Anzahl der Symbole pro Walze kann sich von Dreh zu Dreh ändern und damit auch die Gewinnwege. Die Spielhilfe nennt den genauen Bereich.
 
 
 <h2 id="le-bandit">Le Bandit</h2>
 
 Ein Slot rund um einen Waschbär-Dieb in einer Pariser Kulisse, ergänzt durch Cluster-Gewinne und Bonusfunktionen.
 
+Gewinne entstehen durch benachbarte Symbolgruppen statt durch klassische Gewinnlinien. Entscheidend sind die erforderliche Clustergröße und die Regeln zum Entfernen der Symbole.
+
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
 Ein Slot rund um maskierte Revolverhelden im Wilden Westen, ergänzt durch Bonusrunden und Duell-Funktionen.
+
+Die Bonusrunde prägt den Spielablauf. Auslöser und Ablauf sollten jedoch anhand der aktuellen Auszahlungstabelle geprüft werden.
 
 
 <h2 id="money-train-3">Money Train 3</h2>
 
 Ein Slot rund um einen futuristischen Zug und zwei Outlaws, ergänzt durch Bonus-Symbole und Multiplikator-Funktionen.
 
+Sammelsymbole und Bonusauslöser bestimmen den Ablauf der Funktion. Die Auszahlungstabelle nennt die genauen Sammel- und Gewinnbedingungen.
+
 
 <h2 id="money-train-4">Money Train 4</h2>
 
 Ein Slot rund um Outlaws und ein futuristisches Zugabenteuer, ergänzt durch Sammelsymbole und Bonusfunktionen.
+
+Sammelsymbole und Bonusauslöser bestimmen den Ablauf der Funktion. Die Auszahlungstabelle nennt die genauen Sammel- und Gewinnbedingungen.
 
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
 Ein Slot rund um nordische Götter und die Welt der Wikinger, ergänzt durch Freispiele und besondere Bonusfunktionen.
 
+Die Freispiele haben eigene Start- und Ablaufregeln, einschließlich möglicher erneuter Auslösungen. Diese Details stehen in der Spielhilfe.
+
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
 Ein Slot rund um bunte Früchte und eine sonnige Fantasiewelt, ergänzt durch Cluster-Gewinne und Multiplikatoren.
+
+Gewinne entstehen durch benachbarte Symbolgruppen statt durch klassische Gewinnlinien. Entscheidend sind die erforderliche Clustergröße und die Regeln zum Entfernen der Symbole.
 
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
 Ein Slot rund um Zeus und einen prachtvollen Tempel auf dem Olymp, ergänzt durch Kaskaden-Gewinne und Multiplikatoren.
 
+Gewinnende Symbole verschwinden und werden ersetzt, sodass mehrere Ergebnisse innerhalb eines bezahlten Spiels möglich sind. Die Multiplikatorregeln unterscheiden sich je nach Titel.
+
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
 Ein Slot rund um einen Abenteurer auf der Suche nach El Dorado, ergänzt durch Kaskaden-Gewinne und steigende Multiplikatoren.
+
+Gewinnende Symbole verschwinden und werden ersetzt, sodass mehrere Ergebnisse innerhalb eines bezahlten Spiels möglich sind. Die Multiplikatorregeln unterscheiden sich je nach Titel.
 
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
 Ein Slot rund um Süßigkeiten und Früchte in einer bunten Fantasiewelt, ergänzt durch Tumble-Gewinne und Multiplikatoren.
 
+Gewinnende Symbole verschwinden und werden ersetzt, sodass mehrere Ergebnisse innerhalb eines bezahlten Spiels möglich sind. Die Multiplikatorregeln unterscheiden sich je nach Titel.
+
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
 Ein Slot rund um Wölfe und die nordamerikanische Wildnis, ergänzt durch Wild-Symbole, Respins und Jackpot-Funktionen.
 
+Für den Jackpot gelten eigene Regeln, die von Version und Betreiber abhängen können. Prüfe die aktuelle Anzeige und die Teilnahmebedingungen im Spiel.
+
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
 Ein Slot rund um einen Löwen und die afrikanische Savanne, ergänzt durch progressive Jackpot-Stufen.
+
+Für den Jackpot gelten eigene Regeln, die von Version und Betreiber abhängen können. Prüfe die aktuelle Anzeige und die Teilnahmebedingungen im Spiel.

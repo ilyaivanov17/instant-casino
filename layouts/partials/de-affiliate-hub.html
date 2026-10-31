@@ -1,0 +1,44 @@
+{{- $offers := site.Data.bonuses -}}
+<section class="de-affiliate-hub" aria-labelledby="de-affiliate-title">
+  <div class="de-affiliate-heading">
+    <span class="de-affiliate-eyebrow">ANGEBOTE FÜR DEUTSCHLAND</span>
+    <h2 id="de-affiliate-title">Bonusangebote prüfen</h2>
+    <p>Vergleiche die aufgeführten Aktionscodes und prüfe die vollständigen Bedingungen beim Anbieter, bevor du dich registrierst oder eine Einzahlung tätigst.</p>
+  </div>
+  <div class="de-offer-grid">
+    {{ range $offers }}
+      <article class="de-offer-card">
+        <span class="de-offer-label">Aktionscode</span>
+        <strong class="de-offer-amount">{{ .amount }}</strong>
+        <code class="de-offer-code">{{ .code }}</code>
+        <button class="promo-code-copy" type="button" data-copy-code="{{ .code }}" data-copy-label="Code kopieren" data-copied-label="Kopiert" data-copy-fail-label="Manuell kopieren">Code kopieren</button>
+        <a class="de-offer-cta" href="/go/bonus" rel="sponsored">Bonusbedingungen prüfen <span aria-hidden="true">→</span></a>
+      </article>
+    {{ end }}
+  </div>
+  <p class="de-affiliate-disclosure">Werbliche Hinweise: Einige Links sind Affiliate-Links. Bei einem Klick kann das Portal eine Provision erhalten. Die Codes und Beträge sind redaktionell hinterlegte Angebotsangaben; maßgeblich sind die aktuell beim Anbieter angezeigten Bedingungen und die Teilnahmeberechtigung in Deutschland.</p>
+  <div class="de-wager-calculator" data-wager-calculator>
+    <div class="de-calculator-copy">
+      <span class="de-affiliate-eyebrow">BONUSRECHNER</span>
+      <h2>Wie viel Umsatz ist erforderlich?</h2>
+      <p>Berechne den rechnerischen Umsatz anhand der Bonusbedingungen. Wähle aus, ob der Multiplikator für den Bonus oder für Einzahlung plus Bonus gilt.</p>
+    </div>
+    <form class="de-calculator-form" data-wager-form>
+      <label for="de-calc-deposit">Einzahlung (€)</label>
+      <input id="de-calc-deposit" name="deposit" type="number" min="0" max="100000" step="0.01" value="100" required>
+      <label for="de-calc-bonus">Bonus (€)</label>
+      <input id="de-calc-bonus" name="bonus" type="number" min="0" max="100000" step="0.01" value="100" required>
+      <label for="de-calc-wager">Umsatzmultiplikator</label>
+      <div class="de-calculator-multiplier"><input id="de-calc-wager" name="wager" type="number" min="0" max="1000" step="0.1" value="30" required><span>×</span></div>
+      <label for="de-calc-basis">Berechnungsgrundlage</label>
+      <select id="de-calc-basis" name="basis">
+        <option value="bonus">Nur Bonusbetrag</option>
+        <option value="deposit_bonus">Einzahlung + Bonus</option>
+      </select>
+      <button class="de-calculator-submit" type="submit">Umsatz berechnen</button>
+      <output class="de-calculator-result" data-wager-result aria-live="polite">Erforderlicher Umsatz: 3.000,00 €</output>
+      <p class="de-calculator-note">Vereinfachte Rechnung ohne Spielgewichtung, Fristen, Höchsteinsatz oder ausgeschlossene Spiele. Es gelten ausschließlich die konkreten Bonusbedingungen.</p>
+      <a class="de-offer-cta" href="/go/bonus" rel="sponsored">Angebot und Bedingungen ansehen <span aria-hidden="true">→</span></a>
+    </form>
+  </div>
+</section>

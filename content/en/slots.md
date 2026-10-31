@@ -217,13 +217,13 @@ A published player review highlights the Egyptian atmosphere, soundtrack and str
 
 ## Dragon's Luck: a quick guide
 
-Dragon’s Luck uses a dragon theme and, according to the stored details, includes wilds, scatters and a bonus feature. Before staking money, use the paytable and help panel to see how the symbols work.
+Dragon's Luck is a Red Tiger slot built around dragon-themed artwork and the Dragon Coin, Dragon's Help and Mega Coin features. Check the [official game information](https://games.evolution.com/slots/dragons-luck/) and the paytable in the loaded version for their exact rules.
 
 ### Game overview
 
 | Provider | RTP (theoretical) | Volatility | Stake range | Features |
 |---|---:|---|---|---|
-| Play'n GO | 96.31% | Medium | 0.1–50 EUR | Wild symbols, Scatter symbols, Bonus game |
+| Red Tiger | 94.71% | High | Check in game | Dragon Coin, Dragon's Help, Mega Coin |
 
 ### What the figures do — and do not — tell you
 
@@ -239,7 +239,7 @@ Open the paytable before playing. It explains symbol values, feature triggers an
 
 This article is an editorial guide to Dragon's Luck. It distinguishes game information from interpretation and does not predict outcomes.
 
-Dragon's Luck is listed with Play'n GO. The page profile lists Wild symbols, Scatter symbols, Bonus game, within a theme built around a dragon and luck motif. These details describe the site record; they do not replace checking the exact version that loads for a player. Before publication, verify the in-game help, paytable and stake limits directly.
+The official game listing identifies Dragon's Luck as a Red Tiger title and names Dragon Coin, Dragon's Help and Mega Coin among its features. The published RTP is 94.71%, while the exact stake range and any operator-specific settings should be checked in the loaded game.
 
 ### Theme and first impressions
 

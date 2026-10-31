@@ -76,6 +76,28 @@
     });
   }
 
+  /* Accessible slot catalogue search: filters existing cards without changing URLs or content. */
+  var catalogueSearch = document.getElementById('slot-catalog-search');
+  var catalogueGrid = document.getElementById('slot-catalog-grid');
+  if (catalogueSearch && catalogueGrid) {
+    var catalogueCards = Array.prototype.slice.call(catalogueGrid.querySelectorAll('.slot-game-card'));
+    var catalogueCount = document.getElementById('slot-catalog-results');
+    var catalogueEmpty = document.getElementById('slot-catalog-empty');
+    var catalogueLang = (document.documentElement.getAttribute('lang') || 'en').slice(0, 2);
+    var countLabels = { de: ["Spiel", "Spiele"], en: ["game", "games"], pl: ["gra", "gier"], es: ["juego", "juegos"], pt: ["jogo", "jogos"], ja: ["件", "件"] };
+    function normalizeSearch(value) { return String(value || '').toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, ''); }
+    catalogueSearch.addEventListener('input', function () {
+      var query = normalizeSearch(catalogueSearch.value.trim());
+      var visible = 0;
+      catalogueCards.forEach(function (card) {
+        var matches = !query || normalizeSearch(card.getAttribute('data-search')).indexOf(query) !== -1;
+        card.hidden = !matches;
+        if (matches) visible += 1;
+      });
+      if (catalogueCount) { var labels = countLabels[catalogueLang] || countLabels.en; catalogueCount.textContent = visible + " " + (visible === 1 ? labels[0] : labels[1]); }
+      if (catalogueEmpty) catalogueEmpty.hidden = visible !== 0;
+    });
+  }
   /* Random game button */
   var randomBtn = document.getElementById('random-game');
   if (randomBtn && cards.length) {

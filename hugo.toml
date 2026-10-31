@@ -51,6 +51,7 @@ disableKinds = ['taxonomy', 'term']
   indexingEnabled = true  # All public content pages are indexable; /go/ tracking routes are excluded.
   authorProfilesIndexable = true  # Keep the author index and existing author profiles visible; do not delete or replace author records.
   showExternalRatings = false
+  googleAnalyticsID = 'G-6FFL182CLD'
 
 
 # Central design controls: routine brand/visual tuning happens here, not across templates.

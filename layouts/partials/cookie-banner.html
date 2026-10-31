@@ -1,4 +1,4 @@
-<div id="cookie-banner" class="fixed bottom-0 left-0 right-0 z-[100] glass-strong border-t border-white/10 p-4 hidden" role="dialog" aria-labelledby="cookie-title" aria-describedby="cookie-description">
+<div id="cookie-banner" data-ga-id="{{ site.Params.googleAnalyticsID }}" class="fixed bottom-0 left-0 right-0 z-[100] glass-strong border-t border-white/10 p-4 hidden" role="dialog" aria-labelledby="cookie-title" aria-describedby="cookie-description">
   <div class="container mx-auto flex flex-col md:flex-row items-center gap-4">
     <p id="cookie-description" class="text-sm text-slate-300 flex-1"><span id="cookie-title" class="font-semibold">{{ partial "t.html" "cookie_text" }}</span> <a href="{{ "legal/" | relLangURL }}" class="text-amber-400 underline">{{ partial "t.html" "privacy" }}</a>.</p>
     <div class="flex flex-wrap gap-2">

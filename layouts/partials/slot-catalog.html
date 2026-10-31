@@ -39,13 +39,15 @@
           </div>
           <div class="slot-game-card-content">
             <div class="slot-game-card-topline">
-              <span class="slot-game-card-eyebrow">{{ $eyebrow }}</span>
+              {{ with $game.provider }}<span class="slot-game-card-provider">{{ . }}</span>{{ end }}
               <span class="slot-game-card-number">{{ printf "%02d" (add $index 1) }}</span>
             </div>
             <h3>{{ $game.name }}</h3>
-            {{ with $game.provider }}<span class="slot-game-card-provider">{{ . }}</span>{{ end }}
-            <span class="slot-game-card-label">{{ $label }}</span>
-            <p>{{ $summary }}</p>
+            <p class="slot-game-card-summary">{{ $summary }}</p>
+            <div class="slot-game-card-insight">
+              <span class="slot-game-card-insight-title">{{ if eq $lang "de" }}Spielanalyse{{ else if eq $lang "en" }}EDITORIAL INSIGHT{{ else if eq $lang "es" }}ANÁLISIS DEL JUEGO{{ else if eq $lang "pt" }}ANÁLISE DO JOGO{{ else if eq $lang "ja" }}ゲーム分析{{ else }}ANALIZA GRY{{ end }}</span>
+              <span class="slot-game-card-label">{{ $label }}</span>
+            </div>
             <span class="slot-game-card-action">{{ $readMore }} <span aria-hidden="true">→</span></span>
           </div>
         </a>

@@ -7,6 +7,7 @@
 {{ partial "editorial-meta.html" . }}
   {{ if eq .File.BaseFileName "slots" }}
     {{ partial "slot-catalog.html" . }}
+    {{ if eq .Site.Language.Lang "de" }}{{ partial "de-affiliate-hub.html" . }}{{ end }}
   {{ else }}
     {{ if eq $variant "proof-first" }}{{ partial "cta-row.html" (dict "slot" "hero_cta") }}{{ partial "screenshots.html" . }}{{ end }}
     {{ if eq $variant "editorial" }}{{ partial "screenshots.html" . }}{{ end }}

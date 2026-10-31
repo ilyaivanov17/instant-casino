@@ -2854,3 +2854,11 @@ footer .glass-strong { border-radius: 22px; }
 @media(max-width:900px){.slots-catalog-grid{grid-template-columns:1fr}.slot-game-card-link{grid-template-columns:minmax(0,.78fr) minmax(0,1.22fr)}}
 @media(max-width:560px){.slot-game-card-link{grid-template-columns:1fr}.slot-game-card-art{min-height:0;aspect-ratio:16/9;padding:.7rem;border-right:0;border-bottom:1px solid rgba(203,213,225,.08)}.slot-game-card-art img{min-height:0;max-height:210px}.slot-game-card-content{padding:1rem}.slot-game-card-summary{font-size:.84rem}}
 @media(prefers-reduced-motion:reduce){.slot-game-card,.slot-game-card-art img,.slot-game-card-action span{transition:none}}
+
+/* Final catalogue layout: four desktop columns, then three, two and one. */
+.slots-catalog-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+.slot-game-card-art-fallback{display:none}
+.slot-game-card-art.is-fallback .slot-game-card-art-fallback{display:grid}
+@media(max-width:1120px){.slots-catalog-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:900px){.slots-catalog-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.slots-catalog-grid{grid-template-columns:minmax(0,1fr)}}

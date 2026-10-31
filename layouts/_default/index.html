@@ -3,7 +3,7 @@
 <section class="lobby-hero">
   <div class="container mx-auto px-4">
     <div class="lobby-hero-card">
-      <div class="lobby-hero-art" aria-hidden="true"><img src="{{ $images.hero | relURL }}" alt="" width="1200" height="675" fetchpriority="high"></div>
+      {{ $heroAlt := index (index $.Site.Data.guide_image_alt "slots") $.Site.Language.Lang | default "Illuminated slot machines on a casino gaming floor" }}\n      <div class="lobby-hero-art"><img src="{{ $images.hero | relURL }}" alt="{{ $heroAlt }}" width="1200" height="675" fetchpriority="high"></div>
       <div class="lobby-hero-copy">
         <div class="lobby-kicker"><span class="pulse-dot"></span> Instant Casino · {{ .Site.Language.Lang }}</div>
         <h1>{{ .Title }}</h1>
@@ -62,7 +62,7 @@
     {{ range $authors.ByTitle }}
     <article class="author-card author-card-premium author-card-beautiful home-author-card">
       <div class="author-cover"></div><div class="author-card-body">
-        <div class="author-identity"><div class="author-avatar author-avatar-premium author-avatar-initials" aria-hidden="true">{{ with .Params.photo }}<img src="{{ . | relURL }}" alt="" loading="lazy" decoding="async">{{ else }}<span>{{ substr .Title 0 1 }}</span>{{ end }}</div><div class="author-identity-copy"><h3>{{ .Title }}</h3><p>{{ .Params.role }}</p></div></div>
+        <div class="author-identity"><div class="author-avatar author-avatar-premium author-avatar-initials">{{ with .Params.photo }}<img src="{{ . | relURL }}" alt="{{ printf "Portrait of %s" $.Title }}" loading="lazy" decoding="async">{{ else }}<span>{{ substr .Title 0 1 }}</span>{{ end }}</div><div class="author-identity-copy"><h3>{{ .Title }}</h3><p>{{ .Params.role }}</p></div></div>
         <div class="author-specialty">{{ .Params.label }}</div><p class="author-card-bio">{{ .Params.description | default .Params.bio }}</p>
         <div class="author-card-footer"><a class="author-profile-btn" href="{{ .RelPermalink }}">{{ if eq $.Site.Language.Lang "de" }}Profil ansehen{{ else if eq $.Site.Language.Lang "en" }}View profile{{ else if eq $.Site.Language.Lang "es" }}Ver perfil{{ else if eq $.Site.Language.Lang "pt" }}Ver perfil{{ else if eq $.Site.Language.Lang "ja" }}プロフィールを見る{{ else }}Zobacz profil{{ end }} <span>→</span></a><div class="author-social-mini">{{ with .Params.social.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">in</a>{{ end }}{{ with .Params.social.website }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="{{ if eq $.Site.Language.Lang "de" }}Öffentliches Profil{{ else if eq $.Site.Language.Lang "en" }}Public professional profile{{ else if eq $.Site.Language.Lang "es" }}Perfil profesional público{{ else if eq $.Site.Language.Lang "pt" }}Perfil profissional público{{ else if eq $.Site.Language.Lang "ja" }}公開プロフィール{{ else }}Profil zawodowy{{ end }}">↗</a>{{ end }}</div></div>
       </div>

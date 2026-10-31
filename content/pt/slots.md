@@ -73,7 +73,7 @@ Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolo
 ---
 
 ## Bigger Bass Bonanza: Análise editorial aprofundada
-Bigger Bass Bonanza está associado a Pragmatic Play. A ficha enumera símbolos Scatter, rodadas grátis, multiplicadores e um tema centrado em fishing and aquatic imagery. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+Bigger Bass Bonanza está associado a Pragmatic Play. A ficha enumera símbolos Scatter, rodadas grátis, multiplicadores e um tema centrado em uma temática de pesca e elementos aquáticos. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
 
 ### Tema e primeira impressão
 
@@ -131,7 +131,7 @@ Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolo
 ---
 
 ## Bonanza: Análise editorial aprofundada
-Bonanza está associado a Big Time Gaming. A ficha enumera vitórias por agrupamento, funcionalidade de bónus, rodadas grátis e um tema centrado em a compact, high-energy slot presentation. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+Bonanza está associado a Big Time Gaming. A ficha enumera vitórias por agrupamento, funcionalidade de bónus, rodadas grátis e um tema centrado em uma apresentação compacta e dinâmica. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
 
 ### Tema e primeira impressão
 
@@ -311,7 +311,7 @@ Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolo
 ---
 
 ## Fruit Party: Análise editorial aprofundada
-Fruit Party está associado a Pragmatic Play. A ficha enumera mecânica Tumble, multiplicadores de prémios, rodadas grátis e um tema centrado em bright fruit imagery and a light arcade-like presentation. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+Fruit Party está associado a Pragmatic Play. A ficha enumera mecânica Tumble, multiplicadores de prémios, rodadas grátis e um tema centrado em imagens de frutas coloridas e uma estética arcade leve. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
 
 ### Tema e primeira impressão
 

@@ -51,7 +51,7 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Dieser Beitrag ordnet Gates of Olympus redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
 
-Gates of Olympus wird von Pragmatic Play angeboten. Das hinterlegte Profil nennt die Funktionen Scatter, Multiplikatoren, Bonusfunktion; als Themenrahmen dient a Greek-mythology setting. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
+Gates of Olympus wird von Pragmatic Play angeboten. Das hinterlegte Profil nennt die Funktionen Scatter, Multiplikatoren, Bonusfunktion; als Themenrahmen dient ein griechisch-mythologisches Thema. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 
 ### Spielidee und erster Eindruck
 
@@ -155,7 +155,7 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Dieser Beitrag ordnet Legacy of Dead redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
 
-Legacy of Dead wird von Play'n GO angeboten. Das hinterlegte Profil nennt die Funktionen Erweiterndes Symbol, Freispiele, Bonusspiel; als Themenrahmen dient an ancient-world adventure theme. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
+Legacy of Dead wird von Play'n GO angeboten. Das hinterlegte Profil nennt die Funktionen Erweiterndes Symbol, Freispiele, Bonusspiel; als Themenrahmen dient ein Abenteuer in einer antiken Welt. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 
 ### Spielidee und erster Eindruck
 
@@ -207,7 +207,7 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Dieser Beitrag ordnet Mega Moolah redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
 
-Mega Moolah wird von Microgaming angeboten. Das hinterlegte Profil nennt die Funktionen Progressiver Jackpot, Wilds, Freispiele; als Themenrahmen dient a jackpot-centred presentation. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
+Mega Moolah wird von Microgaming angeboten. Das hinterlegte Profil nennt die Funktionen Progressiver Jackpot, Wilds, Freispiele; als Themenrahmen dient eine auf progressive Jackpots ausgerichtete Gestaltung. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 
 ### Spielidee und erster Eindruck
 

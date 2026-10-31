@@ -1,8 +1,8 @@
 ---
 title: 'Slot guide: fundamentals and game profiles'
-description: 'Game profiles covering rules, features and key information about selected online slots.'
+description: 'Slot profiles with game mechanics, original analysis and selected positive player impressions.'
 type: page
-seo_title: 'Slot guide: fundamentals and game profiles | Instant Casino'
+seo_title: 'Slot guide: game profiles, analysis and player impressions | Instant Casino'
 lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:

@@ -17,7 +17,7 @@
     <div class="slot-search-panel">
       <label class="slot-search-label" for="slot-catalog-search">
         <span class="slot-search-label-title">{{ if eq $lang "de" }}Finde dein Spiel{{ else if eq $lang "en" }}Find your game{{ else if eq $lang "es" }}Encuentra tu juego{{ else if eq $lang "pt" }}Encontre seu jogo{{ else if eq $lang "ja" }}ゲームを見つけよう{{ else }}Znajdź swoją grę{{ end }}</span>
-        <span class="slot-search-label-hint">{{ if eq $lang "de" }}Suche nach Titel oder Anbieter{{ else if eq $lang "en" }}Search by game title or provider{{ else if eq $lang "es" }}Busca por título o proveedor{{ else if eq $lang "pt" }}Pesquise por título ou fornecedor{{ else if eq $lang "ja" }}タイトルやプロバイダーで検索{{ else }}Wpisz nazwę gry lub dostawcę{{ end }}</span>
+        <span class="slot-search-label-hint">{{ if eq $lang "de" }}Suche in Titeln, Anbietern und Spielbeschreibungen{{ else if eq $lang "en" }}Search titles, providers and game descriptions{{ else if eq $lang "es" }}Busca títulos, proveedores y descripciones{{ else if eq $lang "pt" }}Pesquise títulos, fornecedores e descrições{{ else if eq $lang "ja" }}タイトル、プロバイダー、ゲーム説明を検索{{ else }}Szukaj w nazwach, dostawcach i opisach gier{{ end }}</span>
       </label>
       <div class="slot-search-field">
         <svg class="slot-search-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4.2 4.2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
@@ -25,7 +25,7 @@
         <button class="slot-search-clear" id="slot-catalog-clear" type="button" aria-label="{{ if eq $lang "de" }}Suche löschen{{ else if eq $lang "en" }}Clear search{{ else if eq $lang "es" }}Borrar búsqueda{{ else if eq $lang "pt" }}Limpar pesquisa{{ else if eq $lang "ja" }}検索をクリア{{ else }}Wyczyść wyszukiwanie{{ end }}" hidden>×</button>
       </div>
       <div class="slot-search-footer">
-        <span class="slot-search-tip">{{ if eq $lang "de" }}Titel und Anbieter werden durchsucht{{ else if eq $lang "en" }}Search across titles and providers{{ else if eq $lang "es" }}Busca entre títulos y proveedores{{ else if eq $lang "pt" }}Pesquise títulos e fornecedores{{ else if eq $lang "ja" }}タイトルとプロバイダーを検索{{ else }}Wyszukiwanie obejmuje tytuły i dostawców{{ end }}</span>
+        <span class="slot-search-tip">{{ if eq $lang "de" }}Auch die Spielbeschreibungen werden durchsucht{{ else if eq $lang "en" }}Descriptions and all visible card text are included{{ else if eq $lang "es" }}También se buscan las descripciones de los juegos{{ else if eq $lang "pt" }}As descrições dos jogos também são pesquisadas{{ else if eq $lang "ja" }}ゲームの説明文も検索対象です{{ else }}Wyszukiwanie obejmuje również opisy gier{{ end }}</span>
         <span class="slot-catalog-results" id="slot-catalog-results" aria-live="polite">{{ len $catalog.games }} {{ if eq $lang "de" }}Spiele{{ else if eq $lang "en" }}games{{ else if eq $lang "pl" }}gier{{ else if eq $lang "es" }}juegos{{ else if eq $lang "pt" }}jogos{{ else }}ゲーム{{ end }}</span>
       </div>
     </div>

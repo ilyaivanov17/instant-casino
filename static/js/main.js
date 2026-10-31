@@ -320,7 +320,8 @@
       var bonus = Number(form.elements.bonus.value);
       var wager = Number(form.elements.wager.value);
       var basis = form.elements.basis.value;
-      if (![deposit, bonus, wager].every(Number.isFinite) || deposit < 0 || bonus < 0 || wager < 0) {
+      if (!form.reportValidity()) return;
+      if (![deposit, bonus, wager].every(Number.isFinite) || deposit < 0 || bonus < 0 || wager < 0 || deposit > 100000 || bonus > 100000 || wager > 1000) {
         result.textContent = 'Bitte gib gültige, nicht negative Zahlen ein.';
         return;
       }

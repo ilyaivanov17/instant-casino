@@ -92,7 +92,7 @@
       if (typeof text.normalize === 'function') {
         text = text.normalize('NFD').replace(/[\\u0300-\\u036f]/g, '');
       }
-      return text.replace(/[^\\p{L}\\p{N}]+/gu, ' ').trim();
+      return text.replace(/\\s+/g, ' ').trim();
     }
 
     function filterCatalogue() {

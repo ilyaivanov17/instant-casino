@@ -48,7 +48,18 @@ async function inspectPage(page, path, expectedCards = null) {
         sample: container.querySelector('table')?.outerHTML.slice(0, 500) || ''
       })),
       columns: getComputedStyle(document.querySelector('.slots-catalog-grid') || document.body)
-        .gridTemplateColumns.split(' ').filter(Boolean).length
+        .gridTemplateColumns.split(' ').filter(Boolean).length,
+      cardLayout: (() => {
+        const link = document.querySelector('.slot-game-card-link');
+        const art = document.querySelector('.slot-game-card-art');
+        const artRect = art?.getBoundingClientRect();
+        const card = document.querySelector('.slot-game-card');
+        return {
+          direction: link ? getComputedStyle(link).flexDirection : 'missing',
+          artRatio: artRect?.height ? artRect.width / artRect.height : 0,
+          cardWidth: card?.getBoundingClientRect().width || 0
+        };
+      })()
     };
   });
 
@@ -170,11 +181,16 @@ async function inspectPage(page, path, expectedCards = null) {
   if (!desktopSearchOk) failed = true;
   await desktopSearchPage.close();
 
-  // Check the intended four-column desktop layout on the German catalogue.
+  // Check the image-first three-column desktop layout on the German catalogue.
   const desktop = await browser.newPage({ viewport: { width: 1440, height: 1000 }, deviceScaleFactor: 1 });
   const desktopCheck = await inspectPage(desktop, '/slots/', 30);
-  if (!desktopCheck.ok || desktopCheck.result.columns !== 4) {
-    console.log(`FAIL /slots/ desktop columns=${desktopCheck.result.columns}, expected=4`);
+  const desktopCardLayout = desktopCheck.result.cardLayout;
+  const desktopCardOk = desktopCheck.result.columns === 3 &&
+    desktopCardLayout.direction === 'column' &&
+    desktopCardLayout.cardWidth >= 340 &&
+    Math.abs(desktopCardLayout.artRatio - (16 / 9)) < 0.03;
+  if (!desktopCheck.ok || !desktopCardOk) {
+    console.log(`FAIL /slots/ desktop columns=${desktopCheck.result.columns} direction=${desktopCardLayout.direction} cardWidth=${desktopCardLayout.cardWidth.toFixed(1)} artRatio=${desktopCardLayout.artRatio.toFixed(3)} expected=3 columns, vertical cards, width>=340px, 16:9 artwork`);
     failed = true;
   }
   await desktop.close();

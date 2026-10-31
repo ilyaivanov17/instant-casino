@@ -16,25 +16,26 @@
       </article>
     {{ end }}
   </div>
+  <p class="de-offer-verification-note">Hinweis: Die Aktionscodes und Beträge sind redaktionell hinterlegt, ihre aktuelle Gültigkeit und Verfügbarkeit werden hier nicht in Echtzeit bestätigt. Prüfe die Bedingungen und deine Teilnahmeberechtigung direkt beim Anbieter.</p>
   <section class="de-casino-ranking" aria-labelledby="de-casino-ranking-title">
     <div class="de-affiliate-heading">
       <span class="de-affiliate-eyebrow">CASINO-ÜBERSICHT DEUTSCHLAND</span>
       <h2 id="de-casino-ranking-title">Anbieter im transparenten Vergleich</h2>
-      <p>Wir veröffentlichen nur Anbieter und Kennzahlen, für die ein nachvollziehbarer Beleg vorliegt. Derzeit ist ein Betreiberprofil bestätigt; deshalb gibt es noch keine künstliche Rangfolge oder erfundene Punktzahl.</p>
+      <p>Wir veröffentlichen nur Anbieter und Kennzahlen, für die ein nachvollziehbarer Beleg vorliegt. Derzeit ist ein Anbieterprofil hinterlegt; deshalb gibt es noch keine künstliche Rangfolge oder erfundene Punktzahl.</p>
     </div>
     <div class="de-ranking-table-wrap" role="region" aria-label="Casino-Anbieterübersicht" tabindex="0">
       <table class="de-ranking-table">
         <thead><tr><th scope="col">Anbieter</th><th scope="col">Prüfstatus</th><th scope="col">Redaktionelle Bewertung</th><th scope="col">Angebote</th><th scope="col">Details</th></tr></thead>
         <tbody><tr>
           <th scope="row">Instant Casino</th>
-          <td><span class="de-verification-badge">Betreiberidentität bestätigt</span></td>
+          <td><span class="de-verification-badge">Profil im Portal vorhanden</span></td>
           <td>Noch keine veröffentlichte Punktzahl</td>
           <td>3 hinterlegte Aktionscodes</td>
           <td><a href="/go/bonus" rel="sponsored">Angebote prüfen <span aria-hidden="true">→</span></a></td>
         </tr></tbody>
       </table>
     </div>
-    <p class="de-ranking-note">Lizenz-, Zahlungs-, Auszahlungs- und Bonuskennzahlen werden erst als Vergleichswerte angezeigt, wenn aktuelle Primärquellen dokumentiert sind. Eine bestätigte Betreiberidentität ist keine Empfehlung und ersetzt keine Prüfung der Teilnahmebedingungen.</p>
+    <p class="de-ranking-note">Lizenz-, Zahlungs-, Auszahlungs- und Bonuskennzahlen werden erst als Vergleichswerte angezeigt, wenn aktuelle Primärquellen dokumentiert sind. Ein vorhandenes Anbieterprofil ist keine Empfehlung und ersetzt keine Prüfung der Teilnahmebedingungen.</p>
   </section>
   <p class="de-affiliate-disclosure">Werbliche Hinweise: Einige Links sind Affiliate-Links. Bei einem Klick kann das Portal eine Provision erhalten. Die Codes und Beträge sind redaktionell hinterlegte Angebotsangaben; maßgeblich sind die aktuell beim Anbieter angezeigten Bedingungen und die Teilnahmeberechtigung in Deutschland.</p>
   <div class="de-wager-calculator" data-wager-calculator>
@@ -45,19 +46,19 @@
     </div>
     <form class="de-calculator-form" data-wager-form>
       <label for="de-calc-deposit">Einzahlung (€)</label>
-      <input id="de-calc-deposit" name="deposit" type="number" min="0" max="100000" step="0.01" value="100" required>
+      <input id="de-calc-deposit" name="deposit" type="number" min="0" max="100000" step="0.01" inputmode="decimal" placeholder="z. B. 100" required>
       <label for="de-calc-bonus">Bonus (€)</label>
-      <input id="de-calc-bonus" name="bonus" type="number" min="0" max="100000" step="0.01" value="100" required>
+      <input id="de-calc-bonus" name="bonus" type="number" min="0" max="100000" step="0.01" inputmode="decimal" placeholder="Bonusbetrag laut Bedingungen" required>
       <label for="de-calc-wager">Umsatzmultiplikator</label>
-      <div class="de-calculator-multiplier"><input id="de-calc-wager" name="wager" type="number" min="0" max="1000" step="0.1" value="30" required><span>×</span></div>
+      <div class="de-calculator-multiplier"><input id="de-calc-wager" name="wager" type="number" min="0" max="1000" step="0.1" inputmode="decimal" placeholder="z. B. 30" required><span>×</span></div>
       <label for="de-calc-basis">Berechnungsgrundlage</label>
       <select id="de-calc-basis" name="basis">
         <option value="bonus">Nur Bonusbetrag</option>
         <option value="deposit_bonus">Einzahlung + Bonus</option>
       </select>
       <button class="de-calculator-submit" type="submit">Umsatz berechnen</button>
-      <output class="de-calculator-result" data-wager-result aria-live="polite">Erforderlicher Umsatz: 3.000,00 €</output>
-      <p class="de-calculator-note">Vereinfachte Rechnung ohne Spielgewichtung, Fristen, Höchsteinsatz oder ausgeschlossene Spiele. Es gelten ausschließlich die konkreten Bonusbedingungen.</p>
+      <output class="de-calculator-result" data-wager-result aria-live="polite">Gib die Werte aus den Bonusbedingungen ein und berechne den erforderlichen Umsatz.</output>
+      <p class="de-calculator-note">Vereinfachte Rechnung: Spielgewichtung, Fristen, Höchsteinsatz, ausgeschlossene Spiele und weitere Bedingungen werden nicht berücksichtigt. Verwende den tatsächlichen Bonusbetrag und Multiplikator aus den aktuellen Bonusbedingungen. Maßgeblich sind ausschließlich die Bedingungen des Anbieters.</p>
       <a class="de-offer-cta" href="/go/bonus" rel="sponsored">Angebot und Bedingungen ansehen <span aria-hidden="true">→</span></a>
     </form>
   </div>

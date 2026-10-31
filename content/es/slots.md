@@ -1,8 +1,8 @@
 ---
 title: 'Guía de tragamonedas: fundamentos y perfiles'
-description: 'Perfiles de juegos con reglas, funciones y datos clave de slots online seleccionadas.'
+description: 'Perfiles de tragamonedas con mecánicas, análisis original e impresiones positivas seleccionadas de jugadores.'
 type: page
-seo_title: 'Guía de tragamonedas: fundamentos y perfiles | Instant Casino'
+seo_title: 'Guía de tragamonedas: perfiles, análisis y opiniones | Instant Casino'
 lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:

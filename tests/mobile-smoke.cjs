@@ -39,6 +39,13 @@ async function inspectPage(page, path, expectedCards = null) {
         loaded: image.complete && image.naturalWidth > 0
       })),
       anchors,
+      tables: [...document.querySelectorAll('.table-scroll-container')].map(container => ({
+        clientWidth: container.clientWidth,
+        scrollWidth: container.scrollWidth,
+        hasTable: Boolean(container.querySelector('table')),
+        headers: container.querySelectorAll('th').length,
+        cells: container.querySelectorAll('td').length
+      })),
       columns: getComputedStyle(document.querySelector('.slots-catalog-grid') || document.body)
         .gridTemplateColumns.split(' ').filter(Boolean).length
     };
@@ -51,14 +58,20 @@ async function inspectPage(page, path, expectedCards = null) {
     result.anchors.length === expectedCards &&
     result.anchors.every(Boolean)
   );
+  const tableStructureOk = expectedCards === null || (
+    result.tables.length > 0 &&
+    result.tables.every(table => table.hasTable && table.headers >= 5 && table.cells >= 5) &&
+    (result.width >= 600 || result.tables.some(table => table.scrollWidth > table.clientWidth + 1))
+  );
   const ok = Boolean(response) &&
     response.status() === 200 &&
     result.title &&
     result.scrollWidth <= result.width + 1 &&
     errors.length === 0 &&
-    galleryOk;
+    galleryOk &&
+    tableStructureOk;
 
-  console.log(`${ok ? 'OK' : 'FAIL'} ${path} status=${response?.status()} viewport=${result.width}/${result.scrollWidth} cards=${result.cards} images=${result.images.filter(image => image.loaded).length}/${result.images.length} links=${result.anchors.filter(Boolean).length}/${result.anchors.length} jsErrors=${errors.length}`);
+  console.log(`${ok ? 'OK' : 'FAIL'} ${path} status=${response?.status()} viewport=${result.width}/${result.scrollWidth} cards=${result.cards} images=${result.images.filter(image => image.loaded).length}/${result.images.length} links=${result.anchors.filter(Boolean).length}/${result.anchors.length} tables=${result.tables.length} tableScroll=${result.tables.filter(table => table.scrollWidth > table.clientWidth + 1).length} jsErrors=${errors.length}`);
   return { ok, result };
 }
 

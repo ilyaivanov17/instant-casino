@@ -21,13 +21,16 @@
       <article class="slot-game-card">
         <a class="slot-game-card-link" href="{{ printf "%s#%s" $.RelPermalink $game.anchor }}">
           <div class="slot-game-card-art">
+            <span class="slot-game-card-art-fallback" aria-hidden="true">{{ $game.name }}</span>
             <img
               src="{{ $game.image | relURL }}"
               alt="{{ $alt }}"
               width="1440"
               height="810"
-              loading="lazy"
-              decoding="async">
+              loading="{{ if lt $index 4 }}eager{{ else }}lazy{{ end }}"
+              fetchpriority="{{ if lt $index 4 }}high{{ else }}auto{{ end }}"
+              decoding="async"
+              onerror="this.hidden=true;this.closest('.slot-game-card-art').classList.add('is-fallback')">
           </div>
           <div class="slot-game-card-content">
             <div class="slot-game-card-topline">

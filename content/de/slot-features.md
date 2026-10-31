@@ -102,7 +102,7 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Dieser Beitrag ordnet Sweet Bonanza redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
 
-Sweet Bonanza wird von Pragmatic Play angeboten. Das hinterlegte Profil nennt die Funktionen Tumble, Freispiele, Multiplikatoren; als Themenrahmen dient colourful sweets and a tumble-style presentation. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
+Sweet Bonanza wird von Pragmatic Play angeboten. Das hinterlegte Profil nennt die Funktionen Tumble, Freispiele, Multiplikatoren; als Themenrahmen dient farbenfrohe Süßigkeiten und eine Tumble-Spielmechanik. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 
 ### Spielidee und erster Eindruck
 
@@ -154,7 +154,7 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Dieser Beitrag ordnet The Dog House redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
 
-The Dog House wird von Pragmatic Play angeboten. Das hinterlegte Profil nennt die Funktionen Sticky Wilds, Respins, Freispiele; als Themenrahmen dient a playful dog-house setting. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
+The Dog House wird von Pragmatic Play angeboten. Das hinterlegte Profil nennt die Funktionen Sticky Wilds, Respins, Freispiele; als Themenrahmen dient ein verspieltes Hundehütten-Thema. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 
 ### Spielidee und erster Eindruck
 

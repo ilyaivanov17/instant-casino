@@ -108,7 +108,7 @@ Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki ur
 ---
 
 ## Sweet Bonanza: Rozszerzona analiza redakcyjna
-Sweet Bonanza jest przypisany do dostawcy Pragmatic Play. Profil strony wymienia: mechanika Tumble, darmowe spiny, mnożniki; motyw obejmuje colourful sweets and a tumble-style presentation. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+Sweet Bonanza jest przypisany do dostawcy Pragmatic Play. Profil strony wymienia: mechanika Tumble, darmowe spiny, mnożniki; motyw obejmuje kolorowe słodycze i mechanikę Tumble. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
 
 ### Motyw i pierwsze wrażenie
 
@@ -169,7 +169,7 @@ Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki ur
 ---
 
 ## The Dog House: Rozszerzona analiza redakcyjna
-The Dog House jest przypisany do dostawcy Pragmatic Play. Profil strony wymienia: przyklejone symbole Wild, respiny, darmowe spiny; motyw obejmuje a playful dog-house setting. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+The Dog House jest przypisany do dostawcy Pragmatic Play. Profil strony wymienia: przyklejone symbole Wild, respiny, darmowe spiny; motyw obejmuje motyw przyjaznej psiej budy. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
 
 ### Motyw i pierwsze wrażenie
 

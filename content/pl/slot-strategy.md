@@ -48,7 +48,7 @@ Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki ur
 ---
 
 ## Gates of Olympus: Rozszerzona analiza redakcyjna
-Gates of Olympus jest przypisany do dostawcy Pragmatic Play. Profil strony wymienia: symbole Scatter, mnożniki, funkcja bonusowa; motyw obejmuje a Greek-mythology setting. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+Gates of Olympus jest przypisany do dostawcy Pragmatic Play. Profil strony wymienia: symbole Scatter, mnożniki, funkcja bonusowa; motyw obejmuje motyw inspirowany mitologią grecką. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
 
 ### Motyw i pierwsze wrażenie
 
@@ -109,7 +109,7 @@ Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki ur
 ---
 
 ## Gonzo's Quest: Rozszerzona analiza redakcyjna
-Gonzo's Quest jest przypisany do dostawcy NetEnt. Profil strony wymienia: mechanika lawiny, mnożniki, Free Falls; motyw obejmuje an exploration theme. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+Gonzo's Quest jest przypisany do dostawcy NetEnt. Profil strony wymienia: mechanika lawiny, mnożniki, Free Falls; motyw obejmuje motyw eksploracyjny. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
 
 ### Motyw i pierwsze wrażenie
 
@@ -170,7 +170,7 @@ Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki ur
 ---
 
 ## Legacy of Dead: Rozszerzona analiza redakcyjna
-Legacy of Dead jest przypisany do dostawcy Play'n GO. Profil strony wymienia: rozszerzający się symbol, darmowe spiny, gra bonusowa; motyw obejmuje an ancient-world adventure theme. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+Legacy of Dead jest przypisany do dostawcy Play'n GO. Profil strony wymienia: rozszerzający się symbol, darmowe spiny, gra bonusowa; motyw obejmuje przygodę w świecie starożytnym. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
 
 ### Motyw i pierwsze wrażenie
 
@@ -231,7 +231,7 @@ Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki ur
 ---
 
 ## Mega Moolah: Rozszerzona analiza redakcyjna
-Mega Moolah jest przypisany do dostawcy Microgaming. Profil strony wymienia: jackpot progresywny, symbole Wild, darmowe spiny; motyw obejmuje a jackpot-centred presentation. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+Mega Moolah jest przypisany do dostawcy Microgaming. Profil strony wymienia: jackpot progresywny, symbole Wild, darmowe spiny; motyw obejmuje oprawę skoncentrowaną na progresywnych jackpotach. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
 
 ### Motyw i pierwsze wrażenie
 

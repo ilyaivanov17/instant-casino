@@ -48,7 +48,7 @@ Abre la tabla de pagos antes de jugar. Allí se explican los valores de los sím
 ---
 
 ## Gates of Olympus: Análisis editorial en profundidad
-Gates of Olympus figura asociado a Pragmatic Play. La ficha enumera símbolos Scatter, multiplicadores, función de bonificación y un tema centrado en a Greek-mythology setting. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
+Gates of Olympus figura asociado a Pragmatic Play. La ficha enumera símbolos Scatter, multiplicadores, función de bonificación y un tema centrado en una temática inspirada en la mitología griega. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
 
 ### Tema y primera impresión
 
@@ -97,7 +97,7 @@ Abre la tabla de pagos antes de jugar. Allí se explican los valores de los sím
 ---
 
 ## Gonzo's Quest: Análisis editorial en profundidad
-Gonzo's Quest figura asociado a NetEnt. La ficha enumera mecánica Avalanche, multiplicadores, Free Falls y un tema centrado en an exploration theme. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
+Gonzo's Quest figura asociado a NetEnt. La ficha enumera mecánica Avalanche, multiplicadores, Free Falls y un tema centrado en una temática de exploración. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
 
 ### Tema y primera impresión
 
@@ -148,7 +148,7 @@ Abre la tabla de pagos antes de jugar. Allí se explican los valores de los sím
 ---
 
 ## Legacy of Dead: Análisis editorial en profundidad
-Legacy of Dead figura asociado a Play'n GO. La ficha enumera símbolo expansivo, giros gratis, juego de bonificación y un tema centrado en an ancient-world adventure theme. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
+Legacy of Dead figura asociado a Play'n GO. La ficha enumera símbolo expansivo, giros gratis, juego de bonificación y un tema centrado en una aventura ambientada en el mundo antiguo. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
 
 ### Tema y primera impresión
 
@@ -197,7 +197,7 @@ Abre la tabla de pagos antes de jugar. Allí se explican los valores de los sím
 ---
 
 ## Mega Moolah: Análisis editorial en profundidad
-Mega Moolah figura asociado a Microgaming. La ficha enumera bote progresivo, símbolos Wild, giros gratis y un tema centrado en a jackpot-centred presentation. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
+Mega Moolah figura asociado a Microgaming. La ficha enumera bote progresivo, símbolos Wild, giros gratis y un tema centrado en una presentación centrada en jackpots progresivos. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
 
 ### Tema y primera impresión
 

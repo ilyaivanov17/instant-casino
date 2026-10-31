@@ -76,7 +76,7 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Dieser Beitrag ordnet Bigger Bass Bonanza redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
 
-Bigger Bass Bonanza wird von Pragmatic Play angeboten. Das hinterlegte Profil nennt die Funktionen Scatter, Freispiele, Multiplikatoren; als Themenrahmen dient fishing and aquatic imagery. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
+Bigger Bass Bonanza wird von Pragmatic Play angeboten. Das hinterlegte Profil nennt die Funktionen Scatter, Freispiele, Multiplikatoren; als Themenrahmen dient ein Angelthema mit Fisch- und Wassermotiven. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 
 ### Spielidee und erster Eindruck
 
@@ -133,7 +133,7 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Dieser Beitrag ordnet Bonanza redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
 
-Bonanza wird von Big Time Gaming angeboten. Das hinterlegte Profil nennt die Funktionen Cluster-Gewinne, Bonusfeature, Freispiele; als Themenrahmen dient a compact, high-energy slot presentation. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
+Bonanza wird von Big Time Gaming angeboten. Das hinterlegte Profil nennt die Funktionen Cluster-Gewinne, Bonusfeature, Freispiele; als Themenrahmen dient eine kompakte, dynamische Spielgestaltung. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 
 ### Spielidee und erster Eindruck
 
@@ -310,7 +310,7 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Dieser Beitrag ordnet Fruit Party redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
 
-Fruit Party wird von Pragmatic Play angeboten. Das hinterlegte Profil nennt die Funktionen Tumble, Gewinnmultiplikatoren, Freispiele; als Themenrahmen dient bright fruit imagery and a light arcade-like presentation. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
+Fruit Party wird von Pragmatic Play angeboten. Das hinterlegte Profil nennt die Funktionen Tumble, Gewinnmultiplikatoren, Freispiele; als Themenrahmen dient eine farbenfrohe Fruchtwelt mit leichter Arcade-Ästhetik. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 
 ### Spielidee und erster Eindruck
 

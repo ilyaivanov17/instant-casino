@@ -82,7 +82,7 @@ async function inspectPage(page, path, expectedCards = null) {
 
   // Exercise catalogue search against real catalogue entries and reset behaviour.
   const searchPage = await browser.newPage({ viewport: { width: 1280, height: 900 }, deviceScaleFactor: 1 });
-  await searchPage.goto('http://127.0.0.1:4173/slots/', { waitUntil: 'networkidle' });
+  await searchPage.goto('http://127.0.0.1:4173/en/slots/', { waitUntil: 'networkidle' });
   const search = searchPage.locator('#slot-catalog-search');
   await search.fill('Bigger Bass Bonanza');
   const titleMatches = await searchPage.locator('.slot-game-card:visible').count();

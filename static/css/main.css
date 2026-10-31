@@ -3083,3 +3083,39 @@ footer .glass-strong { border-radius: 22px; }
 @media(prefers-reduced-motion:reduce){
   .slot-search-field,.slot-search-clear{transition:none}
 }
+
+/* Catalogue search mobile polish and icon sizing hardening. */
+svg.slot-search-icon{
+  display:block!important;
+  flex:0 0 1.35rem!important;
+  width:1.35rem!important;
+  min-width:1.35rem!important;
+  max-width:1.35rem!important;
+  height:1.35rem!important;
+  max-height:1.35rem!important;
+}
+.slot-search-panel{width:100%;max-width:100%}
+.slots-catalog-tools{width:100%;max-width:760px;margin:0 0 1rem}
+.slot-search-label-hint{max-width:62ch}
+@media(max-width:620px){
+  .slots-catalog{margin-top:.8rem}
+  .slots-catalog-heading{margin-bottom:.8rem}
+  .slots-catalog-heading h2{font-size:clamp(1.45rem,6vw,1.8rem);line-height:1.15}
+  .slots-catalog-heading p{font-size:.9rem;line-height:1.5}
+  .slots-catalog-tools{margin-bottom:.8rem}
+  .slot-search-panel{padding:.8rem;border-radius:15px}
+  .slot-search-label{margin-bottom:.55rem}
+  .slot-search-label-title{font-size:.95rem}
+  .slot-search-label-hint{font-size:.72rem;line-height:1.35}
+  .slot-search-field{min-height:54px;border-radius:12px}
+  .slot-catalog-search{min-height:52px;padding:.65rem .65rem;font-size:16px}
+  .slot-search-footer{margin-top:.55rem;gap:.45rem}
+  .slot-search-tip{max-width:none;flex:1 1 100%;font-size:.68rem}
+  .slot-catalog-results{min-height:26px}
+  .slots-catalog-grid{gap:.85rem}
+}
+@media(max-width:380px){
+  .slot-search-panel{padding:.7rem}
+  .slot-search-footer{align-items:flex-start}
+  .slot-search-tip{font-size:.64rem}
+}

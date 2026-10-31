@@ -89,6 +89,12 @@ async function inspectPage(page, path, expectedCards = null) {
   const firstTitle = await searchPage.locator('.slot-game-card:visible h3').first().textContent();
   await search.fill('Bigger Bass');
   const multiWordMatches = await searchPage.locator('.slot-game-card:visible').count();
+  await search.fill('Biger Bass Bonanza');
+  const typoMatches = await searchPage.locator('.slot-game-card:visible').count();
+  const typoFirstTitle = await searchPage.locator('.slot-game-card:visible h3').first().textContent();
+  // Search metadata written in another locale.
+  await search.fill('frutas de colores');
+  const crossLanguageMatches = await searchPage.locator('.slot-game-card:visible').count();
   // Search a phrase that appears in the game description, not the title/provider.
   await search.fill('gold mining theme');
   const descriptionMatches = await searchPage.locator('.slot-game-card:visible').count();
@@ -103,9 +109,11 @@ async function inspectPage(page, path, expectedCards = null) {
   await searchPage.locator('#slot-catalog-clear').click();
   const restoredCount = await searchPage.locator('.slot-game-card:visible').count();
   const searchOk = titleMatches === 1 && firstTitle.trim() === 'Bigger Bass Bonanza' &&
-    multiWordMatches === 1 && descriptionMatches === 1 && descriptionMatchTitle.trim() === 'Bonanza' &&
+    multiWordMatches === 1 && typoMatches === 1 && typoFirstTitle.trim() === 'Bigger Bass Bonanza' &&
+    crossLanguageMatches > 0 &&
+    descriptionMatches === 1 && descriptionMatchTitle.trim() === 'Bonanza' &&
     longTextMatches === 0 && providerMatches > 0 && emptyStateVisible && restoredCount === 30;
-  console.log(`${searchOk ? 'OK' : 'FAIL'} catalogue search title=${titleMatches} multiword=${multiWordMatches} description=${descriptionMatches} (${descriptionMatchTitle?.trim()}) longText=${longTextMatches} provider=${providerMatches} empty=${emptyStateVisible} reset=${restoredCount}/30`);
+  console.log(`${searchOk ? 'OK' : 'FAIL'} catalogue search title=${titleMatches} multiword=${multiWordMatches} typo=${typoMatches} crossLanguage=${crossLanguageMatches} description=${descriptionMatches} (${descriptionMatchTitle?.trim()}) longText=${longTextMatches} provider=${providerMatches} empty=${emptyStateVisible} reset=${restoredCount}/30`);
   if (!searchOk) failed = true;
   await searchPage.close();
 
@@ -123,11 +131,13 @@ async function inspectPage(page, path, expectedCards = null) {
       fieldWidth: fieldRect.width,
       fieldHeight: fieldRect.height,
       inputFontSize: parseFloat(getComputedStyle(input).fontSize),
+      iconWidth: panel.querySelector('.slot-search-icon').getBoundingClientRect().width,
+      iconHeight: panel.querySelector('.slot-search-icon').getBoundingClientRect().height,
       visibleLabel: Boolean(panel.querySelector('.slot-search-label-title')?.textContent.trim())
     };
   });
   const mobileSearchOk = mobileSearchMetrics.panelRight <= 360 && mobileSearchMetrics.fieldWidth > 280 &&
-    mobileSearchMetrics.fieldHeight >= 54 && mobileSearchMetrics.inputFontSize >= 16 && mobileSearchMetrics.visibleLabel;
+    mobileSearchMetrics.fieldHeight >= 54 && mobileSearchMetrics.inputFontSize >= 16 && mobileSearchMetrics.iconWidth <= 24 && mobileSearchMetrics.iconHeight <= 24 && mobileSearchMetrics.visibleLabel;
   console.log(`${mobileSearchOk ? 'OK' : 'FAIL'} mobile search panel width=${mobileSearchMetrics.panelWidth.toFixed(1)} field=${mobileSearchMetrics.fieldWidth.toFixed(1)}x${mobileSearchMetrics.fieldHeight.toFixed(1)} font=${mobileSearchMetrics.inputFontSize}px`);
   if (!mobileSearchOk) failed = true;
   await mobileSearchPage.close();

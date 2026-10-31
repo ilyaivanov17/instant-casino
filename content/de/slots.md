@@ -190,7 +190,7 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Dieser Beitrag ordnet Book of Dead redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
 
-Book of Dead wird von Play'n GO angeboten. Das hinterlegte Profil nennt die Funktionen Scatter, Freispiele, Erweiterndes Symbol; als Themenrahmen dient an ancient-Egypt adventure theme. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
+Book of Dead wird von Play'n GO angeboten. Das hinterlegte Profil nennt die Funktionen Scatter, Freispiele, Erweiterndes Symbol; als Themenrahmen dient ein Abenteuer rund um das alte Ägypten. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 
 ### Spielidee und erster Eindruck
 

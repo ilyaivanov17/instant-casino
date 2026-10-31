@@ -2819,3 +2819,14 @@ footer .glass-strong { border-radius: 22px; }
 @media(max-width:620px){
   .slots-catalog-grid{grid-template-columns:minmax(0,1fr)}
 }
+
+/* Slot catalogue search controls */
+.slots-catalog-tools{display:flex;align-items:center;gap:.8rem;max-width:620px;margin:0 0 1.15rem}
+.slot-catalog-search{display:block;width:min(100%,440px);min-height:48px;padding:.7rem .95rem;border:1px solid rgba(173,190,220,.24);border-radius:12px;background:rgba(13,23,40,.9);color:#f5f7fb;font:inherit;font-size:.9rem;outline:none;transition:border-color .18s ease,box-shadow .18s ease,background .18s ease}
+.slot-catalog-search::placeholder{color:#8998ad}
+.slot-catalog-search:focus{border-color:var(--brand-accent,#f7c967);box-shadow:0 0 0 3px rgba(247,201,103,.13);background:#101c30}
+.slot-catalog-results{flex:0 0 auto;color:#aebbd0;font-size:.78rem;font-weight:750;font-variant-numeric:tabular-nums}
+.slot-game-card[hidden]{display:none!important}
+.slot-catalog-empty{margin:1.2rem 0;padding:1.3rem;border:1px dashed rgba(173,190,220,.25);border-radius:14px;color:#c4cede;text-align:center;background:rgba(13,23,40,.5)}
+@media(max-width:520px){.slots-catalog-tools{align-items:stretch;flex-direction:column;gap:.45rem}.slot-catalog-search{width:100%}.slot-catalog-results{padding-left:.15rem}}
+@media(prefers-reduced-motion:reduce){.slot-catalog-search{transition:none}}

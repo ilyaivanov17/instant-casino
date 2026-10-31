@@ -2665,14 +2665,54 @@ footer .glass-strong { border-radius: 22px; }
     radial-gradient(ellipse at 50% 46%,rgba(104,73,40,.22),transparent 64%),
     linear-gradient(145deg,#10192b,#080e1b);
 }
+.slot-game-card-art{
+  isolation:isolate;
+  background:
+    radial-gradient(ellipse at 50% 42%,rgba(247,201,103,.15),transparent 58%),
+    radial-gradient(ellipse at 50% 100%,rgba(37,99,235,.12),transparent 62%),
+    linear-gradient(145deg,#111d32 0%,#080e1b 72%);
+}
+.slot-game-card-art::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  z-index:1;
+  pointer-events:none;
+  background:linear-gradient(180deg,rgba(2,6,23,.02) 55%,rgba(2,6,23,.22));
+}
 .slot-game-card-art img{
+  position:relative;
+  z-index:0;
   display:block;
   width:100%;
   height:100%;
   max-width:none;
   max-height:none;
+  padding:.35rem;
   object-fit:contain;
   object-position:center;
+  filter:drop-shadow(0 12px 18px rgba(0,0,0,.32));
+  transition:transform .28s ease,filter .28s ease;
+}
+.slot-game-card-link:hover .slot-game-card-art img{
+  transform:scale(1.035);
+  filter:drop-shadow(0 16px 22px rgba(0,0,0,.42));
+}
+.slot-game-card-art-fallback{
+  position:absolute;
+  inset:0;
+  display:none;
+  place-items:center;
+  padding:1rem;
+  color:#f5d58e;
+  font-size:clamp(1.1rem,2vw,1.65rem);
+  font-weight:900;
+  letter-spacing:.02em;
+  text-align:center;
+  text-wrap:balance;
+}
+.slot-game-card-art.is-fallback .slot-game-card-art-fallback{
+  display:grid;
 }
 .slot-game-card-content{
   display:flex;
@@ -2779,3 +2819,46 @@ footer .glass-strong { border-radius: 22px; }
 @media(max-width:620px){
   .slots-catalog-grid{grid-template-columns:minmax(0,1fr)}
 }
+
+/* Slot catalogue search controls */
+.slots-catalog-tools{display:flex;align-items:center;gap:.8rem;max-width:620px;margin:0 0 1.15rem}
+.slot-catalog-search{display:block;width:min(100%,440px);min-height:48px;padding:.7rem .95rem;border:1px solid rgba(173,190,220,.24);border-radius:12px;background:rgba(13,23,40,.9);color:#f5f7fb;font:inherit;font-size:.9rem;outline:none;transition:border-color .18s ease,box-shadow .18s ease,background .18s ease}
+.slot-catalog-search::placeholder{color:#8998ad}
+.slot-catalog-search:focus{border-color:var(--brand-accent,#f7c967);box-shadow:0 0 0 3px rgba(247,201,103,.13);background:#101c30}
+.slot-catalog-results{flex:0 0 auto;color:#aebbd0;font-size:.78rem;font-weight:750;font-variant-numeric:tabular-nums}
+.slot-game-card[hidden]{display:none!important}
+.slot-catalog-empty{margin:1.2rem 0;padding:1.3rem;border:1px dashed rgba(173,190,220,.25);border-radius:14px;color:#c4cede;text-align:center;background:rgba(13,23,40,.5)}
+@media(max-width:520px){.slots-catalog-tools{align-items:stretch;flex-direction:column;gap:.45rem}.slot-catalog-search{width:100%}.slot-catalog-results{padding-left:.15rem}}
+@media(prefers-reduced-motion:reduce){.slot-catalog-search{transition:none}}
+
+/* Premium editorial slot cards: artwork + structured game notes */
+.slots-catalog-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.15rem;align-items:stretch}
+.slot-game-card{min-width:0;overflow:hidden;border:1px solid rgba(203,213,225,.12);border-radius:18px;background:linear-gradient(145deg,rgba(20,30,48,.96),rgba(7,13,25,.98));box-shadow:0 12px 30px rgba(0,0,0,.16);transition:border-color .2s ease,transform .2s ease,box-shadow .2s ease}
+.slot-game-card-link{display:grid;grid-template-columns:minmax(0,.88fr) minmax(0,1.12fr);min-height:100%}
+.slot-game-card-art{position:relative;min-width:0;min-height:100%;aspect-ratio:auto;display:flex;align-items:center;justify-content:center;padding:1rem;overflow:hidden;background:radial-gradient(ellipse at 50% 42%,rgba(245,185,75,.13),transparent 65%),linear-gradient(150deg,#111d31,#080e1b);border-right:1px solid rgba(203,213,225,.08)}
+.slot-game-card-art::after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,transparent 72%,rgba(7,13,25,.28))}
+.slot-game-card-art img{position:relative;z-index:1;width:100%;height:100%;min-height:190px;max-height:270px;object-fit:contain;filter:drop-shadow(0 12px 16px rgba(0,0,0,.38));transition:transform .25s ease}
+.slot-game-card-art-fallback{position:absolute;inset:1rem;display:grid;place-items:center;text-align:center;color:#e8d3a5;font-weight:800;font-size:1.1rem}
+.slot-game-card-content{display:flex;flex-direction:column;align-items:flex-start;min-width:0;padding:1.2rem 1.25rem 1.15rem}
+.slot-game-card-topline{display:flex;align-items:center;justify-content:space-between;gap:.65rem;width:100%;margin-bottom:.55rem}
+.slot-game-card-provider{display:inline-flex;align-items:center;min-height:24px;padding:.18rem .55rem;border:1px solid rgba(245,190,91,.22);border-radius:999px;color:#e9c77f;background:rgba(245,190,91,.07);font-size:.68rem;line-height:1.3;font-weight:750;letter-spacing:.035em}
+.slot-game-card-number{color:rgba(203,213,225,.42);font-size:.72rem;font-weight:800;font-variant-numeric:tabular-nums}
+.slot-game-card-content h3{margin:0 0 .45rem;color:#fff;font-size:clamp(1.08rem,1.45vw,1.35rem);line-height:1.2;letter-spacing:-.025em}
+.slot-game-card-summary{margin:0 0 .9rem;color:#b8c4d5;font-size:.82rem;line-height:1.55}
+.slot-game-card-insight{width:100%;margin-top:auto;padding:.72rem .8rem;border-left:2px solid #c89b4b;border-radius:0 9px 9px 0;background:linear-gradient(100deg,rgba(200,155,75,.10),rgba(200,155,75,.025))}
+.slot-game-card-insight-title{display:block;margin-bottom:.3rem;color:#d7b66f;font-size:.59rem;line-height:1.3;font-weight:850;letter-spacing:.12em}
+.slot-game-card-label{display:block;color:#d5deeb;font-size:.76rem;line-height:1.5}
+.slot-game-card-action{display:inline-flex;align-items:center;gap:.4rem;margin-top:1rem;color:#f0c875;font-size:.78rem;font-weight:800}
+.slot-game-card-action span{transition:transform .18s ease}
+@media(hover:hover) and (pointer:fine){.slot-game-card:hover{transform:translateY(-3px);border-color:rgba(224,183,105,.42);box-shadow:0 18px 38px rgba(0,0,0,.25)}.slot-game-card:hover .slot-game-card-art img{transform:scale(1.035)}.slot-game-card:hover .slot-game-card-action span{transform:translateX(3px)}}
+@media(max-width:900px){.slots-catalog-grid{grid-template-columns:1fr}.slot-game-card-link{grid-template-columns:minmax(0,.78fr) minmax(0,1.22fr)}}
+@media(max-width:560px){.slot-game-card-link{grid-template-columns:1fr}.slot-game-card-art{min-height:0;aspect-ratio:16/9;padding:.7rem;border-right:0;border-bottom:1px solid rgba(203,213,225,.08)}.slot-game-card-art img{min-height:0;max-height:210px}.slot-game-card-content{padding:1rem}.slot-game-card-summary{font-size:.84rem}}
+@media(prefers-reduced-motion:reduce){.slot-game-card,.slot-game-card-art img,.slot-game-card-action span{transition:none}}
+
+/* Final catalogue layout: four desktop columns, then three, two and one. */
+.slots-catalog-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+.slot-game-card-art-fallback{display:none}
+.slot-game-card-art.is-fallback .slot-game-card-art-fallback{display:grid}
+@media(max-width:1120px){.slots-catalog-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:900px){.slots-catalog-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.slots-catalog-grid{grid-template-columns:minmax(0,1fr)}}

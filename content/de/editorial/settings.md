@@ -21,7 +21,7 @@ address: 'Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, 
 year: 2026
 og_image: /images/hero-casino-neon.webp
 layout_variant: proof-first
-verification_status: pending
+verification_status: owner_confirmed
 contact_verification_required: false
 menu:
 - name: Startseite

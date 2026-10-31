@@ -20,6 +20,28 @@ slug: slots
 
 Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
 
+## Jak czytać rzetelną recenzję automatu
+
+Dobra recenzja powinna najpierw wyjaśniać zasady gry, a dopiero później oceniać jej oprawę. Podstawowe znaczenie ma sposób tworzenia wygranych: klasyczne linie, system „ways to win”, układy klastrowe czy siatka symboli działają na różnych zasadach. Nie należy używać tych określeń zamiennie. Szczegółowe reguły znajdują się w tabeli wypłat i pomocy uruchomionej wersji gry; opis katalogowy jest jedynie punktem wyjścia.
+
+## RTP i zmienność: co naprawdę mówią liczby
+
+RTP to teoretyczny wskaźnik zwrotu obliczany dla bardzo dużej liczby rund. Nie przewiduje wyniku pojedynczego obrotu ani krótkiej sesji. Zmienność opisuje inny aspekt matematyki gry — możliwy rozkład wyników w dłuższym okresie. Określenia „niska”, „średnia” i „wysoka” mają sens tylko wtedy, gdy wiadomo, skąd pochodzą i jakiej wersji dotyczą. Operatorzy mogą udostępniać różne ustawienia RTP, dlatego warto porównać dane z informacjami widocznymi w uruchomionej grze.
+
+## Funkcje bonusowe — porównuj zasady, nie same nazwy
+
+Darmowe spiny, rundy bonusowe, rozszerzające się lub przyklejone symbole Wild, kaskady, mnożniki i jackpoty progresywne potrafią istotnie zmienić przebieg rozgrywki. Sama nazwa funkcji nie wyjaśnia jednak jej działania. Warto sprawdzić warunek uruchomienia, przebieg rundy, możliwość ponownego aktywowania oraz sposób obliczania wygranej. W grach Megaways znaczenie ma to, jak układ bębnów wpływa na liczbę dostępnych kombinacji. W automatach klastrowych trzeba ustalić wymaganą wielkość grupy i to, czy wygrywające symbole znikają po trafieniu. Takie informacje są bardziej użyteczne niż ogólne hasło o „wielu bonusach”.
+
+## Jak pracujemy nad opisami
+
+Oddzielamy informacje możliwe do sprawdzenia od komentarza redakcyjnego. Nazwa producenta, wymienione mechaniki i opublikowane parametry powinny być weryfikowane na podstawie dokumentacji gry oraz konkretnej wersji. Recenzja ma wskazywać, co wyróżnia mechanikę, czego nie da się potwierdzić i które zasady należy sprawdzić w tabeli wypłat. Kilka obrotów nie stanowi dowodu na długoterminową skuteczność gry, a uruchomienie bonusu nie oznacza gwarantowanej wygranej.
+
+## Lista kontrolna przed rozpoczęciem gry
+
+Sprawdź wersję automatu, ujawnione ustawienie RTP, limity stawek, tabelę wypłat, warunki bonusów i dostępność gry w swoim kraju. Ustal limit wydatków przed rozpoczęciem i traktuj grę wyłącznie jako rozrywkę, nie sposób zarabiania. Jeśli opis katalogowy różni się od zasad wyświetlanych w grze, pierwszeństwo mają aktualne informacje w jej menu pomocy.
+
+---
+
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
 ## Bigger Bass Bonanza: najważniejsze informacje

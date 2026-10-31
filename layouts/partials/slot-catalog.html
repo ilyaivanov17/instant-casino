@@ -13,35 +13,46 @@
     <h2 id="slots-catalog-title">{{ $title }}</h2>
     <p>{{ $description }}</p>
   </div>
-  <div class="slots-catalog-grid">
+  <div class="slots-catalog-tools">
+    <label class="sr-only" for="slot-catalog-search">{{ if eq $lang "de" }}Spiele suchen{{ else if eq $lang "en" }}Search games{{ else if eq $lang "es" }}Buscar juegos{{ else if eq $lang "pt" }}Pesquisar jogos{{ else if eq $lang "ja" }}ゲームを検索{{ else }}Szukaj gier{{ end }}</label>
+    <input id="slot-catalog-search" class="slot-catalog-search" type="search" autocomplete="off" spellcheck="false" placeholder="{{ if eq $lang "de" }}Spiel oder Anbieter suchen…{{ else if eq $lang "en" }}Search by game or provider…{{ else if eq $lang "es" }}Buscar por juego o proveedor…{{ else if eq $lang "pt" }}Pesquisar jogo ou fornecedor…{{ else if eq $lang "ja" }}ゲーム名・プロバイダーで検索…{{ else }}Szukaj gry lub dostawcy…{{ end }}" aria-controls="slot-catalog-grid">
+    <span class="slot-catalog-results" id="slot-catalog-results" aria-live="polite">{{ len $catalog.games }} {{ if eq $lang "de" }}Spiele{{ else if eq $lang "en" }}games{{ else if eq $lang "pl" }}gier{{ else if eq $lang "es" }}juegos{{ else if eq $lang "pt" }}jogos{{ else }}ゲーム{{ end }}</span>
+  </div>
+  <div class="slots-catalog-grid" id="slot-catalog-grid">
     {{ range $index, $game := $catalog.games }}
       {{ $label := index $game.label $lang | default (index $game.label "en") }}
       {{ $summary := index $game.description $lang | default (index $game.description "en") }}
       {{ $alt := index $game.alt $lang | default (index $game.alt "en") }}
-      <article class="slot-game-card">
+      <article class="slot-game-card" data-search="{{ printf "%s %s %s %s" $game.name $game.provider $label $summary | lower }}">
         <a class="slot-game-card-link" href="{{ printf "%s#%s" $.RelPermalink $game.anchor }}">
           <div class="slot-game-card-art">
+            <span class="slot-game-card-art-fallback" aria-hidden="true">{{ $game.name }}</span>
             <img
               src="{{ $game.image | relURL }}"
               alt="{{ $alt }}"
               width="1440"
               height="810"
-              loading="lazy"
-              decoding="async">
+              loading="{{ if lt $index 4 }}eager{{ else }}lazy{{ end }}"
+              fetchpriority="{{ if lt $index 4 }}high{{ else }}auto{{ end }}"
+              decoding="async"
+              onerror="this.hidden=true;this.closest('.slot-game-card-art').classList.add('is-fallback')">
           </div>
           <div class="slot-game-card-content">
             <div class="slot-game-card-topline">
-              <span class="slot-game-card-eyebrow">{{ $eyebrow }}</span>
+              {{ with $game.provider }}<span class="slot-game-card-provider">{{ . }}</span>{{ end }}
               <span class="slot-game-card-number">{{ printf "%02d" (add $index 1) }}</span>
             </div>
             <h3>{{ $game.name }}</h3>
-            {{ with $game.provider }}<span class="slot-game-card-provider">{{ . }}</span>{{ end }}
-            <span class="slot-game-card-label">{{ $label }}</span>
-            <p>{{ $summary }}</p>
+            <p class="slot-game-card-summary">{{ $summary }}</p>
+            <div class="slot-game-card-insight">
+              <span class="slot-game-card-insight-title">{{ if eq $lang "de" }}Spielanalyse{{ else if eq $lang "en" }}EDITORIAL INSIGHT{{ else if eq $lang "es" }}ANÁLISIS DEL JUEGO{{ else if eq $lang "pt" }}ANÁLISE DO JOGO{{ else if eq $lang "ja" }}ゲーム分析{{ else }}ANALIZA GRY{{ end }}</span>
+              <span class="slot-game-card-label">{{ $label }}</span>
+            </div>
             <span class="slot-game-card-action">{{ $readMore }} <span aria-hidden="true">→</span></span>
           </div>
         </a>
       </article>
     {{ end }}
   </div>
+  <p class="slot-catalog-empty" id="slot-catalog-empty" hidden>{{ if eq $lang "de" }}Keine passenden Spiele gefunden.{{ else if eq $lang "en" }}No matching games found.{{ else if eq $lang "es" }}No se encontraron juegos.{{ else if eq $lang "pt" }}Não foram encontrados jogos.{{ else if eq $lang "ja" }}該当するゲームが見つかりません。{{ else }}Nie znaleziono pasujących gier.{{ end }}</p>
 </section>

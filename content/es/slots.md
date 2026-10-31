@@ -20,6 +20,28 @@ slug: slots
 
 Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
 
+## Cómo interpretar una reseña de tragamonedas
+
+Una reseña útil explica primero las reglas y después comenta el tema visual. Lo esencial es entender cómo se forman las combinaciones ganadoras: líneas de pago, sistemas de «ways to win», premios por grupos o mecánicas basadas en una cuadrícula no significan lo mismo. La tabla de pagos y la ayuda de la versión que se está ejecutando son las referencias principales; una ficha de catálogo solo ofrece una introducción.
+
+## RTP y volatilidad: límites de las cifras
+
+El RTP es un porcentaje teórico calculado a lo largo de una cantidad muy grande de rondas. No predice el resultado de una tirada ni de una sesión breve. La volatilidad describe otro aspecto: cómo pueden distribuirse los resultados con el paso del tiempo. Las etiquetas baja, media o alta solo son útiles si se conoce su fuente y la versión a la que corresponden. Los ajustes de RTP pueden variar según el operador y la versión del juego, por lo que conviene contrastar cualquier cifra con la información de la propia tragamonedas.
+
+## Comparar funciones por su funcionamiento
+
+Los giros gratis, las rondas de bonificación, los Wild expansivos o pegajosos, las cascadas, los multiplicadores y los botes progresivos pueden definir la experiencia de juego. El nombre de una función no basta para entenderla. Hay que comprobar qué la activa, qué ocurre durante la ronda, si puede volver a activarse y cómo se calcula el premio. En los títulos Megaways importa cómo cambia la disposición de los rodillos y el número de formas de ganar en cada giro. En los juegos de premios por grupos, conviene revisar el tamaño mínimo del grupo y si los símbolos ganadores desaparecen después de cada acierto. Estos detalles aportan más que una descripción genérica llena de términos promocionales.
+
+## Criterios editoriales
+
+Separamos los datos verificables de la interpretación editorial. El proveedor, las mecánicas indicadas y las cifras publicadas deben contrastarse con la información del juego y con la versión concreta. El análisis debe explicar qué distingue a sus reglas, qué aspectos no están confirmados y qué condiciones deben consultarse en la tabla de pagos. Una muestra pequeña de tiradas no demuestra el rendimiento a largo plazo, y ninguna función de bonificación garantiza un premio.
+
+## Qué revisar antes de jugar
+
+Comprueba la versión disponible, el RTP indicado cuando se publique, los límites de apuesta, la tabla de pagos, las condiciones de las bonificaciones y la disponibilidad legal en tu ubicación. Define un presupuesto antes de empezar y considera el juego únicamente como entretenimiento, no como una fuente de ingresos. Si la ficha del catálogo no coincide con las reglas actuales, prevalece la información de ayuda de la versión abierta.
+
+---
+
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
 ## Bigger Bass Bonanza: guía rápida

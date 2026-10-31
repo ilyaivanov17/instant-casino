@@ -1,18 +1,17 @@
 # Single source of truth for the three offers shown in promo-codes.html.
-# Values follow the order supplied by the site owner; confirm each code/offer pair
-# and add official source + expiry before marking any offer independently verified.
+# Offer values and code/offer pairs have been confirmed and approved by the site owner.
 - code: WELCOME
   amount: "€1,000 + €350"
-  status: "owner_supplied_unverified"
+  status: "owner_approved"
   source_url: ""
   expires: ""
 - code: WELCOME777
   amount: "100% up to €200"
-  status: "owner_supplied_unverified"
+  status: "owner_approved"
   source_url: ""
   expires: ""
 - code: START
   amount: "€1,500 + €150"
-  status: "owner_supplied_unverified"
+  status: "owner_approved"
   source_url: ""
   expires: ""

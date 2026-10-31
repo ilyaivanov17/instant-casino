@@ -33,7 +33,7 @@ games:
     image: /images/slots/bigger-bass-bonanza-cover.webp
     label:
       de: Angeln · Freispiele
-      en: Fishing · Free spins
+      en: "A fishing-themed slot built around cash-value fish symbols and a fisherman-style collection feature. Its free-spin round adds a separate bonus layer; check the current paytable for the exact collection rules and multiplier conditions."
       pl: Wędkarstwo · Darmowe spiny
       es: Pesca · Giros gratis
       pt: Pesca · Rodadas grátis
@@ -58,7 +58,7 @@ games:
     image: /images/slots/bonanza-cover.webp
     label:
       de: Megaways · Kaskaden
-      en: Megaways · Cascades
+      en: "A Megaways title from Big Time Gaming that combines a variable reel layout with cascading wins. Its defining appeal is the changing number of symbol positions, so the active ways-to-win count can differ from spin to spin."
       pl: Megaways · Kaskady
       es: Megaways · Cascadas
       pt: Megaways · Cascatas
@@ -83,7 +83,7 @@ games:
     image: /images/slots/book-of-dead-cover.webp
     label:
       de: Ägypten · Freispiele
-      en: Ancient Egypt · Free spins
+      en: "A classic five-reel adventure slot in which the expanding-symbol free-spin feature shapes the bonus round. The selected expanding symbol can materially change the ways a winning combination forms, making the paytable especially important."
       pl: Starożytny Egipt · Darmowe spiny
       es: Antiguo Egipto · Giros gratis
       pt: Antigo Egito · Rodadas grátis
@@ -108,7 +108,7 @@ games:
     image: /images/slots/dragons-luck-cover.webp
     label:
       de: Drache · Münzfunktionen
-      en: Dragon · Coin features
+      en: "An Asian-inspired slot whose dragon and coin imagery frames its special-symbol features. Review the in-game rules for the exact role of Wilds, Scatters and bonus triggers rather than assuming all versions use identical conditions."
       pl: Smok · Funkcje monet
       es: Dragón · Funciones de monedas
       pt: Dragão · Funcionalidades de moedas
@@ -133,7 +133,7 @@ games:
     image: /images/slots/fruit-party-cover.webp
     label:
       de: Früchte · Multiplikatoren
-      en: Fruit · Multipliers
+      en: "A 7×7 cluster-pay game where winning groups disappear and new symbols fall into place. Multipliers can influence successive wins, giving the tumble sequence more strategic interest than a fixed-line layout."
       pl: Owoce · Mnożniki
       es: Frutas · Multiplicadores
       pt: Fruta · Multiplicadores
@@ -158,7 +158,7 @@ games:
     provider: "NetEnt"
     label:
       de: "Weltraum und bunte Edelsteine"
-      en: "space and colourful gemstones"
+      en: "A compact, classic-style slot recognised for expanding Wilds and respins. Its simple presentation makes the special Wild behaviour the central mechanic to understand; the paytable sets out when a Wild expands and how respins are awarded."
       pl: "kosmos i kolorowe klejnoty"
       es: "el espacio y las gemas de colores"
       pt: "o espaço e as gemas coloridas"
@@ -183,7 +183,7 @@ games:
     provider: "Pragmatic Play"
     label:
       de: "Hunde und ein gemütliches Hundehäuschen"
-      en: "dogs and a playful doghouse"
+      en: "A playful dog-themed slot whose identity centres on Sticky Wilds and free spins. Sticky symbols can remain in place during the feature, so the bonus rules and the exact conditions for activating it are worth checking."
       pl: "psy i wesołą budę dla psów"
       es: "perros y una caseta de colores"
       pt: "cães e uma casota divertida"
@@ -208,7 +208,7 @@ games:
     provider: "Play'n GO"
     label:
       de: "altägyptische Tempel und goldene Skarabäen"
-      en: "ancient Egyptian temples and golden scarabs"
+      en: "An Egyptian-themed slot with a free-spin feature built around expanding symbols. The chosen symbol can affect the structure of the bonus round, making the feature rules and symbol paytable central to understanding its variance."
       pl: "starożytne egipskie świątynie i złote skarabeusze"
       es: "templos del antiguo Egipto y escarabajos dorados"
       pt: "templos do antigo Egito e escaravelhos dourados"
@@ -233,7 +233,7 @@ games:
     provider: "Play'n GO"
     label:
       de: "bunte Außerirdische in einer Weltraumwelt"
-      en: "colourful aliens in a space setting"
+      en: "A cluster-pay slot in which wins trigger cascades across a grid. Its Quantum Leap and meter-based features add extra layers to the sequence, so the in-game help is essential for understanding how collected energy changes play."
       pl: "kolorowi kosmici w kosmicznej scenerii"
       es: "alienígenas de colores en un entorno espacial"
       pt: "alienígenas coloridos num cenário espacial"
@@ -258,7 +258,7 @@ games:
     provider: "Pragmatic Play"
     label:
       de: "Cowboys und Gold im Wilden Westen"
-      en: "cowboys and gold in the Wild West"
+      en: "A western-themed slot featuring Sticky Wilds and respins. Its bonus mechanics are tied to special symbols, and the most useful way to assess the game is to follow the exact trigger and persistence rules in the paytable."
       pl: "kowboje i złoto Dzikiego Zachodu"
       es: "vaqueros y oro del Salvaje Oeste"
       pt: "cowboys e ouro do Oeste Selvagem"
@@ -283,7 +283,7 @@ games:
     provider: "Pragmatic Play"
     label:
       de: "eine magische Prinzessin in einer Fantasiewelt"
-      en: "a magical princess in a fantasy world"
+      en: "A fantasy-themed tumble slot where wins can be followed by new symbol drops and multiplier events. The interaction between cascades and multipliers is the core mechanic; neither guarantees a feature or a positive result."
       pl: "magiczna księżniczka w świecie fantasy"
       es: "una princesa mágica en un mundo fantástico"
       pt: "uma princesa mágica num mundo de fantasia"
@@ -308,7 +308,7 @@ games:
     provider: "Pragmatic Play"
     label:
       de: "Büffel und Wildtiere in der nordamerikanischen Prärie"
-      en: "buffalo and wildlife across the North American prairie"
+      en: "A wildlife-themed Megaways slot combining a variable reel layout with cascading wins. The number of ways can change between spins, so the displayed configuration and the paytable are more informative than a fixed ways figure."
       pl: "bawoły i dzikie zwierzęta na północnoamerykańskiej prerii"
       es: "búfalos y fauna salvaje en la pradera norteamericana"
       pt: "búfalos e vida selvagem na pradaria norte-americana"
@@ -333,7 +333,7 @@ games:
     provider: NetEnt
     label:
       de: "Luxus · Jackpot"
-      en: "Luxury · Jackpot"
+      en: "A luxury-themed progressive-jackpot slot built around multiple jackpot tiers. The key review point is how the jackpot feature is entered and which bet conditions apply, since availability and rules can vary by operator."
       pl: "Luksus · Jackpot"
       es: "Lujo · Jackpot"
       pt: "Luxo · Jackpot"
@@ -358,7 +358,7 @@ games:
     provider: "NetEnt"
     label:
       de: "eine staubige Westernstadt und Revolverhelden"
-      en: "a dusty Wild West town and gunslingers"
+      en: "A western-themed sequel built around several free-spin modes with distinct rules. The choice and behaviour of each bonus mode matter more than the theme alone; consult the paytable for its specific Wild and multiplier conditions."
       pl: "zakurzone miasteczko Dzikiego Zachodu i rewolwerowców"
       es: "un pueblo polvoriento del Oeste y pistoleros"
       pt: "uma cidade poeirenta do Oeste e pistoleiros"
@@ -383,7 +383,7 @@ games:
     provider: "NetEnt"
     label:
       de: "klassische Spielautomaten-Symbole und verbundene Walzen"
-      en: "classic slot symbols and linked reels"
+      en: "A classic-reel slot built around paired reels that can move in sync. Its linked-reel feature is the main point of difference from a conventional fruit-machine layout; check how the pair is formed and when it can change."
       pl: "klasyczne symbole automatów i połączone bębny"
       es: "símbolos clásicos de tragaperras y rodillos enlazados"
       pt: "símbolos clássicos de slots e rolos ligados"
@@ -408,7 +408,7 @@ games:
     provider: "Hacksaw Gaming"
     label:
       de: "Anubis und altägyptische Symbolwelten"
-      en: "Anubis and ancient Egyptian imagery"
+      en: "An Egyptian-themed slot that uses collectible symbols and bonus features as its main structure. The collection rules determine how the feature develops, so review the current game help for symbol values, thresholds and any limits."
       pl: "Anubisa i starożytne egipskie motywy"
       es: "Anubis y motivos del antiguo Egipto"
       pt: "Anúbis e motivos do antigo Egito"
@@ -433,7 +433,7 @@ games:
     provider: "Pragmatic Play"
     label:
       de: "Süßigkeiten, Bonbons und eine bunte Fantasiewelt"
-      en: "sweets, candy and a colourful fantasy world"
+      en: "A candy-themed cluster slot where wins tumble and winning positions can carry multipliers into later cascades. The position-based multiplier system is the key mechanic to understand before assessing the bonus round."
       pl: "słodycze i kolorowy świat fantasy"
       es: "dulces y un mundo fantástico lleno de color"
       pt: "doces e um mundo de fantasia colorido"
@@ -458,7 +458,7 @@ games:
     provider: "Microgaming"
     label:
       de: "vampirische Figuren und eine gotische Liebesgeschichte"
-      en: "vampire characters and a gothic romance"
+      en: "A gothic-themed video slot with character-led free-spin features, including Wild Desire. Different bonus modes have distinct rules, so compare their triggers and symbol behaviour in the paytable rather than treating them as interchangeable."
       pl: "wampiryczne postacie i gotycka opowieść o miłości"
       es: "personajes vampíricos y un romance gótico"
       pt: "personagens vampíricas e um romance gótico"
@@ -483,7 +483,7 @@ games:
     provider: "Pragmatic Play"
     label:
       de: "fünf goldene Löwen in einer asiatisch inspirierten Tempelwelt"
-      en: "five golden lions in an Asian-inspired temple setting"
+      en: "An Asian-inspired Megaways slot featuring five golden lions, a variable reel layout and free spins. Its changing number of symbol positions affects the available ways on each spin; verify the bonus conditions in the active version."
       pl: "pięć złotych lwów w świątynnym świecie inspirowanym Azją"
       es: "cinco leones dorados en un entorno de templos inspirado en Asia"
       pt: "cinco leões dourados num cenário de templos inspirado na Ásia"
@@ -508,7 +508,7 @@ games:
     provider: "Hacksaw Gaming"
     label:
       de: "einen Waschbär-Dieb in einer Pariser Kulisse"
-      en: "a raccoon thief in a Parisian setting"
+      en: "A Parisian-themed slot with a raccoon bandit and cluster-based wins. Its bonus mechanics are more distinctive than a standard payline format, so the game help should be used to confirm how clusters, special symbols and feature triggers interact."
       pl: "szopa-złodzieja w paryskiej scenerii"
       es: "un mapache ladrón en un entorno parisino"
       pt: "um guaxinim ladrão num cenário parisiense"
@@ -533,7 +533,7 @@ games:
     provider: "Hacksaw Gaming"
     label:
       de: "maskierte Revolverhelden im Wilden Westen"
-      en: "masked gunslingers in the Wild West"
+      en: "A high-intensity western slot built around bonus rounds and duel-style features. Its bonus modes can have materially different rules and risk profiles; read each mode's entry conditions and payout mechanics before play."
       pl: "zamaskowanych rewolwerowców na Dzikim Zachodzie"
       es: "pistoleros enmascarados en el Salvaje Oeste"
       pt: "pistoleiros mascarados no Oeste Selvagem"
@@ -558,7 +558,7 @@ games:
     provider: "Relax Gaming"
     label:
       de: "einen futuristischen Zug und zwei Outlaws"
-      en: "a futuristic train and two outlaws"
+      en: "A feature-heavy western sci-fi slot built around bonus symbols, character effects and multiplier interactions. The number of special features makes the rules screen particularly important: identify what each symbol collects, upgrades or activates."
       pl: "futurystyczny pociąg i dwoje banitów"
       es: "un tren futurista y dos forajidos"
       pt: "um comboio futurista e dois fora da lei"
@@ -583,7 +583,7 @@ games:
     provider: "Relax Gaming"
     label:
       de: "Outlaws und ein futuristisches Zugabenteuer"
-      en: "outlaws and a futuristic train adventure"
+      en: "A sequel that expands the Money Train formula with collectible symbols and layered bonus features. Its feature interactions are the main editorial focus; check the exact version's rules for collection thresholds and how modifiers affect a bonus."
       pl: "banitów i futurystyczną przygodę kolejową"
       es: "forajidos y una aventura ferroviaria futurista"
       pt: "fora da lei e uma aventura ferroviária futurista"
@@ -608,7 +608,7 @@ games:
     provider: "Microgaming"
     label:
       de: "nordische Götter und die Welt der Wikinger"
-      en: "Norse gods and the world of Vikings"
+      en: "A Norse-mythology slot with free spins and several bonus features. Its multiple feature paths make it worth checking the trigger conditions and the differences between bonus rounds in the game's own help section."
       pl: "nordyckich bogów i świat Wikingów"
       es: "dioses nórdicos y el mundo vikingo"
       pt: "deuses nórdicos e o mundo dos vikings"
@@ -633,7 +633,7 @@ games:
     provider: "Pragmatic Play"
     label:
       de: "bunte Früchte und eine sonnige Fantasiewelt"
-      en: "colourful fruit and a bright fantasy world"
+      en: "A sequel to the original cluster slot, retaining fruit clusters and tumble-style wins while adding its own feature mix. Check the current paytable for how multipliers and bonus triggers work in this version rather than assuming the original rules apply."
       pl: "kolorowe owoce i słoneczny świat fantasy"
       es: "frutas de colores y un mundo fantástico y soleado"
       pt: "frutas coloridas e um mundo de fantasia soalheiro"
@@ -658,7 +658,7 @@ games:
     provider: "Pragmatic Play"
     label:
       de: "Zeus und einen prachtvollen Tempel auf dem Olymp"
-      en: "Zeus and a grand temple on Mount Olympus"
+      en: "A Greek-mythology slot using a tumble mechanic instead of fixed paylines. Multipliers can land during a sequence of cascades, and the final result depends on the combination of winning drops and multiplier values."
       pl: "Zeusa i wspaniałą świątynię na Olimpie"
       es: "Zeus y un magnífico templo en el Olimpo"
       pt: "Zeus e um magnífico templo no Olimpo"
@@ -683,7 +683,7 @@ games:
     provider: "NetEnt"
     label:
       de: "einen Abenteurer auf der Suche nach El Dorado"
-      en: "an explorer searching for El Dorado"
+      en: "An adventure slot known for Avalanche wins: winning symbols are removed and replaced by new ones. The multiplier can rise across consecutive avalanches, so one paid spin may contain several linked win events."
       pl: "odkrywcę poszukującego El Dorado"
       es: "un explorador en busca de El Dorado"
       pt: "um explorador à procura de El Dorado"
@@ -708,7 +708,7 @@ games:
     provider: "Pragmatic Play"
     label:
       de: "Süßigkeiten und Früchte in einer bunten Fantasiewelt"
-      en: "sweets and fruit in a colourful fantasy world"
+      en: "A cluster-style slot with a tumbling-symbol mechanic rather than conventional paylines. Multipliers can appear during the feature sequence, and the paytable explains how symbol groups and bonus triggers are evaluated."
       pl: "słodycze i owoce w kolorowym świecie fantasy"
       es: "dulces y frutas en un mundo fantástico lleno de color"
       pt: "doces e frutas num mundo de fantasia colorido"
@@ -733,7 +733,7 @@ games:
     provider: "Pragmatic Play"
     label:
       de: "Wölfe und die nordamerikanische Wildnis"
-      en: "wolves and the North American wilderness"
+      en: "A wildlife-themed slot that combines Wild symbols, respins and jackpot features. Its presentation is straightforward, but the jackpot rules and any operator-specific configuration should be checked separately from the base-game paytable."
       pl: "wilki i północnoamerykańską dziką przyrodę"
       es: "lobos y la naturaleza salvaje de Norteamérica"
       pt: "lobos e a natureza selvagem da América do Norte"
@@ -758,7 +758,7 @@ games:
     provider: "Microgaming"
     label:
       de: "einen Löwen und die afrikanische Savanne"
-      en: "a lion and the African savannah"
+      en: "A progressive-jackpot slot associated with tiered prize pools. The headline jackpot is separate from ordinary base-game returns; check the displayed jackpot contribution, eligibility rules and current operator version."
       pl: "lwa i afrykańską sawannę"
       es: "un león y la sabana africana"
       pt: "um leão e a savana africana"

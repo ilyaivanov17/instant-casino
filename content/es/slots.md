@@ -220,13 +220,13 @@ Una opinión publicada destaca la ambientación egipcia, la banda sonora y el bo
 
 ## Dragon's Luck: guía rápida
 
-Dragon's Luck tiene una temática y unas funciones propias que conviene conocer antes de jugar. La ficha incluye símbolos Wild y símbolos Scatter y juego de bonificación. Consulta la ayuda y la tabla de pagos para comprobar los activadores, las reglas y los límites de la versión disponible.
+Dragon's Luck es una tragamonedas de Red Tiger con temática de dragones y las funciones Dragon Coin, Dragon's Help y Mega Coin. Consulta la [información oficial del juego](https://games.evolution.com/slots/dragons-luck/) y la tabla de pagos de la versión activa para conocer sus reglas exactas.
 
 ### Ficha del juego
 
 | Proveedor | RTP teórico | Volatilidad | Intervalo de apuesta | Funciones |
 |---|---:|---|---|---|
-| Play'n GO | 96.31% | Media | 0.1–50 EUR | símbolos Wild, símbolos Scatter, juego de bonificación |
+| Red Tiger | 94.71% | Alta | Consultar en el juego | Dragon Coin, Dragon's Help, Mega Coin |
 
 ### Qué significan los datos
 
@@ -239,7 +239,7 @@ Abre la tabla de pagos antes de jugar. Allí se explican los valores de los sím
 ---
 
 ## Dragon's Luck: Análisis editorial en profundidad
-Dragon's Luck figura asociado a Play'n GO. La ficha enumera símbolos Wild, símbolos Scatter, juego de bonificación y un tema centrado en a dragon and luck motif. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
+La ficha oficial identifica Dragon's Luck como un juego de Red Tiger y menciona Dragon Coin, Dragon's Help y Mega Coin entre sus funciones. El RTP publicado es del 94.71%. Comprueba el intervalo de apuestas y los ajustes específicos del operador en la versión activa.
 
 ### Tema y primera impresión
 

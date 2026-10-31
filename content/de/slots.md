@@ -46,6 +46,8 @@ Kontrollieren Sie die geladene Spielversion, gegebenenfalls die angezeigte RTP-E
 
 Die folgenden Spielernotizen sind ausgewählte Beispiele positiver Kommentare, die auf externen Bewertungs- oder Diskussionsseiten veröffentlicht wurden. Sie sind weder eine repräsentative Umfrage noch ein geprüfter Ergebnisnachweis oder ein Gewinnversprechen. Unsere eigene Analyse ist davon getrennt und erläutert Aufbau und besondere Mechaniken des Spiels. Vollständige Rezensionen werden nicht übernommen; einzelne Gewinne gelten nicht als Beleg für erwartbare Ergebnisse.
 
+Einige Bewertungsplattformen legen kommerzielle oder Affiliate-Beziehungen offen. Wir verwenden Spielerkommentare daher nur als qualitative Beispiele, nicht als unabhängige Leistungsdaten.
+
 ---
 
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>

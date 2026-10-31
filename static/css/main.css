@@ -3297,3 +3297,104 @@ svg.slot-search-icon{
     min-width: 620px;
   }
 }
+
+
+/* Desktop-friendly slot catalogue cards: clear image-first layout and readable copy. */
+.slots-catalog-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+  align-items: stretch;
+}
+.slot-game-card {
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+  border-radius: 20px;
+}
+.slot-game-card-link {
+  display: flex;
+  flex: 1 1 auto;
+  height: auto;
+  min-height: 0;
+  flex-direction: column;
+}
+.slot-game-card-art {
+  display: grid;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  min-height: 0;
+  padding: .7rem;
+  border-right: 0;
+  border-bottom: 1px solid rgba(203,213,225,.1);
+}
+.slot-game-card-art img {
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  max-height: none;
+  object-fit: contain;
+}
+.slot-game-card-content {
+  flex: 1 1 auto;
+  min-height: 278px;
+  align-items: stretch;
+  padding: 1.15rem 1.2rem 1.1rem;
+}
+.slot-game-card-topline {
+  margin-bottom: .7rem;
+}
+.slot-game-card-content h3 {
+  font-size: clamp(1.12rem, 1.25vw, 1.38rem);
+  line-height: 1.25;
+}
+.slot-game-card-summary {
+  display: -webkit-box;
+  min-height: 5.4em;
+  overflow: hidden;
+  margin-bottom: .95rem;
+  font-size: .88rem;
+  line-height: 1.5;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+}
+.slot-game-card-insight {
+  width: 100%;
+  margin-top: auto;
+}
+.slot-game-card-action {
+  margin-top: 1rem;
+}
+.slot-game-card-bonus-link {
+  min-height: 44px;
+  margin: 0 1rem 1rem;
+  padding: .72rem .9rem;
+}
+@media (max-width: 1100px) {
+  .slots-catalog-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 620px) {
+  .slots-catalog-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: .85rem;
+  }
+  .slot-game-card-content {
+    min-height: 0;
+    padding: 1rem 1.05rem 1.1rem;
+  }
+  .slot-game-card-summary {
+    min-height: 0;
+    font-size: .84rem;
+  }
+  .slot-game-card-bonus-link {
+    margin: 0 .85rem .85rem;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .slot-game-card,
+  .slot-game-card-art img,
+  .slot-game-card-action span {
+    transition: none !important;
+  }
+}

@@ -3,7 +3,7 @@ title: 'Slot-Leitfaden: Grundlagen und Spielprofile'
 description: 'Spielprofile mit Regeln, Funktionen und Kennzahlen ausgewählter Online-Slots.'
 type: page
 seo_title: 'Slot-Leitfaden: Grundlagen und Spielprofile | Instant Casino'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always

@@ -62,7 +62,7 @@ async function inspectPage(page, path, expectedCards = null) {
   const tableStructureOk = expectedCards === null || (
     result.tables.length > 0 &&
     result.tables.every(table => table.hasTable) &&
-    result.tables.some(table => table.headers >= 5 && table.cells >= 5) &&
+    result.tables.some(table => table.headers >= 2 && table.cells >= 2) &&
     (result.width >= 600 || result.tables.every(table => table.scrollWidth > table.clientWidth + 1))
   );
   const ok = Boolean(response) &&

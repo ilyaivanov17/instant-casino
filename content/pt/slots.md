@@ -20,6 +20,28 @@ slug: slots
 
 Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
 
+## Como avaliar uma análise de slot
+
+Uma análise útil começa por explicar as regras e só depois comenta o tema e a apresentação visual. O ponto central é perceber como se formam as combinações vencedoras: linhas de pagamento, sistemas «ways to win», prémios por grupos ou mecânicas em grelha não são equivalentes. A tabela de pagamentos e a ajuda da versão efetivamente aberta são as referências principais; a ficha do catálogo serve apenas como introdução.
+
+## RTP e volatilidade: interpretar os indicadores
+
+O RTP é uma percentagem teórica calculada ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade descreve outro aspeto: a forma como os resultados podem distribuir-se ao longo do tempo. As classificações baixa, média ou alta só são úteis quando a fonte e a versão do jogo estão identificadas. As definições de RTP podem variar entre operadores e versões, pelo que qualquer valor deve ser confirmado na informação apresentada pelo próprio jogo.
+
+## Comparar funcionalidades pelo que fazem
+
+Rodadas grátis, rondas de bónus, Wilds expansivos ou fixos, cascatas, multiplicadores e jackpots progressivos podem alterar a dinâmica de uma slot. O nome da funcionalidade, por si só, não explica o seu funcionamento. É necessário verificar o que a ativa, como decorre, se pode ser reativada e de que forma o prémio é calculado. Nos jogos Megaways, importa perceber como a configuração dos rolos determina o número de formas de ganhar em cada jogada. Nos jogos de prémios por grupos, deve confirmar-se o tamanho mínimo do grupo e se os símbolos vencedores desaparecem após uma combinação. Esta informação é mais esclarecedora do que expressões promocionais vagas.
+
+## Princípios editoriais
+
+Distinguimos os dados verificáveis da interpretação editorial. O fornecedor, as mecânicas indicadas e os valores publicados devem ser confrontados com a informação do jogo e com a versão específica. Uma análise deve explicar o que torna as regras distintas, assinalar o que não está confirmado e indicar os pontos que exigem consulta da tabela de pagamentos. Uma amostra reduzida de jogadas não comprova o desempenho a longo prazo, e uma funcionalidade de bónus não garante um prémio.
+
+## Verificações antes de jogar
+
+Confirme a versão disponível, o RTP indicado quando divulgado, os limites de aposta, a tabela de pagamentos, as condições dos bónus e a disponibilidade legal no seu território. Defina antecipadamente um limite de despesa e encare o jogo apenas como entretenimento, nunca como fonte de rendimento. Se a ficha do catálogo divergir das regras atuais, prevalecem as informações apresentadas na ajuda do jogo aberto.
+
+---
+
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
 ## Bigger Bass Bonanza: guia rápido

@@ -181,3 +181,629 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 ### Mechanik im Fokus
 
 Fruit Party arbeitet mit einem 7×7-Raster und Cluster-Auszahlungen. Nach einem Gewinn können Symbole verschwinden und neue nachrücken; Multiplikatoren beeinflussen die Abrechnung nach den Regeln der jeweiligen Funktion. Für einen fairen Vergleich sind Clustergröße, Kaskadenablauf und Multiplikatorregeln getrennt zu dokumentieren.
+
+
+---
+
+<h2 id="starburst">Starburst</h2>
+
+## Starburst
+
+### Kurz erklärt
+
+Starburst verbindet ein Weltraum- und Edelsteinmotiv mit einem klassischen Walzenlayout. Im Mittelpunkt stehen die expandierenden Wild-Symbole und die daran geknüpften Respins.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| NetEnt | Expandierende Wild-Symbole, Respins |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Für die Einordnung sind zwei Abläufe getrennt zu betrachten: wann ein Wild expandiert und unter welchen Bedingungen ein erneuter Dreh folgt. Die Spielhilfe der geladenen Version erklärt, welche Walzen betroffen sind und wie die Funktion ausgewertet wird.
+
+
+---
+
+<h2 id="the-dog-house">The Dog House</h2>
+
+## The Dog House
+
+### Kurz erklärt
+
+The Dog House setzt auf ein Hundemotiv und kombiniert es mit Sticky Wilds und einer Freispiele-Bonusrunde. Die Sonderfunktionen prägen den Ablauf stärker als das Thema allein.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Pragmatic Play | Sticky Wilds, Freispiele |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Prüfe, wann Sticky Wilds erscheinen, wie lange sie auf den Walzen bleiben und wodurch die Freispiele ausgelöst werden. Die konkreten Regeln und möglichen Einschränkungen sind der Auszahlungstabelle zu entnehmen.
+
+
+---
+
+<h2 id="legacy-of-dead">Legacy of Dead</h2>
+
+## Legacy of Dead
+
+### Kurz erklärt
+
+Legacy of Dead greift das alte Ägypten als Spielthema auf. Zu den hinterlegten Merkmalen gehören Freispiele und expandierende Symbole.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Play'n GO | Freispiele, expandierende Symbole |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Für eine sachliche Bewertung ist entscheidend, welche Symbole expandieren können und wie diese Funktion mit der Freispiele-Runde zusammenwirkt. Maßgeblich ist die Hilfe der tatsächlich geladenen Spielversion.
+
+
+---
+
+<h2 id="reactoonz">Reactoonz</h2>
+
+## Reactoonz
+
+### Kurz erklärt
+
+Reactoonz ist ein Cluster-Slot mit außerirdischen Figuren und der Quantum-Leap-Funktion. Gewinne entstehen nicht über klassische Gewinnlinien, sondern über zusammenhängende Symbolgruppen.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Play'n GO | Cluster-Auszahlungen, Quantum Leap |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Achte auf die Mindestgröße eines Clusters, den Ablauf nach einem Gewinn und die Rolle der Quantum-Leap-Funktion. Die Spielhilfe sollte erklären, wann sie aktiviert wird und wie sich der Spielzustand dadurch verändert.
+
+
+---
+
+<h2 id="wild-west-gold">Wild West Gold</h2>
+
+## Wild West Gold
+
+### Kurz erklärt
+
+Wild West Gold verbindet ein Western-Thema mit Sticky Wilds, Multiplikatoren und Respins. Diese Funktionen können den Verlauf einer Runde beeinflussen.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Pragmatic Play | Sticky Wilds, Multiplikatoren, Respins |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Wichtig ist, die Auslöser und Reihenfolge der Sonderfunktionen zu prüfen: Wann bleiben Wilds liegen, wann wird ein Respin gestartet und auf welche Gewinne wirkt ein Multiplikator? Verlasse dich dafür auf die Regeln im geöffneten Spiel.
+
+
+---
+
+<h2 id="starlight-princess">Starlight Princess</h2>
+
+## Starlight Princess
+
+### Kurz erklärt
+
+Starlight Princess ist ein Fantasy-Slot, dessen Spielablauf von Kaskaden und zufällig erscheinenden Multiplikatoren geprägt wird.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Pragmatic Play | Kaskaden, zufällige Multiplikatoren |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Bei Kaskaden werden Gewinnsymbole nach den Spielregeln entfernt und durch neue Symbole ersetzt. Prüfe, wann Multiplikatoren erscheinen und wie sie bei aufeinanderfolgenden Treffern verrechnet werden.
+
+
+---
+
+<h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
+
+## Buffalo King Megaways
+
+### Kurz erklärt
+
+Buffalo King Megaways kombiniert ein Wildtiermotiv mit dem Megaways-Prinzip. Die Walzenhöhe kann variieren; außerdem gehören Kaskaden zu den hinterlegten Funktionen.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Pragmatic Play | Megaways, variable Walzenhöhe, Kaskaden |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Für den Vergleich sind die variable Zahl der Symbole pro Walze und die daraus entstehenden Gewinnwege relevant. Die Spielhilfe erläutert außerdem, wie Kaskaden ablaufen und welche Bedingungen für Bonusfunktionen gelten.
+
+
+---
+
+<h2 id="mega-fortune">Mega Fortune</h2>
+
+## Mega Fortune
+
+### Kurz erklärt
+
+Mega Fortune setzt auf ein Luxus- und Yachtmotiv. Neben einer Freispiele-Funktion ist ein separates progressives Jackpot-System als Merkmal hinterlegt.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| NetEnt | Freispiele, progressives Jackpot-System |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Ein progressiver Jackpot folgt eigenen Teilnahme- und Auslösebedingungen. Prüfe im Spiel, welche Jackpot-Stufen angezeigt werden, wie eine Teilnahme erfolgt und ob für die geladene Version besondere Einsatzbedingungen gelten.
+
+
+---
+
+<h2 id="dead-or-alive-2">Dead or Alive 2</h2>
+
+## Dead or Alive 2
+
+### Kurz erklärt
+
+Dead or Alive 2 greift das Western-Thema auf und bietet mehrere auswählbare Freispiele-Modi. Damit steht die Auswahl beziehungsweise Ausgestaltung der Bonusrunde im Mittelpunkt des Profils.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| NetEnt | Mehrere auswählbare Freispiele-Modi |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Vergleiche die verfügbaren Freispiele-Modi anhand der Spielhilfe. Entscheidend sind ihre jeweiligen Auslöser, Unterschiede im Ablauf und die Regeln, nach denen Gewinne während der Bonusrunde berechnet werden.
+
+
+---
+
+<h2 id="twin-spin">Twin Spin</h2>
+
+## Twin Spin
+
+### Kurz erklärt
+
+Twin Spin orientiert sich an klassischen Fruchtsymbolen. Die Besonderheit ist die Twin-Reel-Funktion, durch die Walzen miteinander gekoppelt werden können.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| NetEnt | Twin-Reel-Funktion, gekoppelte Walzen |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Prüfe, wann die Kopplung aktiv ist und welche Walzen beziehungsweise Symbole davon betroffen sind. Die genaue Auswirkung auf Gewinnkombinationen sollte anhand der Spielregeln und Auszahlungstabelle beurteilt werden.
+
+
+---
+
+<h2 id="hand-of-anubis">Hand of Anubis</h2>
+
+## Hand of Anubis
+
+### Kurz erklärt
+
+Hand of Anubis verbindet ein ägyptisch inspiriertes Thema mit Cluster-Auszahlungen, Sammelsymbolen und Bonusfunktionen.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Hacksaw Gaming | Cluster-Auszahlungen, Sammelsymbole, Bonusfunktionen |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Für das Verständnis sind die Cluster-Regeln und die Sammelfunktion getrennt zu betrachten. Die Spielhilfe sollte erläutern, welche Symbole gesammelt werden, wann eine Bonusfunktion startet und wie ihre Ergebnisse gewertet werden.
+
+
+---
+
+<h2 id="sugar-rush">Sugar Rush</h2>
+
+## Sugar Rush
+
+### Kurz erklärt
+
+Sugar Rush nutzt ein 7×7-Spielfeld mit Cluster-Auszahlungen und Kaskaden. Multiplikatoren können nach den Spielregeln auf dem Spielfeld verbleiben.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Pragmatic Play | 7×7-Cluster, Kaskaden, Multiplikatoren |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Achte auf die erforderliche Clustergröße, das Nachrücken neuer Symbole und darauf, wann Multiplikatoren auf dem Raster entstehen oder erhalten bleiben. Die genaue Gewinnberechnung ist versionsabhängig und sollte im Spiel geprüft werden.
+
+
+---
+
+<h2 id="immortal-romance">Immortal Romance</h2>
+
+## Immortal Romance
+
+### Kurz erklärt
+
+Immortal Romance ist ein Gothic-Slot mit Vampir- und Figurenmotiven. Das Profilmerkmal sind mehrere charakterbezogene Freispiele-Modi.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Microgaming | Charakterbezogene Freispiele-Modi |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Die einzelnen Modi sollten nicht pauschal gleichgesetzt werden. Prüfe, wie sie ausgelöst werden, worin sich ihre Abläufe unterscheiden und welche Regeln für die jeweilige Bonusrunde gelten.
+
+
+---
+
+<h2 id="5-lions-megaways">5 Lions Megaways</h2>
+
+## 5 Lions Megaways
+
+### Kurz erklärt
+
+5 Lions Megaways verbindet ein Löwenmotiv mit dem Megaways-System und einer Freispiele-Funktion.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Pragmatic Play | Megaways, Freispiele |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Das Megaways-Prinzip verändert die Walzenhöhe und damit die Zahl möglicher Gewinnwege pro Dreh. Für die Freispiele sind zusätzlich Auslöser, Ablauf und mögliche Sonderregeln in der geladenen Version zu prüfen.
+
+
+---
+
+<h2 id="le-bandit">Le Bandit</h2>
+
+## Le Bandit
+
+### Kurz erklärt
+
+Le Bandit ist ein Cluster-Slot mit Waschbär-Thema und einer sammelbasierten Bonusstruktur.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Hacksaw Gaming | Cluster-Auszahlungen, sammelbasierte Bonusstruktur |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Prüfe zunächst, welche zusammenhängenden Symbole einen Cluster bilden. Anschließend ist zu klären, welche Werte oder Symbole gesammelt werden und unter welchen Bedingungen daraus eine Bonusfunktion entsteht.
+
+
+---
+
+<h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
+
+## Wanted Dead or a Wild
+
+### Kurz erklärt
+
+Wanted Dead or a Wild inszeniert ein Western-Duell und bietet mehrere Bonusmodi. Das Profil sollte deshalb vor allem die Unterschiede zwischen den Bonusabläufen verständlich machen.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Hacksaw Gaming | Western-Thema, Duell-Inszenierung, mehrere Bonusmodi |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Die Bezeichnungen der Modi allein sagen wenig über ihre Regeln aus. Vergleiche Auslöser, Ablauf und Gewinnberechnung anhand der Spielhilfe der konkreten Version, bevor du Funktionen miteinander bewertest.
+
+
+---
+
+<h2 id="money-train-3">Money Train 3</h2>
+
+## Money Train 3
+
+### Kurz erklärt
+
+Money Train 3 stellt Outlaws und eine Bonusrunde mit persistenten Funktionssymbolen, Sammelmechaniken und Multiplikatoren in den Mittelpunkt.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Relax Gaming | Persistente Funktionssymbole, Sammelmechaniken, Multiplikatoren |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Wichtig ist, welche Funktionssymbole während der Bonusrunde aktiv bleiben, was sie sammeln oder verändern und wie Multiplikatoren in die Abrechnung eingehen. Die Details müssen anhand der Spielhilfe geprüft werden.
+
+
+---
+
+<h2 id="money-train-4">Money Train 4</h2>
+
+## Money Train 4
+
+### Kurz erklärt
+
+Money Train 4 baut auf einem Hold-and-Respin-Ablauf mit mehreren Funktionssymbolen und unterschiedlichen Modifikatoren auf.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Relax Gaming | Hold-and-Respin, Funktionssymbole, Modifikatoren |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Bei Hold-and-Respin-Spielen sind Startbedingungen, Zahl beziehungsweise Ablauf der Respins und die Wirkung einzelner Modifikatoren entscheidend. Prüfe, wodurch Respins erneuert werden und wann die Funktion endet.
+
+
+---
+
+<h2 id="thunderstruck-ii">Thunderstruck II</h2>
+
+## Thunderstruck II
+
+### Kurz erklärt
+
+Thunderstruck II nutzt Motive aus der nordischen Mythologie und bietet vier charakterbezogene Freispiele-Modi.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Microgaming | Nordische Mythologie, vier Freispiele-Modi |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Die vier Modi sollten einzeln anhand ihrer Auslöser und Regeln verglichen werden. Achte darauf, welche Figuren oder Symbole beteiligt sind und wodurch sich die Freispiele in der geladenen Version unterscheiden.
+
+
+---
+
+<h2 id="fruit-party-2">Fruit Party 2</h2>
+
+## Fruit Party 2
+
+### Kurz erklärt
+
+Fruit Party 2 knüpft an das Frucht- und Cluster-Thema an. Das Profil nennt weiterentwickelte Wild- und Multiplikatoreffekte sowie Freispiele.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Pragmatic Play | Cluster-Auszahlungen, Wild- und Multiplikatoreffekte, Freispiele |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Für die Einordnung sind Cluster-Auszahlungen, Wild-Funktionen und Multiplikatoren getrennt zu prüfen. Die Spielhilfe erklärt, wie diese Elemente zusammenspielen und welche Bedingungen für Freispiele gelten.
+
+
+---
+
+<h2 id="gates-of-olympus">Gates of Olympus</h2>
+
+## Gates of Olympus
+
+### Kurz erklärt
+
+Gates of Olympus stellt Zeus in den Mittelpunkt und verzichtet auf klassische Gewinnlinien. Der Spielablauf kombiniert Kaskaden mit zufällig erscheinenden Multiplikatoren.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Pragmatic Play | Keine klassischen Gewinnlinien, Kaskaden, zufällige Multiplikatoren |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Prüfe, welche Symbole eine Auszahlung bilden, wie Kaskaden aufeinanderfolgen und wann Multiplikatoren erscheinen. Ihre konkrete Anwendung auf Gewinne ergibt sich aus den Regeln der geladenen Version.
+
+
+---
+
+<h2 id="gonzos-quest">Gonzo's Quest</h2>
+
+## Gonzo's Quest
+
+### Kurz erklärt
+
+Gonzo's Quest ist ein Abenteuer-Slot mit Avalanche-Kaskaden und steigenden Multiplikatoren. Das zentrale Merkmal ist das wiederholte Nachrücken von Symbolen nach Treffern.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| NetEnt | Avalanche-Kaskaden, steigende Multiplikatoren |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Für die Bewertung sind der Ablauf der Avalanche-Kaskaden und die Bedingungen für steigende Multiplikatoren entscheidend. Prüfe, wann eine Kaskade endet und wie der Multiplikator über aufeinanderfolgende Treffer hinweg behandelt wird.
+
+
+---
+
+<h2 id="sweet-bonanza">Sweet Bonanza</h2>
+
+## Sweet Bonanza
+
+### Kurz erklärt
+
+Sweet Bonanza setzt auf ein Süßigkeitenmotiv und Symbolgruppen statt klassischer Gewinnlinien. Tumble-Kaskaden und zufällige Multiplikatoren prägen den Rundenablauf.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Pragmatic Play | Symbolgruppen, Tumble-Kaskaden, zufällige Multiplikatoren |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Achte auf die erforderliche Symbolgruppe, das Entfernen von Gewinnsymbolen und das Nachrücken neuer Symbole. Die Spielhilfe sollte erklären, wann Multiplikatoren in die Gewinnberechnung einfließen.
+
+
+---
+
+<h2 id="wolf-gold">Wolf Gold</h2>
+
+## Wolf Gold
+
+### Kurz erklärt
+
+Wolf Gold verbindet ein Wildnis-Thema mit Freispielen, übergroßen Symbolen und einer separaten Jackpot-Respin-Funktion.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Pragmatic Play | Freispiele, übergroße Symbole, Jackpot-Respins |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Die Freispiele und die Jackpot-Respins sind als unterschiedliche Funktionen zu betrachten. Prüfe, wie übergroße Symbole ausgewertet werden und welche Bedingungen für die separate Jackpot-Funktion gelten.
+
+
+---
+
+<h2 id="mega-moolah">Mega Moolah</h2>
+
+## Mega Moolah
+
+### Kurz erklärt
+
+Mega Moolah ist ein Safari-Slot, dessen besonderes Merkmal vier progressive Jackpot-Stufen sind.
+
+### Spielprofil
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Microgaming | Safari-Thema, vier progressive Jackpot-Stufen |
+
+### Was du vor dem Start wissen solltest
+
+Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+
+### Mechanik im Fokus
+
+Bei progressiven Jackpots sind die angezeigten Stufen und Teilnahmebedingungen zentral. Prüfe im Spiel, wie die Jackpot-Funktion ausgelöst wird, welche Voraussetzungen gelten und welche Regeln für die konkrete Version angezeigt werden.
+

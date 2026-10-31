@@ -20,6 +20,28 @@ slug: slots
 
 Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
 
+## Woran sich eine fundierte Slot-Bewertung erkennen lässt
+
+Eine hilfreiche Slot-Bewertung erklärt zuerst den Spielablauf und ordnet erst danach Thema und Gestaltung ein. Entscheidend ist das Gewinnsystem: klassische Gewinnlinien, „Ways to Win“, Cluster-Auszahlungen oder ein Raster mit zusammenhängenden Symbolgruppen funktionieren unterschiedlich. Diese Begriffe sollten nicht vermischt werden. Die Auszahlungstabelle und die Hilfe im tatsächlich geladenen Spiel sind maßgeblich; eine kurze Katalogbeschreibung kann sie nur zusammenfassen.
+
+## RTP und Volatilität richtig einordnen
+
+Der RTP-Wert beschreibt eine theoretische Rückzahlungsquote über sehr viele Spielrunden. Er ist keine Prognose für eine einzelne Sitzung und sagt nicht voraus, was beim nächsten Dreh geschieht. Volatilität beschreibt eine andere Eigenschaft: wie Gewinne statistisch verteilt sein können. Angaben wie niedrig, mittel oder hoch sind nur dann sinnvoll, wenn Quelle und Spielversion nachvollziehbar sind. Je nach Betreiber und Version können unterschiedliche RTP-Einstellungen gelten. Deshalb sollten Zahlen immer mit den Angaben im geöffneten Spiel abgeglichen werden.
+
+## Bonusfunktionen nicht nur nach ihrem Namen vergleichen
+
+ Freispiele, Bonusspiele, expandierende oder haftende Wild-Symbole, Kaskaden, Multiplikatoren und progressive Jackpots können den Spielablauf prägen. Für einen sachlichen Vergleich reicht die Bezeichnung einer Funktion nicht aus. Wichtig sind Auslöser, Ablauf, mögliche erneute Aktivierungen und die Berechnung des Gewinns. Bei Megaways-Slots sollte klar sein, wie die Walzenanordnung die Gewinnwege pro Dreh bestimmt. Bei Cluster-Slots kommt es auf die erforderliche Symbolgruppe und darauf an, ob Gewinnsymbole anschließend verschwinden. Solche Details helfen mehr als pauschale Aussagen über viele Features.
+
+## Unsere redaktionellen Maßstäbe
+
+Wir trennen überprüfbare Spieldaten von redaktioneller Einordnung. Anbieter, dokumentierte Mechaniken und veröffentlichte Kennzahlen müssen anhand der Spielinformationen und der jeweiligen Version geprüft werden. Ein guter Text erklärt die Besonderheiten der Mechanik, benennt offene Fragen und verweist bei versionsabhängigen Regeln auf die Auszahlungstabelle. Eine kurze Testreihe belegt keine langfristige Auszahlungsleistung. Ebenso wenig bedeutet eine Bonusfunktion einen garantierten Gewinn.
+
+## Vor dem Spielen prüfen
+
+Kontrollieren Sie die geladene Spielversion, gegebenenfalls die angezeigte RTP-Einstellung, Einsatzgrenzen, Auszahlungstabelle, Bonusbedingungen und die rechtliche Verfügbarkeit am eigenen Standort. Legen Sie vorab ein festes Budget fest und betrachten Sie das Spielen ausschließlich als Unterhaltung. Weichen die Angaben im Katalog von den aktuellen Spielregeln ab, haben die Informationen im geöffneten Spiel Vorrang.
+
+---
+
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
 ## Bigger Bass Bonanza: kurz erklärt

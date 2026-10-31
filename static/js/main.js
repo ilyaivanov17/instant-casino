@@ -283,8 +283,51 @@
     } catch (e) { return null; }
   }
 
+  var gaId = banner ? banner.getAttribute('data-ga-id') : '';
+  var gaLoaded = false;
+
+  function loadGoogleAnalytics() {
+    if (!gaId || !/^G-[A-Z0-9]+$/.test(gaId)) return;
+    window['ga-disable-' + gaId] = false;
+    if (!gaLoaded) {
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+      window.gtag('consent', 'default', {
+        analytics_storage: 'denied',
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied'
+      });
+      var script = document.createElement('script');
+      script.async = true;
+      script.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(gaId);
+      document.head.appendChild(script);
+      window.gtag('js', new Date());
+      window.gtag('consent', 'update', { analytics_storage: 'granted' });
+      window.gtag('config', gaId);
+      gaLoaded = true;
+    } else if (window.gtag) {
+      window.gtag('consent', 'update', { analytics_storage: 'granted' });
+    }
+  }
+
+  function updateAnalyticsConsent(granted) {
+    if (granted) {
+      loadGoogleAnalytics();
+    } else if (gaId && gaLoaded && window.gtag) {
+      window['ga-disable-' + gaId] = true;
+      window.gtag('consent', 'update', {
+        analytics_storage: 'denied',
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied'
+      });
+    }
+  }
+
   function savePrefs(prefs) {
     try { localStorage.setItem('cookie_preferences', JSON.stringify(prefs)); } catch (e) {}
+    updateAnalyticsConsent(prefs.analytics === true);
     if (banner) banner.classList.add('hidden');
     if (panel) panel.classList.add('hidden');
     if (settings) settings.setAttribute('aria-expanded', 'false');
@@ -297,6 +340,7 @@
     } else {
       if (analytics) analytics.checked = prefs.analytics === true;
       if (marketing) marketing.checked = prefs.marketing === true;
+      updateAnalyticsConsent(prefs.analytics === true);
     }
     if (accept) accept.addEventListener('click', function () { savePrefs({ necessary: true, analytics: true, marketing: true }); });
     if (decline) decline.addEventListener('click', function () { savePrefs({ necessary: true, analytics: false, marketing: false }); });
@@ -308,6 +352,21 @@
       savePrefs({ necessary: true, analytics: !!(analytics && analytics.checked), marketing: !!(marketing && marketing.checked) });
     });
   }
+
+  /* Track affiliate redirect clicks only after analytics consent. */
+  document.addEventListener('click', function (event) {
+    var link = event.target.closest ? event.target.closest('a[href]') : null;
+    if (!link || !window.gtag || !gaLoaded || !gaId || window['ga-disable-' + gaId]) return;
+    try {
+      var target = new URL(link.href, window.location.href);
+      if (target.origin === window.location.origin && /^\/go(?:\/|$)/.test(target.pathname)) {
+        window.gtag('event', 'affiliate_click', {
+          link_url: target.pathname,
+          link_text: (link.textContent || '').trim().slice(0, 100)
+        });
+      }
+    } catch (e) {}
+  });
 
   /* Germany bonus wagering calculator */
   document.querySelectorAll('[data-wager-calculator]').forEach(function (calculator) {

@@ -308,4 +308,25 @@
       savePrefs({ necessary: true, analytics: !!(analytics && analytics.checked), marketing: !!(marketing && marketing.checked) });
     });
   }
+
+  /* Germany bonus wagering calculator */
+  document.querySelectorAll('[data-wager-calculator]').forEach(function (calculator) {
+    var form = calculator.querySelector('[data-wager-form]');
+    var result = calculator.querySelector('[data-wager-result]');
+    if (!form || !result) return;
+    form.addEventListener('submit', function (event) {
+      event.preventDefault();
+      var deposit = Number(form.elements.deposit.value);
+      var bonus = Number(form.elements.bonus.value);
+      var wager = Number(form.elements.wager.value);
+      var basis = form.elements.basis.value;
+      if (![deposit, bonus, wager].every(Number.isFinite) || deposit < 0 || bonus < 0 || wager < 0) {
+        result.textContent = 'Bitte gib gültige, nicht negative Zahlen ein.';
+        return;
+      }
+      var base = basis === 'deposit_bonus' ? deposit + bonus : bonus;
+      var turnover = base * wager;
+      result.textContent = 'Erforderlicher Umsatz: ' + new Intl.NumberFormat('de-DE', { style: 'currency', currency: 'EUR' }).format(turnover);
+    });
+  });
 })();

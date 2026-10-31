@@ -90,9 +90,9 @@
     function normalizeCatalogueSearch(value) {
       var text = String(value || '').toLocaleLowerCase();
       if (typeof text.normalize === 'function') {
-        text = text.normalize('NFD').replace(/[\\u0300-\\u036f]/g, '');
+        text = text.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
       }
-      return text.replace(/\\s+/g, ' ').trim();
+      return text.replace(/\s+/g, ' ').trim();
     }
 
     function filterCatalogue() {

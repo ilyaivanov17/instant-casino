@@ -3165,3 +3165,85 @@ svg.slot-search-icon{
 
 /* Germany offer verification note */
 .de-offer-verification-note{margin:.9rem 0 1.5rem;padding:.75rem 1rem;border-left:3px solid #fbbf24;border-radius:.35rem;background:rgba(251,191,36,.07);color:#cbd5e1;font-size:.8rem;line-height:1.55}
+
+
+/* === LONG-FORM EDITORIAL PROFILES: clear visual rhythm === */
+.prose{
+  max-width:78ch;
+  margin-inline:auto;
+  text-align:left;
+  line-height:1.78;
+  hyphens:auto;
+  overflow-wrap:anywhere;
+}
+.prose :where(p):not(:where([class~="not-prose"] *)){
+  max-width:74ch;
+  margin-block:1rem 1.35rem;
+  color:#cbd5e1;
+}
+.prose :where(h2[id]):not(:where([class~="not-prose"] *)){
+  scroll-margin-top:6rem;
+  margin:3.25rem 0 1.15rem;
+  padding:1rem 1.15rem;
+  border:1px solid rgba(244,189,80,.24);
+  border-left:4px solid #f4bd50;
+  border-radius:0 14px 14px 0;
+  background:linear-gradient(100deg,rgba(244,189,80,.09),rgba(13,23,40,.72) 62%,rgba(13,23,40,.25));
+  font-size:clamp(1.45rem,3vw,1.9rem);
+  line-height:1.25;
+  letter-spacing:-.025em;
+}
+.prose :where(h2):not(:where([class~="not-prose"] *)){
+  padding-bottom:.45rem;
+  border-bottom:1px solid rgba(203,213,225,.12);
+}
+.prose :where(h3):not(:where([class~="not-prose"] *)){
+  margin-top:1.8rem;
+  margin-bottom:.7rem;
+  color:#f4d28d;
+  font-size:clamp(1.08rem,2vw,1.25rem);
+  line-height:1.35;
+}
+.prose :where(table):not(:where([class~="not-prose"] *)){
+  display:block;
+  max-width:100%;
+  overflow-x:auto;
+  border:1px solid rgba(203,213,225,.14);
+  border-radius:12px;
+  border-collapse:separate;
+  border-spacing:0;
+  background:rgba(9,17,31,.78);
+  scrollbar-width:thin;
+  -webkit-overflow-scrolling:touch;
+}
+.prose :where(thead):not(:where([class~="not-prose"] *)){
+  background:rgba(244,189,80,.09);
+}
+.prose :where(th):not(:where([class~="not-prose"] *)),
+.prose :where(td):not(:where([class~="not-prose"] *)){
+  min-width:7.5rem;
+  padding:.8rem .9rem;
+  border-bottom:1px solid rgba(203,213,225,.1);
+  vertical-align:top;
+  text-align:left;
+}
+.prose :where(th):not(:where([class~="not-prose"] *)){color:#f8e3b5}
+.prose :where(hr):not(:where([class~="not-prose"] *)){
+  margin:2.5rem 0;
+  border:0;
+  border-top:1px solid rgba(244,189,80,.18);
+}
+.prose :where(blockquote):not(:where([class~="not-prose"] *)){
+  padding:1rem 1.2rem;
+  border:1px solid rgba(244,189,80,.16);
+  border-left:3px solid #d6ad60;
+  border-radius:0 12px 12px 0;
+  background:rgba(244,189,80,.055);
+}
+@media(max-width:640px){
+  .prose{font-size:1rem;line-height:1.72}
+  .prose :where(h2[id]):not(:where([class~="not-prose"] *)){margin-top:2.35rem;padding:.85rem .9rem}
+  .prose :where(h3):not(:where([class~="not-prose"] *)){margin-top:1.45rem}
+  .prose :where(th):not(:where([class~="not-prose"] *)),
+  .prose :where(td):not(:where([class~="not-prose"] *)){padding:.7rem .75rem;font-size:.82rem}
+}

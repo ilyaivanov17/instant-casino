@@ -73,7 +73,7 @@ Abre la tabla de pagos antes de jugar. Allí se explican los valores de los sím
 ---
 
 ## Bigger Bass Bonanza: Análisis editorial en profundidad
-Bigger Bass Bonanza figura asociado a Pragmatic Play. La ficha enumera símbolos Scatter, giros gratis, multiplicadores y un tema centrado en una temática de pesca y elementos acuáticos. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
+Bigger Bass Bonanza figura asociado a Pragmatic Play. La ficha enumera símbolos Scatter, giros gratis, multiplicadores y un tema de pesca y elementos acuáticos. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
 
 ### Tema y primera impresión
 

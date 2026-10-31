@@ -80,6 +80,25 @@ async function inspectPage(page, path, expectedCards = null) {
     await page.close();
   }
 
+  // Exercise catalogue search against real catalogue entries and reset behaviour.
+  const searchPage = await browser.newPage({ viewport: { width: 1280, height: 900 }, deviceScaleFactor: 1 });
+  await searchPage.goto('http://127.0.0.1:4173/slots/', { waitUntil: 'networkidle' });
+  const search = searchPage.locator('#slot-catalog-search');
+  await search.fill('Bigger Bass Bonanza');
+  const titleMatches = await searchPage.locator('.slot-game-card:visible').count();
+  const firstTitle = await searchPage.locator('.slot-game-card:visible h3').first().textContent();
+  await search.fill('Pragmatic Play');
+  const providerMatches = await searchPage.locator('.slot-game-card:visible').count();
+  await search.fill('no-such-game-123');
+  const emptyStateVisible = await searchPage.locator('#slot-catalog-empty').isVisible();
+  await searchPage.locator('#slot-catalog-clear').click();
+  const restoredCount = await searchPage.locator('.slot-game-card:visible').count();
+  const searchOk = titleMatches === 1 && firstTitle.trim() === 'Bigger Bass Bonanza' &&
+    providerMatches > 0 && emptyStateVisible && restoredCount === 30;
+  console.log(`${searchOk ? 'OK' : 'FAIL'} catalogue search title=${titleMatches} provider=${providerMatches} empty=${emptyStateVisible} reset=${restoredCount}/30`);
+  if (!searchOk) failed = true;
+  await searchPage.close();
+
   // Check the intended four-column desktop layout on the German catalogue.
   const desktop = await browser.newPage({ viewport: { width: 1440, height: 1000 }, deviceScaleFactor: 1 });
   const desktopCheck = await inspectPage(desktop, '/slots/', 30);

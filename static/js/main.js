@@ -76,27 +76,57 @@
     });
   }
 
-  /* Accessible slot catalogue search: filters existing cards without changing URLs or content. */
+  /* Search the existing game catalogue by title, provider and game details. */
   var catalogueSearch = document.getElementById('slot-catalog-search');
   var catalogueGrid = document.getElementById('slot-catalog-grid');
   if (catalogueSearch && catalogueGrid) {
     var catalogueCards = Array.prototype.slice.call(catalogueGrid.querySelectorAll('.slot-game-card'));
     var catalogueCount = document.getElementById('slot-catalog-results');
     var catalogueEmpty = document.getElementById('slot-catalog-empty');
+    var catalogueClear = document.getElementById('slot-catalog-clear');
     var catalogueLang = (document.documentElement.getAttribute('lang') || 'en').slice(0, 2);
     var countLabels = { de: ["Spiel", "Spiele"], en: ["game", "games"], pl: ["gra", "gier"], es: ["juego", "juegos"], pt: ["jogo", "jogos"], ja: ["件", "件"] };
-    function normalizeSearch(value) { return String(value || '').toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, ''); }
-    catalogueSearch.addEventListener('input', function () {
-      var query = normalizeSearch(catalogueSearch.value.trim());
+
+    function normalizeCatalogueSearch(value) {
+      var text = String(value || '').toLocaleLowerCase();
+      if (typeof text.normalize === 'function') {
+        text = text.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+      }
+      return text.replace(/\s+/g, ' ').trim();
+    }
+
+    function filterCatalogue() {
+      var query = normalizeCatalogueSearch(catalogueSearch.value);
       var visible = 0;
       catalogueCards.forEach(function (card) {
-        var matches = !query || normalizeSearch(card.getAttribute('data-search')).indexOf(query) !== -1;
+        var searchable = card.getAttribute('data-search') || card.textContent || '';
+        var matches = !query || normalizeCatalogueSearch(searchable).indexOf(query) !== -1;
         card.hidden = !matches;
         if (matches) visible += 1;
       });
-      if (catalogueCount) { var labels = countLabels[catalogueLang] || countLabels.en; catalogueCount.textContent = visible + " " + (visible === 1 ? labels[0] : labels[1]); }
+      if (catalogueCount) {
+        var labels = countLabels[catalogueLang] || countLabels.en;
+        catalogueCount.textContent = visible + ' ' + (visible === 1 ? labels[0] : labels[1]);
+      }
       if (catalogueEmpty) catalogueEmpty.hidden = visible !== 0;
+      if (catalogueClear) catalogueClear.hidden = catalogueSearch.value.length === 0;
+    }
+
+    catalogueSearch.addEventListener('input', filterCatalogue);
+    if (catalogueClear) {
+      catalogueClear.addEventListener('click', function () {
+        catalogueSearch.value = '';
+        filterCatalogue();
+        catalogueSearch.focus();
+      });
+    }
+    catalogueSearch.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' && catalogueSearch.value) {
+        catalogueSearch.value = '';
+        filterCatalogue();
+      }
     });
+    filterCatalogue();
   }
   /* Random game button */
   var randomBtn = document.getElementById('random-game');

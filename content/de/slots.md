@@ -229,13 +229,13 @@ Ein veröffentlichter Spielerbericht hebt die ägyptische Atmosphäre, den Sound
 
 ## Dragon's Luck: kurz erklärt
 
-Dragon’s Luck setzt auf ein Drachenthema und kombiniert es laut Datensatz mit Wilds, Scatter-Symbolen und einer Bonusfunktion. Wer wissen möchte, welche Symbole welche Rolle spielen, sollte vor dem ersten Einsatz die Spielhilfe und die Auszahlungstabelle öffnen.
+Dragon's Luck ist ein Red-Tiger-Slot mit Drachenmotiv und den Funktionen Dragon Coin, Dragon's Help und Mega Coin. Prüfe die [offiziellen Spielinformationen](https://games.evolution.com/slots/dragons-luck/) sowie die Auszahlungstabelle der geladenen Version, um die genauen Regeln zu erfahren.
 
 ### Spielprofil
 
 | Anbieter | RTP (theoretisch) | Volatilität | Einsatzbereich | Funktionen |
 |---|---:|---|---|---|
-| Play'n GO | 96.31 % | Mittel | 0.1–50 EUR | Wilds, Scatter, Bonusspiel |
+| Red Tiger | 94.71 % | Hoch | Im Spiel prüfen | Dragon Coin, Dragon's Help, Mega Coin |
 
 ### Was die Zahlen aussagen – und was nicht
 
@@ -251,7 +251,7 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Dieser Beitrag ordnet Dragon's Luck redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
 
-Dragon's Luck wird von Play'n GO angeboten. Das hinterlegte Profil nennt die Funktionen Wilds, Scatter, Bonusspiel; als Themenrahmen dient a dragon and luck motif. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
+Die offizielle Spielseite führt Dragon's Luck als Titel von Red Tiger und nennt Dragon Coin, Dragon's Help und Mega Coin als Funktionen. Der veröffentlichte RTP-Wert beträgt 94.71 %. Den genauen Einsatzbereich und betreiberspezifische Einstellungen solltest du in der geladenen Spielversion prüfen.
 
 ### Spielidee und erster Eindruck
 

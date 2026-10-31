@@ -76,7 +76,7 @@
     });
   }
 
-  /* Search the complete game catalogue with token-based, accent-insensitive matching. */
+  /* Search the complete catalogue across localized metadata, with relevance ranking. */
   var catalogueSearch = document.getElementById('slot-catalog-search');
   var catalogueGrid = document.getElementById('slot-catalog-grid');
   if (catalogueSearch && catalogueGrid) {
@@ -93,33 +93,78 @@
     function normalizeCatalogueSearch(value) {
       var text = String(value || '').toLocaleLowerCase();
       if (typeof text.normalize === 'function') {
-        text = text.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+        text = text.normalize('NFD').replace(/[\\u0300-\\u036f]/g, '');
       }
-      return text
-        .replace(/[’‘]/g, "'")
-        .replace(/[^\p{L}\p{N}' ]+/gu, ' ')
-        .replace(/\s+/g, ' ')
-        .trim();
+      return text.replace(/[’‘]/g, "'")
+        .replace(/[^\\p{L}\\p{N}' ]+/gu, ' ')
+        .replace(/\\s+/g, ' ').trim();
     }
 
-    var searchableCards = catalogueCards.map(function (card) {
+    function editDistanceAtMostOne(a, b) {
+      if (Math.abs(a.length - b.length) > 1) return false;
+      var i = 0, j = 0, edits = 0;
+      while (i < a.length && j < b.length) {
+        if (a[i] === b[j]) { i++; j++; continue; }
+        if (++edits > 1) return false;
+        if (a.length > b.length) i++;
+        else if (b.length > a.length) j++;
+        else { i++; j++; }
+      }
+      return edits + ((i < a.length || j < b.length) ? 1 : 0) <= 1;
+    }
+
+    var searchableCards = catalogueCards.map(function (card, index) {
+      var title = normalizeCatalogueSearch(card.querySelector('h3') ? card.querySelector('h3').textContent : '');
+      var provider = normalizeCatalogueSearch(card.querySelector('.slot-game-card-provider') ? card.querySelector('.slot-game-card-provider').textContent : '');
+      var text = normalizeCatalogueSearch(card.getAttribute('data-search') || '');
       return {
-        element: card,
-        text: normalizeCatalogueSearch(card.getAttribute('data-search') || '')
+        element: card, index: index, title: title, provider: provider, text: text,
+        words: text.split(' ').filter(Boolean)
       };
     });
+
+    function scoreCard(item, query, terms) {
+      if (!query) return 0;
+      if (item.title === query) return 1000;
+      if (item.title.indexOf(query) === 0) return 900;
+      if (item.title.indexOf(query) !== -1) return 800;
+      if (item.provider === query) return 700;
+      if (item.provider.indexOf(query) !== -1) return 650;
+      if (item.text.indexOf(query) !== -1) return 600;
+
+      var score = 0;
+      for (var i = 0; i < terms.length; i++) {
+        var term = terms[i];
+        var found = false;
+        for (var j = 0; j < item.words.length; j++) {
+          var word = item.words[j];
+          if (word === term) { score += 30; found = true; break; }
+          if (word.indexOf(term) === 0) { score += 24; found = true; break; }
+          if (term.length >= 5 && editDistanceAtMostOne(term, word)) {
+            score += 12; found = true; break;
+          }
+        }
+        if (!found) return -1;
+      }
+      return score;
+    }
 
     function filterCatalogue() {
       var query = normalizeCatalogueSearch(catalogueSearch.value);
       var terms = query ? query.split(' ').filter(Boolean) : [];
-      var visible = 0;
+      var ranked = searchableCards.map(function (item) {
+        return { item: item, score: scoreCard(item, query, terms) };
+      }).filter(function (entry) { return !query || entry.score >= 0; });
 
-      searchableCards.forEach(function (item) {
-        var matches = terms.every(function (term) {
-          return item.text.indexOf(term) !== -1;
-        });
-        item.element.hidden = !matches;
-        if (matches) visible += 1;
+      ranked.sort(function (a, b) {
+        return b.score - a.score || a.item.index - b.item.index;
+      });
+
+      var visible = ranked.length;
+      searchableCards.forEach(function (entry) { entry.element.hidden = true; });
+      ranked.forEach(function (entry) {
+        entry.item.element.hidden = false;
+        catalogueGrid.appendChild(entry.item.element);
       });
 
       if (catalogueCount) {

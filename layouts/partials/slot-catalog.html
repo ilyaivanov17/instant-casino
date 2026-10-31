@@ -38,8 +38,8 @@
       {{ $searchText := printf "%s %s %s" $game.name $game.provider $game.anchor }}
       {{ range $game.description }}{{ $searchText = printf "%s %s" $searchText . }}{{ end }}
       {{ range $game.label }}{{ $searchText = printf "%s %s" $searchText . }}{{ end }}
-      <article class="slot-game-card" data-search="{{ $searchText | lower }}">
-        <a class="slot-game-card-link" href="{{ printf "%s#%s" $.RelPermalink $game.anchor }}">
+      <article class="slot-game-card" id="{{ if and (eq $lang "de") (ge $index 5) }}slot-card-{{ $game.anchor }}{{ end }}" data-search="{{ $searchText | lower }}">
+        <a class="slot-game-card-link" href="{{ if and (eq $lang "de") (ge $index 5) }}#slot-card-{{ $game.anchor }}{{ else }}{{ printf "%s#%s" $.RelPermalink $game.anchor }}{{ end }}">
           <div class="slot-game-card-art">
             <span class="slot-game-card-art-fallback" aria-hidden="true">{{ $game.name }}</span>
             <img

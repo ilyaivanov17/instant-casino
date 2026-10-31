@@ -20,6 +20,28 @@ slug: slots
 
 This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
 
+## How to read a slot review
+
+A useful slot review should explain how a game works before describing whether its presentation is appealing. Start with the format: reels and paylines, ways-to-win, cluster pays or a grid-based system. These formats are not interchangeable. They determine how symbol combinations are evaluated and what a player needs to understand when reading the paytable. The game’s own help screen is the primary reference for rules; a short catalogue summary is only an introduction.
+
+## RTP, volatility and the limits of the numbers
+
+Return to Player (RTP) is a theoretical long-run percentage, not a forecast for an individual session. It cannot tell a player what will happen in the next spin, nor does a higher published figure guarantee a better short-term result. Volatility is a separate description of how results may be distributed over time. Labels such as low, medium and high are useful only when the source and version are clear. RTP settings can differ between game versions and operators, so figures should always be checked against the information displayed in the actual game.
+
+## Features worth comparing
+
+Bonus rounds, free spins, expanding or sticky Wilds, cascades, multipliers and progressive jackpots can change the way a slot plays. The feature name alone is not enough for a meaningful comparison. Look for its trigger, what changes once it starts, whether it can retrigger, and how the final win is calculated. For Megaways games, check how the reel layout determines the number of ways on each spin. For cluster games, confirm the required group size and whether winning symbols disappear or remain in place. This is more informative than describing every game simply as “feature-rich”.
+
+## Our editorial approach
+
+The catalogue separates game facts from editorial interpretation. Provider, listed mechanics and published figures should be checked against the relevant game information and the version available to the reader. Commentary should explain what makes a title mechanically distinctive, what remains uncertain, and which details need checking in the paytable. We do not treat a small sample of spins as evidence of long-term performance, imply that a feature guarantees a win, or present promotional language as independent analysis.
+
+## A practical checklist before choosing a game
+
+Before playing, confirm the game version, RTP setting where disclosed, stake limits, paytable, bonus conditions and local availability. Decide on a spending limit in advance and treat play as entertainment, not a way to earn income. If the operator’s game screen conflicts with a catalogue summary, rely on the current in-game rules and report the discrepancy for editorial review.
+
+---
+
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
 ## Bigger Bass Bonanza: a quick guide

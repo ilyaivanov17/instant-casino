@@ -100,7 +100,7 @@ Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolo
 ---
 
 ## Sweet Bonanza: Análise editorial aprofundada
-Sweet Bonanza está associado a Pragmatic Play. A ficha enumera mecânica Tumble, rodadas grátis, multiplicadores e um tema centrado em colourful sweets and a tumble-style presentation. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+Sweet Bonanza está associado a Pragmatic Play. A ficha enumera mecânica Tumble, rodadas grátis, multiplicadores e um tema centrado em doces coloridos e uma mecânica Tumble. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
 
 ### Tema e primeira impressão
 
@@ -153,7 +153,7 @@ Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolo
 ---
 
 ## The Dog House: Análise editorial aprofundada
-The Dog House está associado a Pragmatic Play. A ficha enumera símbolos Wild fixos, respins, rodadas grátis e um tema centrado em a playful dog-house setting. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+The Dog House está associado a Pragmatic Play. A ficha enumera símbolos Wild fixos, respins, rodadas grátis e um tema centrado em um tema divertido de casota para cães. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
 
 ### Tema e primeira impressão
 

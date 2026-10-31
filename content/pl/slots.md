@@ -46,6 +46,8 @@ Sprawdź wersję automatu, ujawnione ustawienie RTP, limity stawek, tabelę wyp�
 
 Poniższe uwagi graczy to wybrane przykłady pozytywnych komentarzy opublikowanych w zewnętrznych serwisach z recenzjami lub dyskusjami. Nie są reprezentatywną ankietą, potwierdzonym zapisem wyników ani obietnicą wygranej. Nasza analiza jest oddzielna i wyjaśnia strukturę gry oraz wyróżniające ją mechaniki. Nie kopiujemy całych recenzji ani nie traktujemy pojedynczych wygranych jako dowodu oczekiwanych rezultatów.
 
+Niektóre platformy z recenzjami ujawniają powiązania komercyjne lub afiliacyjne; dlatego wykorzystujemy komentarze graczy wyłącznie jako przykłady jakościowe, a nie niezależne dane o wynikach.
+
 ---
 
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>

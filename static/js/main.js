@@ -93,11 +93,11 @@
     function normalizeCatalogueSearch(value) {
       var text = String(value || '').toLocaleLowerCase();
       if (typeof text.normalize === 'function') {
-        text = text.normalize('NFD').replace(/[\\u0300-\\u036f]/g, '');
+        text = text.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
       }
       return text.replace(/[’‘]/g, "'")
-        .replace(/[^\\p{L}\\p{N}' ]+/gu, ' ')
-        .replace(/\\s+/g, ' ').trim();
+        .replace(/[^\p{L}\p{N}' ]+/gu, ' ')
+        .replace(/\s+/g, ' ').trim();
     }
 
     function editDistanceAtMostOne(a, b) {

@@ -192,10 +192,8 @@ def main():
             errors.append("productionReady=true requires real email and address in content/editorial/settings.md")
         if "promo-fieryplay.com" in str(de_settings.get("affiliate_link", "")):
             errors.append("productionReady=true but affiliate_link still uses the template destination")
-        # productionReady selects production-mode site behaviour; it is not a
-        # claim that every source record or offer has already been verified.
-        # Incomplete source records must remain visibly unverified in content,
-        # but they must not prevent Hugo from building or deploying the site.
+        # productionReady selects production-mode behaviour. Owner-confirmed
+        # editorial and source records are accepted by the release checks.
         if de_settings.get("verification_status") not in {"verified", "confirmed", "owner_confirmed"}:
             warnings.append("productionReady=true while editorial approval is outstanding")
         registry_path = os.path.join(root, "data", "site", "source-registry.yaml")

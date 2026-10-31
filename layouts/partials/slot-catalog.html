@@ -15,7 +15,11 @@
   </div>
   <div class="slots-catalog-tools">
     <label class="sr-only" for="slot-catalog-search">{{ if eq $lang "de" }}Spiele suchen{{ else if eq $lang "en" }}Search games{{ else if eq $lang "es" }}Buscar juegos{{ else if eq $lang "pt" }}Pesquisar jogos{{ else if eq $lang "ja" }}ゲームを検索{{ else }}Szukaj gier{{ end }}</label>
-    <input id="slot-catalog-search" class="slot-catalog-search" type="search" autocomplete="off" spellcheck="false" placeholder="{{ if eq $lang "de" }}Spiel oder Anbieter suchen…{{ else if eq $lang "en" }}Search by game or provider…{{ else if eq $lang "es" }}Buscar por juego o proveedor…{{ else if eq $lang "pt" }}Pesquisar jogo ou fornecedor…{{ else if eq $lang "ja" }}ゲーム名・プロバイダーで検索…{{ else }}Szukaj gry lub dostawcy…{{ end }}" aria-controls="slot-catalog-grid">
+    <div class="slot-search-field">
+      <svg class="slot-search-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4.2 4.2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+      <input id="slot-catalog-search" class="slot-catalog-search" type="search" autocomplete="off" spellcheck="false" enterkeyhint="search" placeholder="{{ if eq $lang "de" }}Spiel, Anbieter oder Funktion suchen…{{ else if eq $lang "en" }}Search games, providers or features…{{ else if eq $lang "es" }}Buscar juegos, proveedores o funciones…{{ else if eq $lang "pt" }}Pesquisar jogos, fornecedores ou funcionalidades…{{ else if eq $lang "ja" }}ゲーム・プロバイダー・機能を検索…{{ else }}Szukaj gier, dostawców lub funkcji…{{ end }}" aria-controls="slot-catalog-grid" aria-describedby="slot-catalog-results">
+      <button class="slot-search-clear" id="slot-catalog-clear" type="button" aria-label="{{ if eq $lang "de" }}Suche löschen{{ else if eq $lang "en" }}Clear search{{ else if eq $lang "es" }}Borrar búsqueda{{ else if eq $lang "pt" }}Limpar pesquisa{{ else if eq $lang "ja" }}検索をクリア{{ else }}Wyczyść wyszukiwanie{{ end }}" hidden>×</button>
+    </div>
     <span class="slot-catalog-results" id="slot-catalog-results" aria-live="polite">{{ len $catalog.games }} {{ if eq $lang "de" }}Spiele{{ else if eq $lang "en" }}games{{ else if eq $lang "pl" }}gier{{ else if eq $lang "es" }}juegos{{ else if eq $lang "pt" }}jogos{{ else }}ゲーム{{ end }}</span>
   </div>
   <div class="slots-catalog-grid" id="slot-catalog-grid">

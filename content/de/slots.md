@@ -78,6 +78,12 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Die Besonderheit liegt im Zusammenspiel von Fischsymbolen, Sammelfunktion und Freispiele-Bonus. Für eine belastbare Beschreibung sind drei Punkte getrennt zu prüfen: welche Symbole die Bonusphase auslösen, wie Fischwerte gesammelt werden und wie sie am Ende der Runde gewertet werden. Die konkrete Ausgestaltung kann je nach Spielversion abweichen.
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 ## Bonanza
 
 ### Kurz erklärt
@@ -104,6 +110,12 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Bonanza sollte nicht als Cluster-Slot beschrieben werden: Das prägende Merkmal ist Megaways mit variabler Walzenhöhe. In der Grundrunde sind die wechselnde Zahl der Gewinnwege und die Kaskaden getrennt zu betrachten. Für die Freispiele ist zusätzlich zu prüfen, wie der Multiplikator aufgebaut wird und wann die Bonusphase endet.
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 ## Book of Dead
 
 ### Kurz erklärt
@@ -130,6 +142,12 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Der zentrale Vergleichspunkt ist das expandierende Symbol in den Freispielen. Neben der Scatter-Auslösung sollte die Spielhilfe erklären, welches Symbol für die Bonusrunde ausgewählt wird und wie viele Walzen es abdecken kann. Diese Regeln sind anhand der geladenen Version zu kontrollieren, nicht aus ähnlichen Book-Slots abzuleiten.
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 ## Dragon's Luck
 
 ### Kurz erklärt
@@ -156,6 +174,12 @@ RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht vorau
 
 Dragon's Luck stellt Münzfunktionen in den Mittelpunkt. Dragon Coin, Dragon’s Help und Mega Coin sollten einzeln erklärt werden: Welche Aktion löst sie aus, welche Symbole oder Werte verändern sie und wie wirkt sich das auf die Auswertung aus? Die Namen allein reichen nicht aus, um die Funktion oder ihren Wert zu beurteilen.
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 ## Fruit Party
 
 ### Kurz erklärt
@@ -185,6 +209,12 @@ Fruit Party arbeitet mit einem 7×7-Raster und Cluster-Auszahlungen. Nach einem 
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="starburst">Starburst</h2>
 
 ## Starburst
@@ -210,6 +240,12 @@ Für die Einordnung sind zwei Abläufe getrennt zu betrachten: wann ein Wild exp
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="the-dog-house">The Dog House</h2>
 
 ## The Dog House
@@ -235,6 +271,12 @@ Prüfe, wann Sticky Wilds erscheinen, wie lange sie auf den Walzen bleiben und w
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
 ## Legacy of Dead
@@ -260,6 +302,12 @@ Für eine sachliche Bewertung ist entscheidend, welche Symbole expandieren könn
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="reactoonz">Reactoonz</h2>
 
 ## Reactoonz
@@ -285,6 +333,12 @@ Achte auf die Mindestgröße eines Clusters, den Ablauf nach einem Gewinn und di
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
 ## Wild West Gold
@@ -310,6 +364,12 @@ Wichtig ist, die Auslöser und Reihenfolge der Sonderfunktionen zu prüfen: Wann
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="starlight-princess">Starlight Princess</h2>
 
 ## Starlight Princess
@@ -335,6 +395,12 @@ Bei Kaskaden werden Gewinnsymbole nach den Spielregeln entfernt und durch neue S
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
 ## Buffalo King Megaways
@@ -360,6 +426,12 @@ Für den Vergleich sind die variable Zahl der Symbole pro Walze und die daraus e
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="mega-fortune">Mega Fortune</h2>
 
 ## Mega Fortune
@@ -385,6 +457,12 @@ Ein progressiver Jackpot folgt eigenen Teilnahme- und Auslösebedingungen. Prüf
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
 ## Dead or Alive 2
@@ -410,6 +488,12 @@ Vergleiche die verfügbaren Freispiele-Modi anhand der Spielhilfe. Entscheidend 
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="twin-spin">Twin Spin</h2>
 
 ## Twin Spin
@@ -435,6 +519,12 @@ Prüfe, wann die Kopplung aktiv ist und welche Walzen beziehungsweise Symbole da
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
 ## Hand of Anubis
@@ -460,6 +550,12 @@ Für das Verständnis sind die Cluster-Regeln und die Sammelfunktion getrennt zu
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="sugar-rush">Sugar Rush</h2>
 
 ## Sugar Rush
@@ -485,6 +581,12 @@ Achte auf die erforderliche Clustergröße, das Nachrücken neuer Symbole und da
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="immortal-romance">Immortal Romance</h2>
 
 ## Immortal Romance
@@ -510,6 +612,12 @@ Die einzelnen Modi sollten nicht pauschal gleichgesetzt werden. Prüfe, wie sie 
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
 ## 5 Lions Megaways
@@ -535,6 +643,12 @@ Das Megaways-Prinzip verändert die Walzenhöhe und damit die Zahl möglicher Ge
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="le-bandit">Le Bandit</h2>
 
 ## Le Bandit
@@ -560,6 +674,12 @@ Prüfe zunächst, welche zusammenhängenden Symbole einen Cluster bilden. Anschl
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
 ## Wanted Dead or a Wild
@@ -585,6 +705,12 @@ Die Bezeichnungen der Modi allein sagen wenig über ihre Regeln aus. Vergleiche 
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="money-train-3">Money Train 3</h2>
 
 ## Money Train 3
@@ -610,6 +736,12 @@ Wichtig ist, welche Funktionssymbole während der Bonusrunde aktiv bleiben, was 
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="money-train-4">Money Train 4</h2>
 
 ## Money Train 4
@@ -635,6 +767,12 @@ Bei Hold-and-Respin-Spielen sind Startbedingungen, Zahl beziehungsweise Ablauf d
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
 ## Thunderstruck II
@@ -660,6 +798,12 @@ Die vier Modi sollten einzeln anhand ihrer Auslöser und Regeln verglichen werde
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
 ## Fruit Party 2
@@ -685,6 +829,12 @@ Für die Einordnung sind Cluster-Auszahlungen, Wild-Funktionen und Multiplikator
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
 ## Gates of Olympus
@@ -710,6 +860,12 @@ Prüfe, welche Symbole eine Auszahlung bilden, wie Kaskaden aufeinanderfolgen un
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
 ## Gonzo's Quest
@@ -735,6 +891,12 @@ Für die Bewertung sind der Ablauf der Avalanche-Kaskaden und die Bedingungen f�
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
 ## Sweet Bonanza
@@ -760,6 +922,12 @@ Achte auf die erforderliche Symbolgruppe, das Entfernen von Gewinnsymbolen und d
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="wolf-gold">Wolf Gold</h2>
 
 ## Wolf Gold
@@ -785,6 +953,12 @@ Die Freispiele und die Jackpot-Respins sind als unterschiedliche Funktionen zu b
 
 ---
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
 <h2 id="mega-moolah">Mega Moolah</h2>
 
 ## Mega Moolah
@@ -807,3 +981,9 @@ Mega Moolah ist ein Safari-Slot, dessen besonderes Merkmal vier progressive Jack
 
 Bei progressiven Jackpots sind die angezeigten Stufen und Teilnahmebedingungen zentral. Prüfe im Spiel, wie die Jackpot-Funktion ausgelöst wird, welche Voraussetzungen gelten und welche Regeln für die konkrete Version angezeigt werden.
 
+
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>

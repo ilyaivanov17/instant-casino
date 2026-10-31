@@ -3,7 +3,7 @@ title: 'Przewodnik po slotach: podstawy i profile gier'
 description: 'Profile wybranych automatów online: zasady, funkcje i najważniejsze informacje.'
 type: page
 seo_title: 'Przewodnik po slotach: podstawy i profile gier | Instant Casino'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always

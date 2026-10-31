@@ -73,7 +73,7 @@ Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki ur
 ---
 
 ## Bigger Bass Bonanza: Rozszerzona analiza redakcyjna
-Bigger Bass Bonanza jest przypisany do dostawcy Pragmatic Play. Profil strony wymienia: symbole Scatter, darmowe spiny, mnożniki; motyw obejmuje motyw wędkarski i elementy wodne. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+Bigger Bass Bonanza jest przypisany do dostawcy Pragmatic Play. Profil strony wymienia: symbole Scatter, darmowe spiny, mnożniki; motyw obejmuje tematykę wędkarską i elementy wodne. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
 
 ### Motyw i pierwsze wrażenie
 
@@ -139,7 +139,7 @@ Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki ur
 ---
 
 ## Bonanza: Rozszerzona analiza redakcyjna
-Bonanza jest przypisany do dostawcy Big Time Gaming. Profil strony wymienia: wygrane klastrowe, funkcja bonusowa, darmowe spiny; motyw obejmuje zwarta, dynamiczna oprawa gry. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+Bonanza jest przypisany do dostawcy Big Time Gaming. Profil strony wymienia: wygrane klastrowe, funkcja bonusowa, darmowe spiny; motyw obejmuje zwartą, dynamiczną oprawę gry. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
 
 ### Motyw i pierwsze wrażenie
 
@@ -343,7 +343,7 @@ Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki ur
 ---
 
 ## Fruit Party: Rozszerzona analiza redakcyjna
-Fruit Party jest przypisany do dostawcy Pragmatic Play. Profil strony wymienia: mechanika Tumble, mnożniki wygranych, darmowe spiny; motyw obejmuje kolorowe owoce i lekka estetyka arcade. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+Fruit Party jest przypisany do dostawcy Pragmatic Play. Profil strony wymienia: mechanika Tumble, mnożniki wygranych, darmowe spiny; motyw obejmuje kolorowe owoce i lekką estetykę arcade. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
 
 ### Motyw i pierwsze wrażenie
 

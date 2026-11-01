@@ -402,15 +402,19 @@
     } catch (e) {}
   });
 
-  /* Germany bonus wagering calculator */
+  /* Localized bonus wagering calculator on every language version. */
   document.querySelectorAll('[data-wager-calculator]').forEach(function (calculator) {
     var form = calculator.querySelector('[data-wager-form]');
     var result = calculator.querySelector('[data-wager-result]');
     var recommendation = calculator.querySelector('[data-wager-cta]');
     if (!form || !result) return;
 
+    var lang = calculator.getAttribute('data-calculator-lang') || 'en';
+    var locales = { de: 'de-DE', en: 'en-IE', pl: 'pl-PL', es: 'es-ES', pt: 'pt-PT', ja: 'ja-JP' };
+    var locale = locales[lang] || 'en-IE';
+
     function currency(value) {
-      return new Intl.NumberFormat('de-DE', {
+      return new Intl.NumberFormat(locale, {
         style: 'currency', currency: 'EUR', maximumFractionDigits: 2
       }).format(value);
     }
@@ -434,7 +438,7 @@
       if (![deposit, bonus, wager, contribution].every(Number.isFinite) ||
           deposit < 0 || bonus < 0 || wager < 0 || contribution < 1 ||
           deposit > 100000 || bonus > 100000 || wager > 1000 || contribution > 100) {
-        result.textContent = 'Bitte prüfe deine Eingaben. Die Spielgewichtung muss zwischen 1 und 100 % liegen.';
+        result.textContent = calculator.getAttribute('data-error');
         if (recommendation) recommendation.hidden = true;
         return;
       }
@@ -442,12 +446,15 @@
       var base = basis === 'deposit_bonus' ? deposit + bonus : bonus;
       var turnover = base * wager;
       var estimatedStakes = turnover / (contribution / 100);
-      var baseLabel = basis === 'deposit_bonus' ? 'Einzahlung plus Bonus' : 'Bonusbetrag';
-      result.textContent = 'Erforderlicher anrechenbarer Umsatz: ' + currency(turnover) +
-        '. Berechnungsbasis: ' + baseLabel + ' (' + currency(base) + ') × ' +
-        new Intl.NumberFormat('de-DE', { maximumFractionDigits: 1 }).format(wager) + '. ' +
-        'Bei ' + contribution + ' % Spielgewichtung entspricht das rechnerisch etwa ' +
-        currency(estimatedStakes) + ' an Spieleinsätzen.';
+      var baseLabel = basis === 'deposit_bonus'
+        ? calculator.getAttribute('data-base-deposit')
+        : calculator.getAttribute('data-base-bonus');
+      var number = new Intl.NumberFormat(locale, { maximumFractionDigits: 1 }).format(wager);
+      result.textContent = calculator.getAttribute('data-turnover-label') + currency(turnover) +
+        '. ' + baseLabel + ' (' + currency(base) + ') × ' + number + '.' +
+        calculator.getAttribute('data-at-weight') + contribution +
+        calculator.getAttribute('data-weight-tail') + currency(estimatedStakes) +
+        calculator.getAttribute('data-stakes-tail');
       if (recommendation) recommendation.hidden = false;
     });
   });

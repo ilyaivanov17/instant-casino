@@ -44,7 +44,7 @@ Podczas darmowych spinów Fisherman Wild zbiera wartości widocznych symboli pie
 
 <h2 id="bonanza">Bonanza</h2>
 
-Bonanza łączy zmienny układ bębnów Megaways z mechaniką Dual Reactions, która uruchamia kaskady w dwóch kierunkach. Cztery Scatter aktywują darmowe spiny.
+Megaways zmienia układ bębnów, a Dual Reactions uruchamia kaskady w dwóch kierunkach. Cztery Scatter aktywują darmowe spiny; dostępnych jest do 117 649 sposobów wygrywania.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/bonanza" >}})
 

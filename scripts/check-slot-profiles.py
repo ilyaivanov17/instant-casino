@@ -74,7 +74,7 @@ def main():
             if not summary:
                 errors.append(f"{game_name}: missing {lang} catalogue description")
                 continue
-            normalized_summary = re.sub(r"\\s+", " ", summary).strip().casefold()
+            normalized_summary = re.sub(r"\s+", " ", summary).strip().casefold()
             previous_game = seen_descriptions[lang].get(normalized_summary)
             if previous_game:
                 errors.append(f"{game_name}/{lang}: card description duplicates {previous_game}")

@@ -220,7 +220,7 @@ Book of Dead keeps its bonus structure focused on one expanding symbol selected 
 
 ## Dragon's Luck: a quick guide
 
-Dragon's Luck is a Red Tiger slot built around dragon-themed artwork and the Dragon Coin, Dragon's Help and Mega Coin features. Check the [official game information](https://games.evolution.com/slots/dragons-luck/) and the paytable in the loaded version for their exact rules.
+Dragon's Luck is a Red Tiger slot built around dragon-themed artwork and the Dragon Coin, Dragon's Help and Mega Coin features. Check the official game information and the paytable in the loaded version for their exact rules.
 
 ### Game overview
 

@@ -1,8 +1,8 @@
 ---
-title: Casino-Auszahlung: Dauer, Ablauf und mögliche Verzögerungen
+title: 'Casino-Auszahlung: Dauer, Ablauf und mögliche Verzögerungen'
 description: Wie Casino-Auszahlungen ablaufen, welche Rolle KYC, Zahlungsmethode und Bank spielen und was du bei einer verspäteten Zahlung prüfen solltest.
 type: page
-seo_title: Casino-Auszahlung: Dauer, KYC und Auszahlungslimits | Instant Casino
+seo_title: 'Casino-Auszahlung: Dauer, KYC und Auszahlungslimits | Instant Casino'
 lastmod: '2026-11-01'
 article_review_status: editorial-review-pending
 build:

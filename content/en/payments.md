@@ -425,3 +425,7 @@ These catalogue values are structured comparison data. Before depositing, activa
 ## Further reading
 
 [Guide to fast casino withdrawals]({{< relref "schnelle-auszahlung" >}})
+
+## Trustly: how it works and what to check
+
+[Trustly at casinos: deposits, withdrawals and safety]({{< relref "trustly-casino" >}})

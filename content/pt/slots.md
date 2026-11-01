@@ -112,7 +112,7 @@ O ciclo principal é simples de acompanhar: o Wild do pescador recolhe valores d
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="bonanza">Bonanza</h2>
 
@@ -176,7 +176,7 @@ Bonanza combina uma grelha Megaways variável com cascatas e um multiplicador qu
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="book-of-dead">Book of Dead</h2>
 
@@ -246,7 +246,7 @@ Uma opinião publicada destaca o ambiente egípcio, a banda sonora e o bónus si
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
@@ -310,7 +310,7 @@ Dragon's Luck centra-se em símbolos de moedas que revelam ou transformam símbo
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="fruit-party">Fruit Party</h2>
 
@@ -378,7 +378,7 @@ Uma opinião de jogador destaca o sistema de clusters e as cascatas como element
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="starburst">Starburst</h2>
 
@@ -401,7 +401,7 @@ Uma opinião elogia os gráficos coloridos e a apresentação fluida; outra dest
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="the-dog-house">The Dog House</h2>
 
@@ -418,7 +418,7 @@ Os Sticky Wild fazem com que o bónus de The Dog House dependa da posição e da
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
@@ -441,7 +441,7 @@ Uma opinião destaca a reativação que pode acrescentar mais símbolos expansiv
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="reactoonz">Reactoonz</h2>
 
@@ -464,7 +464,7 @@ Reactoonz surge na lista pessoal de slots favoritos de um participante numa disc
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
@@ -487,7 +487,7 @@ Uma opinião destaca a banda sonora western e os Wild pegajosos com multiplicado
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="starlight-princess">Starlight Princess</h2>
 
@@ -510,7 +510,7 @@ Uma opinião dá especial destaque ao ambiente inspirado em anime, aos visuais e
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
@@ -533,7 +533,7 @@ Uma opinião destaca a apresentação colorida e o design visual inspirado em an
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="mega-fortune">Mega Fortune</h2>
 
@@ -556,7 +556,7 @@ Uma opinião elogia os visuais cuidados e a distinção entre as rodadas grátis
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
@@ -579,7 +579,7 @@ Várias opiniões elogiam a apresentação visual e a escolha entre três modos 
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="twin-spin">Twin Spin</h2>
 
@@ -602,7 +602,7 @@ Um jogador de longa data destaca os rolos ligados, o ambiente retro e o som como
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
@@ -619,7 +619,7 @@ Hand of Anubis combina prémios por grupos com funcionalidades de coleção e b�
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="sugar-rush">Sugar Rush</h2>
 
@@ -636,7 +636,7 @@ Sugar Rush utiliza uma grelha de clusters 7×7 com cascatas e multiplicadores qu
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="immortal-romance">Immortal Romance</h2>
 
@@ -659,7 +659,7 @@ As opiniões dos jogadores destacam a narrativa gótica, a banda sonora e os mod
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
@@ -682,7 +682,7 @@ Um jogador refere que passou a gostar mais do jogo após várias sessões e dest
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="le-bandit">Le Bandit</h2>
 
@@ -699,7 +699,7 @@ Le Bandit utiliza uma grelha de clusters e uma estrutura de bónus baseada na re
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
@@ -722,7 +722,7 @@ Uma opinião atribui uma avaliação positiva e destaca os visuais western marca
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="money-train-3">Money Train 3</h2>
 
@@ -745,7 +745,7 @@ Uma opinião elogia a apresentação e a variedade criada pelas personagens pers
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="money-train-4">Money Train 4</h2>
 
@@ -762,7 +762,7 @@ Money Train 4 amplia o conjunto de símbolos de funcionalidade e acrescenta cama
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
@@ -785,7 +785,7 @@ As opiniões destacam os quatro modos de rodadas grátis associados às personag
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
@@ -802,7 +802,7 @@ Fruit Party 2 desenvolve o formato de clusters de fruta com efeitos variáveis d
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
@@ -825,7 +825,7 @@ Uma opinião elogia o tema mitológico e destaca os multiplicadores como parte m
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
@@ -848,7 +848,7 @@ Uma opinião menciona as animações de Gonzo, o cenário de selva e a música c
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
@@ -871,7 +871,7 @@ Numa discussão pública sobre slots, um jogador inclui Sweet Bonanza entre os t
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="wolf-gold">Wolf Gold</h2>
 
@@ -894,7 +894,7 @@ Algumas opiniões descrevem Wolf Gold como um slot favorito e mencionam o tema a
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>
 <h2 id="mega-moolah">Mega Moolah</h2>
 
@@ -917,5 +917,5 @@ Uma opinião destaca o tema safari nostálgico e o interesse de ter quatro níve
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
-  <a href="/pt/bonuses/">Ver condições dos bónus →</a>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
 </div>

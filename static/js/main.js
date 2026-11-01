@@ -1,39 +1,9 @@
 (function () {
   'use strict';
 
-  // Route every outbound HTTP(S) link through the site's central /go/bonus endpoint.
-  function routeExternalLink(anchor) {
-    if (!anchor || !anchor.hasAttribute('href')) return;
-    var href = anchor.getAttribute('href');
-    if (!href || href.charAt(0) === '#' || /^(mailto:|tel:|javascript:|data:|blob:)/i.test(href)) return;
-    try {
-      var destination = new URL(href, window.location.href);
-      if ((destination.protocol === 'http:' || destination.protocol === 'https:') &&
-          destination.origin !== window.location.origin) {
-        anchor.setAttribute('href', '/go/bonus');
-        anchor.removeAttribute('target');
-      }
-    } catch (e) {}
-  }
-
-  function routeExternalLinks(root) {
-    if (!root) return;
-    if (root.matches && root.matches('a[href]')) routeExternalLink(root);
-    if (root.querySelectorAll) root.querySelectorAll('a[href]').forEach(routeExternalLink);
-  }
-
-  routeExternalLinks(document);
-  if (window.MutationObserver && document.documentElement) {
-    var outboundObserver = new MutationObserver(function (records) {
-      records.forEach(function (record) {
-        if (record.type === 'attributes') routeExternalLink(record.target);
-        else record.addedNodes.forEach(routeExternalLinks);
-      });
-    });
-    outboundObserver.observe(document.documentElement, {
-      childList: true, subtree: true, attributes: true, attributeFilter: ['href']
-    });
-  }
+  // Keep editorial citations and ordinary outbound links pointed at their stated sources.
+  // Affiliate links must be marked explicitly in the page content/templates; never rewrite every
+  // external HTTP(S) URL to the bonus destination.
 
   var menuBtn = document.getElementById('mobile-menu-btn');
   var mobileMenu = document.getElementById('mobile-menu');

@@ -206,43 +206,43 @@ Avalancheでは勝利シンボルが消えて新しいシンボルが落下。�
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-大自然をテーマに、フリースピン、大型シンボル、独立したジャックポットリスピン機能を備えています。ジャックポットラウンドには通常配当とは別のルールがあります。
+Wolf Goldは従来型のペイラインに加え、フリースピンで大型シンボルを採用。別枠のジャックポットリスピンには独自のルールがあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/wolf-gold" >}})
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-サファリをテーマにしたスロットで、4段階のプログレッシブジャックポットがあります。ジャックポットは通常のシンボル配当とは別の仕組みで、参加条件も異なります。
+通常のリールゲームとは別に4段階のプログレッシブジャックポットを搭載。フリースピンには独立した倍率機能もあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/mega-moolah" >}})
 
 <h2 id="pirots-4">Pirots 4</h2>
 
-6×6グリッドの宇宙テーマのスロットです。CollectR、フィールド拡張、シンボル変換に加え、Space BanditとLost in Spaceのコインゲームが登場します。
+6×6グリッドでCollectR、拡張するプレイエリア、シンボル変換が展開。Space BanditとLost in Spaceのコインゲームも登場します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/pirots-4" >}})
 
 <h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
 
-崩落する氷の鉱山が舞台のスロットです。xBomb、xSplit、xGod、xHoleがシンボルやプレイエリアを変化させ、Lucky Wagon Spinsでは独立したボーナス機能が展開します。
+氷の鉱山が崩落する中、xBomb、xSplit、xGod、xHoleがシンボルやリールを変化。Lucky Wagon Spinsは独立したボーナス機能です。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/fire-in-the-hole-3" >}})
 
 <h2 id="razor-shark">Razor Shark</h2>
 
-5リール、4段、20ペイラインの海中テーマのスロットです。Mystery Stacksがシンボルを公開し、Golden SharkでRazor Revealと倍率上昇型フリーゲームが発動します。
+5リール、4段、20ペイラインを採用。Mystery Stacksがシンボルを公開して下へ移動し、Golden SharkでRazor Revealと倍率上昇型フリーゲームが始まります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/razor-shark" >}})
 
 <h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
 
-6リール、4,096通りのConnecting Pay Waysを備えた幻想的なスロットです。Mystery Scatterでフリースピンが始まり、シンボル変換や再トリガーが発生することがあります。
+6リールで4,096通りのConnecting Pay Waysを形成。Mystery Scatterでフリースピンが始まり、シンボル変換や再トリガーが発生することもあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/pink-elephants-2-reborn" >}})
 
 <h2 id="temple-tumble">Temple Tumble</h2>
 
-6×6グリッド、46,656通りの配当方法、ライセンス供与されたMegaways方式を備えたジャングルアドベンチャーです。カスケードと壊せる石ブロックを経て、3つのボーナスワールドから選ぶフリースピンに進みます。
+6×6グリッドに46,656通りの配当方法とライセンス版Megawaysを採用。カスケードと破壊可能な石ブロックを経て、3つのボーナスワールドを選ぶフリースピンへ進みます。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/temple-tumble" >}})
 

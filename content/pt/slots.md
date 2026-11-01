@@ -206,43 +206,43 @@ Doces e frutas pagam em grupos em qualquer zona da grelha. Após um prémio, cae
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-Slot de natureza selvagem com rodadas grátis, símbolos grandes e uma funcionalidade independente de jackpot respin.
+Wolf Gold combina linhas de pagamento clássicas com símbolos de grandes dimensões nas rodadas grátis; a função separada de jackpot respin tem regras próprias.
 
 [Ler o perfil completo]({{< relref "slot-profiles/wolf-gold" >}})
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-Slot de safari com quatro níveis de jackpot progressivo. O sistema de jackpot é independente dos prémios normais por símbolos e tem condições próprias de participação.
+Quatro níveis de jackpot progressivo coexistem com o jogo normal de rolos. As rodadas grátis acrescentam uma função de multiplicadores independente.
 
 [Ler o perfil completo]({{< relref "slot-profiles/mega-moolah" >}})
 
 <h2 id="pirots-4">Pirots 4</h2>
 
-Slot espacial numa grelha 6×6. CollectR, a expansão do campo e as transformações de símbolos juntam-se ao Space Bandit e ao jogo de moedas Lost in Space.
+Numa grelha 6×6, Pirots 4 combina CollectR com um campo expansível e mudanças de símbolos; Space Bandit e Lost in Space acrescentam bónus distintos.
 
 [Ler o perfil completo]({{< relref "slot-profiles/pirots-4" >}})
 
 <h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
 
-Slot numa mina gelada em colapso. xBomb, xSplit, xGod e xHole alteram o campo; Lucky Wagon Spins é uma funcionalidade de bónus separada.
+Numa mina gelada em colapso, xBomb, xSplit, xGod e xHole alteram os rolos. Lucky Wagon Spins constitui uma ronda de bónus separada.
 
 [Ler o perfil completo]({{< relref "slot-profiles/fire-in-the-hole-3" >}})
 
 <h2 id="razor-shark">Razor Shark</h2>
 
-Slot subaquático com cinco rolos, quatro filas e 20 linhas. Mystery Stacks revelam símbolos; Golden Shark ativa Razor Reveal e jogos grátis.
+Cinco rolos, quatro filas e 20 linhas: Mystery Stacks revela e desloca símbolos. Golden Shark ativa Razor Reveal e jogos grátis com multiplicadores crescentes.
 
 [Ler o perfil completo]({{< relref "slot-profiles/razor-shark" >}})
 
 <h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
 
-Slot surrealista com seis rolos e 4.096 Connecting Pay Ways. Mystery Scatter pode ativar rodadas grátis com transformações de símbolos e possíveis reativações.
+Os seis rolos oferecem 4.096 Connecting Pay Ways. Mystery Scatter pode abrir rodadas grátis com transformações de símbolos e possíveis reativações.
 
 [Ler o perfil completo]({{< relref "slot-profiles/pink-elephants-2-reborn" >}})
 
 <h2 id="temple-tumble">Temple Tumble</h2>
 
-Aventura na selva: grelha 6×6, 46.656 formas de ganhar e Megaways licenciada. Cascatas e blocos quebráveis levam a rodadas grátis com três mundos.
+Temple Tumble junta uma grelha 6×6, 46.656 formas de ganhar e Megaways licenciada. Cascatas e blocos quebráveis levam a rodadas grátis em três mundos.
 
 [Ler o perfil completo]({{< relref "slot-profiles/temple-tumble" >}})
 

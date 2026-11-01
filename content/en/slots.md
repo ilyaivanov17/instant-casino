@@ -206,43 +206,43 @@ Candy and fruit pay in matching groups anywhere on the grid. After a win, fresh 
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-A wilderness-themed slot with free spins, oversized symbols and a separate jackpot respin feature. The jackpot round follows its own rules and is separate from regular wins.
+Wolf Gold pairs a classic payline layout with oversized symbols in free spins; its separate jackpot-respin feature follows its own rules.
 
 [Read the full game profile]({{< relref "slot-profiles/wolf-gold" >}})
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-A safari-themed slot with four progressive jackpot tiers. The jackpot system is separate from regular symbol wins and has its own eligibility rules.
+Four progressive jackpot tiers sit alongside the regular reel game. Free spins add a separate multiplier feature, distinct from the jackpot system.
 
 [Read the full game profile]({{< relref "slot-profiles/mega-moolah" >}})
 
 <h2 id="pirots-4">Pirots 4</h2>
 
-A space-themed slot on a 6×6 grid. CollectR, an expanding playfield and symbol transformations shape the rounds, alongside Space Bandit and the Lost in Space coin game.
+On a 6×6 grid, Pirots 4 combines CollectR with an expanding playfield and symbol changes; Space Bandit and Lost in Space add separate bonus routes.
 
 [Read the full game profile]({{< relref "slot-profiles/pirots-4" >}})
 
 <h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
 
-A slot set in a collapsing icy mine. xBomb, xSplit, xGod and xHole alter symbols and the playfield, while Lucky Wagon Spins provide a separate bonus feature.
+Set in a collapsing ice mine, Fire in the Hole 3 uses xBomb, xSplit, xGod and xHole to alter the reels. Lucky Wagon Spins form a separate bonus feature.
 
 [Read the full game profile]({{< relref "slot-profiles/fire-in-the-hole-3" >}})
 
 <h2 id="razor-shark">Razor Shark</h2>
 
-An underwater slot with five reels, four rows and 20 paylines. Mystery Stacks reveal symbols; Golden Shark symbols trigger Razor Reveal and free games with rising multipliers.
+Five reels, four rows and 20 paylines frame Razor Shark: Mystery Stacks reveal and nudge into place, while Golden Shark starts Razor Reveal and multiplier-boosted free games.
 
 [Read the full game profile]({{< relref "slot-profiles/razor-shark" >}})
 
 <h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
 
-A surreal slot with six reels and 4,096 Connecting Pay Ways. Mystery Scatter can trigger free spins with symbol transformations and possible retriggers.
+Six reels offer 4,096 Connecting Pay Ways. Mystery Scatter can open free spins with symbol transformations, and the feature may be retriggered.
 
 [Read the full game profile]({{< relref "slot-profiles/pink-elephants-2-reborn" >}})
 
 <h2 id="temple-tumble">Temple Tumble</h2>
 
-A jungle adventure on a 6×6 grid with 46,656 ways to win and licensed Megaways. Cascades and breakable stone blocks lead to free spins with three bonus worlds.
+Temple Tumble combines a 6×6 grid, 46,656 ways and licensed Megaways. Cascades and breakable stone blocks lead to free spins across three selectable bonus worlds.
 
 [Read the full game profile]({{< relref "slot-profiles/temple-tumble" >}})
 

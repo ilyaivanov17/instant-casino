@@ -214,43 +214,43 @@ Süßigkeiten und Früchte zahlen als Symbolgruppen an beliebigen Rasterposition
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-Wildnis-Thema mit Freispielen, übergroßen Symbolen und einer separaten Jackpot-Respin-Funktion. Die Jackpot-Runde folgt eigenen Regeln und ist von normalen Gewinnen getrennt.
+Wolf Gold kombiniert klassische Gewinnlinien mit übergroßen Symbolen in Freispielen; eine separate Jackpot-Respin-Funktion folgt eigenen Regeln.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/wolf-gold" >}})
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-Safari-Slot mit vier progressiven Jackpot-Stufen. Das Jackpot-System ist von den regulären Symbolgewinnen getrennt und folgt eigenen Teilnahmebedingungen.
+Vier progressive Jackpot-Stufen stehen neben dem regulären Walzenspiel. Freispiele bringen zusätzlich eine eigene Multiplikator-Funktion ins Spiel.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/mega-moolah" >}})
 
 <h2 id="pirots-4">Pirots 4</h2>
 
-Weltraum-Slot auf einem 6×6-Raster. CollectR, ein erweiterbares Spielfeld und Symbolveränderungen prägen den Ablauf; dazu kommen Space Bandit und das Münzspiel Lost in Space.
+Auf einem 6×6-Raster verbindet Pirots 4 CollectR mit einem wachsenden Spielfeld und Symbolwechseln; Space Bandit und Lost in Space ergänzen den Bonus.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/pirots-4" >}})
 
 <h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
 
-Slot in einer einstürzenden Eismine: xBomb, xSplit, xGod und xHole verändern Symbole und Spielfeld. Lucky Wagon Spins bilden eine eigene Bonusfunktion.
+In der einstürzenden Eismine verändern xBomb, xSplit, xGod und xHole das Spielfeld. Lucky Wagon Spins starten eine separate Bonusrunde.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/fire-in-the-hole-3" >}})
 
 <h2 id="razor-shark">Razor Shark</h2>
 
-Unterwasser-Slot mit fünf Walzen, vier Reihen und 20 Gewinnlinien. Mystery Stacks decken Symbole auf; Golden Shark startet Razor Reveal und Freispiele.
+20 Gewinnlinien auf fünf Walzen: Mystery Stacks werden aufgedeckt und nach unten verschoben. Golden Shark löst Razor Reveal und Freispiele mit steigenden Multiplikatoren aus.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/razor-shark" >}})
 
 <h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
 
-Surrealer Slot mit sechs Walzen und 4.096 Connecting Pay Ways. Mystery Scatter kann Freispiele mit Symbolveränderungen und möglichen Retriggern auslösen.
+Sechs Walzen und 4.096 Connecting Pay Ways geben den Rahmen vor. Mystery Scatter starten Freispiele, in denen Symbole umgewandelt und Runden erneut ausgelöst werden können.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/pink-elephants-2-reborn" >}})
 
 <h2 id="temple-tumble">Temple Tumble</h2>
 
-Dschungel-Abenteuer auf 6×6 mit 46.656 Gewinnwegen und lizenzierter Megaways-Mechanik. Kaskaden und Steinblöcke führen zu Freispielen mit drei Bonuswelten.
+Temple Tumble nutzt ein 6×6-Raster mit 46.656 Gewinnwegen und lizenzierter Megaways-Mechanik. Kaskaden und zerbrechende Blöcke führen zu Freispielen in drei Bonuswelten.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/temple-tumble" >}})
 

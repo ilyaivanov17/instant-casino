@@ -102,7 +102,7 @@ async function inspectPage(page, path, expectedCards = null) {
 
   for (const path of slotRoutes) {
     const page = await browser.newPage({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 1 });
-    const check = await inspectPage(page, path, 30);
+    const check = await inspectPage(page, path, 35);
     if (!check.ok) failed = true;
     await page.close();
   }
@@ -239,8 +239,8 @@ async function inspectPage(page, path, expectedCards = null) {
     multiWordMatches === 1 && typoMatches === 1 && typoFirstTitle.trim() === 'Bigger Bass Bonanza' &&
     crossLanguageMatches > 0 &&
     descriptionMatches === 1 && descriptionMatchTitle.trim() === 'Bonanza' &&
-    longTextMatches === 0 && providerMatches > 0 && emptyStateVisible && restoredCount === 30;
-  console.log(`${searchOk ? 'OK' : 'FAIL'} catalogue search title=${titleMatches} multiword=${multiWordMatches} typo=${typoMatches} crossLanguage=${crossLanguageMatches} description=${descriptionMatches} (${descriptionMatchTitle?.trim()}) longText=${longTextMatches} provider=${providerMatches} empty=${emptyStateVisible} reset=${restoredCount}/30`);
+    longTextMatches === 0 && providerMatches > 0 && emptyStateVisible && restoredCount === 35;
+  console.log(`${searchOk ? 'OK' : 'FAIL'} catalogue search title=${titleMatches} multiword=${multiWordMatches} typo=${typoMatches} crossLanguage=${crossLanguageMatches} description=${descriptionMatches} (${descriptionMatchTitle?.trim()}) longText=${longTextMatches} provider=${providerMatches} empty=${emptyStateVisible} reset=${restoredCount}/35`);
   if (!searchOk) failed = true;
   await searchPage.close();
 
@@ -283,7 +283,7 @@ async function inspectPage(page, path, expectedCards = null) {
 
   // Check the image-first three-column desktop layout on the German catalogue.
   const desktop = await browser.newPage({ viewport: { width: 1440, height: 1000 }, deviceScaleFactor: 1 });
-  const desktopCheck = await inspectPage(desktop, '/slots/', 30);
+  const desktopCheck = await inspectPage(desktop, '/slots/', 35);
   const desktopCardLayout = desktopCheck.result.cardLayout;
   const desktopCardOk = desktopCheck.result.columns === 3 &&
     desktopCardLayout.direction === 'column' &&
@@ -346,7 +346,7 @@ async function inspectPage(page, path, expectedCards = null) {
       '/pt/slots/': /vitórias por agrupamento/i,
       '/ja/slots/': /クラスター配当/
     }[item.path].test(bonanzaText);
-    const contentOk = profileTableCount >= 30 && externalReviewLinks === 0 &&
+    const contentOk = profileTableCount >= 35 && externalReviewLinks === 0 &&
       bonanzaText.includes('Megaways') && !bonanzaWrongClaim;
     let calculationOk = false;
     if (hubExists) {

@@ -369,9 +369,12 @@ async function inspectPage(page, path, expectedCards = null) {
     const authorText = (await page.locator('.editorial-meta').innerText().catch(() => '')).trim();
     const authorMeta = (await page.locator('meta[name="author"]').getAttribute('content') || '').trim();
     const keywordMeta = (await page.locator('meta[name="keywords"]').getAttribute('content') || '').trim();
+    const articleSchemaText = await page.locator('script[type="application/ld+json"]').allTextContents();
+    const articleSchema = articleSchemaText.map(value => { try { return JSON.parse(value); } catch { return null; } }).find(value => value && value['@type'] === 'Article');
     const profileSummaryOk = profileDescription.includes('Dual Reactions') && profileDescription === metaDescription;
     const editorialProfileOk = expertText.length > 1800 && /Bonanza/.test(expertText) &&
-      authorText.includes('Jon Pill') && authorMeta === 'Jon Pill' && keywordMeta.includes('Bonanza');
+      authorText.includes('Jon Pill') && authorMeta === 'Jon Pill' && keywordMeta.includes('Bonanza') &&
+      articleSchema?.author?.name === 'Jon Pill' && String(articleSchema?.author?.url || '').includes('/authors/jon-pill/');
     const profileOk = profileResponse?.status() === 200 && profileTableCount === 1 &&
       profileH1.includes('Bonanza') && canonical.includes('/slots/bonanza/') &&
       hreflangCount === 7 && profileSummaryOk && editorialProfileOk;

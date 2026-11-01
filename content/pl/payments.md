@@ -425,3 +425,7 @@ Dane katalogowe służą do uporządkowanego porównania. Przed wpłatą, aktywa
 ## Więcej informacji
 
 [Poradnik: szybkie wypłaty z kasyn]({{< relref "schnelle-auszahlung" >}})
+
+## Trustly: działanie i najważniejsze kwestie
+
+[Trustly w kasynach: wpłaty, wypłaty i bezpieczeństwo]({{< relref "trustly-casino" >}})

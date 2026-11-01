@@ -353,7 +353,7 @@ async function inspectPage(page, path, expectedCards = null) {
       '/pt/slots/': /vitórias por agrupamento/i,
       '/ja/slots/': /クラスター配当/
     }[item.path].test(bonanzaText);
-    const hubOk = hubTableCount === 0 && externalReviewLinks === 0 &&
+    const hubOk = hubTableCount >= 1 && externalReviewLinks === 0 &&
       bonanzaText.includes('Megaways') && !bonanzaWrongClaim;
     const profilePath = item.path.replace('/slots/', '/slots/bonanza/');
     const profileResponse = await page.goto('http://127.0.0.1:4173' + profilePath, { waitUntil: 'networkidle' });
@@ -362,7 +362,7 @@ async function inspectPage(page, path, expectedCards = null) {
     const canonical = await page.locator('link[rel="canonical"]').getAttribute('href');
     const hreflangCount = await page.locator('link[rel="alternate"][hreflang]').count();
     const profileOk = profileResponse?.status() === 200 && profileTableCount === 1 &&
-      profileH1.includes('Bonanza') && canonical.includes('/slots/bonanza/') && hreflangCount === 6;
+      profileH1.includes('Bonanza') && canonical.includes('/slots/bonanza/') && hreflangCount === 7;
     const contentOk = hubOk && profileOk;
     await page.goto('http://127.0.0.1:4173' + item.path, { waitUntil: 'networkidle' });
     let calculationOk = false;

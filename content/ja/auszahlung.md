@@ -108,6 +108,6 @@ page_faq:
 
 初回出金、書類確認、出金拒否について詳しく知りたい場合は、次のガイドも確認してください。
 
-- [初回出金]({{< relref "casino-hajimete-no-shukkin" >}})
-- [KYCと本人確認]({{< relref "casino-kyc-kakunin" >}})
-- [出金拒否]({{< relref "casino-shukkin-kyohi" >}})
+- [初回出金]({{< relref "erste-auszahlung" >}})
+- [KYCと本人確認]({{< relref "casino-verifizierung" >}})
+- [出金拒否]({{< relref "auszahlung-abgelehnt" >}})

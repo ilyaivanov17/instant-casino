@@ -270,7 +270,7 @@ async function inspectPage(page, path, expectedCards = null) {
       await form.locator('button[type="submit"]').click();
       const resultText = await form.locator('[data-wager-result]').textContent();
       const ctaVisible = await form.locator('[data-wager-cta]').isVisible();
-      calculationOk = /6[.,\\s]?000/.test(resultText) && /30[.,\\s]?000/.test(resultText) && ctaVisible;
+      calculationOk = /6[.,\s]?000/.test(resultText) && /30[.,\s]?000/.test(resultText) && ctaVisible;
     }
     const localizedOk = hubExists && headingVisible && calculationOk;
     console.log(`${localizedOk ? 'OK' : 'FAIL'} localized hub ${item.path} heading=${headingVisible} calculator=${hubExists} calculation=${calculationOk}`);

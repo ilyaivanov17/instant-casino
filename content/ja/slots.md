@@ -38,43 +38,43 @@ RTPは、非常に多くのゲームラウンドを前提に算出された理�
 
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
-4×5の釣りテーマのスロットです。フリースピン中、Fisherman Wildが画面上のマネーシンボルの値を集め、追加のWildによってスピン数や倍率が増えることがあります。
+フリースピンではFisherman Wildが画面上のマネーシンボルの値を集めます。Wildがさらに出現すると、スピン数や倍率が増えることがあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/bigger-bass-bonanza" >}})
 
 <h2 id="bonanza">Bonanza</h2>
 
-Megaways方式を採用した採掘テーマのスロットで、最大117,649通りの配当方法があります。Dual Reactionsによる双方向カスケードと、4個のScatterによるフリースピンが特徴です。
+Bonanzaは可変リールのMegaways方式を採用。Dual Reactionsでシンボルが2方向にカスケードし、4個のScatterでフリースピンが始まります。最大117,649通りの配当方法があります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/bonanza" >}})
 
 <h2 id="book-of-dead">Book of Dead</h2>
 
-古代エジプトを舞台にしたスロットです。Scatterでフリースピンが始まり、ボーナス中は選ばれたシンボルがリール全体に拡張することがあります。
+Rich Wildeの冒険の舞台は古代エジプト。Scatterでフリースピンが始まり、ボーナス前に選ばれたシンボルがリール上に拡張することがあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/book-of-dead" >}})
 
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
-龍をテーマに、Dragon Coin、Dragon’s Help、Mega Coinの各機能が登場します。発動条件と仕組みはゲーム内ヘルプで確認できます。
+Dragon's LuckではDragon Coin、Dragon’s Help、Mega Coinの3つのコイン機能が登場。発動条件やラウンドへの影響はゲーム内ヘルプで確認できます。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/dragons-luck" >}})
 
 <h2 id="fruit-party">Fruit Party</h2>
 
-7×7のクラスター型スロットで、連続落下配当が発生します。Golden Fruit Scatterでフリースピンが始まり、当たりブロックにランダム倍率が付くことがあります。
+Fruit Partyは7×7のクラスター配当型。勝利シンボルがカスケードで消え、Golden Fruit Scatterがフリースピンを開始し、倍率が当たりブロックを強化することがあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/fruit-party" >}})
 
 <h2 id="starburst">Starburst</h2>
 
-宇宙と宝石をテーマに、拡張Wildシンボルを採用しています。中央リールに現れたWildが拡張し、リスピンを発生させることがあります。
+宝石と宇宙をテーマにしたStarburstでは、中央リールのWildが拡張してリスピンを発生させることがあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/starburst" >}})
 
 <h2 id="the-dog-house">The Dog House</h2>
 
-犬をテーマに、Sticky Wildとフリースピンボーナスを備えています。ボーナス中、Sticky Wildは同じ位置に残ります。
+The Dog HouseのフリースピンではSticky Wildが同じ位置に残ります。犬や犬小屋をモチーフにしたデザインと、この固定Wildがゲームの特徴です。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/the-dog-house" >}})
 

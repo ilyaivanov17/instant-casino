@@ -38,43 +38,43 @@ Before playing, confirm the game version, RTP setting where disclosed, stake lim
 
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
-A 4×5 fishing slot in which Fisherman Wilds collect the values of visible money symbols during free spins. Further Fisherman Wilds can add spins and increase the win multiplier.
+During free spins, Fisherman Wilds collect the values shown on money symbols. More of these Wilds can add spins and raise the multiplier.
 
 [Read the full game profile]({{< relref "slot-profiles/bigger-bass-bonanza" >}})
 
 <h2 id="bonanza">Bonanza</h2>
 
-A Megaways mining slot with up to 117,649 ways to win and Dual Reactions, which cascade symbols in two directions. Four Scatters trigger free spins.
+Bonanza pairs variable Megaways reels with Dual Reactions, sending winning symbols cascading in two directions. Four Scatters start free spins; the game offers up to 117,649 ways.
 
 [Read the full game profile]({{< relref "slot-profiles/bonanza" >}})
 
 <h2 id="book-of-dead">Book of Dead</h2>
 
-An ancient-Egypt adventure with Scatter symbols and free spins. In the bonus round, one selected symbol can expand across the reels.
+Rich Wilde’s Egyptian quest leads to free spins when Scatter symbols land. Before the bonus begins, one symbol is selected and can expand across the reels during the feature.
 
 [Read the full game profile]({{< relref "slot-profiles/book-of-dead" >}})
 
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
-A dragon-themed slot featuring Dragon Coin, Dragon’s Help and Mega Coin. The in-game help explains how these coin features are triggered and work.
+Dragon Coin, Dragon’s Help and Mega Coin are the defining coin features in Dragon’s Luck. The in-game guide outlines their triggers and how each one affects a round.
 
 [Read the full game profile]({{< relref "slot-profiles/dragons-luck" >}})
 
 <h2 id="fruit-party">Fruit Party</h2>
 
-A colourful 7×7 cluster slot with tumbling wins. Golden Fruit Scatters trigger free spins, where winning blocks can receive random multipliers.
+Fruit Party pays by clusters on a 7×7 grid, not traditional paylines. Winning symbols tumble away; Golden Fruit Scatters start free spins with more chances for multipliers.
 
 [Read the full game profile]({{< relref "slot-profiles/fruit-party" >}})
 
 <h2 id="starburst">Starburst</h2>
 
-A space-and-gem themed slot with expanding Wild symbols. A Wild landing on the central reels can expand and trigger respins.
+Starburst pairs a space-and-gem theme with a simple hook: a Wild on the central reels can expand to cover a reel and trigger respins.
 
 [Read the full game profile]({{< relref "slot-profiles/starburst" >}})
 
 <h2 id="the-dog-house">The Dog House</h2>
 
-A dog-themed slot with Sticky Wilds and a free-spins bonus round. The sticky Wild symbols remain in place during the feature.
+The Dog House builds its free-spins feature around Sticky Wilds: once they land, they stay in position for the round. Dogs and kennels set the playful scene.
 
 [Read the full game profile]({{< relref "slot-profiles/the-dog-house" >}})
 

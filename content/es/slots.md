@@ -38,43 +38,43 @@ Comprueba la versión disponible, el RTP indicado cuando se publique, los límit
 
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
-Slot de pesca 4×5: en los giros gratis, Fisherman Wild recoge los valores de los símbolos de dinero visibles y puede aumentar los giros y el multiplicador.
+En los giros gratis, Fisherman Wild recoge los valores de los símbolos de dinero visibles. Si aparecen más Wild, pueden sumarse giros y aumentar el multiplicador.
 
 [Leer el perfil completo]({{< relref "slot-profiles/bigger-bass-bonanza" >}})
 
 <h2 id="bonanza">Bonanza</h2>
 
-Tragamonedas minera con Megaways y hasta 117.649 formas de ganar. Dual Reactions permite cascadas en dos direcciones y cuatro símbolos Scatter activan los giros gratis.
+Bonanza une rodillos Megaways variables y Dual Reactions, con cascadas en dos direcciones. Cuatro Scatter activan los giros gratis y hay hasta 117.649 formas de ganar.
 
 [Leer el perfil completo]({{< relref "slot-profiles/bonanza" >}})
 
 <h2 id="book-of-dead">Book of Dead</h2>
 
-Aventura ambientada en el antiguo Egipto, con símbolos Scatter y giros gratis. En la ronda de bonificación, un símbolo seleccionado puede expandirse por los rodillos.
+La expedición de Rich Wilde recorre el antiguo Egipto. Los Scatter activan giros gratis y, antes de la bonificación, se elige un símbolo que puede expandirse por los rodillos.
 
 [Leer el perfil completo]({{< relref "slot-profiles/book-of-dead" >}})
 
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
-Tragamonedas con temática de dragones y las funciones Dragon Coin, Dragon’s Help y Mega Coin. La ayuda del juego explica cómo se activan y funcionan estas mecánicas de monedas.
+Dragon Coin, Dragon’s Help y Mega Coin distinguen las funciones de monedas de Dragon’s Luck. La ayuda del juego explica cómo se activan y qué cambia durante la ronda.
 
 [Leer el perfil completo]({{< relref "slot-profiles/dragons-luck" >}})
 
 <h2 id="fruit-party">Fruit Party</h2>
 
-Slot de clústeres 7×7 con cascadas. Golden Fruit Scatter activa giros gratis con multiplicadores aleatorios en los grupos ganadores.
+Fruit Party paga por grupos en una cuadrícula 7×7, no por líneas tradicionales. Las cascadas eliminan los aciertos; Golden Fruit Scatter activa giros gratis con multiplicadores.
 
 [Leer el perfil completo]({{< relref "slot-profiles/fruit-party" >}})
 
 <h2 id="starburst">Starburst</h2>
 
-Tragamonedas de temática espacial y gemas. Un símbolo Wild en los rodillos centrales puede expandirse y activar respins.
+Starburst combina un universo de gemas con una mecánica reconocible: un Wild en los rodillos centrales puede expandirse y activar respins.
 
 [Leer el perfil completo]({{< relref "slot-profiles/starburst" >}})
 
 <h2 id="the-dog-house">The Dog House</h2>
 
-Tragamonedas con temática de perros, Sticky Wilds y una ronda de giros gratis. Los símbolos Wild pegajosos permanecen en sus posiciones durante la función.
+The Dog House centra su bonificación en los Sticky Wilds, que permanecen en su posición durante los giros gratis. Los perros y sus casetas definen la temática.
 
 [Leer el perfil completo]({{< relref "slot-profiles/the-dog-house" >}})
 

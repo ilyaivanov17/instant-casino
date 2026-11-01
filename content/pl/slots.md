@@ -38,43 +38,43 @@ Sprawdź wersję automatu, ujawnione ustawienie RTP, limity stawek, tabelę wyp�
 
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
-Slot wędkarski 4×5. W darmowych spinach Fisherman Wild zbierają wartości widocznych symboli pieniężnych; kolejne Wilds mogą zwiększyć liczbę spinów i mnożnik.
+Podczas darmowych spinów Fisherman Wild zbiera wartości widocznych symboli pieniężnych. Kolejne Wildy mogą dodać spiny i podnieść mnożnik.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/bigger-bass-bonanza" >}})
 
 <h2 id="bonanza">Bonanza</h2>
 
-Slot górniczy z mechaniką Megaways i maksymalnie 117 649 sposobami wygrywania. Dual Reactions uruchamia kaskady w dwóch kierunkach, a cztery symbole Scatter aktywują darmowe spiny.
+Bonanza łączy zmienny układ bębnów Megaways z mechaniką Dual Reactions, która uruchamia kaskady w dwóch kierunkach. Cztery Scatter aktywują darmowe spiny.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/bonanza" >}})
 
 <h2 id="book-of-dead">Book of Dead</h2>
 
-Przygoda w starożytnym Egipcie z symbolami Scatter i darmowymi spinami. W rundzie bonusowej wybrany symbol może rozszerzać się na bębnach.
+Wyprawa Rich Wilde’a prowadzi do starożytnego Egiptu. Scatter uruchamia darmowe spiny, a wybrany symbol może rozszerzyć się na bębnach podczas rundy bonusowej.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/book-of-dead" >}})
 
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
-Slot z motywem smoka i funkcjami Dragon Coin, Dragon’s Help oraz Mega Coin. Pomoc w grze wyjaśnia warunki aktywacji i działanie tych funkcji monet.
+Dragon Coin, Dragon’s Help i Mega Coin to główne funkcje monet w Dragon’s Luck. Pomoc w grze opisuje warunki ich aktywacji i wpływ na przebieg rundy.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/dragons-luck" >}})
 
 <h2 id="fruit-party">Fruit Party</h2>
 
-Kolorowy slot klastrowy 7×7 z kaskadami. Symbole Golden Fruit Scatter uruchamiają darmowe spiny, w których wygrywające grupy mogą otrzymywać losowe mnożniki.
+Fruit Party rozlicza grupy symboli na siatce 7×7 zamiast klasycznych linii. Wygrywające symbole znikają w kaskadach, a Golden Fruit Scatter uruchamia darmowe spiny z mnożnikami.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/fruit-party" >}})
 
 <h2 id="starburst">Starburst</h2>
 
-Slot o kosmicznej tematyce i kolorowych klejnotach. Symbol Wild na środkowych bębnach może się rozszerzyć i uruchomić respiny.
+Starburst łączy kosmiczną oprawę z kolorowymi klejnotami. Wild na środkowych bębnach może się rozszerzyć i uruchomić respiny.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/starburst" >}})
 
 <h2 id="the-dog-house">The Dog House</h2>
 
-Slot z motywem psów, symbolami Sticky Wild i rundą darmowych spinów. Przyklejone symbole Wild pozostają na swoich pozycjach podczas funkcji bonusowej.
+W The Dog House najważniejsze są Sticky Wilds: podczas darmowych spinów pozostają na swoich pozycjach. Motyw psów i bud nadaje grze jej charakter.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/the-dog-house" >}})
 

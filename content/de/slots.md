@@ -46,43 +46,43 @@ Spielermeinungen werden derzeit nicht als Beleg verwendet: Für die zuvor aufgef
 
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
-Angel-Slot auf 4×5: Fisherman Wilds sammeln während der Freispiele sichtbare Geldsymbole; weitere Wilds können Spins und Multiplikatoren erhöhen.
+In den Freispielen gehen Fisherman Wilds auf Fang: Sie sammeln die Werte sichtbarer Geldsymbole. Weitere Wilds können zusätzliche Spins auslösen und den Multiplikator erhöhen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/bigger-bass-bonanza" >}})
 
 <h2 id="bonanza">Bonanza</h2>
 
-Megaways-Minenslot mit bis zu 117.649 Gewinnwegen und Dual Reactions: Gewinnsymbole lösen Kaskaden in zwei Richtungen aus. Vier Scatter starten die Freispiele.
+Bonanza nutzt variable Megaways-Walzen und Dual Reactions: Gewinnsymbole kaskadieren in zwei Richtungen. Vier Scatter starten Freispiele; möglich sind bis zu 117.649 Gewinnwege.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/bonanza" >}})
 
 <h2 id="book-of-dead">Book of Dead</h2>
 
-Ägypten-Abenteuer mit Scatter-Symbolen und Freispielen. In der Bonusrunde wird ein Symbol ausgewählt, das die Walzen erweitern kann.
+Rich Wilde führt durch das alte Ägypten: Scatter öffnen die Freispiele, bevor ein Symbol für die Bonusrunde ausgewählt wird. Es kann sich über die Walzen ausdehnen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/book-of-dead" >}})
 
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
-Ein Drachenthema mit den Sonderfunktionen Dragon Coin, Dragon’s Help und Mega Coin. Die Spielhilfe erklärt die Auslöser und den Ablauf dieser Münzfunktionen.
+Dragon Coin, Dragon’s Help und Mega Coin prägen die Münzfunktionen von Dragon's Luck. Welche Symbole sie auslösen und wie sie den Spielablauf verändern, erklärt die Hilfe im Spiel.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/dragons-luck" >}})
 
 <h2 id="fruit-party">Fruit Party</h2>
 
-Ein farbenfroher 7×7-Cluster-Slot mit Kaskaden. Golden-Fruit-Scatter starten Freispiele, in denen Gewinnblöcke zufällige Multiplikatoren erhalten können.
+Fruit Party zahlt Cluster auf einem 7×7-Raster statt Gewinnlinien. Treffer lösen Kaskaden aus; Golden Fruit Scatter starten Freispiele mit Multiplikatoren auf Gewinnblöcken.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/fruit-party" >}})
 
 <h2 id="starburst">Starburst</h2>
 
-Weltraum- und Edelsteinmotiv mit expandierenden Wild-Symbolen. Trifft das Wild auf den mittleren Walzen, kann es sich ausdehnen und Respins auslösen.
+Starburst setzt auf leuchtende Edelsteine und eine klare Wild-Mechanik: Trifft ein Wild die mittleren Walzen, kann es sich ausdehnen und Respins auslösen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/starburst" >}})
 
 <h2 id="the-dog-house">The Dog House</h2>
 
-Ein Hundethema mit Sticky Wilds und Freispiele-Bonusrunde. Die haftenden Wild-Symbole bleiben während der Funktion auf ihren Positionen.
+Im Mittelpunkt von The Dog House stehen Sticky Wilds: Während der Freispiele bleiben sie auf ihren Walzenpositionen haften. Das Hundethema gibt dem Slot seinen Namen und Look.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/the-dog-house" >}})
 

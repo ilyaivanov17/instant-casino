@@ -115,9 +115,9 @@ Für erlaubtes Glücksspiel in Deutschland gelten die Vorgaben des Glücksspiels
 
 Lege ein persönliches Budget fest und erhöhe es nicht, um eine Umsatzanforderung zu erfüllen. Versuche nicht, Verluste durch weiteres Spielen auszugleichen.
 
-Das **Bundesinstitut für Öffentliche Gesundheit (BIÖG; früher BZgA)** bietet eine kostenlose und anonyme Telefonberatung zur Glücksspielsucht unter **0800 1 37 27 00**. Die Beratungszeiten sind Montag bis Donnerstag von 10 bis 22 Uhr und Freitag bis Sonntag von 10 bis 18 Uhr; das Angebot ist an 363 Tagen im Jahr erreichbar (ausgenommen 24. und 31. Dezember). Wer sich vom Glücksspiel ausschließen möchte, kann eine Selbstsperre im bundesweiten **OASIS-Spielersperrsystem** beantragen. Sie beträgt grundsätzlich ein Jahr; auf Antrag ist eine kürzere individuelle Dauer möglich, jedoch nicht unter drei Monaten. Die Sperre endet nicht automatisch: Nach Ablauf der Mindestdauer muss ihre Aufhebung beantragt werden. OASIS ist ein Sperrsystem, keine Beratungsstelle.
+Das **Bundesinstitut für Öffentliche Gesundheit (BIÖG)** bietet eine kostenfreie Telefonberatung zu Glücksspielsucht und problematischem Glücksspielverhalten unter **0800 1 37 27 00**. Die Beratungszeiten sind Montag bis Donnerstag von 10 bis 22 Uhr und Freitag bis Sonntag von 10 bis 18 Uhr. Die aktuelle Erreichbarkeit und weitere Hilfsangebote stehen auf der offiziellen BIÖG-Seite. Wer sich vom Glücksspiel ausschließen möchte, kann eine Selbstsperre im bundesweiten **OASIS-Spielersperrsystem** beantragen. Sie beträgt grundsätzlich ein Jahr; auf Antrag ist eine kürzere individuelle Dauer möglich, jedoch nicht unter drei Monaten. Die Sperre endet nicht automatisch: Nach Ablauf der Mindestdauer muss ihre Aufhebung beantragt werden. OASIS ist ein Sperrsystem, keine Beratungsstelle.
 
-- [BIÖG: Beratungsangebote](https://www.check-dein-spiel.de/hilfe-fuer-spieler/telefon-beratung/)
+- [BIÖG: Beratungsangebote](https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/)
 - [OASIS: Informationen für Spielerinnen und Spieler](https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/gluecksspiel/spielersperrsystem-oasis/spieler-faqs)
 - [GGL: Hilfs- und Beratungsangebote](https://gluecksspiel-behoerde.de/de/fuer-spielende/gluecksspielsucht-beratungs-und-hilfsangebote)
 

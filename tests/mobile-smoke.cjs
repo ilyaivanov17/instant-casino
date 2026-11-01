@@ -259,6 +259,18 @@ async function inspectPage(page, path, expectedCards = null) {
     const hub = page.locator('[data-wager-calculator]');
     const hubExists = await hub.count() === 1;
     const headingVisible = await page.getByRole('heading', { name: item.heading }).count() === 1;
+    const profileTableCount = await page.locator('table').count();
+    const externalReviewLinks = await page.locator('a[href*="askgamblers.com"], a[href*="reddit.com"], a[href*="lcb.org"]').count();
+    const renderedText = await page.locator('body').innerText();
+    const bonanzaWrongClaim = {
+      '/en/slots/': /cluster-style wins/i,
+      '/pl/slots/': /wygrane klastrowe/i,
+      '/es/slots/': /premios por clústeres/i,
+      '/pt/slots/': /vitórias por agrupamento/i,
+      '/ja/slots/': /クラスター配当/
+    }[item.path].test(renderedText);
+    const contentOk = profileTableCount >= 30 && externalReviewLinks === 0 &&
+      renderedText.includes('Megaways') && !bonanzaWrongClaim;
     let calculationOk = false;
     if (hubExists) {
       const form = hub.locator('[data-wager-form]');
@@ -272,8 +284,8 @@ async function inspectPage(page, path, expectedCards = null) {
       const ctaVisible = await form.locator('[data-wager-cta]').isVisible();
       calculationOk = /6[.,\s]?000/.test(resultText) && /30[.,\s]?000/.test(resultText) && ctaVisible;
     }
-    const localizedOk = hubExists && headingVisible && calculationOk;
-    console.log(`${localizedOk ? 'OK' : 'FAIL'} localized hub ${item.path} heading=${headingVisible} calculator=${hubExists} calculation=${calculationOk}`);
+    const localizedOk = hubExists && headingVisible && calculationOk && contentOk;
+    console.log(`${localizedOk ? 'OK' : 'FAIL'} localized hub ${item.path} heading=${headingVisible} calculator=${hubExists} calculation=${calculationOk} tables=${profileTableCount} externalReviewLinks=${externalReviewLinks} content=${contentOk}`);
     if (!localizedOk) failed = true;
     await page.close();
   }

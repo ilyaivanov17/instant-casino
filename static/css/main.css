@@ -548,6 +548,16 @@ body:before{
   backdrop-filter:blur(18px);
   -webkit-backdrop-filter:blur(18px);
 }
+.lobby-header{
+  transition:transform .24s ease, visibility 0s linear 0s;
+  will-change:transform;
+}
+.lobby-header.is-scroll-hidden{
+  transform:translateY(-105%);
+  visibility:hidden;
+  pointer-events:none;
+  transition:transform .24s ease, visibility 0s linear .24s;
+}
 .lobby-header-inner{
   min-height:72px;
   display:flex;

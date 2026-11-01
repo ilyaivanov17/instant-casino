@@ -3398,3 +3398,12 @@ svg.slot-search-icon{
     transition: none !important;
   }
 }
+
+
+/* Enhanced bonus calculator: contribution field and post-calculation CTA. */
+.de-calculator-field-help{grid-column:1/-1;margin-top:-.35rem;color:#94a3b8;font-size:.73rem;line-height:1.45}
+.de-calculator-result{white-space:normal;line-height:1.6}
+.de-calculator-form>[data-wager-cta][hidden]{display:none}
+.de-calculator-form>[data-wager-cta]:not([hidden]){display:inline-flex;margin-top:.25rem;min-height:48px}
+.de-calculator-submit{min-height:48px}
+@media(max-width:420px){.de-calculator-field-help{font-size:.72rem}}

@@ -261,15 +261,12 @@ async function inspectPage(page, path, expectedCards = null) {
     const headingVisible = await page.getByRole('heading', { name: item.heading }).count() === 1;
     const profileTableCount = await page.locator('table').count();
     const externalReviewLinks = await page.locator('a[href*="askgamblers.com"], a[href*="reddit.com"], a[href*="lcb.org"]').count();
-    const bonanzaText = await page.locator('#bonanza').evaluate(el => {
-      let node = el;
-      let text = '';
-      while (node && !(node !== el && node.matches && node.matches('h2[id]'))) {
-        text += (node.innerText || '') + ' ';
-        node = node.nextElementSibling;
-      }
-      return text;
-    });
+    const renderedHtml = await page.content();
+    const bonanzaStart = renderedHtml.indexOf('id="bonanza"');
+    const nextProfileStart = renderedHtml.indexOf('id="sweet-bonanza"', bonanzaStart + 1);
+    const bonanzaText = bonanzaStart >= 0
+      ? renderedHtml.slice(bonanzaStart, nextProfileStart > bonanzaStart ? nextProfileStart : bonanzaStart + 12000)
+      : '';
     const bonanzaWrongClaim = {
       '/en/slots/': /cluster-style wins/i,
       '/pl/slots/': /wygrane klastrowe/i,

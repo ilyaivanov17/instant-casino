@@ -34,6 +34,38 @@ def main():
     if len(games) != 35:
         errors.append(f"Expected 35 catalogue entries, found {len(games)}")
     hub_cache = {lang: (ROOT / "content" / lang / "slots.md").read_text(encoding="utf-8") for lang in LANGS}
+    # Catalogue summaries are the source for the visible cards and slot-profile SEO metadata.
+    # Keep every locale complete, concise and free of the known literal-translation templates.
+    forbidden_phrases = {
+        "pl": ("slot inspirowany motywem", "z funkcją:"),
+        "pt": ("inspirado em o ", "inspirado em a "),
+    }
+    required_features = {
+        "Bonanza": ("Dual Reactions", "117"),
+        "Fire in the Hole 3": ("xGod", "Lucky Wagon Spins"),
+        "Wanted Dead or a Wild": ("DuelReels", "VS"),
+        "Temple Tumble": ("Megaways", "6×6"),
+        "Bigger Bass Bonanza": ("Fisherman Wild",),
+    }
+    for game in games:
+        game_name = str(game.get("name", "")).strip()
+        localized = game.get("description", {}) or {}
+        for lang in LANGS:
+            summary = str(localized.get(lang, "")).strip()
+            if not summary:
+                errors.append(f"{game_name}: missing {lang} catalogue description")
+                continue
+            if len(summary) < 45 or len(summary) > 180:
+                errors.append(
+                    f"{game_name}/{lang}: catalogue description length {len(summary)} is outside 45–180 characters"
+                )
+            lowered = summary.casefold()
+            for phrase in forbidden_phrases.get(lang, ()):
+                if phrase.casefold() in lowered:
+                    errors.append(f"{game_name}/{lang}: contains a literal-translation template: {phrase!r}")
+            for feature in required_features.get(game_name, ()):
+                if feature.casefold() not in lowered:
+                    errors.append(f"{game_name}/{lang}: missing checked feature term {feature!r}")
     for game in games:
         game_name = str(game.get("name", "")).strip()
         catalog_slug = str(game.get("anchor", "")).strip()

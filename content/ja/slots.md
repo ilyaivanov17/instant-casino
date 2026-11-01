@@ -99,7 +99,7 @@ Bigger Bass Bonanzaのレビューでは、体験についての一般的な宣�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="bonanza">Bonanza</h2>
 
@@ -150,7 +150,7 @@ Bonanzaは変化するMegawaysリール、カスケード、フリースピン�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="book-of-dead">Book of Dead</h2>
 
@@ -207,7 +207,7 @@ Book of Deadのボーナスは、フリースピン中に選ばれる1つの拡�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
@@ -260,7 +260,7 @@ Dragon's Luckは一般的なフリースピンではなく、リール上のシ�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="fruit-party">Fruit Party</h2>
 
@@ -315,7 +315,7 @@ Fruit Partyは7×7のクラスターグリッドを採用し、1つの当たり�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="starburst">Starburst</h2>
 
@@ -338,7 +338,7 @@ Starburstは複数段階の長いボーナスではなく、Wildとリスピン�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="the-dog-house">The Dog House</h2>
 
@@ -355,7 +355,7 @@ Sticky WildによってThe Dog Houseのボーナスはシンボルの位置と�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
@@ -378,7 +378,7 @@ Legacy of Deadは拡張シンボルを使うBook系の仕組みを発展させ�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="reactoonz">Reactoonz</h2>
 
@@ -401,7 +401,7 @@ Reactoonzはクラスターグリッドだけではありません。チャー�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
@@ -424,7 +424,7 @@ Wild West Goldは倍率付きSticky Wildと、フリースピンを追加でき�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="starlight-princess">Starlight Princess</h2>
 
@@ -447,7 +447,7 @@ Starlight Princessはどこでも配当、カスケード、ランダム倍率�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
@@ -470,7 +470,7 @@ Buffalo King Megawaysはリールの高さが変化する仕組みに、カス�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="mega-fortune">Mega Fortune</h2>
 
@@ -493,7 +493,7 @@ Mega Fortuneには、修正機能付きフリースピンと独立したジャ�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
@@ -516,7 +516,7 @@ Mega Fortuneには、修正機能付きフリースピンと独立したジャ�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="twin-spin">Twin Spin</h2>
 
@@ -539,7 +539,7 @@ Twin Spinは連動リールが中心です。ランダムな同期によって�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
@@ -556,7 +556,7 @@ Hand of Anubisはクラスター配当に収集機能とボーナス機能を組
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="sugar-rush">Sugar Rush</h2>
 
@@ -573,7 +573,7 @@ Sugar Rushは7×7のクラスターグリッド、カスケード、盤面に残
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="immortal-romance">Immortal Romance</h2>
 
@@ -596,7 +596,7 @@ Immortal RomanceにはChamber of Spinsを通じて、キャラクターごとに
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
@@ -619,7 +619,7 @@ Immortal RomanceにはChamber of Spinsを通じて、キャラクターごとに
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="le-bandit">Le Bandit</h2>
 
@@ -636,7 +636,7 @@ Le Banditはクラスターグリッドと収集型のボーナス構造を採�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
@@ -659,7 +659,7 @@ Wanted Dead or a Wildは複数のボーナスモードと決闘をテーマに�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="money-train-3">Money Train 3</h2>
 
@@ -682,7 +682,7 @@ Money Train 3では、持続する機能キャラクターが値の収集やリ�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="money-train-4">Money Train 4</h2>
 
@@ -699,7 +699,7 @@ Money Train 4は機能シンボルの種類を増やし、Hold-and-Respin形式�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
@@ -722,7 +722,7 @@ Thunderstruck IIのフリースピンは、異なる修正機能を持つ4つの
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
@@ -739,7 +739,7 @@ Fruit Party 2はフルーツクラスター形式を発展させ、変化するW
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
@@ -762,7 +762,7 @@ Gates of Olympusはペイラインのないグリッドとランダム倍率シ�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
@@ -785,7 +785,7 @@ Gonzo's QuestはAvalanche配当と上昇する倍率によって、1回のスピ
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
@@ -808,7 +808,7 @@ Sweet Bonanzaはフルーツとキャンディのクラスターに、カスケ�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="wolf-gold">Wolf Gold</h2>
 
@@ -831,7 +831,7 @@ Wolf Goldはクラシックなペイラインに、フリースピン中の大�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>
 <h2 id="mega-moolah">Mega Moolah</h2>
 
@@ -854,5 +854,5 @@ Mega Moolahはクラシックなライン型ゲームに4段階のプログレ�
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>
-  <a href="/ja/bonuses/">ボーナス条件を見る →</a>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
 </div>

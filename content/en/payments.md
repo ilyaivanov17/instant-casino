@@ -420,3 +420,8 @@ For cards and bank transfers, consider account ownership and banking days. For c
 - Keep the transaction reference and use official support channels for questions.
 
 These catalogue values are structured comparison data. Before depositing, activating a bonus or making a payment, rely on the terms currently shown for your country and account.
+
+
+## Further reading
+
+[Guide to fast casino withdrawals]({{< relref "schnelle-auszahlung" >}})

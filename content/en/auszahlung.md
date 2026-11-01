@@ -110,6 +110,6 @@ Gambling is not an income source and a payout is never guaranteed. Only spend wh
 
 For more specific questions about a first payout, document checks or a declined request, see these focused guides:
 
-- [First withdrawal]({{< relref "first-casino-withdrawal" >}})
-- [KYC and verification]({{< relref "casino-kyc-verification" >}})
-- [Declined withdrawals]({{< relref "casino-withdrawal-declined" >}})
+- [First withdrawal]({{< relref "erste-auszahlung" >}})
+- [KYC and verification]({{< relref "casino-verifizierung" >}})
+- [Declined withdrawals]({{< relref "auszahlung-abgelehnt" >}})

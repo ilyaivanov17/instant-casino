@@ -122,127 +122,127 @@ Dead or Alive 2 sets its action in the Wild West and offers several free-spins m
 
 <h2 id="twin-spin">Twin Spin</h2>
 
-A classic fruit-symbol slot with linked reels. The Twin Reel feature can synchronise reels and change the layout.
+Twin Spin’s Twin Reel feature links reels so they can move together and change the layout. Fruit symbols and a familiar slot format frame the game.
 
 [Read the full game profile]({{< relref "slot-profiles/twin-spin" >}})
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
-An ancient-Egypt inspired cluster slot with collection symbols and bonus features. The collection mechanic shapes how the bonus round develops.
+Hand of Anubis pairs an ancient-Egypt setting with cluster wins and collection symbols. The collection mechanic shapes how its bonus round develops.
 
 [Read the full game profile]({{< relref "slot-profiles/hand-of-anubis" >}})
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
-A 7×7 cluster slot with tumbling wins and multipliers on marked grid positions. Marked positions and their multipliers persist during free spins.
+On Sugar Rush’s 7×7 grid, winning clusters trigger tumbles. Multipliers sit on marked positions, which retain their values throughout free spins.
 
 [Read the full game profile]({{< relref "slot-profiles/sugar-rush" >}})
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-A gothic vampire-themed slot with several character-based free-spins modes. The Chamber of Spins offers different versions of the bonus round.
+The Chamber of Spins is central to Immortal Romance: its vampire characters are tied to different free-spins modes, each with its own bonus-round rules.
 
 [Read the full game profile]({{< relref "slot-profiles/immortal-romance" >}})
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
-A Megaways slot featuring five golden lions. Variable reel heights change the available ways to win, while free spins add a separate bonus round.
+Five golden lions headline this Megaways slot. Changing reel heights alter the available ways to win, while free spins add a separate bonus round.
 
 [Read the full game profile]({{< relref "slot-profiles/5-lions-megaways" >}})
 
 <h2 id="le-bandit">Le Bandit</h2>
 
-A cluster slot featuring a raccoon thief in a Parisian setting. Winning symbol groups and a collection-based bonus structure shape the gameplay.
+A raccoon thief roams Paris in Le Bandit, a cluster slot with a collection-based feature. Winning groups and collected symbols shape the bonus round.
 
 [Read the full game profile]({{< relref "slot-profiles/le-bandit" >}})
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
-A Wild West slot featuring DuelReels: VS symbols can expand into Wild reels, applying a multiplier to wins that pass through them. Several bonus modes are also available.
+DuelReels defines this Wild West slot: VS symbols can expand into Wild reels and apply multipliers to wins passing through them. Several bonus modes are available.
 
 [Read the full game profile]({{< relref "slot-profiles/wanted-dead-or-a-wild" >}})
 
 <h2 id="money-train-3">Money Train 3</h2>
 
-An outlaw-themed slot with a Hold-and-Respin bonus round. Feature symbols collect values, modify symbols and can build multipliers.
+Money Train 3 gives its outlaw symbols distinct jobs in Hold and Respin: some collect values, others alter symbols or build multipliers.
 
 [Read the full game profile]({{< relref "slot-profiles/money-train-3" >}})
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-An outlaw-themed slot with an expanded Hold-and-Respin bonus round. Different feature symbols add collection, upgrade and multiplier effects.
+Its expanded Hold and Respin round adds a broader cast of feature symbols, with collection, upgrade and multiplier effects shaping each result.
 
 [Read the full game profile]({{< relref "slot-profiles/money-train-4" >}})
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
-A Norse mythology slot with four character-based free-spins modes. The bonus round is divided into chambers with different rules.
+Four characters unlock their own free-spins chambers, each with a different modifier. Progress through these modes defines the Thunderstruck II bonus.
 
 [Read the full game profile]({{< relref "slot-profiles/thunderstruck-ii" >}})
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
-A 7×7 fruit-cluster slot where winning clusters can leave Wilds with rising multipliers. In free spins, Wild multipliers can reach up to 729×.
+Fruit clusters form on a 7×7 grid; winning groups can leave Wilds with rising multipliers, which can reach 729× during free spins.
 
 [Read the full game profile]({{< relref "slot-profiles/fruit-party-2" >}})
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
-A Zeus-themed slot without traditional paylines: matching symbols pay anywhere, tumbles continue winning sequences and random multipliers can add together.
+Zeus presides over a grid with no fixed paylines: matching symbols pay anywhere, tumbles extend the sequence and random multipliers can combine.
 
 [Read the full game profile]({{< relref "slot-profiles/gates-of-olympus" >}})
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
-An adventure slot with Avalanche cascades: winning symbols disappear and are replaced. Consecutive Avalanche wins increase the multiplier within a spin.
+Gonzo's Quest uses Avalanche drops: winning symbols disappear and replacements fall into place. Each consecutive hit in one spin raises the multiplier.
 
 [Read the full game profile]({{< relref "slot-profiles/gonzos-quest" >}})
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
-A colourful slot with candy and fruit symbols. Wins come from matching groups anywhere on the grid, while tumbles and random multipliers shape each round.
+Candy and fruit pay in matching groups anywhere on the grid. After a win, fresh symbols tumble in, while random multipliers can boost the sequence.
 
 [Read the full game profile]({{< relref "slot-profiles/sweet-bonanza" >}})
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-A wilderness-themed slot with free spins, oversized symbols and a separate jackpot respin feature. The jackpot round follows its own rules and is separate from regular wins.
+Wolf Gold pairs a classic payline layout with oversized symbols in free spins; its separate jackpot-respin feature follows its own rules.
 
 [Read the full game profile]({{< relref "slot-profiles/wolf-gold" >}})
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-A safari-themed slot with four progressive jackpot tiers. The jackpot system is separate from regular symbol wins and has its own eligibility rules.
+Four progressive jackpot tiers sit alongside the regular reel game. Free spins add a separate multiplier feature, distinct from the jackpot system.
 
 [Read the full game profile]({{< relref "slot-profiles/mega-moolah" >}})
 
 <h2 id="pirots-4">Pirots 4</h2>
 
-A space-themed slot on a 6×6 grid. CollectR, an expanding playfield and symbol transformations shape the rounds, alongside Space Bandit and the Lost in Space coin game.
+On a 6×6 grid, Pirots 4 combines CollectR with an expanding playfield and symbol changes; Space Bandit and Lost in Space add separate bonus routes.
 
 [Read the full game profile]({{< relref "slot-profiles/pirots-4" >}})
 
 <h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
 
-A slot set in a collapsing icy mine. xBomb, xSplit, xGod and xHole alter symbols and the playfield, while Lucky Wagon Spins provide a separate bonus feature.
+Set in a collapsing ice mine, Fire in the Hole 3 uses xBomb, xSplit, xGod and xHole to alter the reels. Lucky Wagon Spins form a separate bonus feature.
 
 [Read the full game profile]({{< relref "slot-profiles/fire-in-the-hole-3" >}})
 
 <h2 id="razor-shark">Razor Shark</h2>
 
-An underwater slot with five reels, four rows and 20 paylines. Mystery Stacks reveal symbols; Golden Shark symbols trigger Razor Reveal and free games with rising multipliers.
+Five reels, four rows and 20 paylines frame Razor Shark: Mystery Stacks reveal and nudge into place, while Golden Shark starts Razor Reveal and multiplier-boosted free games.
 
 [Read the full game profile]({{< relref "slot-profiles/razor-shark" >}})
 
 <h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
 
-A surreal slot with six reels and 4,096 Connecting Pay Ways. Mystery Scatter can trigger free spins with symbol transformations and possible retriggers.
+Six reels offer 4,096 Connecting Pay Ways. Mystery Scatter can open free spins with symbol transformations, and the feature may be retriggered.
 
 [Read the full game profile]({{< relref "slot-profiles/pink-elephants-2-reborn" >}})
 
 <h2 id="temple-tumble">Temple Tumble</h2>
 
-A jungle adventure on a 6×6 grid with 46,656 ways to win and licensed Megaways. Cascades and breakable stone blocks lead to free spins with three bonus worlds.
+Temple Tumble combines a 6×6 grid, 46,656 ways and licensed Megaways. Cascades and breakable stone blocks lead to free spins across three selectable bonus worlds.
 
 [Read the full game profile]({{< relref "slot-profiles/temple-tumble" >}})
 

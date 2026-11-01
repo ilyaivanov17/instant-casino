@@ -122,127 +122,127 @@ Dead or Alive 2 lleva la acción al Salvaje Oeste y permite elegir entre varios 
 
 <h2 id="twin-spin">Twin Spin</h2>
 
-Tragamonedas clásica con símbolos de frutas y rodillos enlazados. La función Twin Reel puede sincronizar varios rodillos y modificar su disposición.
+La función Twin Reel de Twin Spin enlaza varios rodillos para que se muevan juntos y cambien la disposición. Los símbolos de fruta mantienen el estilo clásico.
 
 [Leer el perfil completo]({{< relref "slot-profiles/twin-spin" >}})
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
-Tragamonedas de clústeres inspirada en Egipto, con símbolos coleccionables y una bonificación basada en la recolección.
+Hand of Anubis combina el antiguo Egipto con premios por grupos y símbolos coleccionables. La mecánica de recolección influye en el desarrollo del bono.
 
 [Leer el perfil completo]({{< relref "slot-profiles/hand-of-anubis" >}})
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
-Tragamonedas de clústeres 7×7 con cascadas y multiplicadores en posiciones marcadas de la cuadrícula. Las posiciones y sus multiplicadores se mantienen durante los giros gratis.
+En la cuadrícula 7×7, los grupos ganadores provocan cascadas. Los multiplicadores ocupan casillas marcadas que conservan sus valores durante los giros gratis.
 
 [Leer el perfil completo]({{< relref "slot-profiles/sugar-rush" >}})
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-Tragamonedas gótica con vampiros y varios modos de giros gratis ligados a sus personajes. Chamber of Spins ofrece distintas rondas.
+Chamber of Spins es el centro de Immortal Romance: sus personajes vampiros se asocian a distintos modos de giros gratis, cada uno con reglas propias.
 
 [Leer el perfil completo]({{< relref "slot-profiles/immortal-romance" >}})
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
-Tragamonedas Megaways con cinco leones dorados. La altura variable de los rodillos modifica las formas de ganar y los giros gratis ofrecen una ronda de bonificación independiente.
+Cinco leones dorados protagonizan esta tragamonedas Megaways. La altura variable de los rodillos cambia las formas de ganar y los giros gratis añaden una bonificación propia.
 
 [Leer el perfil completo]({{< relref "slot-profiles/5-lions-megaways" >}})
 
 <h2 id="le-bandit">Le Bandit</h2>
 
-Tragamonedas de clústeres con un mapache ladrón en un entorno parisino. Los grupos de símbolos ganadores y una bonificación basada en la recolección definen la partida.
+Un mapache ladrón recorre París en Le Bandit, una tragamonedas de grupos con función de recolección. Los símbolos recogidos dan forma al bono.
 
 [Leer el perfil completo]({{< relref "slot-profiles/le-bandit" >}})
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
-Tragamonedas del Salvaje Oeste con DuelReels. Los símbolos VS se expanden en rodillos Wild y aplican multiplicadores a sus premios; incluye varios bonos.
+DuelReels distingue esta tragamonedas del Oeste: los VS pueden expandirse en rodillos Wild y multiplicar premios que los atraviesan. Incluye varios modos de bono.
 
 [Leer el perfil completo]({{< relref "slot-profiles/wanted-dead-or-a-wild" >}})
 
 <h2 id="money-train-3">Money Train 3</h2>
 
-Tragamonedas de forajidos con una ronda de bonificación Hold and Respin. Los símbolos especiales recogen valores, modifican otros símbolos y pueden acumular multiplicadores.
+En la ronda Hold and Respin, los símbolos de forajidos cumplen distintos papeles: recogen valores, modifican símbolos o acumulan multiplicadores.
 
 [Leer el perfil completo]({{< relref "slot-profiles/money-train-3" >}})
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-Tragamonedas de forajidos con una ronda Hold and Respin ampliada. Los distintos símbolos especiales añaden efectos de colección, mejora y multiplicación.
+La ronda Hold and Respin ampliada incorpora más símbolos especiales, con efectos de recogida, mejora y multiplicación que cambian cada resultado.
 
 [Leer el perfil completo]({{< relref "slot-profiles/money-train-4" >}})
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
-Tragamonedas inspirada en la mitología nórdica con cuatro modos de giros gratis asociados a personajes. La bonificación se divide en cámaras con reglas diferentes.
+Cuatro personajes dan acceso a cámaras de giros gratis, cada una con un modificador propio. El avance entre modos define la bonificación.
 
 [Leer el perfil completo]({{< relref "slot-profiles/thunderstruck-ii" >}})
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
-Tragamonedas de clústeres de frutas 7×7. Los grupos ganadores pueden dejar símbolos Wild con multiplicadores crecientes, que en los giros gratis pueden alcanzar 729×.
+En la cuadrícula 7×7, las frutas forman grupos; los aciertos pueden dejar Wilds con multiplicadores crecientes, que en giros gratis llegan a 729×.
 
 [Leer el perfil completo]({{< relref "slot-profiles/fruit-party-2" >}})
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
-Tragamonedas de Zeus sin líneas tradicionales: los símbolos iguales pagan en cualquier posición, con cascadas y multiplicadores aleatorios.
+Con Zeus no hay líneas fijas: los símbolos iguales pagan en cualquier posición. Las caídas encadenan resultados y los multiplicadores aleatorios se combinan.
 
 [Leer el perfil completo]({{< relref "slot-profiles/gates-of-olympus" >}})
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
-Tragamonedas de aventuras con cascadas Avalanche: los símbolos ganadores desaparecen y son reemplazados. Las victorias consecutivas dentro de una tirada aumentan el multiplicador.
+Avalanche elimina los símbolos ganadores y deja caer otros nuevos. Cada acierto consecutivo dentro de la misma tirada eleva el multiplicador.
 
 [Leer el perfil completo]({{< relref "slot-profiles/gonzos-quest" >}})
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
-Slot colorida con dulces y frutas. Grupos de símbolos iguales pagan en cualquier posición; las cascadas y los multiplicadores aleatorios completan la mecánica.
+Caramelos y frutas pagan como grupos en cualquier zona de la cuadrícula. Tras cada acierto caen símbolos nuevos y los multiplicadores aleatorios pueden impulsar la secuencia.
 
 [Leer el perfil completo]({{< relref "slot-profiles/sweet-bonanza" >}})
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-Tragamonedas de naturaleza salvaje con giros gratis, símbolos grandes y una función independiente de respins de jackpot.
+Wolf Gold combina líneas de pago clásicas con símbolos enormes en los giros gratis; su función independiente de respins de jackpot sigue otras reglas.
 
 [Leer el perfil completo]({{< relref "slot-profiles/wolf-gold" >}})
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-Tragamonedas de safari con cuatro niveles de jackpot progresivo, independientes de los premios normales por símbolos.
+Cuatro niveles de jackpot progresivo acompañan al juego habitual de rodillos. Los giros gratis añaden una función de multiplicadores independiente.
 
 [Leer el perfil completo]({{< relref "slot-profiles/mega-moolah" >}})
 
 <h2 id="pirots-4">Pirots 4</h2>
 
-Tragamonedas espacial con cuadrícula de 6×6. CollectR, la expansión del tablero y las transformaciones de símbolos se combinan con Space Bandit y el juego de monedas Lost in Space.
+En una cuadrícula 6×6, Pirots 4 combina CollectR con un tablero expansible y cambios de símbolos; Space Bandit y Lost in Space aportan otros bonos.
 
 [Leer el perfil completo]({{< relref "slot-profiles/pirots-4" >}})
 
 <h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
 
-Tragamonedas en una mina helada que se derrumba. xBomb, xSplit, xGod y xHole cambian el tablero; Lucky Wagon Spins añade un bono aparte.
+En una mina helada que se derrumba, xBomb, xSplit, xGod y xHole alteran los rodillos. Lucky Wagon Spins ofrece una ronda de bonificación aparte.
 
 [Leer el perfil completo]({{< relref "slot-profiles/fire-in-the-hole-3" >}})
 
 <h2 id="razor-shark">Razor Shark</h2>
 
-Tragamonedas submarina de cinco rodillos, cuatro filas y 20 líneas. Mystery Stacks revelan símbolos; Golden Shark activa Razor Reveal y partidas gratis.
+Cinco rodillos, cuatro filas y 20 líneas: Mystery Stacks revela y desplaza símbolos. Golden Shark activa Razor Reveal y partidas gratis con multiplicadores crecientes.
 
 [Leer el perfil completo]({{< relref "slot-profiles/razor-shark" >}})
 
 <h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
 
-Tragamonedas surrealista de seis rodillos y 4.096 Connecting Pay Ways. Mystery Scatter puede activar giros gratis con transformaciones de símbolos y posibles reactivaciones.
+Sus seis rodillos ofrecen 4.096 Connecting Pay Ways. Mystery Scatter puede abrir giros gratis con transformaciones de símbolos y posibles reactivaciones.
 
 [Leer el perfil completo]({{< relref "slot-profiles/pink-elephants-2-reborn" >}})
 
 <h2 id="temple-tumble">Temple Tumble</h2>
 
-Aventura selvática: cuadrícula 6×6, 46.656 formas de ganar y Megaways bajo licencia. Cascadas y bloques rompibles conducen a giros gratis con tres mundos.
+Temple Tumble mezcla una cuadrícula 6×6, 46.656 formas de ganar y Megaways con licencia. Las cascadas y los bloques rompibles abren giros gratis en tres mundos.
 
 [Leer el perfil completo]({{< relref "slot-profiles/temple-tumble" >}})
 

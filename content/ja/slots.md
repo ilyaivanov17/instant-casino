@@ -122,127 +122,127 @@ Dead or Alive 2は西部劇を舞台に、複数のフリースピンモード�
 
 <h2 id="twin-spin">Twin Spin</h2>
 
-フルーツシンボルを使ったクラシックなスロットです。Twin Reel機能によって複数のリールが連動し、配置が変わることがあります。
+Twin SpinのTwin Reel機能は複数のリールを連動させ、配置を変えることがあります。フルーツシンボルを使ったクラシックなスロットです。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/twin-spin" >}})
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
-古代エジプトをモチーフにしたクラスター型スロットです。コレクションシンボルとボーナス機能があり、収集メカニズムがボーナスの進行を左右します。
+古代エジプトを舞台にクラスター配当とコレクションシンボルを採用。収集メカニズムがボーナスラウンドの進行に影響します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/hand-of-anubis" >}})
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
-7×7のクラスター型スロットで、連続落下とマス目に付く倍率が特徴です。フリースピン中はマークされた位置と倍率が維持されます。
+7×7の盤面で当たりクラスターが連続落下を発生させます。倍率付きのマス目はフリースピン中も位置と値を維持します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/sugar-rush" >}})
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-吸血鬼を題材にしたゴシック系スロットです。Chamber of Spinsでは登場人物に結びついた複数のフリースピンモードを選べます。
+Immortal Romanceの中心はChamber of Spins。吸血鬼の登場人物に結びついた複数のフリースピンモードがあり、それぞれ異なるルールで進行します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/immortal-romance" >}})
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
-5頭の黄金のライオンをテーマにしたMegawaysスロットです。リールの高さが変化して配当方法が変わり、フリースピンでは独立したボーナスラウンドが展開します。
+5頭の黄金のライオンがテーマのMegawaysスロット。リールの高さによって配当方法の数が変わり、フリースピンでは別のボーナスラウンドが展開します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/5-lions-megaways" >}})
 
 <h2 id="le-bandit">Le Bandit</h2>
 
-パリを舞台にしたアライグマの盗賊が登場するクラスター型スロットです。シンボルのグループ配当と収集型のボーナスがゲームの中心です。
+パリを駆け回るアライグマの盗賊が主人公。Le Banditはクラスター配当と収集機能を採用し、当たりグループと集めたシンボルがボーナスの展開を左右します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/le-bandit" >}})
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
-DuelReelsを搭載した西部劇テーマのスロットです。VSシンボルがWildリールに拡張し、そのリールを通る配当に倍率を適用することがあります。複数のボーナスモードも用意されています。
+DuelReelsが特徴の西部劇スロット。VSシンボルがWildリールへ拡張し、そのリールを通る配当に倍率を適用します。複数のボーナスモードもあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/wanted-dead-or-a-wild" >}})
 
 <h2 id="money-train-3">Money Train 3</h2>
 
-アウトローをテーマにしたHold and Respinボーナス搭載スロットです。特殊シンボルが値を集めたり、他のシンボルを変化させたり、倍率を蓄積したりします。
+Hold and Respin中はアウトローの特殊シンボルが役割を発揮。値を集めるもの、シンボルを変えるもの、倍率を育てるものがあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/money-train-3" >}})
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-アウトローをテーマにした拡張型Hold and Respinボーナス搭載スロットです。複数の特殊シンボルが収集、アップグレード、倍率効果をもたらします。
+拡張されたHold and Respinでは多彩な特殊シンボルが登場。値の収集、シンボルの強化、倍率効果が結果を左右します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/money-train-4" >}})
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
-北欧神話をテーマに、登場人物ごとに異なる4種類のフリースピンモードを備えています。ボーナスラウンドはそれぞれ異なるルールのチャンバーに分かれています。
+4人のキャラクターに対応したフリースピン用チャンバーを搭載し、それぞれ異なる修正効果が発動。モードの進行がボーナスの軸です。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/thunderstruck-ii" >}})
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
-7×7のフルーツクラスター型スロットです。勝利クラスターが倍率付きWildを残すことがあり、フリースピン中のWild倍率は最大729×に達する場合があります。
+7×7のグリッドでフルーツがクラスターを形成。勝利後に倍率付きWildが残ることがあり、フリースピンでは最大729×に達します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/fruit-party-2" >}})
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
-ゼウスをテーマにしたペイラインのないスロットです。同じシンボルが任意の位置で配当となり、カスケードが続き、ランダム倍率が加算されることがあります。
+ゼウスをテーマにしたペイラインなしの方式。同じシンボルは任意の位置で配当となり、カスケードとランダム倍率が連鎖します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/gates-of-olympus" >}})
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
-Avalancheカスケードを採用した冒険テーマのスロットです。勝利シンボルが消えて新しいシンボルに置き換わり、同一スピン内で連続して当たると倍率が上昇します。
+Avalancheでは勝利シンボルが消えて新しいシンボルが落下。同じスピン内で連続して当たるたびに倍率が上がります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/gonzos-quest" >}})
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
-お菓子とフルーツをテーマにしたカラフルなスロットです。同じシンボルのグループがグリッド上の任意の位置で配当となり、カスケードとランダム倍率が展開します。
+キャンディとフルーツのグループがグリッド上のどこでも配当対象に。勝利後は新しいシンボルが落下し、ランダム倍率が連鎖を強めます。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/sweet-bonanza" >}})
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-大自然をテーマに、フリースピン、大型シンボル、独立したジャックポットリスピン機能を備えています。ジャックポットラウンドには通常配当とは別のルールがあります。
+Wolf Goldは従来型のペイラインに加え、フリースピンで大型シンボルを採用。別枠のジャックポットリスピンには独自のルールがあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/wolf-gold" >}})
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-サファリをテーマにしたスロットで、4段階のプログレッシブジャックポットがあります。ジャックポットは通常のシンボル配当とは別の仕組みで、参加条件も異なります。
+通常のリールゲームとは別に4段階のプログレッシブジャックポットを搭載。フリースピンには独立した倍率機能もあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/mega-moolah" >}})
 
 <h2 id="pirots-4">Pirots 4</h2>
 
-6×6グリッドの宇宙テーマのスロットです。CollectR、フィールド拡張、シンボル変換に加え、Space BanditとLost in Spaceのコインゲームが登場します。
+6×6グリッドでCollectR、拡張するプレイエリア、シンボル変換が展開。Space BanditとLost in Spaceのコインゲームも登場します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/pirots-4" >}})
 
 <h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
 
-崩落する氷の鉱山が舞台のスロットです。xBomb、xSplit、xGod、xHoleがシンボルやプレイエリアを変化させ、Lucky Wagon Spinsでは独立したボーナス機能が展開します。
+氷の鉱山が崩落する中、xBomb、xSplit、xGod、xHoleがシンボルやリールを変化。Lucky Wagon Spinsは独立したボーナス機能です。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/fire-in-the-hole-3" >}})
 
 <h2 id="razor-shark">Razor Shark</h2>
 
-5リール、4段、20ペイラインの海中テーマのスロットです。Mystery Stacksがシンボルを公開し、Golden SharkでRazor Revealと倍率上昇型フリーゲームが発動します。
+5リール、4段、20ペイラインを採用。Mystery Stacksがシンボルを公開して下へ移動し、Golden SharkでRazor Revealと倍率上昇型フリーゲームが始まります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/razor-shark" >}})
 
 <h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
 
-6リール、4,096通りのConnecting Pay Waysを備えた幻想的なスロットです。Mystery Scatterでフリースピンが始まり、シンボル変換や再トリガーが発生することがあります。
+6リールで4,096通りのConnecting Pay Waysを形成。Mystery Scatterでフリースピンが始まり、シンボル変換や再トリガーが発生することもあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/pink-elephants-2-reborn" >}})
 
 <h2 id="temple-tumble">Temple Tumble</h2>
 
-6×6グリッド、46,656通りの配当方法、ライセンス供与されたMegaways方式を備えたジャングルアドベンチャーです。カスケードと壊せる石ブロックを経て、3つのボーナスワールドから選ぶフリースピンに進みます。
+6×6グリッドに46,656通りの配当方法とライセンス版Megawaysを採用。カスケードと破壊可能な石ブロックを経て、3つのボーナスワールドを選ぶフリースピンへ進みます。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/temple-tumble" >}})
 

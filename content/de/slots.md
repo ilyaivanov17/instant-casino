@@ -46,211 +46,211 @@ Spielermeinungen werden derzeit nicht als Beleg verwendet: Für die zuvor aufgef
 
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
-Das Angler-Thema und die Bonusmechanik geben Bigger Bass Bonanza seinen eigenen Charakter. In der hinterlegten Liste stehen Freispiele und Multiplikatoren. Entscheidend ist, welche Symbole die Bonusphase starten und wie die Spielhilfe den Ablauf beschreibt.
+Angel-Slot auf 4×5: Fisherman Wilds sammeln während der Freispiele sichtbare Geldsymbole; weitere Wilds können Spins und Multiplikatoren erhöhen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/bigger-bass-bonanza" >}})
 
 <h2 id="bonanza">Bonanza</h2>
 
-Bonanza von Big Time Gaming nutzt das Megaways-Prinzip mit variabler Walzenhöhe und Kaskaden. Die Freispiele bilden eine eigene Bonusphase. Die genauen Auslöser und Regeln sind in der Hilfe der geladenen Spielversion zu prüfen.
+Megaways-Minenslot mit bis zu 117.649 Gewinnwegen und Dual Reactions: Gewinnsymbole lösen Kaskaden in zwei Richtungen aus. Vier Scatter starten die Freispiele.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/bonanza" >}})
 
 <h2 id="book-of-dead">Book of Dead</h2>
 
-Book of Dead setzt auf eine Abenteuerwelt rund um das alte Ägypten. Im Mittelpunkt stehen das Buchmotiv, Scatter-Symbole und Freispiele; das erweiternde Symbol gehört zu den bekannten Merkmalen des Spiels. Wer sich für den Bonus interessiert, sollte vor dem Start nachlesen, wann Freispiele ausgelöst werden und welche Symbole sich erweitern können.
+Ägypten-Abenteuer mit Scatter-Symbolen und Freispielen. In der Bonusrunde wird ein Symbol ausgewählt, das die Walzen erweitern kann.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/book-of-dead" >}})
 
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
-Dragon's Luck ist ein Red-Tiger-Slot mit Drachenmotiv und den Funktionen Dragon Coin, Dragon's Help und Mega Coin. Prüfe die [offiziellen Spielinformationen](https://games.evolution.com/slots/dragons-luck/) sowie die Auszahlungstabelle der geladenen Version, um die genauen Regeln zu erfahren.
+Ein Drachenthema mit den Sonderfunktionen Dragon Coin, Dragon’s Help und Mega Coin. Die Spielhilfe erklärt die Auslöser und den Ablauf dieser Münzfunktionen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/dragons-luck" >}})
 
 <h2 id="fruit-party">Fruit Party</h2>
 
-Fruit Party verbindet eine helle Fruchtoptik mit Tumble-Gewinnen und Multiplikatoren. Die gespeicherte Funktionsliste nennt außerdem Freispiele. Wie sich Gewinne aufeinander aufbauen können und welche Bedingungen für den Bonus gelten, erklärt die Spielhilfe.
+Ein farbenfroher 7×7-Cluster-Slot mit Kaskaden. Golden-Fruit-Scatter starten Freispiele, in denen Gewinnblöcke zufällige Multiplikatoren erhalten können.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/fruit-party" >}})
 
 <h2 id="starburst">Starburst</h2>
 
-Starburst verbindet ein Weltraum- und Edelsteinmotiv mit einem klassischen Walzenlayout. Im Mittelpunkt stehen die expandierenden Wild-Symbole und die daran geknüpften Respins.
+Weltraum- und Edelsteinmotiv mit expandierenden Wild-Symbolen. Trifft das Wild auf den mittleren Walzen, kann es sich ausdehnen und Respins auslösen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/starburst" >}})
 
 <h2 id="the-dog-house">The Dog House</h2>
 
-The Dog House setzt auf ein Hundemotiv und kombiniert es mit Sticky Wilds und einer Freispiele-Bonusrunde. Die Sonderfunktionen prägen den Ablauf stärker als das Thema allein.
+Ein Hundethema mit Sticky Wilds und Freispiele-Bonusrunde. Die haftenden Wild-Symbole bleiben während der Funktion auf ihren Positionen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/the-dog-house" >}})
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
-Legacy of Dead greift das alte Ägypten als Spielthema auf. Zu den hinterlegten Merkmalen gehören Freispiele und expandierende Symbole.
+Ägyptisch inspiriertes Walzenspiel mit Freispielen und expandierendem Symbol. In der Bonusrunde kann ein ausgewähltes Symbol ganze Walzenbereiche füllen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/legacy-of-dead" >}})
 
 <h2 id="reactoonz">Reactoonz</h2>
 
-Reactoonz ist ein Cluster-Slot mit außerirdischen Figuren und der Quantum-Leap-Funktion. Gewinne entstehen nicht über klassische Gewinnlinien, sondern über zusammenhängende Symbolgruppen.
+Ein 7×7-Cluster-Slot mit außerirdischen Figuren. Gewinnende Gruppen laden Gargantoon auf; bei voller Energie löst Quantum Leap eine Kette von Sonderfunktionen aus.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/reactoonz" >}})
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
-Wild West Gold verbindet ein Western-Thema mit Sticky Wilds, Multiplikatoren und Respins. Diese Funktionen können den Verlauf einer Runde beeinflussen.
+Western-Slot mit Sticky Wilds und Respins. Die Wild-Symbole können während der Bonusfunktion auf den Walzen haften bleiben und weitere Kombinationen ermöglichen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/wild-west-gold" >}})
 
 <h2 id="starlight-princess">Starlight Princess</h2>
 
-Starlight Princess ist ein Fantasy-Slot, dessen Spielablauf von Kaskaden und zufällig erscheinenden Multiplikatoren geprägt wird.
+Fantasy-Slot mit Gewinnen für gleiche Symbole an beliebigen Positionen. Zufällige Multiplikatoren können sich addieren; im Freispiele-Bonus wird ein Gesamtmultiplikator aufgebaut.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/starlight-princess" >}})
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
-Buffalo King Megaways kombiniert ein Wildtiermotiv mit dem Megaways-Prinzip. Die Walzenhöhe kann variieren; außerdem gehören Kaskaden zu den hinterlegten Funktionen.
+Wildtier-Thema mit variabler Megaways-Walzenhöhe und Kaskaden. Die Zahl der Gewinnwege verändert sich mit der Symbolanzahl auf den Walzen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/buffalo-king-megaways" >}})
 
 <h2 id="mega-fortune">Mega Fortune</h2>
 
-Mega Fortune setzt auf ein Luxus- und Yachtmotiv. Neben einer Freispiele-Funktion ist ein separates progressives Jackpot-System als Merkmal hinterlegt.
+Luxus- und Yachtmotiv mit Freispielen und einem separaten progressiven Jackpot-System. Die Jackpot-Stufen folgen eigenen Teilnahme- und Auszahlungsregeln.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/mega-fortune" >}})
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
-Dead or Alive 2 greift das Western-Thema auf und bietet mehrere auswählbare Freispiele-Modi. Damit steht die Auswahl beziehungsweise Ausgestaltung der Bonusrunde im Mittelpunkt des Profils.
+Western-Slot mit mehreren auswählbaren Freispiele-Modi. Die Modi unterscheiden sich durch ihre jeweiligen Sonderregeln und Multiplikatoren.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/dead-or-alive-2" >}})
 
 <h2 id="twin-spin">Twin Spin</h2>
 
-Twin Spin orientiert sich an klassischen Fruchtsymbolen. Die Besonderheit ist die Twin-Reel-Funktion, durch die Walzen miteinander gekoppelt werden können.
+Klassischer Slot mit Fruchtsymbolen und gekoppelten Walzen. Die Twin-Reel-Funktion kann mehrere Walzen synchronisieren und so das Walzenbild verändern.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/twin-spin" >}})
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
-Hand of Anubis verbindet ein ägyptisch inspiriertes Thema mit Cluster-Auszahlungen, Sammelsymbolen und Bonusfunktionen.
+Ägyptisch inspiriertes Cluster-Spiel mit Sammelsymbolen und Bonusfunktionen. Die Sammelmechanik bestimmt, wie sich die Bonusrunde entwickelt.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/hand-of-anubis" >}})
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
-Sugar Rush nutzt ein 7×7-Spielfeld mit Cluster-Auszahlungen und Kaskaden. Multiplikatoren können nach den Spielregeln auf dem Spielfeld verbleiben.
+7×7-Cluster-Slot mit Kaskaden und Multiplikatoren auf markierten Spielfeldpositionen. Die Positionen und ihre Multiplikatoren bleiben während der Freispiele erhalten.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/sugar-rush" >}})
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-Immortal Romance ist ein Gothic-Slot mit Vampir- und Figurenmotiven. Das Profilmerkmal sind mehrere charakterbezogene Freispiele-Modi.
+Gothic-Slot mit Vampirfiguren und mehreren charakterbezogenen Freispiele-Modi. Die Chamber of Spins bietet unterschiedliche Varianten der Bonusrunde.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/immortal-romance" >}})
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
-5 Lions Megaways verbindet ein Löwenmotiv mit dem Megaways-System und einer Freispiele-Funktion.
+Megaways-Slot mit fünf goldenen Löwen als Motiv. Variable Walzenhöhen verändern die Gewinnwege; Freispiele ergänzen das Spiel um eine eigene Bonusrunde.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/5-lions-megaways" >}})
 
 <h2 id="le-bandit">Le Bandit</h2>
 
-Le Bandit ist ein Cluster-Slot mit Waschbär-Thema und einer sammelbasierten Bonusstruktur.
+Cluster-Slot mit einem Waschbär-Dieb im Pariser Setting. Gewinnende Symbolgruppen und eine sammelbasierte Bonusstruktur prägen den Spielablauf.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/le-bandit" >}})
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
-Wanted Dead or a Wild inszeniert ein Western-Duell und bietet mehrere Bonusmodi. Das Profil sollte deshalb vor allem die Unterschiede zwischen den Bonusabläufen verständlich machen.
+Western-Slot mit der DuelReels-Mechanik: VS-Symbole können zu Wild-Walzen werden, deren Multiplikator Gewinne auf der Walze erhöht. Mehrere Bonusmodi ergänzen das Spiel.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/wanted-dead-or-a-wild" >}})
 
 <h2 id="money-train-3">Money Train 3</h2>
 
-Money Train 3 stellt Outlaws und eine Bonusrunde mit persistenten Funktionssymbolen, Sammelmechaniken und Multiplikatoren in den Mittelpunkt.
+Outlaw-Thema mit einer Hold-and-Respin-Bonusrunde. Funktionssymbole sammeln Werte, verändern Symbole und können Multiplikatoren aufbauen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/money-train-3" >}})
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-Money Train 4 baut auf einem Hold-and-Respin-Ablauf mit mehreren Funktionssymbolen und unterschiedlichen Modifikatoren auf.
+Outlaw-Slot mit einer erweiterten Hold-and-Respin-Bonusrunde. Verschiedene Funktionssymbole bringen eigene Sammel-, Upgrade- und Multiplikatoreffekte mit.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/money-train-4" >}})
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
-Thunderstruck II nutzt Motive aus der nordischen Mythologie und bietet vier charakterbezogene Freispiele-Modi.
+Nordische Mythologie mit vier charakterbezogenen Freispiele-Modi. Die Bonusrunde ist in unterschiedliche Kammern mit eigenen Regeln aufgeteilt.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/thunderstruck-ii" >}})
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
-Fruit Party 2 knüpft an das Frucht- und Cluster-Thema an. Das Profil nennt weiterentwickelte Wild- und Multiplikatoreffekte sowie Freispiele.
+7×7-Frucht-Cluster-Slot: Gewinnende Cluster können Wilds mit wachsenden Multiplikatoren hinterlassen. In Freispielen können Wild-Multiplikatoren bis zu 729× erreichen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/fruit-party-2" >}})
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
-Gates of Olympus stellt Zeus in den Mittelpunkt und verzichtet auf klassische Gewinnlinien. Der Spielablauf kombiniert Kaskaden mit zufällig erscheinenden Multiplikatoren.
+Zeus-Thema ohne klassische Gewinnlinien: Gleiche Symbole zahlen an beliebigen Positionen, Kaskaden setzen Gewinne fort und zufällige Multiplikatoren können sich addieren.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/gates-of-olympus" >}})
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
-Gonzo's Quest ist ein Abenteuer-Slot mit Avalanche-Kaskaden und steigenden Multiplikatoren. Das zentrale Merkmal ist das wiederholte Nachrücken von Symbolen nach Treffern.
+Abenteuer-Slot mit Avalanche-Kaskaden: Gewinnsymbole verschwinden und werden ersetzt. Aufeinanderfolgende Avalanche-Treffer erhöhen den Multiplikator innerhalb eines Spins.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/gonzos-quest" >}})
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
-Sweet Bonanza setzt auf ein Süßigkeitenmotiv und Symbolgruppen statt klassischer Gewinnlinien. Tumble-Kaskaden und zufällige Multiplikatoren prägen den Rundenablauf.
+Farbenfroher Slot mit Süßigkeiten- und Fruchtsymbolen. Gewinne entstehen durch Symbolgruppen an beliebigen Positionen; Kaskaden und zufällige Multiplikatoren prägen den Ablauf.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/sweet-bonanza" >}})
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-Wolf Gold verbindet ein Wildnis-Thema mit Freispielen, übergroßen Symbolen und einer separaten Jackpot-Respin-Funktion.
+Wildnis-Thema mit Freispielen, übergroßen Symbolen und einer separaten Jackpot-Respin-Funktion. Die Jackpot-Runde folgt eigenen Regeln und ist von normalen Gewinnen getrennt.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/wolf-gold" >}})
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-Mega Moolah ist ein Safari-Slot, dessen besonderes Merkmal vier progressive Jackpot-Stufen sind.
+Safari-Slot mit vier progressiven Jackpot-Stufen. Das Jackpot-System ist von den regulären Symbolgewinnen getrennt und folgt eigenen Teilnahmebedingungen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/mega-moolah" >}})
 
 <h2 id="pirots-4">Pirots 4</h2>
 
-Pirots 4 verbindet ein Weltraumthema mit einem 6×6-Raster. CollectR, ein erweiterbares Spielfeld und Symbolveränderungen bestimmen die Runde. Zu den besonderen Elementen gehören Space Bandit und das Münzspiel Lost in Space.
+Weltraum-Slot auf einem 6×6-Raster. CollectR, ein erweiterbares Spielfeld und Symbolveränderungen prägen den Ablauf; dazu kommen Space Bandit und das Münzspiel Lost in Space.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/pirots-4" >}})
 
 <h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
 
-Fire in the Hole 3 spielt in einer frostigen Mine, deren Spielfläche sich durch Kaskaden verändert. xBomb-Wilds, xSplit und xHole beeinflussen Symbole und Raster; Lucky Wagon Spins bilden eine eigene Bonusphase.
+Slot in einer einstürzenden Eismine: xBomb, xSplit, xGod und xHole verändern Symbole und Spielfeld. Lucky Wagon Spins bilden eine eigene Bonusfunktion.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/fire-in-the-hole-3" >}})
 
 <h2 id="razor-shark">Razor Shark</h2>
 
-Razor Shark ist ein Unterwasser-Slot mit fünf Walzen, vier Reihen und 20 Gewinnlinien. Mystery Stacks werden aufgedeckt und können nach unten rücken. Goldene Shark-Symbole starten Razor Reveal; Freispiele ergänzen das Spiel um steigende Multiplikatoren.
+Unterwasser-Slot mit fünf Walzen, vier Reihen und 20 Gewinnlinien. Mystery Stacks decken Symbole auf; Golden Shark startet Razor Reveal und Freispiele.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/razor-shark" >}})
 
 <h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
 
-Pink Elephants 2 – Reborn ist ein surreal gestalteter Slot mit sechs Walzen und 4.096 Connecting Pay Ways. Ein Mystery Scatter kann Freispiele starten; die Bonusrunde bietet Symbolveränderungen und mögliche Retrigger.
+Surrealer Slot mit sechs Walzen und 4.096 Connecting Pay Ways. Mystery Scatter kann Freispiele mit Symbolveränderungen und möglichen Retriggern auslösen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/pink-elephants-2-reborn" >}})
 
 <h2 id="temple-tumble">Temple Tumble</h2>
 
-Temple Tumble ist ein Dschungel-Abenteuer auf einem 6×6-Raster mit bis zu 46.656 Gewinnwegen. Gewinnsymbole verschwinden in Kaskaden, während zerbrechende Steinblöcke den Weg in Freispiele öffnen. Dort wird eine von drei Bonuswelten gewählt.
+Dschungel-Abenteuer auf 6×6 mit 46.656 Gewinnwegen und lizenzierter Megaways-Mechanik. Kaskaden und Steinblöcke führen zu Freispielen mit drei Bonuswelten.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/temple-tumble" >}})
 

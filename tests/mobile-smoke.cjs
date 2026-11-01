@@ -261,16 +261,24 @@ async function inspectPage(page, path, expectedCards = null) {
     const headingVisible = await page.getByRole('heading', { name: item.heading }).count() === 1;
     const profileTableCount = await page.locator('table').count();
     const externalReviewLinks = await page.locator('a[href*="askgamblers.com"], a[href*="reddit.com"], a[href*="lcb.org"]').count();
-    const renderedText = await page.locator('body').innerText();
+    const bonanzaText = await page.locator('#bonanza').evaluate(el => {
+      let node = el;
+      let text = '';
+      while (node && !(node !== el && node.matches && node.matches('h2[id]'))) {
+        text += (node.innerText || '') + ' ';
+        node = node.nextElementSibling;
+      }
+      return text;
+    });
     const bonanzaWrongClaim = {
       '/en/slots/': /cluster-style wins/i,
       '/pl/slots/': /wygrane klastrowe/i,
       '/es/slots/': /premios por clústeres/i,
       '/pt/slots/': /vitórias por agrupamento/i,
       '/ja/slots/': /クラスター配当/
-    }[item.path].test(renderedText);
+    }[item.path].test(bonanzaText);
     const contentOk = profileTableCount >= 30 && externalReviewLinks === 0 &&
-      renderedText.includes('Megaways') && !bonanzaWrongClaim;
+      bonanzaText.includes('Megaways') && !bonanzaWrongClaim;
     let calculationOk = false;
     if (hubExists) {
       const form = hub.locator('[data-wager-form]');

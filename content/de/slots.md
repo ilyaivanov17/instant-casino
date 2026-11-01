@@ -88,43 +88,43 @@ Im Mittelpunkt von The Dog House stehen Sticky Wilds: Während der Freispiele bl
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
-Ägyptisch inspiriertes Walzenspiel mit Freispielen und expandierendem Symbol. In der Bonusrunde kann ein ausgewähltes Symbol ganze Walzenbereiche füllen.
+Scatter öffnen die Freispiele von Legacy of Dead. In der Bonusrunde wird ein Symbol ausgewählt, das sich ausdehnen und mehrere Positionen auf den Walzen abdecken kann.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/legacy-of-dead" >}})
 
 <h2 id="reactoonz">Reactoonz</h2>
 
-Ein 7×7-Cluster-Slot mit außerirdischen Figuren. Gewinnende Gruppen laden Gargantoon auf; bei voller Energie löst Quantum Leap eine Kette von Sonderfunktionen aus.
+Auf dem 7×7-Raster bilden gleiche Symbole Cluster. Treffer laden Gargantoon auf; ist die Anzeige voll, startet Quantum Leap eine Abfolge zusätzlicher Funktionen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/reactoonz" >}})
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
-Western-Slot mit Sticky Wilds und Respins. Die Wild-Symbole können während der Bonusfunktion auf den Walzen haften bleiben und weitere Kombinationen ermöglichen.
+Wild West Gold verbindet das Western-Thema mit Sticky Wilds und Respins. Während der Funktion können Wild-Symbole auf den Walzen bleiben und spätere Kombinationen ergänzen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/wild-west-gold" >}})
 
 <h2 id="starlight-princess">Starlight Princess</h2>
 
-Fantasy-Slot mit Gewinnen für gleiche Symbole an beliebigen Positionen. Zufällige Multiplikatoren können sich addieren; im Freispiele-Bonus wird ein Gesamtmultiplikator aufgebaut.
+Starlight Princess zahlt gleiche Symbole überall auf dem Raster. Zufällige Multiplikatoren addieren sich; Freispiele bauen einen Gesamtmultiplikator auf.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/starlight-princess" >}})
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
-Wildtier-Thema mit variabler Megaways-Walzenhöhe und Kaskaden. Die Zahl der Gewinnwege verändert sich mit der Symbolanzahl auf den Walzen.
+Bei Buffalo King Megaways verändert die Symbolzahl pro Walze die Walzenhöhe und damit die Gewinnwege. Kaskaden lassen Treffer verschwinden und neue Symbole nachrücken.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/buffalo-king-megaways" >}})
 
 <h2 id="mega-fortune">Mega Fortune</h2>
 
-Luxus- und Yachtmotiv mit Freispielen und einem separaten progressiven Jackpot-System. Die Jackpot-Stufen folgen eigenen Teilnahme- und Auszahlungsregeln.
+Mega Fortune verbindet Yachten und Luxus mit Freispielen und progressiven Jackpots. Jede Jackpot-Stufe hat eigene Teilnahmebedingungen und Regeln.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/mega-fortune" >}})
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
-Western-Slot mit mehreren auswählbaren Freispiele-Modi. Die Modi unterscheiden sich durch ihre jeweiligen Sonderregeln und Multiplikatoren.
+Dead or Alive 2 verlegt die Action in den Wilden Westen und bietet mehrere Freispiele-Modi zur Auswahl. Jeder Modus bringt eigene Modifikatoren und Bonusregeln mit.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/dead-or-alive-2" >}})
 

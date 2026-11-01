@@ -230,7 +230,7 @@ async function inspectPage(page, path, expectedCards = null) {
   await search.fill('frutas de colores');
   const crossLanguageMatches = await searchPage.locator('.slot-game-card:visible').count();
   // Search a phrase that appears in the game description, not the title/provider.
-  await search.fill('Megaways mining slot');
+  await search.fill('Dual Reactions');
   const descriptionMatches = await searchPage.locator('.slot-game-card:visible').count();
   const descriptionMatchTitle = await searchPage.locator('.slot-game-card:visible h3').first().textContent();
   // Longer editorial/profile text must not be searchable.

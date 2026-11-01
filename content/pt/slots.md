@@ -80,43 +80,43 @@ The Dog House destaca os Sticky Wilds: durante as rodadas grátis, estes símbol
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
-Slot inspirado no antigo Egito, com rodadas grátis e um símbolo expansível. Durante o bónus, um símbolo selecionado pode ocupar posições nos rolos.
+Os símbolos Scatter iniciam as rodadas grátis de Legacy of Dead. No bónus, um símbolo escolhido pode expandir-se por várias posições dos rolos.
 
 [Ler o perfil completo]({{< relref "slot-profiles/legacy-of-dead" >}})
 
 <h2 id="reactoonz">Reactoonz</h2>
 
-Slot de clusters 7×7 com alienígenas. Os grupos vencedores carregam Gargantoon; Quantum Leap ativa funções especiais quando a energia fica completa.
+Na grelha 7×7, símbolos iguais formam grupos. As vitórias carregam Gargantoon; quando fica cheio, Quantum Leap desencadeia uma sequência de funcionalidades.
 
 [Ler o perfil completo]({{< relref "slot-profiles/reactoonz" >}})
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
-Slot do Oeste Selvagem com Sticky Wilds e respins. Os símbolos Wild podem permanecer nos rolos durante a funcionalidade e participar em combinações seguintes.
+Wild West Gold combina o tema do Oeste com Sticky Wilds e respins. Durante a funcionalidade, os Wilds podem ficar nos rolos e integrar combinações seguintes.
 
 [Ler o perfil completo]({{< relref "slot-profiles/wild-west-gold" >}})
 
 <h2 id="starlight-princess">Starlight Princess</h2>
 
-Slot de fantasia que paga por símbolos iguais em qualquer posição da grelha. Os multiplicadores aleatórios podem somar-se e as rodadas grátis acumulam um multiplicador total.
+Starlight Princess paga por símbolos iguais em qualquer posição da grelha. Os multiplicadores aleatórios podem somar-se e as rodadas grátis acumulam um total.
 
 [Ler o perfil completo]({{< relref "slot-profiles/starlight-princess" >}})
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
-Slot de vida selvagem com rolos Megaways de altura variável e cascatas. O número de formas de ganhar muda consoante a quantidade de símbolos em cada rolo.
+Em Buffalo King Megaways, a quantidade de símbolos altera a altura dos rolos e as formas de ganhar. As cascatas removem os símbolos vencedores e fazem cair outros.
 
 [Ler o perfil completo]({{< relref "slot-profiles/buffalo-king-megaways" >}})
 
 <h2 id="mega-fortune">Mega Fortune</h2>
 
-Slot com temática de luxo e iates, com rodadas grátis e um sistema de jackpot progressivo separado. Cada nível do jackpot tem regras próprias de elegibilidade e atribuição.
+Mega Fortune junta o tema de iates e luxo a rodadas grátis e jackpots progressivos. Cada nível tem regras próprias e funciona à parte dos prémios normais.
 
 [Ler o perfil completo]({{< relref "slot-profiles/mega-fortune" >}})
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
-Slot do Oeste Selvagem com vários modos de rodadas grátis à escolha. Cada modo tem os seus próprios modificadores e regras de bónus.
+Dead or Alive 2 leva a ação para o Oeste Selvagem e permite escolher entre vários modos de rodadas grátis. Cada modo tem modificadores e regras de bónus próprios.
 
 [Ler o perfil completo]({{< relref "slot-profiles/dead-or-alive-2" >}})
 

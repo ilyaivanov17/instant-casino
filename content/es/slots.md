@@ -80,43 +80,43 @@ The Dog House centra su bonificación en los Sticky Wilds, que permanecen en su 
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
-Tragamonedas ambientada en el antiguo Egipto, con giros gratis y un símbolo expansivo. Durante la bonificación, un símbolo seleccionado puede ocupar posiciones de los rodillos.
+Los símbolos Scatter activan los giros gratis de Legacy of Dead. En la bonificación se elige un símbolo que puede expandirse por varias posiciones de los rodillos.
 
 [Leer el perfil completo]({{< relref "slot-profiles/legacy-of-dead" >}})
 
 <h2 id="reactoonz">Reactoonz</h2>
 
-Slot de clústeres 7×7 con alienígenas. Los grupos ganadores cargan a Gargantoon; Quantum Leap activa funciones especiales al completar la energía.
+En la cuadrícula 7×7, los símbolos iguales forman grupos. Los aciertos cargan Gargantoon y, al completarse, Quantum Leap activa una secuencia de funciones especiales.
 
 [Leer el perfil completo]({{< relref "slot-profiles/reactoonz" >}})
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
-Tragamonedas del Salvaje Oeste con Sticky Wilds y respins. Los símbolos Wild pueden quedarse en los rodillos durante la función y formar parte de combinaciones posteriores.
+Wild West Gold lleva Sticky Wilds y respins a un escenario del Oeste. Durante la función, los Wild pueden quedarse en los rodillos y participar en combinaciones posteriores.
 
 [Leer el perfil completo]({{< relref "slot-profiles/wild-west-gold" >}})
 
 <h2 id="starlight-princess">Starlight Princess</h2>
 
-Tragamonedas de fantasía: los símbolos iguales pagan en cualquier posición. Los multiplicadores se suman y los giros gratis acumulan un total.
+Starlight Princess paga por símbolos iguales en cualquier lugar de la cuadrícula. Los multiplicadores aleatorios pueden sumarse y los giros gratis acumulan un total.
 
 [Leer el perfil completo]({{< relref "slot-profiles/starlight-princess" >}})
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
-Tragamonedas de fauna salvaje con rodillos Megaways de altura variable y cascadas. El número de formas de ganar cambia según la cantidad de símbolos en cada rodillo.
+En Buffalo King Megaways, la cantidad de símbolos cambia la altura de los rodillos y las formas de ganar. Las cascadas retiran los aciertos y dejan caer nuevos símbolos.
 
 [Leer el perfil completo]({{< relref "slot-profiles/buffalo-king-megaways" >}})
 
 <h2 id="mega-fortune">Mega Fortune</h2>
 
-Tragamonedas de lujo con yate, giros gratis y un sistema de jackpot progresivo independiente.
+Mega Fortune combina yates y lujo con giros gratis y jackpots progresivos. Cada nivel tiene requisitos propios y se gestiona por separado de los premios normales.
 
 [Leer el perfil completo]({{< relref "slot-profiles/mega-fortune" >}})
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
-Tragamonedas del Salvaje Oeste con varios modos de giros gratis a elegir. Cada modo tiene sus propios modificadores y reglas de bonificación.
+Dead or Alive 2 lleva la acción al Salvaje Oeste y permite elegir entre varios modos de giros gratis. Cada uno aplica modificadores y reglas de bonificación distintos.
 
 [Leer el perfil completo]({{< relref "slot-profiles/dead-or-alive-2" >}})
 

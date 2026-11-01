@@ -80,43 +80,43 @@ W The Dog House najważniejsze są Sticky Wilds: podczas darmowych spinów pozos
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
-Slot inspirowany starożytnym Egiptem, z darmowymi spinami i rozszerzającym się symbolem. W rundzie bonusowej wybrany symbol może wypełnić pozycje na bębnach.
+Symbole Scatter uruchamiają darmowe spiny w Legacy of Dead. W rundzie bonusowej wybrany symbol może rozszerzyć się na kilka pozycji bębnów.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/legacy-of-dead" >}})
 
 <h2 id="reactoonz">Reactoonz</h2>
 
-Slot klastrowy 7×7 z postaciami kosmitów. Wygrywające grupy ładują Gargantoon, a po zebraniu pełnej energii Quantum Leap uruchamia serię dodatkowych funkcji.
+Na planszy 7×7 takie same symbole tworzą klastry. Wygrane ładują Gargantoon, a po zapełnieniu wskaźnika Quantum Leap uruchamia serię dodatkowych funkcji.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/reactoonz" >}})
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
-Slot w klimacie Dzikiego Zachodu z funkcjami Sticky Wild i respinami. Symbole Wild mogą pozostawać na bębnach podczas funkcji bonusowej i uczestniczyć w kolejnych układach.
+Wild West Gold łączy westernową tematykę ze Sticky Wilds i respinami. Podczas funkcji symbole Wild mogą pozostać na bębnach i brać udział w kolejnych układach.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/wild-west-gold" >}})
 
 <h2 id="starlight-princess">Starlight Princess</h2>
 
-Slot fantasy z wygranymi za takie same symbole w dowolnym miejscu na planszy. Losowe mnożniki sumują się, a podczas darmowych spinów budowany jest łączny mnożnik.
+Starlight Princess wypłaca za takie same symbole w dowolnym miejscu planszy. Losowe mnożniki mogą się sumować, a darmowe spiny budują łączny mnożnik.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/starlight-princess" >}})
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
-Slot z motywem dzikiej przyrody, zmienną wysokością bębnów Megaways i kaskadami. Liczba sposobów wygrywania zależy od liczby symboli na bębnach.
+W Buffalo King Megaways liczba symboli zmienia wysokość bębnów i liczbę sposobów wygrywania. Kaskady usuwają wygrywające symbole, a na ich miejsce spadają kolejne.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/buffalo-king-megaways" >}})
 
 <h2 id="mega-fortune">Mega Fortune</h2>
 
-Slot o motywie luksusu i jachtów, z darmowymi spinami oraz osobnym systemem progresywnego jackpota. Poziomy jackpota mają własne zasady udziału i przyznawania nagród.
+Mega Fortune łączy motyw luksusu i jachtów z darmowymi spinami oraz progresywnymi jackpotami. Każdy poziom ma własne warunki udziału i zasady przyznawania nagród.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/mega-fortune" >}})
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
-Slot w klimacie Dzikiego Zachodu z kilkoma trybami darmowych spinów do wyboru. Każdy tryb ma własne modyfikatory i zasady bonusu.
+Dead or Alive 2 przenosi akcję na Dziki Zachód i oferuje kilka trybów darmowych spinów do wyboru. Każdy ma własne modyfikatory i zasady bonusu.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/dead-or-alive-2" >}})
 

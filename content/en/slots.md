@@ -80,43 +80,43 @@ The Dog House builds its free-spins feature around Sticky Wilds: once they land,
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
-An ancient-Egypt themed reel slot with free spins and an expanding symbol. During the bonus, a selected symbol can fill reel positions.
+Scatter symbols open Legacy of Dead’s free spins. During the bonus, one selected symbol can expand across several reel positions.
 
 [Read the full game profile]({{< relref "slot-profiles/legacy-of-dead" >}})
 
 <h2 id="reactoonz">Reactoonz</h2>
 
-A 7×7 cluster slot featuring alien characters. Winning clusters charge Gargantoon; once fully charged, Quantum Leap unleashes a chain of special features.
+Matching symbols form clusters on Reactoonz’s 7×7 grid. Wins charge Gargantoon; when it is full, Quantum Leap sets off a sequence of extra features.
 
 [Read the full game profile]({{< relref "slot-profiles/reactoonz" >}})
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
-A Wild West slot with Sticky Wilds and respins. Wild symbols can stay on the reels during the feature and contribute to later combinations.
+Wild West Gold brings Sticky Wilds and respins to its Western setting. Wild symbols can stay on the reels during the feature and contribute to later combinations.
 
 [Read the full game profile]({{< relref "slot-profiles/wild-west-gold" >}})
 
 <h2 id="starlight-princess">Starlight Princess</h2>
 
-A fantasy slot that pays for matching symbols anywhere on the grid. Random multipliers can add together, while free spins build a running multiplier.
+Starlight Princess pays for matching symbols anywhere on the grid. Random multipliers can add together, while free spins build a running total multiplier.
 
 [Read the full game profile]({{< relref "slot-profiles/starlight-princess" >}})
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
-A wildlife-themed Megaways slot with variable reel heights and cascades. The number of ways changes with the number of symbols on each reel.
+In Buffalo King Megaways, changing symbol counts alter reel heights and the available ways to win. Cascades remove winning symbols and let new ones drop into place.
 
 [Read the full game profile]({{< relref "slot-profiles/buffalo-king-megaways" >}})
 
 <h2 id="mega-fortune">Mega Fortune</h2>
 
-A luxury-and-yacht themed slot with free spins and a separate progressive jackpot system. Jackpot tiers have their own eligibility and award rules.
+Mega Fortune pairs a yacht-and-luxury theme with free spins and progressive jackpots. Each jackpot tier has its own eligibility rules and is separate from regular symbol wins.
 
 [Read the full game profile]({{< relref "slot-profiles/mega-fortune" >}})
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
-A Wild West slot with several selectable free-spins modes. Each mode has its own modifiers and bonus rules.
+Dead or Alive 2 sets its action in the Wild West and offers several free-spins modes to choose from. Each mode comes with its own modifiers and bonus rules.
 
 [Read the full game profile]({{< relref "slot-profiles/dead-or-alive-2" >}})
 

@@ -80,43 +80,43 @@ The Dog HouseのフリースピンではSticky Wildが同じ位置に残りま�
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
-古代エジプトをテーマにしたリールスロットです。フリースピン中、選択されたシンボルがリール上に拡張して表示されます。
+ScatterでLegacy of Deadのフリースピンが始まります。ボーナス中に選ばれたシンボルは、複数のリール位置へ拡張することがあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/legacy-of-dead" >}})
 
 <h2 id="reactoonz">Reactoonz</h2>
 
-エイリアンが登場する7×7のクラスター型スロットです。勝利クラスターでGargantoonがチャージされ、満タンになるとQuantum Leapが連続した特殊機能を発動します。
+7×7の盤面で同じシンボルがクラスターを形成。配当でGargantoonがチャージされ、満タンになるとQuantum Leapが特殊機能を連続して発動します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/reactoonz" >}})
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
-西部劇をテーマに、Sticky Wildとリスピンを備えています。ボーナス中にWildがリール上に残り、後続の組み合わせに加わることがあります。
+西部劇を舞台にSticky Wildとリスピンを搭載。機能中にWildがリール上に残り、その後の組み合わせに加わることがあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/wild-west-gold" >}})
 
 <h2 id="starlight-princess">Starlight Princess</h2>
 
-同じシンボルがグリッド上の任意の位置に8個以上そろうと配当されるファンタジースロットです。ランダム倍率は加算され、フリースピン中は累積倍率になります。
+Starlight Princessは盤面のどこでも同じシンボルがそろうと配当。ランダム倍率は加算され、フリースピン中は累積倍率として引き継がれます。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/starlight-princess" >}})
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
-野生動物をテーマにしたMegawaysスロットです。リールの高さが変化し、シンボル数に応じて配当方法の数も変わります。
+Buffalo King Megawaysでは、リール上のシンボル数に応じて高さと配当方法の数が変化。カスケードで当たりシンボルが消え、新しいシンボルが落下します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/buffalo-king-megaways" >}})
 
 <h2 id="mega-fortune">Mega Fortune</h2>
 
-豪華なヨットをテーマに、フリースピンと独立したプログレッシブジャックポットを備えています。ジャックポットの各段階には固有の参加条件と賞金ルールがあります。
+ヨットと豪華さをテーマに、フリースピンとプログレッシブジャックポットを搭載。各段階には独自の参加条件があり、通常配当とは別に扱われます。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/mega-fortune" >}})
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
-西部劇をテーマに、複数のフリースピンモードを選べます。各モードには異なる修正効果とボーナスルールがあります。
+Dead or Alive 2は西部劇を舞台に、複数のフリースピンモードから選択できます。モードごとに異なる効果とボーナスルールが用意されています。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/dead-or-alive-2" >}})
 

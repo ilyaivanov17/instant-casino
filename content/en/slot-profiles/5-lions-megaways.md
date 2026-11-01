@@ -1,7 +1,7 @@
 ---
 title: "5 Lions Megaways – Slot profile"
-description: "Megaways · Asian mythology"
-seo_title: "5 Lions Megaways: Slot: features & mechanics | Instant Casino"
+description: "A slot built around five golden lions in an Asian-inspired temple setting, featuring Megaways reels and free spins."
+seo_title: "5 Lions Megaways: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-5-lions-megaways"
 url: "/en/slots/5-lions-megaways/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Megaways · Asian mythology](/images/slots/catalog-5-lions-megaways.webp)
+![5 Lions Megaways slot game artwork showing five golden lions in an Asian-inspired temple setting.](/images/slots/catalog-5-lions-megaways.webp)
 
 A slot built around five golden lions in an Asian-inspired temple setting, featuring Megaways reels and free spins.
 

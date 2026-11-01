@@ -1,7 +1,7 @@
 ---
 title: "Money Train 3 – Slot profile"
-description: "Bonus symbols · Multipliers"
-seo_title: "Money Train 3: Slot: features & mechanics | Instant Casino"
+description: "A slot built around a futuristic train and two outlaws, featuring bonus symbols and multiplier features."
+seo_title: "Money Train 3: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-money-train-3"
 url: "/en/slots/money-train-3/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Bonus symbols · Multipliers](/images/slots/catalog-money-train-3.webp)
+![Money Train 3 slot game artwork showing a futuristic train and two outlaws.](/images/slots/catalog-money-train-3.webp)
 
 A slot built around a futuristic train and two outlaws, featuring bonus symbols and multiplier features.
 

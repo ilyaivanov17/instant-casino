@@ -1,7 +1,7 @@
 ---
 title: "Dead or Alive 2 – Slot profile"
-description: "Wild West · Free-spins modes"
-seo_title: "Dead or Alive 2: Slot: features & mechanics | Instant Casino"
+description: "A slot built around a dusty Wild West town and gunslingers, featuring multiple free-spins modes."
+seo_title: "Dead or Alive 2: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-dead-or-alive-2"
 url: "/en/slots/dead-or-alive-2/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Wild West · Free-spins modes](/images/slots/catalog-dead-or-alive-2.webp)
+![Dead or Alive 2 slot game artwork showing a dusty Wild West town and gunslingers.](/images/slots/catalog-dead-or-alive-2.webp)
 
 A slot built around a dusty Wild West town and gunslingers, featuring multiple free-spins modes.
 

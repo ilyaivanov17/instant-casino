@@ -1,11 +1,11 @@
 ---
 title: "Pink Elephants 2 – Reborn – Slot-Profil"
-description: "Connecting Pay Ways · Mystery Scatter · Retrigger"
-seo_title: "Pink Elephants 2 – Reborn: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein surrealer Slot mit sechs Walzen und 4.096 Connecting Pay Ways. Der Mystery Scatter kann Freispiele starten; in der Bonusrunde gibt es Symbolveränderungen und mögliche…"
+seo_title: "Pink Elephants 2 – Reborn: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-pink-elephants-2-reborn"
 url: "/slots/pink-elephants-2-reborn/"
-ogImage: "https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg"
+ogImage: "\"https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Connecting Pay Ways · Mystery Scatter · Retrigger](https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg)
+![Pink Elephants 2 – Reborn Spielgrafik mit pinkem Elefanten und fantasievollen Ziegen]("https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg")
 
 Pink Elephants 2 – Reborn ist ein surreal gestalteter Slot mit sechs Walzen und 4.096 Connecting Pay Ways. Ein Mystery Scatter kann Freispiele starten; die Bonusrunde bietet Symbolveränderungen und mögliche Retrigger.
 

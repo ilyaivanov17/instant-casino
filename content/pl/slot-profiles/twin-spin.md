@@ -1,7 +1,7 @@
 ---
 title: "Twin Spin – profil gry"
-description: "klasyczne symbole automatów i połączone bębny"
-seo_title: "Twin Spin: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem klasyczne symbole automatów i połączone bębny, z funkcją: funkcje podwójnych bębnów i losowe symbole."
+seo_title: "Twin Spin: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-twin-spin"
 url: "/pl/slots/twin-spin/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![klasyczne symbole automatów i połączone bębny](/images/slots/catalog-twin-spin.webp)
+![Grafika gry Twin Spin przedstawiająca klasyczne symbole automatów i połączone bębny.](/images/slots/catalog-twin-spin.webp)
 
 Slot inspirowany motywem klasyczne symbole automatów i połączone bębny, z funkcją: funkcje podwójnych bębnów i losowe symbole.
 

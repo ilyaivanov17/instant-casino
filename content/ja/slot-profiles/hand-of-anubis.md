@@ -1,7 +1,7 @@
 ---
 title: "Hand of Anubis ：ゲームプロフィール"
-description: "アヌビスと古代エジプトのモチーフ"
-seo_title: "Hand of Anubis: 機能とゲームの仕組み | Instant Casino"
+description: "アヌビスと古代エジプトのモチーフをテーマに、コレクションシンボルとボーナス機能を備えたスロットです。"
+seo_title: "Hand of Anubis: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-hand-of-anubis"
 url: "/ja/slots/hand-of-anubis/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![アヌビスと古代エジプトのモチーフ](/images/slots/catalog-hand-of-anubis.webp)
+![Hand of Anubisのゲームアート。アヌビスと古代エジプトのモチーフを描いています。](/images/slots/catalog-hand-of-anubis.webp)
 
 アヌビスと古代エジプトのモチーフをテーマに、コレクションシンボルとボーナス機能を備えたスロットです。
 

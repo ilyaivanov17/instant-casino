@@ -1,7 +1,7 @@
 ---
 title: "Starlight Princess – profil gry"
-description: "magiczna księżniczka w świecie fantasy"
-seo_title: "Starlight Princess: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem magiczna księżniczka w świecie fantasy, z funkcją: wygrane kaskadowe i mnożniki."
+seo_title: "Starlight Princess: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-starlight-princess"
 url: "/pl/slots/starlight-princess/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![magiczna księżniczka w świecie fantasy](/images/slots/catalog-starlight-princess.webp)
+![Grafika gry Starlight Princess przedstawiająca magiczna księżniczka w świecie fantasy.](/images/slots/catalog-starlight-princess.webp)
 
 Slot inspirowany motywem magiczna księżniczka w świecie fantasy, z funkcją: wygrane kaskadowe i mnożniki.
 

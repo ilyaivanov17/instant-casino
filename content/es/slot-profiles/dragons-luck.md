@@ -1,7 +1,7 @@
 ---
 title: "Dragon's Luck – perfil de juego"
-description: "Dragón · Funciones de monedas"
-seo_title: "Dragon's Luck: funciones y mecánica | Instant Casino"
+description: "Una temática de dragones de Asia oriental con funciones Dragon Coin y Mega Coin."
+seo_title: "Dragon's Luck: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-dragons-luck"
 url: "/es/slots/dragons-luck/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Dragón · Funciones de monedas](/images/slots/dragons-luck-cover.webp)
+![Arte de Dragon's Luck con una cabeza de dragón dorada sobre fondo rojo](/images/slots/dragons-luck-cover.webp)
 
 Dragon's Luck es una tragamonedas de Red Tiger con temática de dragones y las funciones Dragon Coin, Dragon's Help y Mega Coin. Consulta la información oficial del juego y la tabla de pagos de la versión activa para conocer sus reglas exactas.
 

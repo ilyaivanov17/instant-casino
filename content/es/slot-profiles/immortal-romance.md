@@ -1,7 +1,7 @@
 ---
 title: "Immortal Romance – perfil de juego"
-description: "personajes vampíricos y un romance gótico"
-seo_title: "Immortal Romance: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en personajes vampíricos y un romance gótico, con giros gratis y la función Wild Desire."
+seo_title: "Immortal Romance: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-immortal-romance"
 url: "/es/slots/immortal-romance/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![personajes vampíricos y un romance gótico](/images/slots/catalog-immortal-romance.webp)
+![Arte del juego Immortal Romance con personajes vampíricos y un romance gótico.](/images/slots/catalog-immortal-romance.webp)
 
 Una tragamonedas ambientada en personajes vampíricos y un romance gótico, con giros gratis y la función Wild Desire.
 

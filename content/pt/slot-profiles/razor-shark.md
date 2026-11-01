@@ -1,11 +1,11 @@
 ---
 title: "Razor Shark – perfil do jogo"
-description: "Mystery Stacks · Razor Reveal · jogos grátis"
+description: "Um slot subaquático com cinco rolos, quatro filas e 20 linhas. Mystery Stacks revelam e deslocam símbolos; os tubarões dourados ativam Razor Reveal e jogos grátis com…"
 seo_title: "Razor Shark: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-razor-shark"
 url: "/pt/slots/razor-shark/"
-ogImage: "https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50"
+ogImage: "\"https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Mystery Stacks · Razor Reveal · jogos grátis](https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50)
+![Arte de Razor Shark com um grande tubarão sobre um fundo subaquático azul]("https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50")
 
 Razor Shark é um slot subaquático com cinco rolos, quatro filas e 20 linhas. Mystery Stacks revelam símbolos e podem deslocar-se para baixo. Os Golden Shark ativam Razor Reveal e os jogos grátis acrescentam multiplicadores crescentes.
 

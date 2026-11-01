@@ -1,7 +1,7 @@
 ---
 title: "Buffalo King Megaways ：ゲームプロフィール"
-description: "北米の草原に暮らすバッファローと野生動物"
-seo_title: "Buffalo King Megaways: 機能とゲームの仕組み | Instant Casino"
+description: "北米の草原に暮らすバッファローと野生動物をテーマに、Megawaysリールとカスケードを備えたスロットです。"
+seo_title: "Buffalo King Megaways: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-buffalo-king-megaways"
 url: "/ja/slots/buffalo-king-megaways/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![北米の草原に暮らすバッファローと野生動物](/images/slots/catalog-buffalo-king-megaways.webp)
+![Buffalo King Megawaysのゲームアート。北米の草原に暮らすバッファローと野生動物を描いています。](/images/slots/catalog-buffalo-king-megaways.webp)
 
 北米の草原に暮らすバッファローと野生動物をテーマに、Megawaysリールとカスケードを備えたスロットです。
 

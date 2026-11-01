@@ -1,7 +1,7 @@
 ---
 title: "Fruit Party ：ゲームプロフィール"
-description: "フルーツ · 倍率"
-seo_title: "Fruit Party: 機能とゲームの仕組み | Instant Casino"
+description: "7×7のカラフルなクラスターゲームで、シンボル倍率とフリースピン機能を備えています。"
+seo_title: "Fruit Party: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-fruit-party"
 url: "/ja/slots/fruit-party/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![フルーツ · 倍率](/images/slots/fruit-party-cover.webp)
+![カラフルなフルーツと多色のタイトルを描いたFruit Partyのゲームアート](/images/slots/fruit-party-cover.webp)
 
 Fruit Party には独自のテーマと機能があります。登録されている機能は タンブル機能、配当倍率、フリースピン です。プレイ前にゲーム内ヘルプと配当表を確認し、機能の発動条件や利用できるバージョンの制限を把握してください。
 

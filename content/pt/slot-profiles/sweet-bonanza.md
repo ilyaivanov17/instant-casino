@@ -1,6 +1,6 @@
 ---
 title: "Sweet Bonanza – perfil do jogo"
-description: "doces e frutas num mundo de fantasia colorido"
+description: "Um slot inspirado em doces e frutas num mundo de fantasia colorido, com prémios em cascata e multiplicadores."
 seo_title: "Sweet Bonanza: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-sweet-bonanza"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![doces e frutas num mundo de fantasia colorido](/images/slots/sweet-bonanza.jpg)
+![Arte do jogo Sweet Bonanza com doces e frutas num mundo de fantasia colorido.](/images/slots/sweet-bonanza.jpg)
 
 Um slot inspirado em doces e frutas num mundo de fantasia colorido, com prémios em cascata e multiplicadores.
 

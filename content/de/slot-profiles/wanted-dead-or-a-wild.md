@@ -1,7 +1,7 @@
 ---
 title: "Wanted Dead or a Wild – Slot-Profil"
-description: "Western · Duell · Bonusmodi"
-seo_title: "Wanted Dead or a Wild: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Western-Slot mit mehreren Bonusmodi und Duell-Inszenierung."
+seo_title: "Wanted Dead or a Wild: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-wanted-dead-or-a-wild"
 url: "/slots/wanted-dead-or-a-wild/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Western · Duell · Bonusmodi](/images/slots/catalog-wanted-dead-or-a-wild.webp)
+![Wanted Dead or a Wild Spielgrafik mit maskierte Revolverhelden im Wilden Westen.](/images/slots/catalog-wanted-dead-or-a-wild.webp)
 
 ### Kurz erklärt
 

@@ -1,7 +1,7 @@
 ---
 title: "Wanted Dead or a Wild – perfil de juego"
-description: "pistoleros enmascarados en el Salvaje Oeste"
-seo_title: "Wanted Dead or a Wild: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en pistoleros enmascarados en el Salvaje Oeste, con rondas de bonificación y funciones de duelo."
+seo_title: "Wanted Dead or a Wild: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-wanted-dead-or-a-wild"
 url: "/es/slots/wanted-dead-or-a-wild/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![pistoleros enmascarados en el Salvaje Oeste](/images/slots/catalog-wanted-dead-or-a-wild.webp)
+![Arte del juego Wanted Dead or a Wild con pistoleros enmascarados en el Salvaje Oeste.](/images/slots/catalog-wanted-dead-or-a-wild.webp)
 
 Una tragamonedas ambientada en pistoleros enmascarados en el Salvaje Oeste, con rondas de bonificación y funciones de duelo.
 

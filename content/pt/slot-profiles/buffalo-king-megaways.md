@@ -1,6 +1,6 @@
 ---
 title: "Buffalo King Megaways – perfil do jogo"
-description: "búfalos e vida selvagem na pradaria norte-americana"
+description: "Um slot inspirado em búfalos e vida selvagem na pradaria norte-americana, com rolos Megaways e cascatas."
 seo_title: "Buffalo King Megaways: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-buffalo-king-megaways"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![búfalos e vida selvagem na pradaria norte-americana](/images/slots/catalog-buffalo-king-megaways.webp)
+![Arte do jogo Buffalo King Megaways com búfalos e vida selvagem na pradaria norte-americana.](/images/slots/catalog-buffalo-king-megaways.webp)
 
 Um slot inspirado em búfalos e vida selvagem na pradaria norte-americana, com rolos Megaways e cascatas.
 

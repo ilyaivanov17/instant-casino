@@ -1,7 +1,7 @@
 ---
 title: "Wild West Gold ：ゲームプロフィール"
-description: "西部開拓時代のカウボーイと金"
-seo_title: "Wild West Gold: 機能とゲームの仕組み | Instant Casino"
+description: "西部開拓時代のカウボーイと金をテーマに、Sticky Wildとリスピンを備えたスロットです。"
+seo_title: "Wild West Gold: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-wild-west-gold"
 url: "/ja/slots/wild-west-gold/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![西部開拓時代のカウボーイと金](/images/slots/catalog-wild-west-gold.webp)
+![Wild West Goldのゲームアート。西部開拓時代のカウボーイと金を描いています。](/images/slots/catalog-wild-west-gold.webp)
 
 西部開拓時代のカウボーイと金をテーマに、Sticky Wildとリスピンを備えたスロットです。
 

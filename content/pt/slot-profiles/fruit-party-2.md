@@ -1,6 +1,6 @@
 ---
 title: "Fruit Party 2 – perfil do jogo"
-description: "frutas coloridas e um mundo de fantasia soalheiro"
+description: "Um slot inspirado em frutas coloridas e um mundo de fantasia soalheiro, com prémios por grupos e multiplicadores."
 seo_title: "Fruit Party 2: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-fruit-party-2"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![frutas coloridas e um mundo de fantasia soalheiro](/images/slots/catalog-fruit-party-2.webp)
+![Arte do jogo Fruit Party 2 com frutas coloridas e um mundo de fantasia soalheiro.](/images/slots/catalog-fruit-party-2.webp)
 
 Um slot inspirado em frutas coloridas e um mundo de fantasia soalheiro, com prémios por grupos e multiplicadores.
 

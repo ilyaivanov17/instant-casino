@@ -1,7 +1,7 @@
 ---
 title: "Sugar Rush – Slot profile"
-description: "Candy · Growing multipliers"
-seo_title: "Sugar Rush: Slot: features & mechanics | Instant Casino"
+description: "A slot built around sweets, candy and a colourful fantasy world, featuring cluster wins and growing multipliers."
+seo_title: "Sugar Rush: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-sugar-rush"
 url: "/en/slots/sugar-rush/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Candy · Growing multipliers](/images/slots/catalog-sugar-rush.webp)
+![Sugar Rush slot game artwork showing sweets, candy and a colourful fantasy world.](/images/slots/catalog-sugar-rush.webp)
 
 A slot built around sweets, candy and a colourful fantasy world, featuring cluster wins and growing multipliers.
 

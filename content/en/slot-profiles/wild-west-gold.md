@@ -1,7 +1,7 @@
 ---
 title: "Wild West Gold – Slot profile"
-description: "Wild West · Sticky Wilds"
-seo_title: "Wild West Gold: Slot: features & mechanics | Instant Casino"
+description: "A slot built around cowboys and gold in the Wild West, featuring Sticky Wilds and respins."
+seo_title: "Wild West Gold: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-wild-west-gold"
 url: "/en/slots/wild-west-gold/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Wild West · Sticky Wilds](/images/slots/catalog-wild-west-gold.webp)
+![Wild West Gold slot game artwork showing cowboys and gold in the Wild West.](/images/slots/catalog-wild-west-gold.webp)
 
 A slot built around cowboys and gold in the Wild West, featuring Sticky Wilds and respins.
 

@@ -1,11 +1,11 @@
 ---
 title: "Temple Tumble – perfil do jogo"
-description: "Grelha 6×6 · Megaways · cascatas"
+description: "Uma aventura na selva numa grelha 6×6 com até 46.656 formas de ganhar. As cascatas e os blocos de pedra conduzem a rodadas grátis com escolha entre três mundos."
 seo_title: "Temple Tumble: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-temple-tumble"
 url: "/pt/slots/temple-tumble/"
-ogImage: "https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png"
+ogImage: "\"https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Grelha 6×6 · Megaways · cascatas](https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png)
+![Arte de Temple Tumble com o título dourado em frente a um templo na selva]("https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png")
 
 Temple Tumble é uma aventura na selva numa grelha 6×6 com até 46.656 formas de ganhar. Os símbolos vencedores desaparecem em cascatas e os blocos de pedra abrem caminho para rodadas grátis, nas quais se escolhe entre três mundos.
 

@@ -1,7 +1,7 @@
 ---
 title: "Wild West Gold – profil gry"
-description: "kowboje i złoto Dzikiego Zachodu"
-seo_title: "Wild West Gold: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem kowboje i złoto Dzikiego Zachodu, z funkcją: Sticky Wild i respiny."
+seo_title: "Wild West Gold: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-wild-west-gold"
 url: "/pl/slots/wild-west-gold/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![kowboje i złoto Dzikiego Zachodu](/images/slots/catalog-wild-west-gold.webp)
+![Grafika gry Wild West Gold przedstawiająca kowboje i złoto Dzikiego Zachodu.](/images/slots/catalog-wild-west-gold.webp)
 
 Slot inspirowany motywem kowboje i złoto Dzikiego Zachodu, z funkcją: Sticky Wild i respiny.
 

@@ -1,7 +1,7 @@
 ---
 title: "Sugar Rush – perfil de juego"
-description: "dulces y un mundo fantástico lleno de color"
-seo_title: "Sugar Rush: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en dulces y un mundo fantástico lleno de color, con premios por grupos y multiplicadores crecientes."
+seo_title: "Sugar Rush: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-sugar-rush"
 url: "/es/slots/sugar-rush/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![dulces y un mundo fantástico lleno de color](/images/slots/catalog-sugar-rush.webp)
+![Arte del juego Sugar Rush con dulces y un mundo fantástico lleno de color.](/images/slots/catalog-sugar-rush.webp)
 
 Una tragamonedas ambientada en dulces y un mundo fantástico lleno de color, con premios por grupos y multiplicadores crecientes.
 

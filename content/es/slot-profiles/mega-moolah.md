@@ -1,7 +1,7 @@
 ---
 title: "Mega Moolah – perfil de juego"
-description: "un león y la sabana africana"
-seo_title: "Mega Moolah: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en un león y la sabana africana, con niveles de jackpot progresivo."
+seo_title: "Mega Moolah: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-mega-moolah"
 url: "/es/slots/mega-moolah/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![un león y la sabana africana](/images/slots/mega-moolah.jpg)
+![Arte del juego Mega Moolah con un león y la sabana africana.](/images/slots/mega-moolah.jpg)
 
 Una tragamonedas ambientada en un león y la sabana africana, con niveles de jackpot progresivo.
 

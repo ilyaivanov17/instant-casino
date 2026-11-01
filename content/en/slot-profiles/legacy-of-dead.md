@@ -1,7 +1,7 @@
 ---
 title: "Legacy of Dead – Slot profile"
-description: "Ancient Egypt · Free spins"
-seo_title: "Legacy of Dead: Slot: features & mechanics | Instant Casino"
+description: "A slot built around ancient Egyptian temples and golden scarabs, featuring free spins and expanding symbols."
+seo_title: "Legacy of Dead: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-legacy-of-dead"
 url: "/en/slots/legacy-of-dead/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Ancient Egypt · Free spins](/images/slots/catalog-legacy-of-dead.webp)
+![Legacy of Dead slot game artwork showing ancient Egyptian temples and golden scarabs.](/images/slots/catalog-legacy-of-dead.webp)
 
 A slot built around ancient Egyptian temples and golden scarabs, featuring free spins and expanding symbols.
 

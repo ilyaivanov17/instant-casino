@@ -1,7 +1,7 @@
 ---
 title: "The Dog House – Slot-Profil"
-description: "Hunde · Sticky Wilds · Freispiele"
-seo_title: "The Dog House: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Hundethema mit Sticky Wilds und einer Freispiele-Bonusrunde."
+seo_title: "The Dog House: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-the-dog-house"
 url: "/slots/the-dog-house/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Hunde · Sticky Wilds · Freispiele](/images/slots/catalog-the-dog-house.webp)
+![The Dog House Spielgrafik mit Hunde und ein gemütliches Hundehäuschen.](/images/slots/catalog-the-dog-house.webp)
 
 ### Kurz erklärt
 

@@ -1,7 +1,7 @@
 ---
 title: "Sugar Rush – profil gry"
-description: "słodycze i kolorowy świat fantasy"
-seo_title: "Sugar Rush: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem słodycze i kolorowy świat fantasy, z funkcją: wygrane klastrowe i rosnące mnożniki."
+seo_title: "Sugar Rush: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-sugar-rush"
 url: "/pl/slots/sugar-rush/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![słodycze i kolorowy świat fantasy](/images/slots/catalog-sugar-rush.webp)
+![Grafika gry Sugar Rush przedstawiająca słodycze i kolorowy świat fantasy.](/images/slots/catalog-sugar-rush.webp)
 
 Slot inspirowany motywem słodycze i kolorowy świat fantasy, z funkcją: wygrane klastrowe i rosnące mnożniki.
 

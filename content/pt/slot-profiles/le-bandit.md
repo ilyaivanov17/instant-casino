@@ -1,6 +1,6 @@
 ---
 title: "Le Bandit – perfil do jogo"
-description: "um guaxinim ladrão num cenário parisiense"
+description: "Um slot inspirado em um guaxinim ladrão num cenário parisiense, com prémios por grupos e funcionalidades de bónus."
 seo_title: "Le Bandit: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-le-bandit"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![um guaxinim ladrão num cenário parisiense](/images/slots/catalog-le-bandit.webp)
+![Arte do jogo Le Bandit com um guaxinim ladrão num cenário parisiense.](/images/slots/catalog-le-bandit.webp)
 
 Um slot inspirado em um guaxinim ladrão num cenário parisiense, com prémios por grupos e funcionalidades de bónus.
 

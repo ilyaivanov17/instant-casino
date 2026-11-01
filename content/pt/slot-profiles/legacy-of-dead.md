@@ -1,6 +1,6 @@
 ---
 title: "Legacy of Dead – perfil do jogo"
-description: "templos do antigo Egito e escaravelhos dourados"
+description: "Um slot inspirado em templos do antigo Egito e escaravelhos dourados, com rodadas grátis e símbolos expansíveis."
 seo_title: "Legacy of Dead: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-legacy-of-dead"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![templos do antigo Egito e escaravelhos dourados](/images/slots/catalog-legacy-of-dead.webp)
+![Arte do jogo Legacy of Dead com templos do antigo Egito e escaravelhos dourados.](/images/slots/catalog-legacy-of-dead.webp)
 
 Um slot inspirado em templos do antigo Egito e escaravelhos dourados, com rodadas grátis e símbolos expansíveis.
 

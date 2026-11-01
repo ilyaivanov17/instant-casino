@@ -1,7 +1,7 @@
 ---
 title: "Bigger Bass Bonanza – Slot-Profil"
-description: "Angeln · Fischsymbole · Freispiele"
-seo_title: "Bigger Bass Bonanza: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Angel-Slot mit Fischsymbolen, einer Freispielrunde und einer Sammelmechanik mit Multiplikatoren."
+seo_title: "Bigger Bass Bonanza: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-bigger-bass-bonanza"
 url: "/slots/bigger-bass-bonanza/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Angeln · Fischsymbole · Freispiele](/images/slots/bigger-bass-bonanza-cover.webp)
+![Bigger Bass Bonanza Spielgrafik mit Angler, goldenem Fisch und tropischem Hintergrund](/images/slots/bigger-bass-bonanza-cover.webp)
 
 ### Kurz erklärt
 

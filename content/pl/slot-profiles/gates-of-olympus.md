@@ -1,7 +1,7 @@
 ---
 title: "Gates of Olympus – profil gry"
-description: "Zeusa i wspaniałą świątynię na Olimpie"
-seo_title: "Gates of Olympus: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem Zeusa i wspaniałą świątynię na Olimpie, z funkcją: wygrane kaskadowe i mnożniki."
+seo_title: "Gates of Olympus: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-gates-of-olympus"
 url: "/pl/slots/gates-of-olympus/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Zeusa i wspaniałą świątynię na Olimpie](/images/slots/catalog-gates-of-olympus.webp)
+![Grafika gry Gates of Olympus przedstawiająca Zeusa i wspaniałą świątynię na Olimpie.](/images/slots/catalog-gates-of-olympus.webp)
 
 Slot inspirowany motywem Zeusa i wspaniałą świątynię na Olimpie, z funkcją: wygrane kaskadowe i mnożniki.
 

@@ -1,7 +1,7 @@
 ---
 title: "Book of Dead ：ゲームプロフィール"
-description: "古代エジプト · フリースピン"
-seo_title: "Book of Dead: 機能とゲームの仕組み | Instant Casino"
+description: "古代エジプトを舞台に、Scatterシンボル、フリースピン、拡張シンボルが登場する冒険テーマです。"
+seo_title: "Book of Dead: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-book-of-dead"
 url: "/ja/slots/book-of-dead/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![古代エジプト · フリースピン](/images/slots/book-of-dead-cover.webp)
+![古代エジプトを背景に探検家と神秘的な本を描いたBook of Deadのゲームアート](/images/slots/book-of-dead-cover.webp)
 
 Book of Dead は古代エジプトをテーマにした冒険型スロットで、本のシンボルが印象的です。スキャッター、フリースピン、拡張シンボルが主な特徴として知られています。プレイ前に配当表を確認し、フリースピンの開始条件を把握しておくとよいでしょう。
 

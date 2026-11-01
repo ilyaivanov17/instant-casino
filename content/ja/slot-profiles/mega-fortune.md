@@ -1,7 +1,7 @@
 ---
 title: "Mega Fortune ：ゲームプロフィール"
-description: "ラグジュアリー · ジャックポット"
-seo_title: "Mega Fortune: 機能とゲームの仕組み | Instant Casino"
+description: "豪華なヨットと輝くジャックポットをテーマに、段階式プログレッシブジャックポットを備えたスロットです。"
+seo_title: "Mega Fortune: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-mega-fortune"
 url: "/ja/slots/mega-fortune/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![ラグジュアリー · ジャックポット](/images/slots/catalog-mega-fortune.webp)
+![Mega Fortuneのゲームアート。豪華なヨットと輝くジャックポットを描いています。](/images/slots/catalog-mega-fortune.webp)
 
 豪華なヨットと輝くジャックポットをテーマに、段階式プログレッシブジャックポットを備えたスロットです。
 

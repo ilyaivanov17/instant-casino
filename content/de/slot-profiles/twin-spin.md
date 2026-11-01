@@ -1,7 +1,7 @@
 ---
 title: "Twin Spin – Slot-Profil"
-description: "Klassische Symbole · Verbundene Walzen"
-seo_title: "Twin Spin: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein klassischer Früchte-Slot, bei dem Walzen durch die Twin-Reel-Funktion gekoppelt werden können."
+seo_title: "Twin Spin: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-twin-spin"
 url: "/slots/twin-spin/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Klassische Symbole · Verbundene Walzen](/images/slots/catalog-twin-spin.webp)
+![Twin Spin Spielgrafik mit klassische Spielautomaten-Symbole und verbundene Walzen.](/images/slots/catalog-twin-spin.webp)
 
 ### Kurz erklärt
 

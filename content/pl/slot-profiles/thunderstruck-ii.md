@@ -1,7 +1,7 @@
 ---
 title: "Thunderstruck II – profil gry"
-description: "nordyckich bogów i świat Wikingów"
-seo_title: "Thunderstruck II: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem nordyckich bogów i świat Wikingów, z funkcją: darmowe spiny i specjalne funkcje bonusowe."
+seo_title: "Thunderstruck II: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-thunderstruck-ii"
 url: "/pl/slots/thunderstruck-ii/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![nordyckich bogów i świat Wikingów](/images/slots/catalog-thunderstruck-ii.webp)
+![Grafika gry Thunderstruck II przedstawiająca nordyckich bogów i świat Wikingów.](/images/slots/catalog-thunderstruck-ii.webp)
 
 Slot inspirowany motywem nordyckich bogów i świat Wikingów, z funkcją: darmowe spiny i specjalne funkcje bonusowe.
 

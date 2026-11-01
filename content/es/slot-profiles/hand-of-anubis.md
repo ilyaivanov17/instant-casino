@@ -1,7 +1,7 @@
 ---
 title: "Hand of Anubis – perfil de juego"
-description: "Anubis y motivos del antiguo Egipto"
-seo_title: "Hand of Anubis: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en Anubis y motivos del antiguo Egipto, con símbolos coleccionables y funciones de bonificación."
+seo_title: "Hand of Anubis: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-hand-of-anubis"
 url: "/es/slots/hand-of-anubis/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Anubis y motivos del antiguo Egipto](/images/slots/catalog-hand-of-anubis.webp)
+![Arte del juego Hand of Anubis con Anubis y motivos del antiguo Egipto.](/images/slots/catalog-hand-of-anubis.webp)
 
 Una tragamonedas ambientada en Anubis y motivos del antiguo Egipto, con símbolos coleccionables y funciones de bonificación.
 

@@ -1,7 +1,7 @@
 ---
 title: "Gates of Olympus – Slot-Profil"
-description: "Zeus · Kaskaden · Multiplikatoren"
-seo_title: "Gates of Olympus: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Slot ohne klassische Gewinnlinien mit Kaskaden und zufällig erscheinenden Multiplikatoren."
+seo_title: "Gates of Olympus: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-gates-of-olympus"
 url: "/slots/gates-of-olympus/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Zeus · Kaskaden · Multiplikatoren](/images/slots/catalog-gates-of-olympus.webp)
+![Gates of Olympus Spielgrafik mit Zeus und einen prachtvollen Tempel auf dem Olymp.](/images/slots/catalog-gates-of-olympus.webp)
 
 ### Kurz erklärt
 

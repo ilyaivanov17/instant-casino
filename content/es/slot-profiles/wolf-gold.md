@@ -1,7 +1,7 @@
 ---
 title: "Wolf Gold – perfil de juego"
-description: "lobos y la naturaleza salvaje de Norteamérica"
-seo_title: "Wolf Gold: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en lobos y la naturaleza salvaje de Norteamérica, con símbolos Wild, respins y funciones de jackpot."
+seo_title: "Wolf Gold: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-wolf-gold"
 url: "/es/slots/wolf-gold/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![lobos y la naturaleza salvaje de Norteamérica](/images/slots/wolf-gold.webp)
+![Arte del juego Wolf Gold con lobos y la naturaleza salvaje de Norteamérica.](/images/slots/wolf-gold.webp)
 
 Una tragamonedas ambientada en lobos y la naturaleza salvaje de Norteamérica, con símbolos Wild, respins y funciones de jackpot.
 

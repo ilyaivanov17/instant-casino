@@ -1,6 +1,6 @@
 ---
 title: "The Dog House – perfil do jogo"
-description: "cães e uma casota divertida"
+description: "Um slot inspirado em cães e uma casota divertida, com Sticky Wilds e rodadas grátis."
 seo_title: "The Dog House: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-the-dog-house"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![cães e uma casota divertida](/images/slots/catalog-the-dog-house.webp)
+![Arte do jogo The Dog House com cães e uma casota divertida.](/images/slots/catalog-the-dog-house.webp)
 
 Um slot inspirado em cães e uma casota divertida, com Sticky Wilds e rodadas grátis.
 

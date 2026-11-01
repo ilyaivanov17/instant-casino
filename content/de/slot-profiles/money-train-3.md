@@ -1,7 +1,7 @@
 ---
 title: "Money Train 3 – Slot-Profil"
-description: "Outlaws · Sammelsymbole · Multiplikatoren"
-seo_title: "Money Train 3: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Slot mit persistenten Funktionssymbolen, Sammelmechaniken und Multiplikatoren in der Bonusrunde."
+seo_title: "Money Train 3: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-money-train-3"
 url: "/slots/money-train-3/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Outlaws · Sammelsymbole · Multiplikatoren](/images/slots/catalog-money-train-3.webp)
+![Money Train 3 Spielgrafik mit einen futuristischen Zug und zwei Outlaws.](/images/slots/catalog-money-train-3.webp)
 
 ### Kurz erklärt
 

@@ -1,7 +1,7 @@
 ---
 title: "Legacy of Dead – perfil de juego"
-description: "templos del antiguo Egipto y escarabajos dorados"
-seo_title: "Legacy of Dead: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en templos del antiguo Egipto y escarabajos dorados, con giros gratis y símbolos expansivos."
+seo_title: "Legacy of Dead: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-legacy-of-dead"
 url: "/es/slots/legacy-of-dead/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![templos del antiguo Egipto y escarabajos dorados](/images/slots/catalog-legacy-of-dead.webp)
+![Arte del juego Legacy of Dead con templos del antiguo Egipto y escarabajos dorados.](/images/slots/catalog-legacy-of-dead.webp)
 
 Una tragamonedas ambientada en templos del antiguo Egipto y escarabajos dorados, con giros gratis y símbolos expansivos.
 

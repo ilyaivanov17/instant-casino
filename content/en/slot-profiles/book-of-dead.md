@@ -1,7 +1,7 @@
 ---
 title: "Book of Dead – Slot profile"
-description: "Ancient Egypt · Expanding symbols"
-seo_title: "Book of Dead: Slot: features & mechanics | Instant Casino"
+description: "An ancient-Egypt adventure with scatter symbols, free spins and expanding symbols."
+seo_title: "Book of Dead: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-book-of-dead"
 url: "/en/slots/book-of-dead/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Ancient Egypt · Expanding symbols](/images/slots/book-of-dead-cover.webp)
+![Book of Dead game artwork showing an explorer and a mysterious book in an ancient Egyptian setting](/images/slots/book-of-dead-cover.webp)
 
 Book of Dead uses an ancient-Egypt adventure theme built around its central book symbol. Scatters, free spins and an expanding symbol are key parts of the game’s familiar feature set. Before playing, check the paytable to see how the free-spin round starts and which symbol can expand.
 

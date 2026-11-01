@@ -1,7 +1,7 @@
 ---
 title: "Starlight Princess – Slot profile"
-description: "Fantasy · Tumble wins"
-seo_title: "Starlight Princess: Slot: features & mechanics | Instant Casino"
+description: "A slot built around a magical princess in a fantasy world, featuring tumble wins and multipliers."
+seo_title: "Starlight Princess: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-starlight-princess"
 url: "/en/slots/starlight-princess/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Fantasy · Tumble wins](/images/slots/catalog-starlight-princess.webp)
+![Starlight Princess slot game artwork showing a magical princess in a fantasy world.](/images/slots/catalog-starlight-princess.webp)
 
 A slot built around a magical princess in a fantasy world, featuring tumble wins and multipliers.
 

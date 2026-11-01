@@ -1,7 +1,7 @@
 ---
 title: "Dead or Alive 2 ：ゲームプロフィール"
-description: "西部の荒野の町とガンマン"
-seo_title: "Dead or Alive 2: 機能とゲームの仕組み | Instant Casino"
+description: "西部の荒野の町とガンマンをテーマに、複数のフリースピンモードを備えたスロットです。"
+seo_title: "Dead or Alive 2: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-dead-or-alive-2"
 url: "/ja/slots/dead-or-alive-2/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![西部の荒野の町とガンマン](/images/slots/catalog-dead-or-alive-2.webp)
+![Dead or Alive 2のゲームアート。西部の荒野の町とガンマンを描いています。](/images/slots/catalog-dead-or-alive-2.webp)
 
 西部の荒野の町とガンマンをテーマに、複数のフリースピンモードを備えたスロットです。
 

@@ -1,7 +1,7 @@
 ---
 title: "Starlight Princess – Slot-Profil"
-description: "Fantasy · Kaskaden · Multiplikatoren"
-seo_title: "Starlight Princess: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Fantasy-Slot mit Kaskaden und zufälligen Multiplikatoren."
+seo_title: "Starlight Princess: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-starlight-princess"
 url: "/slots/starlight-princess/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Fantasy · Kaskaden · Multiplikatoren](/images/slots/catalog-starlight-princess.webp)
+![Starlight Princess Spielgrafik mit eine magische Prinzessin in einer Fantasiewelt.](/images/slots/catalog-starlight-princess.webp)
 
 ### Kurz erklärt
 

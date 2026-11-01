@@ -1,7 +1,7 @@
 ---
 title: "Sweet Bonanza – profil gry"
-description: "słodycze i owoce w kolorowym świecie fantasy"
-seo_title: "Sweet Bonanza: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem słodycze i owoce w kolorowym świecie fantasy, z funkcją: wygrane kaskadowe i mnożniki."
+seo_title: "Sweet Bonanza: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-sweet-bonanza"
 url: "/pl/slots/sweet-bonanza/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![słodycze i owoce w kolorowym świecie fantasy](/images/slots/sweet-bonanza.jpg)
+![Grafika gry Sweet Bonanza przedstawiająca słodycze i owoce w kolorowym świecie fantasy.](/images/slots/sweet-bonanza.jpg)
 
 Slot inspirowany motywem słodycze i owoce w kolorowym świecie fantasy, z funkcją: wygrane kaskadowe i mnożniki.
 

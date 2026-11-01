@@ -1,6 +1,6 @@
 ---
 title: "Twin Spin – perfil do jogo"
-description: "símbolos clássicos de slots e rolos ligados"
+description: "Um slot inspirado em símbolos clássicos de slots e rolos ligados, com funcionalidades de rolos gémeos e símbolos aleatórios."
 seo_title: "Twin Spin: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-twin-spin"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![símbolos clássicos de slots e rolos ligados](/images/slots/catalog-twin-spin.webp)
+![Arte do jogo Twin Spin com símbolos clássicos de slots e rolos ligados.](/images/slots/catalog-twin-spin.webp)
 
 Um slot inspirado em símbolos clássicos de slots e rolos ligados, com funcionalidades de rolos gémeos e símbolos aleatórios.
 

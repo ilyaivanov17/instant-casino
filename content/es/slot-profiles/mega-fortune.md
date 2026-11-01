@@ -1,7 +1,7 @@
 ---
 title: "Mega Fortune – perfil de juego"
-description: "Lujo · Jackpot"
-seo_title: "Mega Fortune: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en un yate de lujo y un jackpot brillante, con niveles de jackpot progresivo."
+seo_title: "Mega Fortune: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-mega-fortune"
 url: "/es/slots/mega-fortune/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Lujo · Jackpot](/images/slots/catalog-mega-fortune.webp)
+![Arte del juego Mega Fortune con un yate de lujo y un jackpot brillante.](/images/slots/catalog-mega-fortune.webp)
 
 Una tragamonedas ambientada en un yate de lujo y un jackpot brillante, con niveles de jackpot progresivo.
 

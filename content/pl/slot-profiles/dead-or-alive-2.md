@@ -1,7 +1,7 @@
 ---
 title: "Dead or Alive 2 – profil gry"
-description: "zakurzone miasteczko Dzikiego Zachodu i rewolwerowców"
-seo_title: "Dead or Alive 2: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem zakurzone miasteczko Dzikiego Zachodu i rewolwerowców, z funkcją: kilka trybów darmowych spinów."
+seo_title: "Dead or Alive 2: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-dead-or-alive-2"
 url: "/pl/slots/dead-or-alive-2/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![zakurzone miasteczko Dzikiego Zachodu i rewolwerowców](/images/slots/catalog-dead-or-alive-2.webp)
+![Grafika gry Dead or Alive 2 przedstawiająca zakurzone miasteczko Dzikiego Zachodu i rewolwerowców.](/images/slots/catalog-dead-or-alive-2.webp)
 
 Slot inspirowany motywem zakurzone miasteczko Dzikiego Zachodu i rewolwerowców, z funkcją: kilka trybów darmowych spinów.
 

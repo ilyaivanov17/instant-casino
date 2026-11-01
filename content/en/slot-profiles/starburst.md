@@ -1,7 +1,7 @@
 ---
 title: "Starburst – Slot profile"
-description: "Space · Expanding Wilds"
-seo_title: "Starburst: Slot: features & mechanics | Instant Casino"
+description: "A slot built around space and colourful gemstones, featuring expanding Wilds and respins."
+seo_title: "Starburst: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-starburst"
 url: "/en/slots/starburst/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Space · Expanding Wilds](/images/slots/catalog-starburst.webp)
+![Starburst slot game artwork showing space and colourful gemstones.](/images/slots/catalog-starburst.webp)
 
 A slot built around space and colourful gemstones, featuring expanding Wilds and respins.
 

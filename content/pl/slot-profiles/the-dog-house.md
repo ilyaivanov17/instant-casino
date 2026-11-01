@@ -1,7 +1,7 @@
 ---
 title: "The Dog House – profil gry"
-description: "psy i wesołą budę dla psów"
-seo_title: "The Dog House: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem psy i wesołą budę dla psów, z funkcją: Sticky Wild i darmowe spiny."
+seo_title: "The Dog House: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-the-dog-house"
 url: "/pl/slots/the-dog-house/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![psy i wesołą budę dla psów](/images/slots/catalog-the-dog-house.webp)
+![Grafika gry The Dog House przedstawiająca psy i wesołą budę dla psów.](/images/slots/catalog-the-dog-house.webp)
 
 Slot inspirowany motywem psy i wesołą budę dla psów, z funkcją: Sticky Wild i darmowe spiny.
 

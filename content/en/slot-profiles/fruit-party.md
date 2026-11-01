@@ -1,7 +1,7 @@
 ---
 title: "Fruit Party – Slot profile"
-description: "Fruit clusters · Multipliers"
-seo_title: "Fruit Party: Slot: features & mechanics | Instant Casino"
+description: "A colourful 7×7 cluster game with symbol multipliers and a free-spins round."
+seo_title: "Fruit Party: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-fruit-party"
 url: "/en/slots/fruit-party/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Fruit clusters · Multipliers](/images/slots/fruit-party-cover.webp)
+![Fruit Party game artwork with colourful fruit and the multicoloured game title](/images/slots/fruit-party-cover.webp)
 
 Fruit Party combines bright fruit artwork with tumble wins and multipliers. The stored feature list also includes free spins. The in-game rules explain how consecutive wins work and what is required to trigger the bonus.
 

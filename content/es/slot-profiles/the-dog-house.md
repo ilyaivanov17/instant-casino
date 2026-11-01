@@ -1,7 +1,7 @@
 ---
 title: "The Dog House – perfil de juego"
-description: "perros y una caseta de colores"
-seo_title: "The Dog House: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en perros y una caseta de colores, con Sticky Wilds y giros gratis."
+seo_title: "The Dog House: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-the-dog-house"
 url: "/es/slots/the-dog-house/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![perros y una caseta de colores](/images/slots/catalog-the-dog-house.webp)
+![Arte del juego The Dog House con perros y una caseta de colores.](/images/slots/catalog-the-dog-house.webp)
 
 Una tragamonedas ambientada en perros y una caseta de colores, con Sticky Wilds y giros gratis.
 

@@ -1,11 +1,11 @@
 ---
 title: "Fire in the Hole 3 ：ゲームプロフィール"
-description: "Collapsing Mine · xBomb · xSplit"
-seo_title: "Fire in the Hole 3: 機能とゲームの仕組み | Instant Casino"
+description: "崩落する鉱山が舞台のスロットです。xBomb Wild、xSplit、xHoleがリール領域を変化させ、Lucky Wagon Spinsでは独立したボーナスが展開します。"
+seo_title: "Fire in the Hole 3: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-fire-in-the-hole-3"
 url: "/ja/slots/fire-in-the-hole-3/"
-ogImage: "https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png"
+ogImage: "\"https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Collapsing Mine · xBomb · xSplit](https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png)
+![鉱夫、ダイナマイト、氷の鉱山を描いたFire in the Hole 3のゲームアート]("https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png")
 
 Fire in the Hole 3は、連続して崩落する氷の鉱山が舞台です。xBomb Wild、xSplit、xHoleがシンボルやリール領域に作用し、Lucky Wagon Spinsは独立したボーナス機能です。
 

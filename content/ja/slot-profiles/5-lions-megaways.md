@@ -1,7 +1,7 @@
 ---
 title: "5 Lions Megaways ：ゲームプロフィール"
-description: "アジア風の寺院を舞台にした5頭の黄金の獅子"
-seo_title: "5 Lions Megaways: 機能とゲームの仕組み | Instant Casino"
+description: "アジア風の寺院を舞台にした5頭の黄金の獅子をテーマに、Megawaysリールとフリースピンを備えたスロットです。"
+seo_title: "5 Lions Megaways: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-5-lions-megaways"
 url: "/ja/slots/5-lions-megaways/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![アジア風の寺院を舞台にした5頭の黄金の獅子](/images/slots/catalog-5-lions-megaways.webp)
+![5 Lions Megawaysのゲームアート。アジア風の寺院を舞台にした5頭の黄金の獅子を描いています。](/images/slots/catalog-5-lions-megaways.webp)
 
 アジア風の寺院を舞台にした5頭の黄金の獅子をテーマに、Megawaysリールとフリースピンを備えたスロットです。
 

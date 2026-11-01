@@ -1,7 +1,7 @@
 ---
 title: "Buffalo King Megaways – Slot profile"
-description: "Megaways · Wildlife"
-seo_title: "Buffalo King Megaways: Slot: features & mechanics | Instant Casino"
+description: "A slot built around buffalo and wildlife across the North American prairie, featuring Megaways reels and cascades."
+seo_title: "Buffalo King Megaways: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-buffalo-king-megaways"
 url: "/en/slots/buffalo-king-megaways/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Megaways · Wildlife](/images/slots/catalog-buffalo-king-megaways.webp)
+![Buffalo King Megaways slot game artwork showing buffalo and wildlife across the North American prairie.](/images/slots/catalog-buffalo-king-megaways.webp)
 
 A slot built around buffalo and wildlife across the North American prairie, featuring Megaways reels and cascades.
 

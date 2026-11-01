@@ -1,7 +1,7 @@
 ---
 title: "Thunderstruck II ：ゲームプロフィール"
-description: "北欧の神々とヴァイキングの世界"
-seo_title: "Thunderstruck II: 機能とゲームの仕組み | Instant Casino"
+description: "北欧の神々とヴァイキングの世界をテーマに、フリースピンと特別なボーナス機能を備えたスロットです。"
+seo_title: "Thunderstruck II: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-thunderstruck-ii"
 url: "/ja/slots/thunderstruck-ii/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![北欧の神々とヴァイキングの世界](/images/slots/catalog-thunderstruck-ii.webp)
+![Thunderstruck IIのゲームアート。北欧の神々とヴァイキングの世界を描いています。](/images/slots/catalog-thunderstruck-ii.webp)
 
 北欧の神々とヴァイキングの世界をテーマに、フリースピンと特別なボーナス機能を備えたスロットです。
 

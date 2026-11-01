@@ -1,7 +1,7 @@
 ---
 title: "Money Train 3 ：ゲームプロフィール"
-description: "未来的な列車と2人のアウトロー"
-seo_title: "Money Train 3: 機能とゲームの仕組み | Instant Casino"
+description: "未来的な列車と2人のアウトローをテーマに、ボーナスシンボルと倍率機能を備えたスロットです。"
+seo_title: "Money Train 3: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-money-train-3"
 url: "/ja/slots/money-train-3/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![未来的な列車と2人のアウトロー](/images/slots/catalog-money-train-3.webp)
+![Money Train 3のゲームアート。未来的な列車と2人のアウトローを描いています。](/images/slots/catalog-money-train-3.webp)
 
 未来的な列車と2人のアウトローをテーマに、ボーナスシンボルと倍率機能を備えたスロットです。
 

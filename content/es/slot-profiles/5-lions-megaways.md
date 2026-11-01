@@ -1,7 +1,7 @@
 ---
 title: "5 Lions Megaways – perfil de juego"
-description: "cinco leones dorados en un entorno de templos inspirado en Asia"
-seo_title: "5 Lions Megaways: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en cinco leones dorados en un entorno de templos inspirado en Asia, con rodillos Megaways y giros gratis."
+seo_title: "5 Lions Megaways: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-5-lions-megaways"
 url: "/es/slots/5-lions-megaways/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![cinco leones dorados en un entorno de templos inspirado en Asia](/images/slots/catalog-5-lions-megaways.webp)
+![Arte del juego 5 Lions Megaways con cinco leones dorados en un entorno de templos inspirado en Asia.](/images/slots/catalog-5-lions-megaways.webp)
 
 Una tragamonedas ambientada en cinco leones dorados en un entorno de templos inspirado en Asia, con rodillos Megaways y giros gratis.
 

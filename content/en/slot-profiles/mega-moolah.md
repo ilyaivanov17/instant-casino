@@ -1,7 +1,7 @@
 ---
 title: "Mega Moolah – Slot profile"
-description: "Progressive jackpot · Safari"
-seo_title: "Mega Moolah: Slot: features & mechanics | Instant Casino"
+description: "A slot built around a lion and the African savannah, featuring progressive jackpot tiers."
+seo_title: "Mega Moolah: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-mega-moolah"
 url: "/en/slots/mega-moolah/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Progressive jackpot · Safari](/images/slots/mega-moolah.jpg)
+![Mega Moolah slot game artwork showing a lion and the African savannah.](/images/slots/mega-moolah.jpg)
 
 A slot built around a lion and the African savannah, featuring progressive jackpot tiers.
 

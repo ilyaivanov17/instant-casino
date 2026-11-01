@@ -1,7 +1,7 @@
 ---
 title: "Mega Moolah – Slot-Profil"
-description: "Safari · Progressive Jackpots"
-seo_title: "Mega Moolah: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Safari-Slot mit vier progressiven Jackpot-Stufen."
+seo_title: "Mega Moolah: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-mega-moolah"
 url: "/slots/mega-moolah/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Safari · Progressive Jackpots](/images/slots/mega-moolah.jpg)
+![Mega Moolah Spielgrafik mit einen Löwen und die afrikanische Savanne.](/images/slots/mega-moolah.jpg)
 
 ### Kurz erklärt
 

@@ -1,6 +1,6 @@
 ---
 title: "Money Train 3 – perfil do jogo"
-description: "um comboio futurista e dois fora da lei"
+description: "Um slot inspirado em um comboio futurista e dois fora da lei, com símbolos de bónus e funcionalidades de multiplicadores."
 seo_title: "Money Train 3: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-money-train-3"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![um comboio futurista e dois fora da lei](/images/slots/catalog-money-train-3.webp)
+![Arte do jogo Money Train 3 com um comboio futurista e dois fora da lei.](/images/slots/catalog-money-train-3.webp)
 
 Um slot inspirado em um comboio futurista e dois fora da lei, com símbolos de bónus e funcionalidades de multiplicadores.
 

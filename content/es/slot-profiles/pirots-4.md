@@ -1,11 +1,11 @@
 ---
 title: "Pirots 4 – perfil de juego"
-description: "Cuadrícula 6×6 · CollectR · tablero expansible"
-seo_title: "Pirots 4: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas espacial con cuadrícula de 6×6. CollectR, la expansión del tablero y las transformaciones de símbolos se combinan con Space Bandit y el juego de monedas Lost…"
+seo_title: "Pirots 4: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-pirots-4"
 url: "/es/slots/pirots-4/"
-ogImage: "https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png"
+ogImage: "\"https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Cuadrícula 6×6 · CollectR · tablero expansible](https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png)
+![Ilustración de Pirots 4 con aves espaciales y el logotipo CollectR]("https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png")
 
 Pirots 4 combina una aventura espacial con una cuadrícula de 6×6. CollectR, la expansión del tablero y las transformaciones de símbolos influyen en cada ronda. Entre sus funciones destacan Space Bandit y el juego de monedas Lost in Space.
 

@@ -1,7 +1,7 @@
 ---
 title: "The Dog House ：ゲームプロフィール"
-description: "犬たちとカラフルな犬小屋"
-seo_title: "The Dog House: 機能とゲームの仕組み | Instant Casino"
+description: "犬たちとカラフルな犬小屋をテーマに、Sticky Wildとフリースピンを備えたスロットです。"
+seo_title: "The Dog House: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-the-dog-house"
 url: "/ja/slots/the-dog-house/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![犬たちとカラフルな犬小屋](/images/slots/catalog-the-dog-house.webp)
+![The Dog Houseのゲームアート。犬たちとカラフルな犬小屋を描いています。](/images/slots/catalog-the-dog-house.webp)
 
 犬たちとカラフルな犬小屋をテーマに、Sticky Wildとフリースピンを備えたスロットです。
 

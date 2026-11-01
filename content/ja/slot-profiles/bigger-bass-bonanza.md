@@ -1,7 +1,7 @@
 ---
 title: "Bigger Bass Bonanza ：ゲームプロフィール"
-description: "釣りテーマ · フリースピン"
-seo_title: "Bigger Bass Bonanza: 機能とゲームの仕組み | Instant Casino"
+description: "魚のシンボル、フリースピン、倍率機能を備えた釣りテーマのスロットです。"
+seo_title: "Bigger Bass Bonanza: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-bigger-bass-bonanza"
 url: "/ja/slots/bigger-bass-bonanza/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![釣りテーマ · フリースピン](/images/slots/bigger-bass-bonanza-cover.webp)
+![釣り人と金色の魚、南国の背景を描いたBigger Bass Bonanzaのゲームアート](/images/slots/bigger-bass-bonanza-cover.webp)
 
 Bigger Bass Bonanza には独自のテーマと機能があります。登録されている機能は スキャッター、フリースピン、倍率 です。プレイ前にゲーム内ヘルプと配当表を確認し、機能の発動条件や利用できるバージョンの制限を把握してください。
 

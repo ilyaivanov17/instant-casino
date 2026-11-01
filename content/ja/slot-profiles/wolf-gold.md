@@ -1,7 +1,7 @@
 ---
 title: "Wolf Gold ：ゲームプロフィール"
-description: "オオカミと北米の荒野"
-seo_title: "Wolf Gold: 機能とゲームの仕組み | Instant Casino"
+description: "オオカミと北米の荒野をテーマに、Wildシンボル、リスピン、ジャックポット機能を備えたスロットです。"
+seo_title: "Wolf Gold: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-wolf-gold"
 url: "/ja/slots/wolf-gold/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![オオカミと北米の荒野](/images/slots/wolf-gold.webp)
+![Wolf Goldのゲームアート。オオカミと北米の荒野を描いています。](/images/slots/wolf-gold.webp)
 
 オオカミと北米の荒野をテーマに、Wildシンボル、リスピン、ジャックポット機能を備えたスロットです。
 

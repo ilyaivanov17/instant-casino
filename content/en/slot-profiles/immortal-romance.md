@@ -1,7 +1,7 @@
 ---
 title: "Immortal Romance – Slot profile"
-description: "Gothic romance · Free spins"
-seo_title: "Immortal Romance: Slot: features & mechanics | Instant Casino"
+description: "A slot built around vampire characters and a gothic romance, featuring free spins and the Wild Desire feature."
+seo_title: "Immortal Romance: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-immortal-romance"
 url: "/en/slots/immortal-romance/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Gothic romance · Free spins](/images/slots/catalog-immortal-romance.webp)
+![Immortal Romance slot game artwork showing vampire characters and a gothic romance.](/images/slots/catalog-immortal-romance.webp)
 
 A slot built around vampire characters and a gothic romance, featuring free spins and the Wild Desire feature.
 

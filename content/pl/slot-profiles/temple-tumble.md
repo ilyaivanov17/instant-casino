@@ -1,11 +1,11 @@
 ---
 title: "Temple Tumble – profil gry"
-description: "Siatka 6×6 · Megaways · kaskady"
-seo_title: "Temple Tumble: mechanika i funkcje slotu | Instant Casino"
+description: "Przygoda w dżungli na siatce 6×6 z maksymalnie 46 656 sposobami wygrywania. Kaskady i kamienne bloki prowadzą do darmowych spinów z wyborem jednego z trzech światów."
+seo_title: "Temple Tumble: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-temple-tumble"
 url: "/pl/slots/temple-tumble/"
-ogImage: "https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png"
+ogImage: "\"https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Siatka 6×6 · Megaways · kaskady](https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png)
+![Grafika Temple Tumble ze złotym tytułem na tle świątyni w dżungli]("https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png")
 
 Temple Tumble to przygoda w dżungli na siatce 6×6 z maksymalnie 46 656 sposobami wygrywania. Symbole znikają w kaskadach, a kamienne bloki otwierają drogę do darmowych spinów. W rundzie bonusowej wybiera się jeden z trzech światów.
 

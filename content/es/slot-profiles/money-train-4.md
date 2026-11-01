@@ -1,7 +1,7 @@
 ---
 title: "Money Train 4 – perfil de juego"
-description: "forajidos y una aventura ferroviaria futurista"
-seo_title: "Money Train 4: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en forajidos y una aventura ferroviaria futurista, con símbolos coleccionables y funciones de bonificación."
+seo_title: "Money Train 4: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-money-train-4"
 url: "/es/slots/money-train-4/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![forajidos y una aventura ferroviaria futurista](/images/slots/catalog-money-train-4.webp)
+![Arte del juego Money Train 4 con forajidos y una aventura ferroviaria futurista.](/images/slots/catalog-money-train-4.webp)
 
 Una tragamonedas ambientada en forajidos y una aventura ferroviaria futurista, con símbolos coleccionables y funciones de bonificación.
 

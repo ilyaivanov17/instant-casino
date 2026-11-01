@@ -1,7 +1,7 @@
 ---
 title: "Le Bandit – Slot profile"
-description: "Paris · Cluster wins"
-seo_title: "Le Bandit: Slot: features & mechanics | Instant Casino"
+description: "A slot built around a raccoon thief in a Parisian setting, featuring cluster wins and bonus features."
+seo_title: "Le Bandit: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-le-bandit"
 url: "/en/slots/le-bandit/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Paris · Cluster wins](/images/slots/catalog-le-bandit.webp)
+![Le Bandit slot game artwork showing a raccoon thief in a Parisian setting.](/images/slots/catalog-le-bandit.webp)
 
 A slot built around a raccoon thief in a Parisian setting, featuring cluster wins and bonus features.
 

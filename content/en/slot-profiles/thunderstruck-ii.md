@@ -1,7 +1,7 @@
 ---
 title: "Thunderstruck II – Slot profile"
-description: "Norse mythology · Free spins"
-seo_title: "Thunderstruck II: Slot: features & mechanics | Instant Casino"
+description: "A slot built around Norse gods and the world of Vikings, featuring free spins and special bonus features."
+seo_title: "Thunderstruck II: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-thunderstruck-ii"
 url: "/en/slots/thunderstruck-ii/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Norse mythology · Free spins](/images/slots/catalog-thunderstruck-ii.webp)
+![Thunderstruck II slot game artwork showing Norse gods and the world of Vikings.](/images/slots/catalog-thunderstruck-ii.webp)
 
 A slot built around Norse gods and the world of Vikings, featuring free spins and special bonus features.
 

@@ -1,7 +1,7 @@
 ---
 title: "Mega Moolah – profil gry"
-description: "lwa i afrykańską sawannę"
-seo_title: "Mega Moolah: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem lwa i afrykańską sawannę, z funkcją: progresywne poziomy jackpota."
+seo_title: "Mega Moolah: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-mega-moolah"
 url: "/pl/slots/mega-moolah/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![lwa i afrykańską sawannę](/images/slots/mega-moolah.jpg)
+![Grafika gry Mega Moolah przedstawiająca lwa i afrykańską sawannę.](/images/slots/mega-moolah.jpg)
 
 Slot inspirowany motywem lwa i afrykańską sawannę, z funkcją: progresywne poziomy jackpota.
 

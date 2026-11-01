@@ -1,11 +1,11 @@
 ---
 title: "Fire in the Hole 3 – Slot profile"
-description: "Collapsing Mine · xBomb · xSplit"
-seo_title: "Fire in the Hole 3: Slot: features & mechanics | Instant Casino"
+description: "A mining-themed slot with a collapsing playfield. xBomb Wilds, xSplit and xHole change the reel area, while Lucky Wagon Spins provide a separate bonus round."
+seo_title: "Fire in the Hole 3: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-fire-in-the-hole-3"
 url: "/en/slots/fire-in-the-hole-3/"
-ogImage: "https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png"
+ogImage: "\"https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Collapsing Mine · xBomb · xSplit](https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png)
+![Fire in the Hole 3 artwork showing a miner, dynamite and an icy mine]("https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png")
 
 Fire in the Hole 3 takes place in an icy mine where the playfield changes through successive collapses. xBomb Wilds, xSplit and xHole affect symbols and reel positions, while Lucky Wagon Spins form a separate bonus feature.
 

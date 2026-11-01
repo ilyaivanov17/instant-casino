@@ -1,11 +1,11 @@
 ---
 title: "Pirots 4 – Slot-Profil"
-description: "6×6-Raster · CollectR · erweiterndes Spielfeld"
-seo_title: "Pirots 4: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Weltraum-Slot auf einem 6×6-Raster. CollectR, ein wachsendes Spielfeld und Symbolveränderungen prägen den Ablauf; hinzu kommen Space Bandit und das Münzspiel Lost in Space."
+seo_title: "Pirots 4: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-pirots-4"
 url: "/slots/pirots-4/"
-ogImage: "https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png"
+ogImage: "\"https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![6×6-Raster · CollectR · erweiterndes Spielfeld](https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png)
+![Pirots 4 Spielgrafik mit Weltraumvögeln und dem CollectR-Logo]("https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png")
 
 Pirots 4 verbindet ein Weltraumthema mit einem 6×6-Raster. CollectR, ein erweiterbares Spielfeld und Symbolveränderungen bestimmen die Runde. Zu den besonderen Elementen gehören Space Bandit und das Münzspiel Lost in Space.
 

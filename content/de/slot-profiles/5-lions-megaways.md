@@ -1,7 +1,7 @@
 ---
 title: "5 Lions Megaways – Slot-Profil"
-description: "Löwen · Megaways · Freispiele"
-seo_title: "5 Lions Megaways: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Megaways-Slot mit fünf Löwen als Motiv und einer Freispiele-Funktion."
+seo_title: "5 Lions Megaways: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-5-lions-megaways"
 url: "/slots/5-lions-megaways/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Löwen · Megaways · Freispiele](/images/slots/catalog-5-lions-megaways.webp)
+![5 Lions Megaways Spielgrafik mit fünf goldene Löwen in einer asiatisch inspirierten Tempelwelt.](/images/slots/catalog-5-lions-megaways.webp)
 
 ### Kurz erklärt
 

@@ -1,7 +1,7 @@
 ---
 title: "Sweet Bonanza – Slot-Profil"
-description: "Süßigkeiten · Tumble · Multiplikatoren"
-seo_title: "Sweet Bonanza: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Slot mit Symbolgruppen, Tumble-Kaskaden und zufälligen Multiplikatoren."
+seo_title: "Sweet Bonanza: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-sweet-bonanza"
 url: "/slots/sweet-bonanza/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Süßigkeiten · Tumble · Multiplikatoren](/images/slots/sweet-bonanza.jpg)
+![Sweet Bonanza Spielgrafik mit Süßigkeiten und Früchte in einer bunten Fantasiewelt.](/images/slots/sweet-bonanza.jpg)
 
 ### Kurz erklärt
 

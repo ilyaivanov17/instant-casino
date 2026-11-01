@@ -1,7 +1,7 @@
 ---
 title: "Sugar Rush ：ゲームプロフィール"
-description: "お菓子とカラフルなファンタジーの世界"
-seo_title: "Sugar Rush: 機能とゲームの仕組み | Instant Casino"
+description: "お菓子とカラフルなファンタジーの世界をテーマに、クラスター配当と上昇する倍率を備えたスロットです。"
+seo_title: "Sugar Rush: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-sugar-rush"
 url: "/ja/slots/sugar-rush/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![お菓子とカラフルなファンタジーの世界](/images/slots/catalog-sugar-rush.webp)
+![Sugar Rushのゲームアート。お菓子とカラフルなファンタジーの世界を描いています。](/images/slots/catalog-sugar-rush.webp)
 
 お菓子とカラフルなファンタジーの世界をテーマに、クラスター配当と上昇する倍率を備えたスロットです。
 

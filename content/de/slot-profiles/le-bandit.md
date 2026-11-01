@@ -1,7 +1,7 @@
 ---
 title: "Le Bandit – Slot-Profil"
-description: "Waschbär · Cluster · Bonusfunktionen"
-seo_title: "Le Bandit: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Cluster-Slot mit Waschbär-Thema und einer sammelbasierten Bonusstruktur."
+seo_title: "Le Bandit: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-le-bandit"
 url: "/slots/le-bandit/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Waschbär · Cluster · Bonusfunktionen](/images/slots/catalog-le-bandit.webp)
+![Le Bandit Spielgrafik mit einen Waschbär-Dieb in einer Pariser Kulisse.](/images/slots/catalog-le-bandit.webp)
 
 ### Kurz erklärt
 

@@ -1,7 +1,7 @@
 ---
 title: "Dead or Alive 2 – Slot-Profil"
-description: "Western · Drei Freispiele-Modi"
-seo_title: "Dead or Alive 2: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Western-Slot mit mehreren auswählbaren Freispiele-Modi."
+seo_title: "Dead or Alive 2: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-dead-or-alive-2"
 url: "/slots/dead-or-alive-2/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Western · Drei Freispiele-Modi](/images/slots/catalog-dead-or-alive-2.webp)
+![Dead or Alive 2 Spielgrafik mit eine staubige Westernstadt und Revolverhelden.](/images/slots/catalog-dead-or-alive-2.webp)
 
 ### Kurz erklärt
 

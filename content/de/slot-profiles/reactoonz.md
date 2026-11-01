@@ -1,7 +1,7 @@
 ---
 title: "Reactoonz – Slot-Profil"
-description: "Aliens · Cluster · Quantum Leap"
-seo_title: "Reactoonz: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Cluster-Slot mit außerirdischen Figuren und der Quantum-Leap-Funktion."
+seo_title: "Reactoonz: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-reactoonz"
 url: "/slots/reactoonz/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Aliens · Cluster · Quantum Leap](/images/slots/catalog-reactoonz.webp)
+![Reactoonz Spielgrafik mit bunte Außerirdische in einer Weltraumwelt.](/images/slots/catalog-reactoonz.webp)
 
 ### Kurz erklärt
 

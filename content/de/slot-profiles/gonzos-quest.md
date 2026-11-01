@@ -1,7 +1,7 @@
 ---
 title: "Gonzo's Quest – Slot-Profil"
-description: "Abenteuer · Avalanche-Kaskaden"
-seo_title: "Gonzo's Quest: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Abenteuer-Slot mit Avalanche-Kaskaden und steigenden Multiplikatoren."
+seo_title: "Gonzo's Quest: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-gonzos-quest"
 url: "/slots/gonzos-quest/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Abenteuer · Avalanche-Kaskaden](/images/slots/gonzos-quest.webp)
+![Gonzo's Quest Spielgrafik mit einen Abenteurer auf der Suche nach El Dorado.](/images/slots/gonzos-quest.webp)
 
 ### Kurz erklärt
 

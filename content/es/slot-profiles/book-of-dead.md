@@ -1,7 +1,7 @@
 ---
 title: "Book of Dead – perfil de juego"
-description: "Antiguo Egipto · Giros gratis"
-seo_title: "Book of Dead: funciones y mecánica | Instant Casino"
+description: "Una aventura ambientada en el antiguo Egipto con símbolos scatter, giros gratis y símbolos expansivos."
+seo_title: "Book of Dead: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-book-of-dead"
 url: "/es/slots/book-of-dead/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Antiguo Egipto · Giros gratis](/images/slots/book-of-dead-cover.webp)
+![Arte de Book of Dead con un explorador y un libro misterioso en un entorno del antiguo Egipto](/images/slots/book-of-dead-cover.webp)
 
 Book of Dead se ambienta en una aventura inspirada en el antiguo Egipto y gira en torno al símbolo del libro. Entre sus elementos conocidos están los scatters, los giros gratis y un símbolo expansivo. Antes de jugar, revisa la tabla de pagos para saber cómo se activa la ronda de giros gratis.
 

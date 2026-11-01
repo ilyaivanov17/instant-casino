@@ -1,7 +1,7 @@
 ---
 title: "Starburst – perfil de juego"
-description: "el espacio y las gemas de colores"
-seo_title: "Starburst: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en el espacio y las gemas de colores, con símbolos Wild expansivos y respins."
+seo_title: "Starburst: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-starburst"
 url: "/es/slots/starburst/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![el espacio y las gemas de colores](/images/slots/catalog-starburst.webp)
+![Arte del juego Starburst con el espacio y las gemas de colores.](/images/slots/catalog-starburst.webp)
 
 Una tragamonedas ambientada en el espacio y las gemas de colores, con símbolos Wild expansivos y respins.
 

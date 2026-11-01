@@ -1,7 +1,7 @@
 ---
 title: "Hand of Anubis – profil gry"
-description: "Anubisa i starożytne egipskie motywy"
-seo_title: "Hand of Anubis: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem Anubisa i starożytne egipskie motywy, z funkcją: symbole kolekcjonerskie i funkcje bonusowe."
+seo_title: "Hand of Anubis: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-hand-of-anubis"
 url: "/pl/slots/hand-of-anubis/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Anubisa i starożytne egipskie motywy](/images/slots/catalog-hand-of-anubis.webp)
+![Grafika gry Hand of Anubis przedstawiająca Anubisa i starożytne egipskie motywy.](/images/slots/catalog-hand-of-anubis.webp)
 
 Slot inspirowany motywem Anubisa i starożytne egipskie motywy, z funkcją: symbole kolekcjonerskie i funkcje bonusowe.
 

@@ -1,7 +1,7 @@
 ---
 title: "Bonanza – Slot profile"
-description: "Megaways · Cascades"
-seo_title: "Bonanza: Slot: features & mechanics | Instant Casino"
+description: "A gold-mining theme with changing reel layouts and cascading symbols."
+seo_title: "Bonanza: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-bonanza"
 url: "/en/slots/bonanza/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Megaways · Cascades](/images/slots/bonanza-cover.webp)
+![Bonanza game artwork with a red gemstone and gold lettering on a wooden sign](/images/slots/bonanza-cover.webp)
 
 Bonanza uses the Megaways system, with variable reel heights and cascading wins. Its free-spins round is a separate bonus phase. The site record lists Megaways, cascades and free spins. Check the loaded version's help for exact triggers and rules.
 

@@ -1,6 +1,6 @@
 ---
 title: "Mega Fortune – perfil do jogo"
-description: "Luxo · Jackpot"
+description: "Um slot inspirado em um iate de luxo e um jackpot reluzente, com níveis de jackpot progressivo."
 seo_title: "Mega Fortune: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-mega-fortune"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Luxo · Jackpot](/images/slots/catalog-mega-fortune.webp)
+![Arte do jogo Mega Fortune com um iate de luxo e um jackpot reluzente.](/images/slots/catalog-mega-fortune.webp)
 
 Um slot inspirado em um iate de luxo e um jackpot reluzente, com níveis de jackpot progressivo.
 

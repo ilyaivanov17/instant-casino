@@ -1,7 +1,7 @@
 ---
 title: "5 Lions Megaways – profil gry"
-description: "pięć złotych lwów w świątynnym świecie inspirowanym Azją"
-seo_title: "5 Lions Megaways: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem pięć złotych lwów w świątynnym świecie inspirowanym Azją, z funkcją: bębny Megaways i darmowe spiny."
+seo_title: "5 Lions Megaways: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-5-lions-megaways"
 url: "/pl/slots/5-lions-megaways/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![pięć złotych lwów w świątynnym świecie inspirowanym Azją](/images/slots/catalog-5-lions-megaways.webp)
+![Grafika gry 5 Lions Megaways przedstawiająca pięć złotych lwów w świątynnym świecie inspirowanym Azją.](/images/slots/catalog-5-lions-megaways.webp)
 
 Slot inspirowany motywem pięć złotych lwów w świątynnym świecie inspirowanym Azją, z funkcją: bębny Megaways i darmowe spiny.
 

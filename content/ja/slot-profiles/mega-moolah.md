@@ -1,7 +1,7 @@
 ---
 title: "Mega Moolah ：ゲームプロフィール"
-description: "ライオンとアフリカのサバンナ"
-seo_title: "Mega Moolah: 機能とゲームの仕組み | Instant Casino"
+description: "ライオンとアフリカのサバンナをテーマに、段階式プログレッシブジャックポットを備えたスロットです。"
+seo_title: "Mega Moolah: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-mega-moolah"
 url: "/ja/slots/mega-moolah/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![ライオンとアフリカのサバンナ](/images/slots/mega-moolah.jpg)
+![Mega Moolahのゲームアート。ライオンとアフリカのサバンナを描いています。](/images/slots/mega-moolah.jpg)
 
 ライオンとアフリカのサバンナをテーマに、段階式プログレッシブジャックポットを備えたスロットです。
 

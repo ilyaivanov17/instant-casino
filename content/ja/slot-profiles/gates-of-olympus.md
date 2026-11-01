@@ -1,7 +1,7 @@
 ---
 title: "Gates of Olympus ：ゲームプロフィール"
-description: "ゼウスとオリンポスの壮大な神殿"
-seo_title: "Gates of Olympus: 機能とゲームの仕組み | Instant Casino"
+description: "ゼウスとオリンポスの壮大な神殿をテーマに、連続落下配当と倍率を備えたスロットです。"
+seo_title: "Gates of Olympus: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-gates-of-olympus"
 url: "/ja/slots/gates-of-olympus/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![ゼウスとオリンポスの壮大な神殿](/images/slots/catalog-gates-of-olympus.webp)
+![Gates of Olympusのゲームアート。ゼウスとオリンポスの壮大な神殿を描いています。](/images/slots/catalog-gates-of-olympus.webp)
 
 ゼウスとオリンポスの壮大な神殿をテーマに、連続落下配当と倍率を備えたスロットです。
 

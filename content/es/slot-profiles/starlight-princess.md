@@ -1,7 +1,7 @@
 ---
 title: "Starlight Princess – perfil de juego"
-description: "una princesa mágica en un mundo fantástico"
-seo_title: "Starlight Princess: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en una princesa mágica en un mundo fantástico, con premios en cascada y multiplicadores."
+seo_title: "Starlight Princess: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-starlight-princess"
 url: "/es/slots/starlight-princess/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![una princesa mágica en un mundo fantástico](/images/slots/catalog-starlight-princess.webp)
+![Arte del juego Starlight Princess con una princesa mágica en un mundo fantástico.](/images/slots/catalog-starlight-princess.webp)
 
 Una tragamonedas ambientada en una princesa mágica en un mundo fantástico, con premios en cascada y multiplicadores.
 

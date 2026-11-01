@@ -1,7 +1,7 @@
 ---
 title: "Le Bandit – profil gry"
-description: "szopa-złodzieja w paryskiej scenerii"
-seo_title: "Le Bandit: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem szopa-złodzieja w paryskiej scenerii, z funkcją: wygrane klastrowe i funkcje bonusowe."
+seo_title: "Le Bandit: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-le-bandit"
 url: "/pl/slots/le-bandit/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![szopa-złodzieja w paryskiej scenerii](/images/slots/catalog-le-bandit.webp)
+![Grafika gry Le Bandit przedstawiająca szopa-złodzieja w paryskiej scenerii.](/images/slots/catalog-le-bandit.webp)
 
 Slot inspirowany motywem szopa-złodzieja w paryskiej scenerii, z funkcją: wygrane klastrowe i funkcje bonusowe.
 

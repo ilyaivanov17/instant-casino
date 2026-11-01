@@ -1,7 +1,7 @@
 ---
 title: "Immortal Romance – profil gry"
-description: "wampiryczne postacie i gotycka opowieść o miłości"
-seo_title: "Immortal Romance: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem wampiryczne postacie i gotycka opowieść o miłości, z funkcją: darmowe spiny i funkcję Wild Desire."
+seo_title: "Immortal Romance: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-immortal-romance"
 url: "/pl/slots/immortal-romance/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![wampiryczne postacie i gotycka opowieść o miłości](/images/slots/catalog-immortal-romance.webp)
+![Grafika gry Immortal Romance przedstawiająca wampiryczne postacie i gotycka opowieść o miłości.](/images/slots/catalog-immortal-romance.webp)
 
 Slot inspirowany motywem wampiryczne postacie i gotycka opowieść o miłości, z funkcją: darmowe spiny i funkcję Wild Desire.
 

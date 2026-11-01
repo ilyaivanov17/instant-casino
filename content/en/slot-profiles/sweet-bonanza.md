@@ -1,7 +1,7 @@
 ---
 title: "Sweet Bonanza – Slot profile"
-description: "Tumble wins · Multipliers"
-seo_title: "Sweet Bonanza: Slot: features & mechanics | Instant Casino"
+description: "A slot built around sweets and fruit in a colourful fantasy world, featuring tumble wins and multipliers."
+seo_title: "Sweet Bonanza: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-sweet-bonanza"
 url: "/en/slots/sweet-bonanza/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Tumble wins · Multipliers](/images/slots/sweet-bonanza.jpg)
+![Sweet Bonanza slot game artwork showing sweets and fruit in a colourful fantasy world.](/images/slots/sweet-bonanza.jpg)
 
 A slot built around sweets and fruit in a colourful fantasy world, featuring tumble wins and multipliers.
 

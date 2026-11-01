@@ -1,7 +1,7 @@
 ---
 title: "Legacy of Dead ：ゲームプロフィール"
-description: "古代エジプトの神殿と黄金のスカラベ"
-seo_title: "Legacy of Dead: 機能とゲームの仕組み | Instant Casino"
+description: "古代エジプトの神殿と黄金のスカラベをテーマに、フリースピンと拡張シンボルを備えたスロットです。"
+seo_title: "Legacy of Dead: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-legacy-of-dead"
 url: "/ja/slots/legacy-of-dead/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![古代エジプトの神殿と黄金のスカラベ](/images/slots/catalog-legacy-of-dead.webp)
+![Legacy of Deadのゲームアート。古代エジプトの神殿と黄金のスカラベを描いています。](/images/slots/catalog-legacy-of-dead.webp)
 
 古代エジプトの神殿と黄金のスカラベをテーマに、フリースピンと拡張シンボルを備えたスロットです。
 

@@ -1,7 +1,7 @@
 ---
 title: "Thunderstruck II – perfil de juego"
-description: "dioses nórdicos y el mundo vikingo"
-seo_title: "Thunderstruck II: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en dioses nórdicos y el mundo vikingo, con giros gratis y funciones de bonificación especiales."
+seo_title: "Thunderstruck II: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-thunderstruck-ii"
 url: "/es/slots/thunderstruck-ii/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![dioses nórdicos y el mundo vikingo](/images/slots/catalog-thunderstruck-ii.webp)
+![Arte del juego Thunderstruck II con dioses nórdicos y el mundo vikingo.](/images/slots/catalog-thunderstruck-ii.webp)
 
 Una tragamonedas ambientada en dioses nórdicos y el mundo vikingo, con giros gratis y funciones de bonificación especiales.
 

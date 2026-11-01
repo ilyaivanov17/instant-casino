@@ -1,6 +1,6 @@
 ---
 title: "Dead or Alive 2 – perfil do jogo"
-description: "uma cidade poeirenta do Oeste e pistoleiros"
+description: "Um slot inspirado em uma cidade poeirenta do Oeste e pistoleiros, com vários modos de rodadas grátis."
 seo_title: "Dead or Alive 2: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-dead-or-alive-2"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![uma cidade poeirenta do Oeste e pistoleiros](/images/slots/catalog-dead-or-alive-2.webp)
+![Arte do jogo Dead or Alive 2 com uma cidade poeirenta do Oeste e pistoleiros.](/images/slots/catalog-dead-or-alive-2.webp)
 
 Um slot inspirado em uma cidade poeirenta do Oeste e pistoleiros, com vários modos de rodadas grátis.
 

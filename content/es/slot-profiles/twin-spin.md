@@ -1,7 +1,7 @@
 ---
 title: "Twin Spin – perfil de juego"
-description: "símbolos clásicos de tragaperras y rodillos enlazados"
-seo_title: "Twin Spin: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en símbolos clásicos de tragaperras y rodillos enlazados, con funciones de rodillos gemelos y símbolos aleatorios."
+seo_title: "Twin Spin: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-twin-spin"
 url: "/es/slots/twin-spin/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![símbolos clásicos de tragaperras y rodillos enlazados](/images/slots/catalog-twin-spin.webp)
+![Arte del juego Twin Spin con símbolos clásicos de tragaperras y rodillos enlazados.](/images/slots/catalog-twin-spin.webp)
 
 Una tragamonedas ambientada en símbolos clásicos de tragaperras y rodillos enlazados, con funciones de rodillos gemelos y símbolos aleatorios.
 

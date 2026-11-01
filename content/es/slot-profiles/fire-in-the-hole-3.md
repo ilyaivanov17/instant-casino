@@ -1,11 +1,11 @@
 ---
 title: "Fire in the Hole 3 – perfil de juego"
-description: "Collapsing Mine · xBomb · xSplit"
-seo_title: "Fire in the Hole 3: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas minera con un tablero que se derrumba. Los Wild xBomb, xSplit y xHole modifican los rodillos; Lucky Wagon Spins ofrece una ronda de bonificación independiente."
+seo_title: "Fire in the Hole 3: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-fire-in-the-hole-3"
 url: "/es/slots/fire-in-the-hole-3/"
-ogImage: "https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png"
+ogImage: "\"https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Collapsing Mine · xBomb · xSplit](https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png)
+![Arte de Fire in the Hole 3 con un minero, dinamita y una mina helada]("https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png")
 
 Fire in the Hole 3 transcurre en una mina helada cuyo tablero cambia con cada derrumbe. Los Wild xBomb y las funciones xSplit y xHole afectan a los símbolos y rodillos; Lucky Wagon Spins es una bonificación independiente.
 

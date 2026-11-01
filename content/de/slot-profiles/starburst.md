@@ -1,7 +1,7 @@
 ---
 title: "Starburst – Slot-Profil"
-description: "Edelsteine · Expandierende Wilds · Respins"
-seo_title: "Starburst: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Edelstein-Slot mit expandierenden Wild-Symbolen und Respins."
+seo_title: "Starburst: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-starburst"
 url: "/slots/starburst/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Edelsteine · Expandierende Wilds · Respins](/images/slots/catalog-starburst.webp)
+![Starburst Spielgrafik mit Weltraum und bunte Edelsteine.](/images/slots/catalog-starburst.webp)
 
 ### Kurz erklärt
 

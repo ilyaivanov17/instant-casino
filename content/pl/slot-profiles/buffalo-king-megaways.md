@@ -1,7 +1,7 @@
 ---
 title: "Buffalo King Megaways – profil gry"
-description: "bawoły i dzikie zwierzęta na północnoamerykańskiej prerii"
-seo_title: "Buffalo King Megaways: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem bawoły i dzikie zwierzęta na północnoamerykańskiej prerii, z funkcją: bębny Megaways i kaskady."
+seo_title: "Buffalo King Megaways: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-buffalo-king-megaways"
 url: "/pl/slots/buffalo-king-megaways/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![bawoły i dzikie zwierzęta na północnoamerykańskiej prerii](/images/slots/catalog-buffalo-king-megaways.webp)
+![Grafika gry Buffalo King Megaways przedstawiająca bawoły i dzikie zwierzęta na północnoamerykańskiej prerii.](/images/slots/catalog-buffalo-king-megaways.webp)
 
 Slot inspirowany motywem bawoły i dzikie zwierzęta na północnoamerykańskiej prerii, z funkcją: bębny Megaways i kaskady.
 

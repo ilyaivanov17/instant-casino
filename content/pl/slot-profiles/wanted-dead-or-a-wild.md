@@ -1,7 +1,7 @@
 ---
 title: "Wanted Dead or a Wild – profil gry"
-description: "zamaskowanych rewolwerowców na Dzikim Zachodzie"
-seo_title: "Wanted Dead or a Wild: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem zamaskowanych rewolwerowców na Dzikim Zachodzie, z funkcją: rundy bonusowe i funkcje pojedynków."
+seo_title: "Wanted Dead or a Wild: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-wanted-dead-or-a-wild"
 url: "/pl/slots/wanted-dead-or-a-wild/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![zamaskowanych rewolwerowców na Dzikim Zachodzie](/images/slots/catalog-wanted-dead-or-a-wild.webp)
+![Grafika gry Wanted Dead or a Wild przedstawiająca zamaskowanych rewolwerowców na Dzikim Zachodzie.](/images/slots/catalog-wanted-dead-or-a-wild.webp)
 
 Slot inspirowany motywem zamaskowanych rewolwerowców na Dzikim Zachodzie, z funkcją: rundy bonusowe i funkcje pojedynków.
 

@@ -1,7 +1,7 @@
 ---
 title: "Wolf Gold – Slot profile"
-description: "Wildlife · Jackpot features"
-seo_title: "Wolf Gold: Slot: features & mechanics | Instant Casino"
+description: "A slot built around wolves and the North American wilderness, featuring Wild symbols, respins and jackpot features."
+seo_title: "Wolf Gold: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-wolf-gold"
 url: "/en/slots/wolf-gold/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Wildlife · Jackpot features](/images/slots/wolf-gold.webp)
+![Wolf Gold slot game artwork showing wolves and the North American wilderness.](/images/slots/wolf-gold.webp)
 
 A slot built around wolves and the North American wilderness, featuring Wild symbols, respins and jackpot features.
 

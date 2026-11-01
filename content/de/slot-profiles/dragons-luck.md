@@ -1,7 +1,7 @@
 ---
 title: "Dragon's Luck – Slot-Profil"
-description: "Drache · Münzfunktionen"
-seo_title: "Dragon's Luck: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Drachenthema mit den Sonderfunktionen Dragon Coin, Dragon’s Help und Mega Coin."
+seo_title: "Dragon's Luck: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-dragons-luck"
 url: "/slots/dragons-luck/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Drache · Münzfunktionen](/images/slots/dragons-luck-cover.webp)
+![Dragon's Luck Spielgrafik mit goldenem Drachenkopf auf einem roten Hintergrund](/images/slots/dragons-luck-cover.webp)
 
 Dragon's Luck ist ein Red-Tiger-Slot mit Drachenmotiv und den Funktionen Dragon Coin, Dragon's Help und Mega Coin. Prüfe die [offiziellen Spielinformationen](https://games.evolution.com/slots/dragons-luck/) sowie die Auszahlungstabelle der geladenen Version, um die genauen Regeln zu erfahren.
 

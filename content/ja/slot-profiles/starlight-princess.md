@@ -1,7 +1,7 @@
 ---
 title: "Starlight Princess ：ゲームプロフィール"
-description: "幻想的な世界の魔法のプリンセス"
-seo_title: "Starlight Princess: 機能とゲームの仕組み | Instant Casino"
+description: "幻想的な世界の魔法のプリンセスをテーマに、連続落下配当と倍率を備えたスロットです。"
+seo_title: "Starlight Princess: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-starlight-princess"
 url: "/ja/slots/starlight-princess/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![幻想的な世界の魔法のプリンセス](/images/slots/catalog-starlight-princess.webp)
+![Starlight Princessのゲームアート。幻想的な世界の魔法のプリンセスを描いています。](/images/slots/catalog-starlight-princess.webp)
 
 幻想的な世界の魔法のプリンセスをテーマに、連続落下配当と倍率を備えたスロットです。
 

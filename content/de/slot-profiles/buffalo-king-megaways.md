@@ -1,7 +1,7 @@
 ---
 title: "Buffalo King Megaways – Slot-Profil"
-description: "Wildtiere · Megaways · Kaskaden"
-seo_title: "Buffalo King Megaways: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Tier-Slot mit variabler Megaways-Walzenhöhe und Kaskaden."
+seo_title: "Buffalo King Megaways: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-buffalo-king-megaways"
 url: "/slots/buffalo-king-megaways/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Wildtiere · Megaways · Kaskaden](/images/slots/catalog-buffalo-king-megaways.webp)
+![Buffalo King Megaways Spielgrafik mit Büffel und Wildtiere in der nordamerikanischen Prärie.](/images/slots/catalog-buffalo-king-megaways.webp)
 
 ### Kurz erklärt
 

@@ -1,7 +1,7 @@
 ---
 title: "Sweet Bonanza ：ゲームプロフィール"
-description: "カラフルなファンタジー世界のお菓子とフルーツ"
-seo_title: "Sweet Bonanza: 機能とゲームの仕組み | Instant Casino"
+description: "カラフルなファンタジー世界のお菓子とフルーツをテーマに、連続落下配当と倍率を備えたスロットです。"
+seo_title: "Sweet Bonanza: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-sweet-bonanza"
 url: "/ja/slots/sweet-bonanza/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![カラフルなファンタジー世界のお菓子とフルーツ](/images/slots/sweet-bonanza.jpg)
+![Sweet Bonanzaのゲームアート。カラフルなファンタジー世界のお菓子とフルーツを描いています。](/images/slots/sweet-bonanza.jpg)
 
 カラフルなファンタジー世界のお菓子とフルーツをテーマに、連続落下配当と倍率を備えたスロットです。
 

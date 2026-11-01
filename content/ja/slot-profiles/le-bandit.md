@@ -1,7 +1,7 @@
 ---
 title: "Le Bandit ：ゲームプロフィール"
-description: "パリを舞台にしたアライグマの盗賊"
-seo_title: "Le Bandit: 機能とゲームの仕組み | Instant Casino"
+description: "パリを舞台にしたアライグマの盗賊をテーマに、クラスター配当とボーナス機能を備えたスロットです。"
+seo_title: "Le Bandit: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-le-bandit"
 url: "/ja/slots/le-bandit/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![パリを舞台にしたアライグマの盗賊](/images/slots/catalog-le-bandit.webp)
+![Le Banditのゲームアート。パリを舞台にしたアライグマの盗賊を描いています。](/images/slots/catalog-le-bandit.webp)
 
 パリを舞台にしたアライグマの盗賊をテーマに、クラスター配当とボーナス機能を備えたスロットです。
 

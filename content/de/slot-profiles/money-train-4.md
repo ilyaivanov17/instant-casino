@@ -1,7 +1,7 @@
 ---
 title: "Money Train 4 – Slot-Profil"
-description: "Outlaws · Hold-and-Respin · Modifikatoren"
-seo_title: "Money Train 4: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Hold-and-Respin-Slot mit mehreren Funktionssymbolen und unterschiedlichen Modifikatoren."
+seo_title: "Money Train 4: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-money-train-4"
 url: "/slots/money-train-4/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Outlaws · Hold-and-Respin · Modifikatoren](/images/slots/catalog-money-train-4.webp)
+![Money Train 4 Spielgrafik mit Outlaws und ein futuristisches Zugabenteuer.](/images/slots/catalog-money-train-4.webp)
 
 ### Kurz erklärt
 

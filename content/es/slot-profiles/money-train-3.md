@@ -1,7 +1,7 @@
 ---
 title: "Money Train 3 – perfil de juego"
-description: "un tren futurista y dos forajidos"
-seo_title: "Money Train 3: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en un tren futurista y dos forajidos, con símbolos de bonificación y funciones de multiplicadores."
+seo_title: "Money Train 3: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-money-train-3"
 url: "/es/slots/money-train-3/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![un tren futurista y dos forajidos](/images/slots/catalog-money-train-3.webp)
+![Arte del juego Money Train 3 con un tren futurista y dos forajidos.](/images/slots/catalog-money-train-3.webp)
 
 Una tragamonedas ambientada en un tren futurista y dos forajidos, con símbolos de bonificación y funciones de multiplicadores.
 

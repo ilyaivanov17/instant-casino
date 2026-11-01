@@ -1,7 +1,7 @@
 ---
 title: "Bigger Bass Bonanza – profil gry"
-description: "Wędkarstwo · Darmowe spiny"
-seo_title: "Bigger Bass Bonanza: mechanika i funkcje slotu | Instant Casino"
+description: "Motyw wędkarski, symbole ryb, runda darmowych spinów i funkcja bonusowa z mnożnikami."
+seo_title: "Bigger Bass Bonanza: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-bigger-bass-bonanza"
 url: "/pl/slots/bigger-bass-bonanza/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Wędkarstwo · Darmowe spiny](/images/slots/bigger-bass-bonanza-cover.webp)
+![Grafika gry Bigger Bass Bonanza przedstawiająca wędkarza, złotą rybę i tropikalne tło](/images/slots/bigger-bass-bonanza-cover.webp)
 
 Bigger Bass Bonanza ma własny motyw i zestaw funkcji, które warto poznać przed grą. W zapisanej specyfikacji wymieniono: symbole Scatter, darmowe spiny, mnożniki. Sprawdź instrukcję i tabelę wypłat, aby poznać warunki aktywacji oraz ograniczenia dostępnej wersji.
 

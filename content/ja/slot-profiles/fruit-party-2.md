@@ -1,7 +1,7 @@
 ---
 title: "Fruit Party 2 ：ゲームプロフィール"
-description: "カラフルなフルーツと明るいファンタジーの世界"
-seo_title: "Fruit Party 2: 機能とゲームの仕組み | Instant Casino"
+description: "カラフルなフルーツと明るいファンタジーの世界をテーマに、クラスター配当と倍率を備えたスロットです。"
+seo_title: "Fruit Party 2: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-fruit-party-2"
 url: "/ja/slots/fruit-party-2/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![カラフルなフルーツと明るいファンタジーの世界](/images/slots/catalog-fruit-party-2.webp)
+![Fruit Party 2のゲームアート。カラフルなフルーツと明るいファンタジーの世界を描いています。](/images/slots/catalog-fruit-party-2.webp)
 
 カラフルなフルーツと明るいファンタジーの世界をテーマに、クラスター配当と倍率を備えたスロットです。
 

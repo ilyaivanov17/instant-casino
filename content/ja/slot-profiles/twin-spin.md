@@ -1,7 +1,7 @@
 ---
 title: "Twin Spin ：ゲームプロフィール"
-description: "クラシックなスロットシンボルと連動リール"
-seo_title: "Twin Spin: 機能とゲームの仕組み | Instant Casino"
+description: "クラシックなスロットシンボルと連動リールをテーマに、ツインリール機能とランダムシンボルを備えたスロットです。"
+seo_title: "Twin Spin: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-twin-spin"
 url: "/ja/slots/twin-spin/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![クラシックなスロットシンボルと連動リール](/images/slots/catalog-twin-spin.webp)
+![Twin Spinのゲームアート。クラシックなスロットシンボルと連動リールを描いています。](/images/slots/catalog-twin-spin.webp)
 
 クラシックなスロットシンボルと連動リールをテーマに、ツインリール機能とランダムシンボルを備えたスロットです。
 

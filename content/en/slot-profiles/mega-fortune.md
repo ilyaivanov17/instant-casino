@@ -1,7 +1,7 @@
 ---
 title: "Mega Fortune – Slot profile"
-description: "Progressive jackpot · Luxury theme"
-seo_title: "Mega Fortune: Slot: features & mechanics | Instant Casino"
+description: "A slot built around a luxury yacht and a glittering jackpot, featuring progressive jackpot tiers."
+seo_title: "Mega Fortune: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-mega-fortune"
 url: "/en/slots/mega-fortune/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Progressive jackpot · Luxury theme](/images/slots/catalog-mega-fortune.webp)
+![Mega Fortune slot game artwork showing a luxury yacht and a glittering jackpot.](/images/slots/catalog-mega-fortune.webp)
 
 A slot built around a luxury yacht and a glittering jackpot, featuring progressive jackpot tiers.
 

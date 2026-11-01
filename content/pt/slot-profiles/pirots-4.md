@@ -1,11 +1,11 @@
 ---
 title: "Pirots 4 – perfil do jogo"
-description: "Grelha 6×6 · CollectR · campo expansível"
+description: "Um slot espacial numa grelha 6×6. CollectR, a expansão do campo e as transformações de símbolos juntam-se ao Space Bandit e ao jogo de moedas Lost in Space."
 seo_title: "Pirots 4: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-pirots-4"
 url: "/pt/slots/pirots-4/"
-ogImage: "https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png"
+ogImage: "\"https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Grelha 6×6 · CollectR · campo expansível](https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png)
+![Arte de Pirots 4 com aves espaciais e o logótipo CollectR]("https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png")
 
 Pirots 4 combina uma aventura espacial com uma grelha 6×6. CollectR, a expansão do campo e as transformações de símbolos influenciam cada ronda. Entre as funções adicionais estão Space Bandit e o jogo de moedas Lost in Space.
 

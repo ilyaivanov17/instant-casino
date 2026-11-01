@@ -1,7 +1,7 @@
 ---
 title: "Bonanza – profil gry"
-description: "Megaways · Kaskady"
-seo_title: "Bonanza: mechanika i funkcje slotu | Instant Casino"
+description: "Motyw poszukiwania złota ze zmiennym układem bębnów i kaskadowymi symbolami."
+seo_title: "Bonanza: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-bonanza"
 url: "/pl/slots/bonanza/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Megaways · Kaskady](/images/slots/bonanza-cover.webp)
+![Grafika Bonanza z czerwonym klejnotem i złotym napisem na drewnianej tablicy](/images/slots/bonanza-cover.webp)
 
 Bonanza wykorzystuje system Megaways ze zmienną wysokością bębnów i kaskadami. Darmowe spiny tworzą osobną rundę bonusową. Sprawdź instrukcję i tabelę wypłat, aby poznać warunki aktywacji oraz ograniczenia dostępnej wersji.
 

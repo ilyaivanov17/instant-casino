@@ -1,11 +1,11 @@
 ---
 title: "Temple Tumble – perfil de juego"
-description: "Cuadrícula 6×6 · Megaways · cascadas"
-seo_title: "Temple Tumble: funciones y mecánica | Instant Casino"
+description: "Una aventura selvática en una cuadrícula de 6×6 con hasta 46.656 formas de ganar. Las cascadas y los bloques de piedra conducen a tiradas gratis con elección entre tres mundos."
+seo_title: "Temple Tumble: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-temple-tumble"
 url: "/es/slots/temple-tumble/"
-ogImage: "https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png"
+ogImage: "\"https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Cuadrícula 6×6 · Megaways · cascadas](https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png)
+![Arte de Temple Tumble con el título dorado frente a un templo en la selva]("https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png")
 
 Temple Tumble es una aventura selvática en una cuadrícula de 6×6 con hasta 46.656 formas de ganar. Los símbolos desaparecen en cascadas y los bloques de piedra abren el camino a tiradas gratis, donde se elige entre tres mundos.
 

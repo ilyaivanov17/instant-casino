@@ -1,6 +1,6 @@
 ---
 title: "Wild West Gold – perfil do jogo"
-description: "cowboys e ouro do Oeste Selvagem"
+description: "Um slot inspirado em cowboys e ouro do Oeste Selvagem, com Sticky Wilds e respins."
 seo_title: "Wild West Gold: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-wild-west-gold"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![cowboys e ouro do Oeste Selvagem](/images/slots/catalog-wild-west-gold.webp)
+![Arte do jogo Wild West Gold com cowboys e ouro do Oeste Selvagem.](/images/slots/catalog-wild-west-gold.webp)
 
 Um slot inspirado em cowboys e ouro do Oeste Selvagem, com Sticky Wilds e respins.
 

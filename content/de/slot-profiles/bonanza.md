@@ -1,7 +1,7 @@
 ---
 title: "Bonanza – Slot-Profil"
-description: "Megaways · Kaskaden · Freispiele"
-seo_title: "Bonanza: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Megaways-Slot mit wechselnder Walzenhöhe, Kaskaden und einer eigenen Freispiele-Funktion."
+seo_title: "Bonanza: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-bonanza"
 url: "/slots/bonanza/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Megaways · Kaskaden · Freispiele](/images/slots/bonanza-cover.webp)
+![Bonanza Spielgrafik mit rotem Edelstein und goldener Schrift auf einem hölzernen Schild](/images/slots/bonanza-cover.webp)
 
 Bonanza von Big Time Gaming nutzt das Megaways-Prinzip mit variabler Walzenhöhe und Kaskaden. Die Freispiele bilden eine eigene Bonusphase. Die genauen Auslöser und Regeln sind in der Hilfe der geladenen Spielversion zu prüfen.
 

@@ -1,7 +1,7 @@
 ---
 title: "Wanted Dead or a Wild – Slot profile"
-description: "Wild West · Bonus duels"
-seo_title: "Wanted Dead or a Wild: Slot: features & mechanics | Instant Casino"
+description: "A slot built around masked gunslingers in the Wild West, featuring bonus rounds and duel features."
+seo_title: "Wanted Dead or a Wild: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-wanted-dead-or-a-wild"
 url: "/en/slots/wanted-dead-or-a-wild/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Wild West · Bonus duels](/images/slots/catalog-wanted-dead-or-a-wild.webp)
+![Wanted Dead or a Wild slot game artwork showing masked gunslingers in the Wild West.](/images/slots/catalog-wanted-dead-or-a-wild.webp)
 
 A slot built around masked gunslingers in the Wild West, featuring bonus rounds and duel features.
 

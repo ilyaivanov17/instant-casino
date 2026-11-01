@@ -1,7 +1,7 @@
 ---
 title: "Buffalo King Megaways – perfil de juego"
-description: "búfalos y fauna salvaje en la pradera norteamericana"
-seo_title: "Buffalo King Megaways: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en búfalos y fauna salvaje en la pradera norteamericana, con rodillos Megaways y cascadas."
+seo_title: "Buffalo King Megaways: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-buffalo-king-megaways"
 url: "/es/slots/buffalo-king-megaways/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![búfalos y fauna salvaje en la pradera norteamericana](/images/slots/catalog-buffalo-king-megaways.webp)
+![Arte del juego Buffalo King Megaways con búfalos y fauna salvaje en la pradera norteamericana.](/images/slots/catalog-buffalo-king-megaways.webp)
 
 Una tragamonedas ambientada en búfalos y fauna salvaje en la pradera norteamericana, con rodillos Megaways y cascadas.
 

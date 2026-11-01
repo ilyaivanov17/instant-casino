@@ -1,7 +1,7 @@
 ---
 title: "Reactoonz ：ゲームプロフィール"
-description: "宇宙を舞台にしたカラフルなエイリアン"
-seo_title: "Reactoonz: 機能とゲームの仕組み | Instant Casino"
+description: "宇宙を舞台にしたカラフルなエイリアンをテーマに、クラスター配当とQuantum Leap機能を備えたスロットです。"
+seo_title: "Reactoonz: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-reactoonz"
 url: "/ja/slots/reactoonz/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![宇宙を舞台にしたカラフルなエイリアン](/images/slots/catalog-reactoonz.webp)
+![Reactoonzのゲームアート。宇宙を舞台にしたカラフルなエイリアンを描いています。](/images/slots/catalog-reactoonz.webp)
 
 宇宙を舞台にしたカラフルなエイリアンをテーマに、クラスター配当とQuantum Leap機能を備えたスロットです。
 

@@ -1,7 +1,7 @@
 ---
 title: "Money Train 4 – profil gry"
-description: "banitów i futurystyczną przygodę kolejową"
-seo_title: "Money Train 4: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem banitów i futurystyczną przygodę kolejową, z funkcją: symbole kolekcjonerskie i funkcje bonusowe."
+seo_title: "Money Train 4: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-money-train-4"
 url: "/pl/slots/money-train-4/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![banitów i futurystyczną przygodę kolejową](/images/slots/catalog-money-train-4.webp)
+![Grafika gry Money Train 4 przedstawiająca banitów i futurystyczną przygodę kolejową.](/images/slots/catalog-money-train-4.webp)
 
 Slot inspirowany motywem banitów i futurystyczną przygodę kolejową, z funkcją: symbole kolekcjonerskie i funkcje bonusowe.
 

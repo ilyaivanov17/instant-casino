@@ -1,7 +1,7 @@
 ---
 title: "Wild West Gold – perfil de juego"
-description: "vaqueros y oro del Salvaje Oeste"
-seo_title: "Wild West Gold: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en vaqueros y oro del Salvaje Oeste, con Sticky Wilds y respins."
+seo_title: "Wild West Gold: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-wild-west-gold"
 url: "/es/slots/wild-west-gold/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![vaqueros y oro del Salvaje Oeste](/images/slots/catalog-wild-west-gold.webp)
+![Arte del juego Wild West Gold con vaqueros y oro del Salvaje Oeste.](/images/slots/catalog-wild-west-gold.webp)
 
 Una tragamonedas ambientada en vaqueros y oro del Salvaje Oeste, con Sticky Wilds y respins.
 

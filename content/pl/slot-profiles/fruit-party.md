@@ -1,7 +1,7 @@
 ---
 title: "Fruit Party – profil gry"
-description: "Owoce · Mnożniki"
-seo_title: "Fruit Party: mechanika i funkcje slotu | Instant Casino"
+description: "Kolorowa gra klastrowa 7×7 z mnożnikami symboli i rundą darmowych spinów."
+seo_title: "Fruit Party: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-fruit-party"
 url: "/pl/slots/fruit-party/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Owoce · Mnożniki](/images/slots/fruit-party-cover.webp)
+![Grafika Fruit Party z kolorowymi owocami i wielobarwnym tytułem gry](/images/slots/fruit-party-cover.webp)
 
 Fruit Party ma własny motyw i zestaw funkcji, które warto poznać przed grą. W zapisanej specyfikacji wymieniono: mechanika Tumble, mnożniki wygranych, darmowe spiny. Sprawdź instrukcję i tabelę wypłat, aby poznać warunki aktywacji oraz ograniczenia dostępnej wersji.
 

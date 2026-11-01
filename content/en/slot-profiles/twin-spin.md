@@ -1,7 +1,7 @@
 ---
 title: "Twin Spin – Slot profile"
-description: "Linked reels · Classic symbols"
-seo_title: "Twin Spin: Slot: features & mechanics | Instant Casino"
+description: "A slot built around classic slot symbols and linked reels, featuring twin-reel features and random symbols."
+seo_title: "Twin Spin: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-twin-spin"
 url: "/en/slots/twin-spin/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Linked reels · Classic symbols](/images/slots/catalog-twin-spin.webp)
+![Twin Spin slot game artwork showing classic slot symbols and linked reels.](/images/slots/catalog-twin-spin.webp)
 
 A slot built around classic slot symbols and linked reels, featuring twin-reel features and random symbols.
 

@@ -1,6 +1,6 @@
 ---
 title: "Starlight Princess – perfil do jogo"
-description: "uma princesa mágica num mundo de fantasia"
+description: "Um slot inspirado em uma princesa mágica num mundo de fantasia, com prémios em cascata e multiplicadores."
 seo_title: "Starlight Princess: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-starlight-princess"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![uma princesa mágica num mundo de fantasia](/images/slots/catalog-starlight-princess.webp)
+![Arte do jogo Starlight Princess com uma princesa mágica num mundo de fantasia.](/images/slots/catalog-starlight-princess.webp)
 
 Um slot inspirado em uma princesa mágica num mundo de fantasia, com prémios em cascata e multiplicadores.
 

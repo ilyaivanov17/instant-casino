@@ -1,7 +1,7 @@
 ---
 title: "Dead or Alive 2 – perfil de juego"
-description: "un pueblo polvoriento del Oeste y pistoleros"
-seo_title: "Dead or Alive 2: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en un pueblo polvoriento del Oeste y pistoleros, con varios modos de giros gratis."
+seo_title: "Dead or Alive 2: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-dead-or-alive-2"
 url: "/es/slots/dead-or-alive-2/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![un pueblo polvoriento del Oeste y pistoleros](/images/slots/catalog-dead-or-alive-2.webp)
+![Arte del juego Dead or Alive 2 con un pueblo polvoriento del Oeste y pistoleros.](/images/slots/catalog-dead-or-alive-2.webp)
 
 Una tragamonedas ambientada en un pueblo polvoriento del Oeste y pistoleros, con varios modos de giros gratis.
 

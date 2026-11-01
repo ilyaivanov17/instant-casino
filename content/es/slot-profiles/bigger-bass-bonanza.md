@@ -1,7 +1,7 @@
 ---
 title: "Bigger Bass Bonanza – perfil de juego"
-description: "Pesca · Giros gratis"
-seo_title: "Bigger Bass Bonanza: funciones y mecánica | Instant Casino"
+description: "Una temática de pesca con símbolos de peces, una ronda de giros gratis y una función de bonificación con multiplicadores."
+seo_title: "Bigger Bass Bonanza: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-bigger-bass-bonanza"
 url: "/es/slots/bigger-bass-bonanza/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Pesca · Giros gratis](/images/slots/bigger-bass-bonanza-cover.webp)
+![Arte de Bigger Bass Bonanza con un pescador, un pez dorado y un fondo tropical](/images/slots/bigger-bass-bonanza-cover.webp)
 
 Bigger Bass Bonanza tiene una temática y unas funciones propias que conviene conocer antes de jugar. La ficha incluye símbolos Scatter y giros gratis y multiplicadores. Consulta la ayuda y la tabla de pagos para comprobar los activadores, las reglas y los límites de la versión disponible.
 

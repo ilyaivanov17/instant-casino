@@ -1,7 +1,7 @@
 ---
 title: "Bonanza ：ゲームプロフィール"
-description: "Megaways · カスケード"
-seo_title: "Bonanza: 機能とゲームの仕組み | Instant Casino"
+description: "金鉱をテーマに、リール構成が変化し、シンボルが連続して落下するスロットです。"
+seo_title: "Bonanza: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-bonanza"
 url: "/ja/slots/bonanza/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Megaways · カスケード](/images/slots/bonanza-cover.webp)
+![赤い宝石と木製の看板に描かれた金色の文字が特徴のBonanzaゲームアート](/images/slots/bonanza-cover.webp)
 
 Bonanzaは、リールの高さが変化するMegaways方式とカスケードを採用しています。フリースピンは独立したボーナスラウンドです。プレイ前にゲーム内ヘルプと配当表を確認し、機能の発動条件や利用できるバージョンの制限を把握してください。
 

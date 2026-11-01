@@ -1,7 +1,7 @@
 ---
 title: "Reactoonz – profil gry"
-description: "kolorowi kosmici w kosmicznej scenerii"
-seo_title: "Reactoonz: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem kolorowi kosmici w kosmicznej scenerii, z funkcją: wygrane klastrowe i funkcję Quantum Leap."
+seo_title: "Reactoonz: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-reactoonz"
 url: "/pl/slots/reactoonz/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![kolorowi kosmici w kosmicznej scenerii](/images/slots/catalog-reactoonz.webp)
+![Grafika gry Reactoonz przedstawiająca kolorowi kosmici w kosmicznej scenerii.](/images/slots/catalog-reactoonz.webp)
 
 Slot inspirowany motywem kolorowi kosmici w kosmicznej scenerii, z funkcją: wygrane klastrowe i funkcję Quantum Leap.
 

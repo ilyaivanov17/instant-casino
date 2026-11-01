@@ -1,7 +1,7 @@
 ---
 title: "Mega Fortune – profil gry"
-description: "Luksus · Jackpot"
-seo_title: "Mega Fortune: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem luksusowy jacht i lśniący jackpot, z funkcją: progresywne poziomy jackpota."
+seo_title: "Mega Fortune: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-mega-fortune"
 url: "/pl/slots/mega-fortune/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Luksus · Jackpot](/images/slots/catalog-mega-fortune.webp)
+![Grafika gry Mega Fortune przedstawiająca luksusowy jacht i lśniący jackpot.](/images/slots/catalog-mega-fortune.webp)
 
 Slot inspirowany motywem luksusowy jacht i lśniący jackpot, z funkcją: progresywne poziomy jackpota.
 

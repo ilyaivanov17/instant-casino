@@ -1,6 +1,6 @@
 ---
 title: "Hand of Anubis – perfil do jogo"
-description: "Anúbis e motivos do antigo Egito"
+description: "Um slot inspirado em Anúbis e motivos do antigo Egito, com símbolos colecionáveis e funcionalidades de bónus."
 seo_title: "Hand of Anubis: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-hand-of-anubis"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Anúbis e motivos do antigo Egito](/images/slots/catalog-hand-of-anubis.webp)
+![Arte do jogo Hand of Anubis com Anúbis e motivos do antigo Egito.](/images/slots/catalog-hand-of-anubis.webp)
 
 Um slot inspirado em Anúbis e motivos do antigo Egito, com símbolos colecionáveis e funcionalidades de bónus.
 

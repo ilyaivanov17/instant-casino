@@ -1,6 +1,6 @@
 ---
 title: "Mega Moolah – perfil do jogo"
-description: "um leão e a savana africana"
+description: "Um slot inspirado em um leão e a savana africana, com níveis de jackpot progressivo."
 seo_title: "Mega Moolah: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-mega-moolah"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![um leão e a savana africana](/images/slots/mega-moolah.jpg)
+![Arte do jogo Mega Moolah com um leão e a savana africana.](/images/slots/mega-moolah.jpg)
 
 Um slot inspirado em um leão e a savana africana, com níveis de jackpot progressivo.
 

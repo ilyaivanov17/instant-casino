@@ -1,7 +1,7 @@
 ---
 title: "Reactoonz – perfil de juego"
-description: "alienígenas de colores en un entorno espacial"
-seo_title: "Reactoonz: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en alienígenas de colores en un entorno espacial, con premios por grupos y la función Quantum Leap."
+seo_title: "Reactoonz: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-reactoonz"
 url: "/es/slots/reactoonz/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![alienígenas de colores en un entorno espacial](/images/slots/catalog-reactoonz.webp)
+![Arte del juego Reactoonz con alienígenas de colores en un entorno espacial.](/images/slots/catalog-reactoonz.webp)
 
 Una tragamonedas ambientada en alienígenas de colores en un entorno espacial, con premios por grupos y la función Quantum Leap.
 

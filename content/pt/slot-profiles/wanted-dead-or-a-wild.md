@@ -1,6 +1,6 @@
 ---
 title: "Wanted Dead or a Wild – perfil do jogo"
-description: "pistoleiros mascarados no Oeste Selvagem"
+description: "Um slot inspirado em pistoleiros mascarados no Oeste Selvagem, com rondas de bónus e funcionalidades de duelo."
 seo_title: "Wanted Dead or a Wild: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-wanted-dead-or-a-wild"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![pistoleiros mascarados no Oeste Selvagem](/images/slots/catalog-wanted-dead-or-a-wild.webp)
+![Arte do jogo Wanted Dead or a Wild com pistoleiros mascarados no Oeste Selvagem.](/images/slots/catalog-wanted-dead-or-a-wild.webp)
 
 Um slot inspirado em pistoleiros mascarados no Oeste Selvagem, com rondas de bónus e funcionalidades de duelo.
 

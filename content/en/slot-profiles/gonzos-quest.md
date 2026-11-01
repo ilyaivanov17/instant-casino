@@ -1,7 +1,7 @@
 ---
 title: "Gonzo's Quest – Slot profile"
-description: "Avalanche wins · Multipliers"
-seo_title: "Gonzo's Quest: Slot: features & mechanics | Instant Casino"
+description: "A slot built around an explorer searching for El Dorado, featuring cascading wins and rising multipliers."
+seo_title: "Gonzo's Quest: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-gonzos-quest"
 url: "/en/slots/gonzos-quest/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Avalanche wins · Multipliers](/images/slots/gonzos-quest.webp)
+![Gonzo's Quest slot game artwork showing an explorer searching for El Dorado.](/images/slots/gonzos-quest.webp)
 
 A slot built around an explorer searching for El Dorado, featuring cascading wins and rising multipliers.
 

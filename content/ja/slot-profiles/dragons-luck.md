@@ -1,7 +1,7 @@
 ---
 title: "Dragon's Luck ：ゲームプロフィール"
-description: "ドラゴン · コイン機能"
-seo_title: "Dragon's Luck: 機能とゲームの仕組み | Instant Casino"
+description: "東アジアの龍をテーマに、Dragon CoinとMega Coinの機能が登場します。"
+seo_title: "Dragon's Luck: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-dragons-luck"
 url: "/ja/slots/dragons-luck/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![ドラゴン · コイン機能](/images/slots/dragons-luck-cover.webp)
+![赤い背景に金色の龍の頭を描いたDragon's Luckのゲームアート](/images/slots/dragons-luck-cover.webp)
 
 Dragon's Luckは、ドラゴンをテーマにしたRed Tigerのスロットで、Dragon Coin、Dragon's Help、Mega Coinの機能を備えています。正確なルールは公式ゲーム情報と、実際に読み込まれたバージョンの配当表で確認してください。
 

@@ -1,6 +1,6 @@
 ---
 title: "Bonanza – perfil do jogo"
-description: "Megaways · Cascatas"
+description: "Um tema de exploração mineira com configurações variáveis dos rolos e símbolos em cascata."
 seo_title: "Bonanza: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-bonanza"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Megaways · Cascatas](/images/slots/bonanza-cover.webp)
+![Arte de Bonanza com uma gema vermelha e letras douradas numa placa de madeira](/images/slots/bonanza-cover.webp)
 
 Bonanza utiliza o sistema Megaways, com altura variável dos rolos e prémios em cascata. A ronda de rodadas grátis constitui uma fase de bónus independente. Consulte a ajuda e a tabela de pagamentos para confirmar as condições e os limites da versão disponível.
 

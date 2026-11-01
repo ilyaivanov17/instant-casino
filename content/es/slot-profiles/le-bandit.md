@@ -1,7 +1,7 @@
 ---
 title: "Le Bandit – perfil de juego"
-description: "un mapache ladrón en un entorno parisino"
-seo_title: "Le Bandit: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en un mapache ladrón en un entorno parisino, con premios por grupos y funciones de bonificación."
+seo_title: "Le Bandit: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-le-bandit"
 url: "/es/slots/le-bandit/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![un mapache ladrón en un entorno parisino](/images/slots/catalog-le-bandit.webp)
+![Arte del juego Le Bandit con un mapache ladrón en un entorno parisino.](/images/slots/catalog-le-bandit.webp)
 
 Una tragamonedas ambientada en un mapache ladrón en un entorno parisino, con premios por grupos y funciones de bonificación.
 

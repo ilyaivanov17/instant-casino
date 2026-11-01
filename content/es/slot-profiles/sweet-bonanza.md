@@ -1,7 +1,7 @@
 ---
 title: "Sweet Bonanza – perfil de juego"
-description: "dulces y frutas en un mundo fantástico lleno de color"
-seo_title: "Sweet Bonanza: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en dulces y frutas en un mundo fantástico lleno de color, con premios en cascada y multiplicadores."
+seo_title: "Sweet Bonanza: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-sweet-bonanza"
 url: "/es/slots/sweet-bonanza/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![dulces y frutas en un mundo fantástico lleno de color](/images/slots/sweet-bonanza.jpg)
+![Arte del juego Sweet Bonanza con dulces y frutas en un mundo fantástico lleno de color.](/images/slots/sweet-bonanza.jpg)
 
 Una tragamonedas ambientada en dulces y frutas en un mundo fantástico lleno de color, con premios en cascada y multiplicadores.
 

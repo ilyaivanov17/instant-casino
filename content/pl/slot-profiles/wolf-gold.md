@@ -1,7 +1,7 @@
 ---
 title: "Wolf Gold – profil gry"
-description: "wilki i północnoamerykańską dziką przyrodę"
-seo_title: "Wolf Gold: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem wilki i północnoamerykańską dziką przyrodę, z funkcją: symbole Wild, respiny i funkcje jackpot."
+seo_title: "Wolf Gold: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-wolf-gold"
 url: "/pl/slots/wolf-gold/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![wilki i północnoamerykańską dziką przyrodę](/images/slots/wolf-gold.webp)
+![Grafika gry Wolf Gold przedstawiająca wilki i północnoamerykańską dziką przyrodę.](/images/slots/wolf-gold.webp)
 
 Slot inspirowany motywem wilki i północnoamerykańską dziką przyrodę, z funkcją: symbole Wild, respiny i funkcje jackpot.
 

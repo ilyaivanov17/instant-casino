@@ -1,7 +1,7 @@
 ---
 title: "Money Train 4 – Slot profile"
-description: "Collectible symbols · Bonus features"
-seo_title: "Money Train 4: Slot: features & mechanics | Instant Casino"
+description: "A slot built around outlaws and a futuristic train adventure, featuring collectible symbols and bonus features."
+seo_title: "Money Train 4: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-money-train-4"
 url: "/en/slots/money-train-4/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Collectible symbols · Bonus features](/images/slots/catalog-money-train-4.webp)
+![Money Train 4 slot game artwork showing outlaws and a futuristic train adventure.](/images/slots/catalog-money-train-4.webp)
 
 A slot built around outlaws and a futuristic train adventure, featuring collectible symbols and bonus features.
 

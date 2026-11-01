@@ -1,6 +1,6 @@
 ---
 title: "Gates of Olympus – perfil do jogo"
-description: "Zeus e um magnífico templo no Olimpo"
+description: "Um slot inspirado em Zeus e um magnífico templo no Olimpo, com prémios em cascata e multiplicadores."
 seo_title: "Gates of Olympus: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-gates-of-olympus"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Zeus e um magnífico templo no Olimpo](/images/slots/catalog-gates-of-olympus.webp)
+![Arte do jogo Gates of Olympus com Zeus e um magnífico templo no Olimpo.](/images/slots/catalog-gates-of-olympus.webp)
 
 Um slot inspirado em Zeus e um magnífico templo no Olimpo, com prémios em cascata e multiplicadores.
 

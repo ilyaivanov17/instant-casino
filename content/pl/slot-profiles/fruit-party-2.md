@@ -1,7 +1,7 @@
 ---
 title: "Fruit Party 2 – profil gry"
-description: "kolorowe owoce i słoneczny świat fantasy"
-seo_title: "Fruit Party 2: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem kolorowe owoce i słoneczny świat fantasy, z funkcją: wygrane klastrowe i mnożniki."
+seo_title: "Fruit Party 2: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-fruit-party-2"
 url: "/pl/slots/fruit-party-2/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![kolorowe owoce i słoneczny świat fantasy](/images/slots/catalog-fruit-party-2.webp)
+![Grafika gry Fruit Party 2 przedstawiająca kolorowe owoce i słoneczny świat fantasy.](/images/slots/catalog-fruit-party-2.webp)
 
 Slot inspirowany motywem kolorowe owoce i słoneczny świat fantasy, z funkcją: wygrane klastrowe i mnożniki.
 

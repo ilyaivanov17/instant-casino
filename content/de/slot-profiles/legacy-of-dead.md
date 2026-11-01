@@ -1,7 +1,7 @@
 ---
 title: "Legacy of Dead – Slot-Profil"
-description: "Altes Ägypten · Freispiele"
-seo_title: "Legacy of Dead: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Ägypten-Slot mit Freispielen und expandierenden Symbolen."
+seo_title: "Legacy of Dead: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-legacy-of-dead"
 url: "/slots/legacy-of-dead/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Altes Ägypten · Freispiele](/images/slots/catalog-legacy-of-dead.webp)
+![Legacy of Dead Spielgrafik mit altägyptische Tempel und goldene Skarabäen.](/images/slots/catalog-legacy-of-dead.webp)
 
 ### Kurz erklärt
 

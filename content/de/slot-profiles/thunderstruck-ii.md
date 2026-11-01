@@ -1,7 +1,7 @@
 ---
 title: "Thunderstruck II – Slot-Profil"
-description: "Nordische Mythologie · Freispiele"
-seo_title: "Thunderstruck II: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein nordisch inspiriertes Spiel mit vier charakterbezogenen Freispiele-Modi."
+seo_title: "Thunderstruck II: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-thunderstruck-ii"
 url: "/slots/thunderstruck-ii/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Nordische Mythologie · Freispiele](/images/slots/catalog-thunderstruck-ii.webp)
+![Thunderstruck II Spielgrafik mit nordische Götter und die Welt der Wikinger.](/images/slots/catalog-thunderstruck-ii.webp)
 
 ### Kurz erklärt
 

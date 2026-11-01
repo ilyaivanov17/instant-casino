@@ -1,7 +1,7 @@
 ---
 title: "Starburst ：ゲームプロフィール"
-description: "宇宙と色鮮やかな宝石"
-seo_title: "Starburst: 機能とゲームの仕組み | Instant Casino"
+description: "宇宙と色鮮やかな宝石をテーマに、拡張Wildシンボルとリスピンを備えたスロットです。"
+seo_title: "Starburst: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-starburst"
 url: "/ja/slots/starburst/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![宇宙と色鮮やかな宝石](/images/slots/catalog-starburst.webp)
+![Starburstのゲームアート。宇宙と色鮮やかな宝石を描いています。](/images/slots/catalog-starburst.webp)
 
 宇宙と色鮮やかな宝石をテーマに、拡張Wildシンボルとリスピンを備えたスロットです。
 

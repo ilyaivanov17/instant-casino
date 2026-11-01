@@ -1,7 +1,7 @@
 ---
 title: "Immortal Romance ：ゲームプロフィール"
-description: "吸血鬼の登場人物とゴシックな恋物語"
-seo_title: "Immortal Romance: 機能とゲームの仕組み | Instant Casino"
+description: "吸血鬼の登場人物とゴシックな恋物語をテーマに、フリースピンとWild Desire機能を備えたスロットです。"
+seo_title: "Immortal Romance: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-immortal-romance"
 url: "/ja/slots/immortal-romance/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![吸血鬼の登場人物とゴシックな恋物語](/images/slots/catalog-immortal-romance.webp)
+![Immortal Romanceのゲームアート。吸血鬼の登場人物とゴシックな恋物語を描いています。](/images/slots/catalog-immortal-romance.webp)
 
 吸血鬼の登場人物とゴシックな恋物語をテーマに、フリースピンとWild Desire機能を備えたスロットです。
 

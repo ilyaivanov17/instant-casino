@@ -1,11 +1,11 @@
 ---
 title: "Razor Shark – profil gry"
-description: "Mystery Stacks · Razor Reveal · darmowe gry"
-seo_title: "Razor Shark: mechanika i funkcje slotu | Instant Casino"
+description: "Podwodny slot z pięcioma bębnami, czterema rzędami i 20 liniami. Mystery Stacks odsłaniają symbole i przesuwają je, a złote rekiny uruchamiają Razor Reveal oraz darmowe gry z…"
+seo_title: "Razor Shark: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-razor-shark"
 url: "/pl/slots/razor-shark/"
-ogImage: "https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50"
+ogImage: "\"https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Mystery Stacks · Razor Reveal · darmowe gry](https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50)
+![Grafika Razor Shark z dużym rekinem na niebieskim podwodnym tle]("https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50")
 
 Razor Shark to podwodny slot z pięcioma bębnami, czterema rzędami i 20 liniami. Mystery Stacks odsłaniają symbole i przesuwają się w dół. Złote rekiny uruchamiają Razor Reveal, a darmowe gry wprowadzają rosnące mnożniki.
 

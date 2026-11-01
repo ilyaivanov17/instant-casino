@@ -1,7 +1,7 @@
 ---
 title: "Gates of Olympus – Slot profile"
-description: "Greek mythology · Tumble wins"
-seo_title: "Gates of Olympus: Slot: features & mechanics | Instant Casino"
+description: "A slot built around Zeus and a grand temple on Mount Olympus, featuring tumble wins and multipliers."
+seo_title: "Gates of Olympus: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-gates-of-olympus"
 url: "/en/slots/gates-of-olympus/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Greek mythology · Tumble wins](/images/slots/catalog-gates-of-olympus.webp)
+![Gates of Olympus slot game artwork showing Zeus and a grand temple on Mount Olympus.](/images/slots/catalog-gates-of-olympus.webp)
 
 A slot built around Zeus and a grand temple on Mount Olympus, featuring tumble wins and multipliers.
 

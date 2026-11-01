@@ -1,7 +1,7 @@
 ---
 title: "Sugar Rush – Slot-Profil"
-description: "Süßigkeiten · Cluster · Multiplikatoren"
-seo_title: "Sugar Rush: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein 7×7-Cluster-Slot mit Kaskaden und Multiplikatoren, die auf dem Spielfeld verbleiben können."
+seo_title: "Sugar Rush: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-sugar-rush"
 url: "/slots/sugar-rush/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Süßigkeiten · Cluster · Multiplikatoren](/images/slots/catalog-sugar-rush.webp)
+![Sugar Rush Spielgrafik mit Süßigkeiten, Bonbons und eine bunte Fantasiewelt.](/images/slots/catalog-sugar-rush.webp)
 
 ### Kurz erklärt
 

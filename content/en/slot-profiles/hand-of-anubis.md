@@ -1,7 +1,7 @@
 ---
 title: "Hand of Anubis – Slot profile"
-description: "Anubis · Collection feature"
-seo_title: "Hand of Anubis: Slot: features & mechanics | Instant Casino"
+description: "A slot built around Anubis and ancient Egyptian imagery, featuring collectible symbols and bonus features."
+seo_title: "Hand of Anubis: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-hand-of-anubis"
 url: "/en/slots/hand-of-anubis/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Anubis · Collection feature](/images/slots/catalog-hand-of-anubis.webp)
+![Hand of Anubis slot game artwork showing Anubis and ancient Egyptian imagery.](/images/slots/catalog-hand-of-anubis.webp)
 
 A slot built around Anubis and ancient Egyptian imagery, featuring collectible symbols and bonus features.
 

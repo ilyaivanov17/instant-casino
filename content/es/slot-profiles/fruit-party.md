@@ -1,7 +1,7 @@
 ---
 title: "Fruit Party – perfil de juego"
-description: "Frutas · Multiplicadores"
-seo_title: "Fruit Party: funciones y mecánica | Instant Casino"
+description: "Un colorido juego de clústeres de 7×7 con multiplicadores en los símbolos y una ronda de giros gratis."
+seo_title: "Fruit Party: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-fruit-party"
 url: "/es/slots/fruit-party/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Frutas · Multiplicadores](/images/slots/fruit-party-cover.webp)
+![Arte de Fruit Party con frutas de colores y el título multicolor del juego](/images/slots/fruit-party-cover.webp)
 
 Fruit Party tiene una temática y unas funciones propias que conviene conocer antes de jugar. La ficha incluye mecánica Tumble y multiplicadores de premios y giros gratis. Consulta la ayuda y la tabla de pagos para comprobar los activadores, las reglas y los límites de la versión disponible.
 

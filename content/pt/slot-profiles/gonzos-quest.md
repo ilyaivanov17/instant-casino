@@ -1,6 +1,6 @@
 ---
 title: "Gonzo's Quest – perfil do jogo"
-description: "um explorador à procura de El Dorado"
+description: "Um slot inspirado em um explorador à procura de El Dorado, com prémios em cascata e multiplicadores crescentes."
 seo_title: "Gonzo's Quest: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-gonzos-quest"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![um explorador à procura de El Dorado](/images/slots/gonzos-quest.webp)
+![Arte do jogo Gonzo's Quest com um explorador à procura de El Dorado.](/images/slots/gonzos-quest.webp)
 
 Um slot inspirado em um explorador à procura de El Dorado, com prémios em cascata e multiplicadores crescentes.
 

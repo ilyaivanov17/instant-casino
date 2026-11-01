@@ -1,7 +1,7 @@
 ---
 title: "Reactoonz – Slot profile"
-description: "Aliens · Cluster wins"
-seo_title: "Reactoonz: Slot: features & mechanics | Instant Casino"
+description: "A slot built around colourful aliens in a space setting, featuring cluster wins and the Quantum Leap feature."
+seo_title: "Reactoonz: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-reactoonz"
 url: "/en/slots/reactoonz/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Aliens · Cluster wins](/images/slots/catalog-reactoonz.webp)
+![Reactoonz slot game artwork showing colourful aliens in a space setting.](/images/slots/catalog-reactoonz.webp)
 
 A slot built around colourful aliens in a space setting, featuring cluster wins and the Quantum Leap feature.
 

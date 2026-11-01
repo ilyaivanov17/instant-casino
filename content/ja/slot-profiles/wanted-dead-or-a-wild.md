@@ -1,7 +1,7 @@
 ---
 title: "Wanted Dead or a Wild ：ゲームプロフィール"
-description: "西部開拓時代の覆面ガンマン"
-seo_title: "Wanted Dead or a Wild: 機能とゲームの仕組み | Instant Casino"
+description: "西部開拓時代の覆面ガンマンをテーマに、ボーナスラウンドと決闘機能を備えたスロットです。"
+seo_title: "Wanted Dead or a Wild: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-wanted-dead-or-a-wild"
 url: "/ja/slots/wanted-dead-or-a-wild/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![西部開拓時代の覆面ガンマン](/images/slots/catalog-wanted-dead-or-a-wild.webp)
+![Wanted Dead or a Wildのゲームアート。西部開拓時代の覆面ガンマンを描いています。](/images/slots/catalog-wanted-dead-or-a-wild.webp)
 
 西部開拓時代の覆面ガンマンをテーマに、ボーナスラウンドと決闘機能を備えたスロットです。
 

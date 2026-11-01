@@ -1,7 +1,7 @@
 ---
 title: "Fruit Party – Slot-Profil"
-description: "7×7-Cluster · Kaskaden · Multiplikatoren"
-seo_title: "Fruit Party: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein 7×7-Cluster-Slot mit Kaskaden, Symbolmultiplikatoren und einer Freispiele-Funktion."
+seo_title: "Fruit Party: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-fruit-party"
 url: "/slots/fruit-party/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![7×7-Cluster · Kaskaden · Multiplikatoren](/images/slots/fruit-party-cover.webp)
+![Fruit Party Spielgrafik mit bunten Früchten und dem mehrfarbigen Spieletitel](/images/slots/fruit-party-cover.webp)
 
 Fruit Party verbindet eine helle Fruchtoptik mit Tumble-Gewinnen und Multiplikatoren. Die gespeicherte Funktionsliste nennt außerdem Freispiele. Wie sich Gewinne aufeinander aufbauen können und welche Bedingungen für den Bonus gelten, erklärt die Spielhilfe.
 

@@ -1,7 +1,7 @@
 ---
 title: "Gates of Olympus – perfil de juego"
-description: "Zeus y un magnífico templo en el Olimpo"
-seo_title: "Gates of Olympus: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en Zeus y un magnífico templo en el Olimpo, con premios en cascada y multiplicadores."
+seo_title: "Gates of Olympus: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-gates-of-olympus"
 url: "/es/slots/gates-of-olympus/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Zeus y un magnífico templo en el Olimpo](/images/slots/catalog-gates-of-olympus.webp)
+![Arte del juego Gates of Olympus con Zeus y un magnífico templo en el Olimpo.](/images/slots/catalog-gates-of-olympus.webp)
 
 Una tragamonedas ambientada en Zeus y un magnífico templo en el Olimpo, con premios en cascada y multiplicadores.
 

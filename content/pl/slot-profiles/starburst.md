@@ -1,7 +1,7 @@
 ---
 title: "Starburst – profil gry"
-description: "kosmos i kolorowe klejnoty"
-seo_title: "Starburst: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem kosmos i kolorowe klejnoty, z funkcją: rozszerzające się symbole Wild i respiny."
+seo_title: "Starburst: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-starburst"
 url: "/pl/slots/starburst/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![kosmos i kolorowe klejnoty](/images/slots/catalog-starburst.webp)
+![Grafika gry Starburst przedstawiająca kosmos i kolorowe klejnoty.](/images/slots/catalog-starburst.webp)
 
 Slot inspirowany motywem kosmos i kolorowe klejnoty, z funkcją: rozszerzające się symbole Wild i respiny.
 

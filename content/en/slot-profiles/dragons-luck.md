@@ -1,7 +1,7 @@
 ---
 title: "Dragon's Luck – Slot profile"
-description: "Dragon · Coin features"
-seo_title: "Dragon's Luck: Slot: features & mechanics | Instant Casino"
+description: "An East Asian dragon theme with Dragon Coin and Mega Coin features."
+seo_title: "Dragon's Luck: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-dragons-luck"
 url: "/en/slots/dragons-luck/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Dragon · Coin features](/images/slots/dragons-luck-cover.webp)
+![Dragon's Luck game artwork featuring a golden dragon head on a red background](/images/slots/dragons-luck-cover.webp)
 
 Dragon's Luck is a Red Tiger slot built around dragon-themed artwork and the Dragon Coin, Dragon's Help and Mega Coin features. Check the official game information and the paytable in the loaded version for their exact rules.
 

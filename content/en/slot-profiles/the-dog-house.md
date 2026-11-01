@@ -1,7 +1,7 @@
 ---
 title: "The Dog House – Slot profile"
-description: "Dogs · Sticky Wilds"
-seo_title: "The Dog House: Slot: features & mechanics | Instant Casino"
+description: "A slot built around dogs and a playful doghouse, featuring Sticky Wilds and free spins."
+seo_title: "The Dog House: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-the-dog-house"
 url: "/en/slots/the-dog-house/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Dogs · Sticky Wilds](/images/slots/catalog-the-dog-house.webp)
+![The Dog House slot game artwork showing dogs and a playful doghouse.](/images/slots/catalog-the-dog-house.webp)
 
 A slot built around dogs and a playful doghouse, featuring Sticky Wilds and free spins.
 

@@ -1,7 +1,7 @@
 ---
 title: "Money Train 3 – profil gry"
-description: "futurystyczny pociąg i dwoje banitów"
-seo_title: "Money Train 3: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem futurystyczny pociąg i dwoje banitów, z funkcją: symbole bonusowe i funkcje mnożników."
+seo_title: "Money Train 3: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-money-train-3"
 url: "/pl/slots/money-train-3/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![futurystyczny pociąg i dwoje banitów](/images/slots/catalog-money-train-3.webp)
+![Grafika gry Money Train 3 przedstawiająca futurystyczny pociąg i dwoje banitów.](/images/slots/catalog-money-train-3.webp)
 
 Slot inspirowany motywem futurystyczny pociąg i dwoje banitów, z funkcją: symbole bonusowe i funkcje mnożników.
 

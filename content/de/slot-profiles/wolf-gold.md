@@ -1,7 +1,7 @@
 ---
 title: "Wolf Gold – Slot-Profil"
-description: "Wildnis · Freispiele · Jackpot-Respins"
-seo_title: "Wolf Gold: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Wildnis-Thema mit Freispielen, übergroßen Symbolen und einer separaten Jackpot-Respin-Funktion."
+seo_title: "Wolf Gold: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-wolf-gold"
 url: "/slots/wolf-gold/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Wildnis · Freispiele · Jackpot-Respins](/images/slots/wolf-gold.webp)
+![Wolf Gold Spielgrafik mit Wölfe und die nordamerikanische Wildnis.](/images/slots/wolf-gold.webp)
 
 ### Kurz erklärt
 

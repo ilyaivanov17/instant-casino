@@ -1,7 +1,7 @@
 ---
 title: "Fruit Party 2 – perfil de juego"
-description: "frutas de colores y un mundo fantástico y soleado"
-seo_title: "Fruit Party 2: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas ambientada en frutas de colores y un mundo fantástico y soleado, con premios por grupos y multiplicadores."
+seo_title: "Fruit Party 2: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-fruit-party-2"
 url: "/es/slots/fruit-party-2/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![frutas de colores y un mundo fantástico y soleado](/images/slots/catalog-fruit-party-2.webp)
+![Arte del juego Fruit Party 2 con frutas de colores y un mundo fantástico y soleado.](/images/slots/catalog-fruit-party-2.webp)
 
 Una tragamonedas ambientada en frutas de colores y un mundo fantástico y soleado, con premios por grupos y multiplicadores.
 

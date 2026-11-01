@@ -1,11 +1,11 @@
 ---
 title: "Temple Tumble ：ゲームプロフィール"
-description: "6×6グリッド · Megaways · カスケード"
-seo_title: "Temple Tumble: 機能とゲームの仕組み | Instant Casino"
+description: "最大46,656通りの配当方法を持つ6×6グリッドのジャングルアドベンチャーです。カスケードと石ブロックがフリースピンにつながり、3つのボーナスワールドから選択します。"
+seo_title: "Temple Tumble: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-temple-tumble"
 url: "/ja/slots/temple-tumble/"
-ogImage: "https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png"
+ogImage: "\"https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![6×6グリッド · Megaways · カスケード](https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png)
+![ジャングルの寺院を背景に金色のタイトルを配したTemple Tumbleのゲームアート]("https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png")
 
 Temple Tumbleは最大46,656通りの配当方法を持つ6×6グリッドのジャングルアドベンチャーです。シンボルがカスケードで消え、石ブロックを壊すとフリースピンにつながり、3つのワールドから選択します。
 

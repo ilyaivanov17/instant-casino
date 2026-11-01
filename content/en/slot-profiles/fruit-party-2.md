@@ -1,7 +1,7 @@
 ---
 title: "Fruit Party 2 – Slot profile"
-description: "Fruit clusters · Multipliers"
-seo_title: "Fruit Party 2: Slot: features & mechanics | Instant Casino"
+description: "A slot built around colourful fruit and a bright fantasy world, featuring cluster wins and multipliers."
+seo_title: "Fruit Party 2: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-fruit-party-2"
 url: "/en/slots/fruit-party-2/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Fruit clusters · Multipliers](/images/slots/catalog-fruit-party-2.webp)
+![Fruit Party 2 slot game artwork showing colourful fruit and a bright fantasy world.](/images/slots/catalog-fruit-party-2.webp)
 
 A slot built around colourful fruit and a bright fantasy world, featuring cluster wins and multipliers.
 

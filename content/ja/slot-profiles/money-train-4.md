@@ -1,7 +1,7 @@
 ---
 title: "Money Train 4 ：ゲームプロフィール"
-description: "アウトローたちと未来的な列車の冒険"
-seo_title: "Money Train 4: 機能とゲームの仕組み | Instant Casino"
+description: "アウトローたちと未来的な列車の冒険をテーマに、コレクションシンボルとボーナス機能を備えたスロットです。"
+seo_title: "Money Train 4: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-money-train-4"
 url: "/ja/slots/money-train-4/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![アウトローたちと未来的な列車の冒険](/images/slots/catalog-money-train-4.webp)
+![Money Train 4のゲームアート。アウトローたちと未来的な列車の冒険を描いています。](/images/slots/catalog-money-train-4.webp)
 
 アウトローたちと未来的な列車の冒険をテーマに、コレクションシンボルとボーナス機能を備えたスロットです。
 

@@ -1,7 +1,7 @@
 ---
 title: "Wild West Gold – Slot-Profil"
-description: "Western · Sticky Wilds · Respins"
-seo_title: "Wild West Gold: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Western-Slot mit Sticky Wilds, Multiplikatoren und Respins."
+seo_title: "Wild West Gold: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-wild-west-gold"
 url: "/slots/wild-west-gold/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Western · Sticky Wilds · Respins](/images/slots/catalog-wild-west-gold.webp)
+![Wild West Gold Spielgrafik mit Cowboys und Gold im Wilden Westen.](/images/slots/catalog-wild-west-gold.webp)
 
 ### Kurz erklärt
 

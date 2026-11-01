@@ -1,6 +1,6 @@
 ---
 title: "Starburst – perfil do jogo"
-description: "o espaço e as gemas coloridas"
+description: "Um slot inspirado em o espaço e as gemas coloridas, com símbolos Wild expansivos e respins."
 seo_title: "Starburst: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-starburst"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![o espaço e as gemas coloridas](/images/slots/catalog-starburst.webp)
+![Arte do jogo Starburst com o espaço e as gemas coloridas.](/images/slots/catalog-starburst.webp)
 
 Um slot inspirado em o espaço e as gemas coloridas, com símbolos Wild expansivos e respins.
 

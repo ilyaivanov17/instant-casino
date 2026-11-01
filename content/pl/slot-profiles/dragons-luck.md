@@ -1,7 +1,7 @@
 ---
 title: "Dragon's Luck – profil gry"
-description: "Smok · Funkcje monet"
-seo_title: "Dragon's Luck: mechanika i funkcje slotu | Instant Casino"
+description: "Motyw smoka inspirowany Azją Wschodnią z funkcjami Dragon Coin i Mega Coin."
+seo_title: "Dragon's Luck: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-dragons-luck"
 url: "/pl/slots/dragons-luck/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Smok · Funkcje monet](/images/slots/dragons-luck-cover.webp)
+![Grafika Dragon's Luck przedstawiająca złotą głowę smoka na czerwonym tle](/images/slots/dragons-luck-cover.webp)
 
 Dragon's Luck to automat Red Tiger z motywem smoków i funkcjami Dragon Coin, Dragon's Help oraz Mega Coin. Sprawdź oficjalne informacje o grze oraz tabelę wypłat w uruchomionej wersji, aby poznać dokładne zasady.
 

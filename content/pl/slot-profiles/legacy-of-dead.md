@@ -1,7 +1,7 @@
 ---
 title: "Legacy of Dead – profil gry"
-description: "starożytne egipskie świątynie i złote skarabeusze"
-seo_title: "Legacy of Dead: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem starożytne egipskie świątynie i złote skarabeusze, z funkcją: darmowe spiny i rozszerzające się symbole."
+seo_title: "Legacy of Dead: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-legacy-of-dead"
 url: "/pl/slots/legacy-of-dead/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![starożytne egipskie świątynie i złote skarabeusze](/images/slots/catalog-legacy-of-dead.webp)
+![Grafika gry Legacy of Dead przedstawiająca starożytne egipskie świątynie i złote skarabeusze.](/images/slots/catalog-legacy-of-dead.webp)
 
 Slot inspirowany motywem starożytne egipskie świątynie i złote skarabeusze, z funkcją: darmowe spiny i rozszerzające się symbole.
 

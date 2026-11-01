@@ -1,7 +1,7 @@
 ---
 title: "Bigger Bass Bonanza – Slot profile"
-description: "Fishing · Free spins"
-seo_title: "Bigger Bass Bonanza: Slot: features & mechanics | Instant Casino"
+description: "A fishing theme with fish symbols, a free-spins round and a bonus feature with multipliers."
+seo_title: "Bigger Bass Bonanza: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-bigger-bass-bonanza"
 url: "/en/slots/bigger-bass-bonanza/"
@@ -15,7 +15,7 @@ build:
   list: always
 ---
 
-![Fishing · Free spins](/images/slots/bigger-bass-bonanza-cover.webp)
+![Bigger Bass Bonanza game artwork showing a fisherman, a golden fish and a tropical background](/images/slots/bigger-bass-bonanza-cover.webp)
 
 Bigger Bass Bonanza uses a fishing theme and a bonus round as its main identity. The stored feature list includes free spins and multipliers. Check the paytable for the symbols that trigger the bonus and the rules that govern it.
 

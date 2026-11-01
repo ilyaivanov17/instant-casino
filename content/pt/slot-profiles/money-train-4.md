@@ -1,6 +1,6 @@
 ---
 title: "Money Train 4 – perfil do jogo"
-description: "fora da lei e uma aventura ferroviária futurista"
+description: "Um slot inspirado em fora da lei e uma aventura ferroviária futurista, com símbolos colecionáveis e funcionalidades de bónus."
 seo_title: "Money Train 4: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-money-train-4"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![fora da lei e uma aventura ferroviária futurista](/images/slots/catalog-money-train-4.webp)
+![Arte do jogo Money Train 4 com fora da lei e uma aventura ferroviária futurista.](/images/slots/catalog-money-train-4.webp)
 
 Um slot inspirado em fora da lei e uma aventura ferroviária futurista, com símbolos colecionáveis e funcionalidades de bónus.
 

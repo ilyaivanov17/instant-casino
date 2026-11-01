@@ -1,11 +1,11 @@
 ---
 title: "Razor Shark ：ゲームプロフィール"
-description: "Mystery Stacks · Razor Reveal · フリーゲーム"
-seo_title: "Razor Shark: 機能とゲームの仕組み | Instant Casino"
+description: "5リール、4段、20ペイラインの海中テーマです。Mystery Stacksがシンボルを公開して移動させ、Golden SharkがRazor Revealと倍率上昇型フリーゲームを発動します。"
+seo_title: "Razor Shark: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-razor-shark"
 url: "/ja/slots/razor-shark/"
-ogImage: "https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50"
+ogImage: "\"https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Mystery Stacks · Razor Reveal · フリーゲーム](https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50)
+![青い海中の背景に大きなサメを描いたRazor Sharkのゲームアート]("https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50")
 
 Razor Sharkは、5リール、4段、20ペイラインの海中テーマのスロットです。Mystery Stacksがシンボルを公開して下方向へ移動し、Golden SharkがRazor Revealを発動します。フリーゲームには倍率上昇機能があります。
 

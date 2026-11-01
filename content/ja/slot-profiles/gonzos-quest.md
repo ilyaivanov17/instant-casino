@@ -1,7 +1,7 @@
 ---
 title: "Gonzo's Quest ：ゲームプロフィール"
-description: "エルドラドを探す冒険家"
-seo_title: "Gonzo's Quest: 機能とゲームの仕組み | Instant Casino"
+description: "エルドラドを探す冒険家をテーマに、カスケード配当と上昇する倍率を備えたスロットです。"
+seo_title: "Gonzo's Quest: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-gonzos-quest"
 url: "/ja/slots/gonzos-quest/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![エルドラドを探す冒険家](/images/slots/gonzos-quest.webp)
+![Gonzo's Questのゲームアート。エルドラドを探す冒険家を描いています。](/images/slots/gonzos-quest.webp)
 
 エルドラドを探す冒険家をテーマに、カスケード配当と上昇する倍率を備えたスロットです。
 

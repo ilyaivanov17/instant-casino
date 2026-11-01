@@ -1,11 +1,11 @@
 ---
 title: "Razor Shark – Slot-Profil"
-description: "Mystery Stacks · Razor Reveal · Freispiele"
-seo_title: "Razor Shark: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Unterwasser-Slot mit fünf Walzen, vier Reihen und 20 Gewinnlinien. Mystery Stacks werden aufgedeckt und verschoben; goldene Haie lösen Razor Reveal und Freispiele mit…"
+seo_title: "Razor Shark: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-razor-shark"
 url: "/slots/razor-shark/"
-ogImage: "https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50"
+ogImage: "\"https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Mystery Stacks · Razor Reveal · Freispiele](https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50)
+![Razor Shark Slotgrafik mit einem großen Hai vor blauem Meeresgrund]("https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50")
 
 Razor Shark ist ein Unterwasser-Slot mit fünf Walzen, vier Reihen und 20 Gewinnlinien. Mystery Stacks werden aufgedeckt und können nach unten rücken. Goldene Shark-Symbole starten Razor Reveal; Freispiele ergänzen das Spiel um steigende Multiplikatoren.
 

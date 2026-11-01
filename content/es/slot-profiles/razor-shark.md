@@ -1,11 +1,11 @@
 ---
 title: "Razor Shark – perfil de juego"
-description: "Mystery Stacks · Razor Reveal · juegos gratis"
-seo_title: "Razor Shark: funciones y mecánica | Instant Casino"
+description: "Una tragamonedas submarina de cinco rodillos, cuatro filas y 20 líneas. Mystery Stacks revelan y desplazan símbolos; los tiburones dorados activan Razor Reveal y juegos gratis…"
+seo_title: "Razor Shark: mecánicas y funciones | Instant Casino"
 type: slots
 translationKey: "slot-profile-razor-shark"
 url: "/es/slots/razor-shark/"
-ogImage: "https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50"
+ogImage: "\"https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50\""
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Mystery Stacks · Razor Reveal · juegos gratis](https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50)
+![Arte de Razor Shark con un gran tiburón sobre un fondo submarino azul]("https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50")
 
 Razor Shark es una tragamonedas submarina de cinco rodillos, cuatro filas y 20 líneas. Mystery Stacks revelan símbolos y pueden desplazarse hacia abajo. Los tiburones dorados activan Razor Reveal y los juegos gratis incorporan multiplicadores crecientes.
 

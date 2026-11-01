@@ -1,7 +1,7 @@
 ---
 title: "Hand of Anubis – Slot-Profil"
-description: "Anubis · Cluster · Sammelfunktionen"
-seo_title: "Hand of Anubis: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein ägyptisch inspiriertes Cluster-Spiel mit Sammelsymbolen und Bonusfunktionen."
+seo_title: "Hand of Anubis: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-hand-of-anubis"
 url: "/slots/hand-of-anubis/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Anubis · Cluster · Sammelfunktionen](/images/slots/catalog-hand-of-anubis.webp)
+![Hand of Anubis Spielgrafik mit Anubis und altägyptische Symbolwelten.](/images/slots/catalog-hand-of-anubis.webp)
 
 ### Kurz erklärt
 

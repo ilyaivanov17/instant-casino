@@ -1,6 +1,6 @@
 ---
 title: "Thunderstruck II – perfil do jogo"
-description: "deuses nórdicos e o mundo dos vikings"
+description: "Um slot inspirado em deuses nórdicos e o mundo dos vikings, com rodadas grátis e funcionalidades de bónus especiais."
 seo_title: "Thunderstruck II: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-thunderstruck-ii"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![deuses nórdicos e o mundo dos vikings](/images/slots/catalog-thunderstruck-ii.webp)
+![Arte do jogo Thunderstruck II com deuses nórdicos e o mundo dos vikings.](/images/slots/catalog-thunderstruck-ii.webp)
 
 Um slot inspirado em deuses nórdicos e o mundo dos vikings, com rodadas grátis e funcionalidades de bónus especiais.
 

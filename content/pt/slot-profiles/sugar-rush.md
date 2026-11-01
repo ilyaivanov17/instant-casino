@@ -1,6 +1,6 @@
 ---
 title: "Sugar Rush – perfil do jogo"
-description: "doces e um mundo de fantasia colorido"
+description: "Um slot inspirado em doces e um mundo de fantasia colorido, com prémios por grupos e multiplicadores crescentes."
 seo_title: "Sugar Rush: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-sugar-rush"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![doces e um mundo de fantasia colorido](/images/slots/catalog-sugar-rush.webp)
+![Arte do jogo Sugar Rush com doces e um mundo de fantasia colorido.](/images/slots/catalog-sugar-rush.webp)
 
 Um slot inspirado em doces e um mundo de fantasia colorido, com prémios por grupos e multiplicadores crescentes.
 

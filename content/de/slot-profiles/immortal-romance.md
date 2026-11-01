@@ -1,7 +1,7 @@
 ---
 title: "Immortal Romance – Slot-Profil"
-description: "Gothic · Vampire · Freispiele"
-seo_title: "Immortal Romance: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Gothic-Slot mit mehreren charakterbezogenen Freispiele-Modi."
+seo_title: "Immortal Romance: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-immortal-romance"
 url: "/slots/immortal-romance/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Gothic · Vampire · Freispiele](/images/slots/catalog-immortal-romance.webp)
+![Immortal Romance Spielgrafik mit vampirische Figuren und eine gotische Liebesgeschichte.](/images/slots/catalog-immortal-romance.webp)
 
 ### Kurz erklärt
 

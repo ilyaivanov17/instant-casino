@@ -1,7 +1,7 @@
 ---
 title: "Fruit Party 2 – Slot-Profil"
-description: "Früchte · Cluster · Wild-Multiplikatoren"
-seo_title: "Fruit Party 2: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Frucht-Cluster-Slot mit weiterentwickelten Wild- und Multiplikatoreffekten sowie Freispielen."
+seo_title: "Fruit Party 2: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-fruit-party-2"
 url: "/slots/fruit-party-2/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Früchte · Cluster · Wild-Multiplikatoren](/images/slots/catalog-fruit-party-2.webp)
+![Fruit Party 2 Spielgrafik mit bunte Früchte und eine sonnige Fantasiewelt.](/images/slots/catalog-fruit-party-2.webp)
 
 ### Kurz erklärt
 

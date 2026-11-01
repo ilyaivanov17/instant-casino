@@ -1,7 +1,7 @@
 ---
 title: "Mega Fortune – Slot-Profil"
-description: "Yacht · Freispiele · Jackpot"
-seo_title: "Mega Fortune: Slot: Funktionen & Mechanik | Instant Casino"
+description: "Ein Luxus-Thema mit Freispiele-Funktion und separatem progressivem Jackpot-System."
+seo_title: "Mega Fortune: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-mega-fortune"
 url: "/slots/mega-fortune/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Yacht · Freispiele · Jackpot](/images/slots/catalog-mega-fortune.webp)
+![Mega Fortune Spielgrafik mit eine luxuriöse Yacht und einen glitzernden Jackpot.](/images/slots/catalog-mega-fortune.webp)
 
 ### Kurz erklärt
 

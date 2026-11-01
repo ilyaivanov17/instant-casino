@@ -1,7 +1,7 @@
 ---
 title: "Gonzo's Quest – profil gry"
-description: "odkrywcę poszukującego El Dorado"
-seo_title: "Gonzo's Quest: mechanika i funkcje slotu | Instant Casino"
+description: "Slot inspirowany motywem odkrywcę poszukującego El Dorado, z funkcją: wygrane kaskadowe i rosnące mnożniki."
+seo_title: "Gonzo's Quest: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-gonzos-quest"
 url: "/pl/slots/gonzos-quest/"
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![odkrywcę poszukującego El Dorado](/images/slots/gonzos-quest.webp)
+![Grafika gry Gonzo's Quest przedstawiająca odkrywcę poszukującego El Dorado.](/images/slots/gonzos-quest.webp)
 
 Slot inspirowany motywem odkrywcę poszukującego El Dorado, z funkcją: wygrane kaskadowe i rosnące mnożniki.
 

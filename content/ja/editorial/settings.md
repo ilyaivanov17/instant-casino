@@ -227,7 +227,7 @@ ui:
   nav_team: 著者
   nav_contact: お問い合わせ
   nav_home: ホーム
-  sign_in: ログイン
+  sign_in: '提供元サイトへ'
   open_bonus: オファーを見る
   search_placeholder: ゲーム、提供元、カテゴリを検索…
   random: ランダムなゲーム

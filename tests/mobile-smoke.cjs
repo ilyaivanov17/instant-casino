@@ -197,7 +197,7 @@ async function inspectPage(page, path, expectedCards = null) {
 
   // Verify the German bonus calculator inputs, calculation and post-result offer CTA.
   const calculatorPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
-  await calculatorPage.goto('http://127.0.0.1:4173/de/slots/', { waitUntil: 'networkidle' });
+  await calculatorPage.goto('http://127.0.0.1:4173/slots/', { waitUntil: 'networkidle' });
   const calculator = calculatorPage.locator('[data-wager-form]');
   const calculatorExists = await calculator.count() === 1;
   if (!calculatorExists) {

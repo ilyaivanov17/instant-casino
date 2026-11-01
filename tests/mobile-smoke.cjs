@@ -107,6 +107,21 @@ async function inspectPage(page, path, expectedCards = null) {
     await page.close();
   }
 
+  // Header hides while scrolling down and returns immediately when scrolling up.
+  const headerPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+  await headerPage.goto('http://127.0.0.1:4173/slots/', { waitUntil: 'networkidle' });
+  const header = headerPage.locator('.lobby-header');
+  await headerPage.evaluate(() => window.scrollTo(0, 650));
+  await headerPage.waitForTimeout(350);
+  const hiddenOnDown = await header.evaluate(el => el.classList.contains('is-scroll-hidden'));
+  await headerPage.evaluate(() => window.scrollTo(0, 400));
+  await headerPage.waitForTimeout(350);
+  const visibleOnUp = await header.evaluate(el => !el.classList.contains('is-scroll-hidden'));
+  const headerScrollOk = hiddenOnDown && visibleOnUp;
+  console.log(`${headerScrollOk ? 'OK' : 'FAIL'} header scroll direction hiddenOnDown=${hiddenOnDown} visibleOnUp=${visibleOnUp}`);
+  if (!headerScrollOk) failed = true;
+  await headerPage.close();
+
   // All outbound HTTP(S) anchors, including dynamically added ones, must use /go/bonus.
   const outboundPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
   await outboundPage.goto('http://127.0.0.1:4173/slots/', { waitUntil: 'networkidle' });

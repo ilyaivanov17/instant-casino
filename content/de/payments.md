@@ -474,3 +474,8 @@ Bei einer Bankkarte oder Überweisung solltest du die Kontoinhaberschaft und mö
 - Speichere die Transaktionsnummer und nutze für Fragen nur offizielle Supportwege.
 
 Die hier aufgeführten Katalogwerte sind strukturierte Vergleichsdaten. Vor einer Einzahlung, Bonusaktivierung oder Zahlung sind die aktuell angezeigten Bedingungen und die Verfügbarkeit für das eigene Land und Konto maßgeblich.
+
+
+## Weiterführender Ratgeber
+
+[Leitfaden: schnelle Casino-Auszahlungen]({{< relref "schnelle-auszahlung" >}})

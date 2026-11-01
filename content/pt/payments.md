@@ -420,3 +420,8 @@ Com cartões e transferências, considere a titularidade e os dias bancários. N
 - Guarde a referência e use canais oficiais de apoio.
 
 Os dados do catálogo estão organizados para comparação. Antes de depositar, ativar um bónus ou efetuar um pagamento, consulte as condições atuais para o seu país e conta.
+
+
+## Mais informações
+
+[Guia de levantamentos rápidos em casinos]({{< relref "schnelle-auszahlung" >}})

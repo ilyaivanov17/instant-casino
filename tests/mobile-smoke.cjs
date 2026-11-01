@@ -107,20 +107,72 @@ async function inspectPage(page, path, expectedCards = null) {
     await page.close();
   }
 
-  // Header hides while scrolling down and returns immediately when scrolling up.
+  // Header direction behavior: verify the real on-screen position, not only its CSS class.
+  async function readHeaderVisibility(page) {
+    return page.locator('.lobby-header').evaluate(el => {
+      const rect = el.getBoundingClientRect();
+      const style = getComputedStyle(el);
+      return {
+        top: rect.top,
+        bottom: rect.bottom,
+        height: rect.height,
+        visibility: style.visibility,
+        display: style.display,
+        visible: style.display !== 'none' && style.visibility !== 'hidden' &&
+          rect.bottom > 0 && rect.top < window.innerHeight
+      };
+    });
+  }
+  async function scrollInSmallSteps(page, distance, step) {
+    const count = Math.ceil(Math.abs(distance) / step);
+    const direction = distance > 0 ? 1 : -1;
+    for (let i = 0; i < count; i++) {
+      await page.evaluate(delta => window.scrollBy(0, delta), direction * step);
+      await page.evaluate(() => new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve))));
+    }
+  }
+
   const headerPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
   await headerPage.goto('http://127.0.0.1:4173/slots/', { waitUntil: 'networkidle' });
-  const header = headerPage.locator('.lobby-header');
-  await headerPage.evaluate(() => window.scrollTo(0, 650));
-  await headerPage.waitForTimeout(350);
-  const hiddenOnDown = await header.evaluate(el => el.classList.contains('is-scroll-hidden'));
-  await headerPage.evaluate(() => window.scrollTo(0, 400));
-  await headerPage.waitForTimeout(350);
-  const visibleOnUp = await header.evaluate(el => !el.classList.contains('is-scroll-hidden'));
-  const headerScrollOk = hiddenOnDown && visibleOnUp;
-  console.log(`${headerScrollOk ? 'OK' : 'FAIL'} header scroll direction hiddenOnDown=${hiddenOnDown} visibleOnUp=${visibleOnUp}`);
-  if (!headerScrollOk) failed = true;
+  await scrollInSmallSteps(headerPage, 650, 20);
+  await headerPage.waitForTimeout(300);
+  const desktopHidden = await readHeaderVisibility(headerPage);
+  await scrollInSmallSteps(headerPage, -80, 3);
+  await headerPage.waitForTimeout(300);
+  const desktopRevealed = await readHeaderVisibility(headerPage);
+  const desktopHeaderOk = !desktopHidden.visible && desktopRevealed.visible && desktopRevealed.top >= -2;
+  console.log(`${desktopHeaderOk ? 'OK' : 'FAIL'} desktop header down/up hidden=${!desktopHidden.visible} revealed=${desktopRevealed.visible} top=${desktopRevealed.top.toFixed(1)}px`);
+  if (!desktopHeaderOk) failed = true;
   await headerPage.close();
+
+  // Mobile: several 3px upward deltas must accumulate and reveal the actual header.
+  const mobileHeaderPage = await browser.newPage({
+    viewport: { width: 390, height: 844 }, deviceScaleFactor: 1, isMobile: true, hasTouch: true
+  });
+  await mobileHeaderPage.goto('http://127.0.0.1:4173/slots/', { waitUntil: 'networkidle' });
+  await scrollInSmallSteps(mobileHeaderPage, 520, 12);
+  await mobileHeaderPage.waitForTimeout(300);
+  const mobileHidden = await readHeaderVisibility(mobileHeaderPage);
+  await scrollInSmallSteps(mobileHeaderPage, -60, 3);
+  await mobileHeaderPage.waitForTimeout(300);
+  const mobileRevealed = await readHeaderVisibility(mobileHeaderPage);
+  const mobileHeaderOk = !mobileHidden.visible && mobileRevealed.visible && mobileRevealed.top >= -2;
+  console.log(`${mobileHeaderOk ? 'OK' : 'FAIL'} mobile header small upward deltas hidden=${!mobileHidden.visible} revealed=${mobileRevealed.visible} top=${mobileRevealed.top.toFixed(1)}px`);
+  if (!mobileHeaderOk) failed = true;
+
+  const mobileMenuButton = mobileHeaderPage.locator('#mobile-menu-btn');
+  if (await mobileMenuButton.count()) {
+    await mobileMenuButton.click();
+    const menuOpen = await mobileHeaderPage.locator('#mobile-menu').evaluate(el => !el.classList.contains('hidden'));
+    const headerWithMenu = await readHeaderVisibility(mobileHeaderPage);
+    const menuHeaderOk = menuOpen && headerWithMenu.visible;
+    console.log(`${menuHeaderOk ? 'OK' : 'FAIL'} mobile header remains visible with menu open=${menuOpen} headerVisible=${headerWithMenu.visible}`);
+    if (!menuHeaderOk) failed = true;
+  } else {
+    console.log('FAIL mobile menu button not found for header interaction test');
+    failed = true;
+  }
+  await mobileHeaderPage.close();
 
   // All outbound HTTP(S) anchors, including dynamically added ones, must use /go/bonus.
   const outboundPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });

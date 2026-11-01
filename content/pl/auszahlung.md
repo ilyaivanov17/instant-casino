@@ -1,8 +1,8 @@
 ---
-title: Wypłaty z kasyna: czas, weryfikacja i opóźnienia
+title: 'Wypłaty z kasyna: czas, weryfikacja i opóźnienia'
 description: Jak przebiega wypłata, jaką rolę odgrywa KYC i metoda płatności oraz co sprawdzić przy opóźnieniu.
 type: page
-seo_title: Wypłaty z kasyna: czas, KYC i limity | Instant Casino
+seo_title: 'Wypłaty z kasyna: czas, KYC i limity | Instant Casino'
 lastmod: '2026-11-01'
 article_review_status: editorial-review-pending
 build:

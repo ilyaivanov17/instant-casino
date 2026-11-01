@@ -107,6 +107,21 @@ async function inspectPage(page, path, expectedCards = null) {
     await page.close();
   }
 
+  // Header hides while scrolling down and returns immediately when scrolling up.
+  const headerPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+  await headerPage.goto('http://127.0.0.1:4173/slots/', { waitUntil: 'networkidle' });
+  const header = headerPage.locator('.lobby-header');
+  await headerPage.evaluate(() => window.scrollTo(0, 650));
+  await headerPage.waitForTimeout(350);
+  const hiddenOnDown = await header.evaluate(el => el.classList.contains('is-scroll-hidden'));
+  await headerPage.evaluate(() => window.scrollTo(0, 400));
+  await headerPage.waitForTimeout(350);
+  const visibleOnUp = await header.evaluate(el => !el.classList.contains('is-scroll-hidden'));
+  const headerScrollOk = hiddenOnDown && visibleOnUp;
+  console.log(`${headerScrollOk ? 'OK' : 'FAIL'} header scroll direction hiddenOnDown=${hiddenOnDown} visibleOnUp=${visibleOnUp}`);
+  if (!headerScrollOk) failed = true;
+  await headerPage.close();
+
   // All outbound HTTP(S) anchors, including dynamically added ones, must use /go/bonus.
   const outboundPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
   await outboundPage.goto('http://127.0.0.1:4173/slots/', { waitUntil: 'networkidle' });
@@ -244,6 +259,55 @@ async function inspectPage(page, path, expectedCards = null) {
     if (!calculatorOk) failed = true;
   }
   await calculatorPage.close();
+
+  // Verify that the same localized offers, casino overview and calculator exist in every other language.
+  const localizedCases = [
+    { path: '/en/slots/', heading: 'Check bonus offers' },
+    { path: '/pl/slots/', heading: 'Sprawdź oferty bonusowe' },
+    { path: '/es/slots/', heading: 'Consultar ofertas de bonos' },
+    { path: '/pt/slots/', heading: 'Consultar ofertas de bónus' },
+    { path: '/ja/slots/', heading: 'ボーナスオファーを確認' }
+  ];
+  for (const item of localizedCases) {
+    const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    await page.goto('http://127.0.0.1:4173' + item.path, { waitUntil: 'networkidle' });
+    const hub = page.locator('[data-wager-calculator]');
+    const hubExists = await hub.count() === 1;
+    const headingVisible = await page.getByRole('heading', { name: item.heading }).count() === 1;
+    const profileTableCount = await page.locator('table').count();
+    const externalReviewLinks = await page.locator('a[href*="askgamblers.com"], a[href*="reddit.com"], a[href*="lcb.org"]').count();
+    const bonanzaText = await page.locator('#bonanza').evaluate(el => {
+      let node = el.nextElementSibling;
+      while (node && node.tagName !== 'P') node = node.nextElementSibling;
+      return node ? node.innerText : '';
+    });
+    const bonanzaWrongClaim = {
+      '/en/slots/': /cluster-style wins/i,
+      '/pl/slots/': /wygrane klastrowe/i,
+      '/es/slots/': /premios por clústeres/i,
+      '/pt/slots/': /vitórias por agrupamento/i,
+      '/ja/slots/': /クラスター配当/
+    }[item.path].test(bonanzaText);
+    const contentOk = profileTableCount >= 30 && externalReviewLinks === 0 &&
+      bonanzaText.includes('Megaways') && !bonanzaWrongClaim;
+    let calculationOk = false;
+    if (hubExists) {
+      const form = hub.locator('[data-wager-form]');
+      await form.locator('[name="deposit"]').fill('100');
+      await form.locator('[name="bonus"]').fill('100');
+      await form.locator('[name="wager"]').fill('30');
+      await form.locator('[name="basis"]').selectOption('deposit_bonus');
+      await form.locator('[name="contribution"]').fill('20');
+      await form.locator('button[type="submit"]').click();
+      const resultText = await form.locator('[data-wager-result]').textContent();
+      const ctaVisible = await form.locator('[data-wager-cta]').isVisible();
+      calculationOk = /6[.,\s]?000/.test(resultText) && /30[.,\s]?000/.test(resultText) && ctaVisible;
+    }
+    const localizedOk = hubExists && headingVisible && calculationOk && contentOk;
+    console.log(`${localizedOk ? 'OK' : 'FAIL'} localized hub ${item.path} heading=${headingVisible} calculator=${hubExists} calculation=${calculationOk} tables=${profileTableCount} externalReviewLinks=${externalReviewLinks} content=${contentOk}`);
+    if (!localizedOk) failed = true;
+    await page.close();
+  }
 
   await browser.close();
   if (failed) process.exit(1);

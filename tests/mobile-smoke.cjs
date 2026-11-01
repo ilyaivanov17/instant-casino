@@ -195,6 +195,29 @@ async function inspectPage(page, path, expectedCards = null) {
   }
   await desktop.close();
 
+  // Verify the German bonus calculator inputs, calculation and post-result offer CTA.
+  const calculatorPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+  await calculatorPage.goto('http://127.0.0.1:4173/de/slots/', { waitUntil: 'networkidle' });
+  const calculator = calculatorPage.locator('[data-wager-form]');
+  const calculatorExists = await calculator.count() === 1;
+  if (!calculatorExists) {
+    console.log('FAIL German bonus calculator is missing');
+    failed = true;
+  } else {
+    await calculator.locator('[name="deposit"]').fill('100');
+    await calculator.locator('[name="bonus"]').fill('100');
+    await calculator.locator('[name="wager"]').fill('30');
+    await calculator.locator('[name="basis"]').selectOption('deposit_bonus');
+    await calculator.locator('[name="contribution"]').fill('20');
+    await calculator.locator('button[type="submit"]').click();
+    const resultText = await calculator.locator('[data-wager-result]').textContent();
+    const ctaVisible = await calculator.locator('[data-wager-cta]').isVisible();
+    const calculatorOk = resultText.includes('6.000,00') && resultText.includes('30.000,00') && ctaVisible;
+    console.log(`${calculatorOk ? 'OK' : 'FAIL'} bonus calculator result and offer CTA: ${resultText.trim()}`);
+    if (!calculatorOk) failed = true;
+  }
+  await calculatorPage.close();
+
   await browser.close();
   if (failed) process.exit(1);
 })().catch(error => { console.error(error); process.exit(1); });

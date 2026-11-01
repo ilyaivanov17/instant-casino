@@ -1,8 +1,8 @@
 ---
 title: 'Guía de tragamonedas: fundamentos y perfiles'
-description: 'Perfiles de tragamonedas con mecánicas, análisis editorial y pautas para comprobar cada versión.'
+description: "35 perfiles de tragamonedas con mecánicas, análisis editorial y pautas para comprobar cada versión."
 type: page
-seo_title: 'Guía de tragamonedas: 30 perfiles y mecánicas de juego | Instant Casino'
+seo_title: "Guía de tragamonedas: 35 perfiles y mecánicas de juego | Instant Casino"
 lastmod: '2026-11-01'
 article_review_status: editorial-review-pending
 build:
@@ -1011,6 +1011,111 @@ Mega Moolah combina una tragamonedas clásica de líneas con cuatro niveles de j
 
 
 
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condiciones de bonos</p>
+  <a href="/es/slots/#affiliate-title">Ver condiciones de bonos →</a>
+</div>
+
+<h2 id="pirots-4">Pirots 4</h2>
+
+Pirots 4 combina una aventura espacial con una cuadrícula de 6×6. CollectR, la expansión del tablero y las transformaciones de símbolos influyen en cada ronda. Entre sus funciones destacan Space Bandit y el juego de monedas Lost in Space.
+
+| Proveedor | Mecánicas registradas |
+|---|---|
+| ELK Studios | cuadrícula 6×6, CollectR, expansión del tablero, transformación de símbolos, bonificación y juego de monedas |
+
+### Qué comprobar antes de jugar
+
+Consulta la ayuda de la versión abierta para confirmar cómo se recogen y valoran los símbolos CollectR, qué activa la bonificación y cómo funciona la expansión del tablero.
+
+### Análisis editorial
+
+Conviene distinguir la mecánica CollectR de los eventos adicionales del tablero. ELK Studios indica que el progreso y las mejoras pueden mantenerse durante la ronda de bonificación. [Información oficial del juego](https://www.elk-studios.com/games/pirots-4/)
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condiciones de bonos</p>
+  <a href="/es/slots/#affiliate-title">Ver condiciones de bonos →</a>
+</div>
+
+<h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
+
+Fire in the Hole 3 transcurre en una mina helada cuyo tablero cambia con cada derrumbe. Los Wild xBomb y las funciones xSplit y xHole afectan a los símbolos y rodillos; Lucky Wagon Spins es una bonificación independiente.
+
+| Proveedor | Mecánicas registradas |
+|---|---|
+| Nolimit City | Collapsing Mine, xBomb, xSplit, xHole, Wild Mining, Lucky Wagon Spins |
+
+### Qué comprobar antes de jugar
+
+La ayuda debe aclarar qué activa el derrumbe de la mina, cómo interactúan las xMechanics y qué condiciones se aplican a Lucky Wagon Spins.
+
+### Análisis editorial
+
+A diferencia de una tragamonedas de cascadas convencional, los derrumbes pueden abrir filas adicionales. Nolimit City también describe funciones ocultas en bloques de hielo y potenciadores en la bonificación. [Información oficial del juego](https://nolimitcity.com/posts/fire-in-the-hole-3-now-live)
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condiciones de bonos</p>
+  <a href="/es/slots/#affiliate-title">Ver condiciones de bonos →</a>
+</div>
+
+<h2 id="razor-shark">Razor Shark</h2>
+
+Razor Shark es una tragamonedas submarina de cinco rodillos, cuatro filas y 20 líneas. Mystery Stacks revelan símbolos y pueden desplazarse hacia abajo. Los tiburones dorados activan Razor Reveal y los juegos gratis incorporan multiplicadores crecientes.
+
+| Proveedor | Mecánicas registradas |
+|---|---|
+| Push Gaming | Mystery Stacks, Nudge & Reveal, Razor Reveal, juegos gratis y multiplicadores crecientes |
+
+### Qué comprobar antes de jugar
+
+Push Gaming indica que el RTP puede variar según la versión del casino. Comprueba el valor en el panel informativo y en la pantalla de carga del juego concreto. Revisa también los requisitos de los scatters y las reglas de los juegos gratis.
+
+### Análisis editorial
+
+Su rasgo distintivo es la combinación de Mystery Stacks que se desplazan y Razor Reveal. La información oficial explica cómo los scatters adicionales pueden ampliar la ronda de juegos gratis. [Información oficial del juego](https://www.pushgaming.com/games/razor-shark.html)
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condiciones de bonos</p>
+  <a href="/es/slots/#affiliate-title">Ver condiciones de bonos →</a>
+</div>
+
+<h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
+
+Pink Elephants 2 – Reborn es una tragamonedas surrealista de seis rodillos y 4.096 Connecting Pay Ways. El Mystery Scatter puede activar tiradas gratis con transformaciones de símbolos y posibles reactivaciones.
+
+| Proveedor | Mecánicas registradas |
+|---|---|
+| Thunderkick | 6 rodillos, 4.096 Connecting Pay Ways, Mystery Scatter, tiradas gratis, transformaciones y reactivaciones |
+
+### Qué comprobar antes de jugar
+
+Consulta la ayuda para confirmar cómo se calculan los Connecting Pay Ways, los requisitos de los scatters y cuándo puede reactivarse la ronda. El RTP y los límites deben comprobarse en la versión del operador.
+
+### Análisis editorial
+
+Mystery Scatter y las transformaciones de símbolos definen la ronda de bonificación. Thunderkick publica datos técnicos, aunque la referencia válida es la versión cargada por cada operador. [Información oficial del juego](https://www.thunderkick.com/games/pink-elephants-2-reborn/)
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condiciones de bonos</p>
+  <a href="/es/slots/#affiliate-title">Ver condiciones de bonos →</a>
+</div>
+
+<h2 id="temple-tumble">Temple Tumble</h2>
+
+Temple Tumble es una aventura selvática en una cuadrícula de 6×6 con hasta 46.656 formas de ganar. Los símbolos desaparecen en cascadas y los bloques de piedra abren el camino a tiradas gratis, donde se elige entre tres mundos.
+
+| Proveedor | Mecánicas registradas |
+|---|---|
+| Relax Gaming | cuadrícula 6×6, Megaways, cascadas, bloques rompibles y tiradas gratis con tres mundos |
+
+### Qué comprobar antes de jugar
+
+Relax Gaming publica distintas configuraciones de RTP según el mercado. Comprueba la versión y sus reglas. Consulta también en la ayuda qué implica cada elección durante las tiradas gratis.
+
+### Análisis editorial
+
+El juego combina cascadas con una mecánica de progreso basada en bloques de piedra. La bonificación ofrece tres mundos; sus efectos deben comprobarse en la ayuda actual. [Información oficial del juego](https://www.relax-gaming.com/products/casino/templetumble)
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condiciones de bonos</p>

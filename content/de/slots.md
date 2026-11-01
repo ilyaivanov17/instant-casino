@@ -1,9 +1,9 @@
 ---
 title: 'Slot-Leitfaden: Grundlagen und Spielprofile'
-description: '30 Slot-Profile mit Spielmechaniken, redaktioneller Einordnung und Hinweisen zur Prüfung der jeweiligen Spielversion.'
+description: "35 Slot-Profile mit Spielmechaniken, redaktioneller Einordnung und Hinweisen zur Prüfung der jeweiligen Spielversion."
 type: page
-seo_title: 'Slot-Leitfaden: 30 Spielprofile und Mechaniken | Instant Casino'
-lastmod: '2026-10-31'
+seo_title: "Slot-Leitfaden: 35 Spielprofile und Mechaniken | Instant Casino"
+lastmod: '2026-11-01'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -982,6 +982,111 @@ Mega Moolah ist ein Safari-Slot, dessen besonderes Merkmal vier progressive Jack
 Bei progressiven Jackpots sind die angezeigten Stufen und Teilnahmebedingungen zentral. Prüfe im Spiel, wie die Jackpot-Funktion ausgelöst wird, welche Voraussetzungen gelten und welche Regeln für die konkrete Version angezeigt werden.
 
 
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
+
+<h2 id="pirots-4">Pirots 4</h2>
+
+Pirots 4 verbindet ein Weltraumthema mit einem 6×6-Raster. CollectR, ein erweiterbares Spielfeld und Symbolveränderungen bestimmen die Runde. Zu den besonderen Elementen gehören Space Bandit und das Münzspiel Lost in Space.
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| ELK Studios | 6×6-Raster, CollectR, Spielfeld-Erweiterung, Symbolveränderungen, Bonus- und Münzspiel |
+
+### Was du vor dem Start prüfen solltest
+
+Prüfe in der konkreten Spielversion, wie CollectR-Symbole gesammelt und gewertet werden und wodurch die Bonusphase startet. Auch die Regeln für das erweiterte Raster und das Münzspiel stehen in der Spielhilfe.
+
+### Mechanik im Fokus
+
+Das Profil trennt die CollectR-Grundmechanik von zusätzlichen Rasterereignissen. ELK Studios weist darauf hin, dass Fortschritt und Verbesserungen während der Bonusphase erhalten bleiben können. [Offizielle Spielinformationen](https://www.elk-studios.com/games/pirots-4/)
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
+
+<h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
+
+Fire in the Hole 3 spielt in einer frostigen Mine, deren Spielfläche sich durch Kaskaden verändert. xBomb-Wilds, xSplit und xHole beeinflussen Symbole und Raster; Lucky Wagon Spins bilden eine eigene Bonusphase.
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Nolimit City | Collapsing Mine, xBomb, xSplit, xHole, Wild Mining, Lucky Wagon Spins |
+
+### Was du vor dem Start prüfen solltest
+
+Die Spielhilfe sollte erklären, wodurch ein Minenkollaps ausgelöst wird, wie die xMechanics zusammenwirken und welche Bedingungen für Lucky Wagon Spins gelten.
+
+### Mechanik im Fokus
+
+Anders als bei klassischen Kaskaden-Slots können weitere Reihen der Mine geöffnet werden. Nolimit City beschreibt zudem verborgene Funktionen in Eisblöcken und mehrere Enhancer in der Bonusphase. [Offizielle Spielinformationen](https://nolimitcity.com/posts/fire-in-the-hole-3-now-live)
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
+
+<h2 id="razor-shark">Razor Shark</h2>
+
+Razor Shark ist ein Unterwasser-Slot mit fünf Walzen, vier Reihen und 20 Gewinnlinien. Mystery Stacks werden aufgedeckt und können nach unten rücken. Goldene Shark-Symbole starten Razor Reveal; Freispiele ergänzen das Spiel um steigende Multiplikatoren.
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Push Gaming | Mystery Stacks, Nudge & Reveal, Razor Reveal, Freispiele, steigende Multiplikatoren |
+
+### Was du vor dem Start prüfen solltest
+
+Push Gaming weist darauf hin, dass der RTP je nach Casino-Version abweichen kann. Prüfe den Wert im Info-Bereich und auf dem Ladebildschirm des tatsächlich angebotenen Spiels. Kontrolliere auch die Regeln der Freispiele.
+
+### Mechanik im Fokus
+
+Die Besonderheit liegt in der Kombination aus verschobenen Mystery Stacks und Razor Reveal. Laut offizieller Spielbeschreibung können zusätzliche Scatter die Freispiele erweitern. [Offizielle Spielinformationen](https://www.pushgaming.com/games/razor-shark.html)
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
+
+<h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
+
+Pink Elephants 2 – Reborn ist ein surreal gestalteter Slot mit sechs Walzen und 4.096 Connecting Pay Ways. Ein Mystery Scatter kann Freispiele starten; die Bonusrunde bietet Symbolveränderungen und mögliche Retrigger.
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Thunderkick | 6 Walzen, 4.096 Connecting Pay Ways, Mystery Scatter, Freispiele, Symbolveränderungen, Retrigger |
+
+### Was du vor dem Start prüfen solltest
+
+Prüfe in der Spielhilfe, wie Connecting Pay Ways ausgewertet werden, welche Scatter-Bedingungen gelten und wann ein Retrigger möglich ist. RTP und Einsatzgrenzen sollten aus der konkret geladenen Version stammen.
+
+### Mechanik im Fokus
+
+Mystery Scatter und Symboltransformationen prägen die Bonusphase. Thunderkick veröffentlicht Spielparameter, maßgeblich bleibt aber die Version, die beim jeweiligen Betreiber läuft. [Offizielle Spielinformationen](https://www.thunderkick.com/games/pink-elephants-2-reborn/)
+
+<div class="slot-profile-bonus-cta">
+  <p>Bonusangebote ansehen</p>
+  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+</div>
+
+<h2 id="temple-tumble">Temple Tumble</h2>
+
+Temple Tumble ist ein Dschungel-Abenteuer auf einem 6×6-Raster mit bis zu 46.656 Gewinnwegen. Gewinnsymbole verschwinden in Kaskaden, während zerbrechende Steinblöcke den Weg in Freispiele öffnen. Dort wird eine von drei Bonuswelten gewählt.
+
+| Anbieter | Hinterlegte Funktionen |
+|---|---|
+| Relax Gaming | 6×6-Raster, Megaways, Kaskaden, zerbrechende Blöcke, Freispiele mit drei Auswahlwelten |
+
+### Was du vor dem Start prüfen solltest
+
+Relax Gaming führt verschiedene RTP-Konfigurationen für Märkte auf. Prüfe Kennzeichnung und Regeln der tatsächlich geladenen Version. Auch die Auswahlmöglichkeiten während der Freispiele sollten in der Spielhilfe nachvollzogen werden.
+
+### Mechanik im Fokus
+
+Das Spiel verbindet Kaskaden mit einem Fortschrittssystem über Steinblöcke. Die Bonusphase bietet drei Welten; ihre konkreten Auswirkungen sollten anhand der aktuellen Spielhilfe geprüft werden. [Offizielle Spielinformationen](https://www.relax-gaming.com/products/casino/templetumble)
 
 <div class="slot-profile-bonus-cta">
   <p>Bonusangebote ansehen</p>

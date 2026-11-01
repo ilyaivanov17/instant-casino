@@ -1,17 +1,17 @@
 section_title:
-  de: 30 Spiele im Überblick
-  en: Explore 30 slot games
-  pl: Poznaj 30 gier
-  es: Explora 30 juegos
-  pt: Explore 30 jogos
-  ja: 30タイトルのスロットゲーム
+  de: 35 Spiele im Überblick
+  en: Explore 35 slot games
+  pl: Poznaj 35 gier
+  es: Explora 35 juegos
+  pt: Explore 35 jogos
+  ja: 35タイトルのスロットゲーム
 section_description:
-  de: Entdecke 30 ausgewählte Slot-Spiele mit eigenen Bildern, kompakten Beschreibungen und direktem Zugang zu jedem Spielprofil.
-  en: Explore 30 selected slot games with individual artwork, concise descriptions and a direct link to every game profile.
-  pl: Poznaj 30 wybranych automatów z osobnymi grafikami, krótkimi opisami i bezpośrednim przejściem do każdego profilu gry.
-  es: Descubre 30 tragamonedas seleccionadas con imágenes propias, descripciones breves y acceso directo a cada perfil.
-  pt: Explore 30 slots selecionados com imagens próprias, descrições breves e acesso direto a cada perfil de jogo.
-  ja: 30種類のスロットを個別の画像と簡潔な説明で紹介し、それぞれのゲームプロフィールへ直接移動できます。
+  de: Entdecke 35 ausgewählte Slot-Spiele mit eigenen Bildern, kompakten Beschreibungen und direktem Zugang zu jedem Spielprofil.
+  en: Explore 35 selected slot games with individual artwork, concise descriptions and a direct link to every game profile.
+  pl: Poznaj 35 wybranych automatów z osobnymi grafikami, krótkimi opisami i bezpośrednim przejściem do każdego profilu gry.
+  es: Descubre 35 tragamonedas seleccionadas con imágenes propias, descripciones breves y acceso directo a cada perfil.
+  pt: Explore 35 slots selecionados com imagens próprias, descrições breves e acesso direto a cada perfil de jogo.
+  ja: 35種類のスロットを個別の画像と簡潔な説明で紹介し、それぞれのゲームプロフィールへ直接移動できます。
 read_more:
   de: Überblick ansehen
   en: View overview
@@ -777,3 +777,128 @@ games:
       es: "Arte del juego Mega Moolah con un león y la sabana africana."
       pt: "Arte do jogo Mega Moolah com um leão e a savana africana."
       ja: "Mega Moolahのゲームアート。ライオンとアフリカのサバンナを描いています。"
+  - name: "Pirots 4"
+    provider: "ELK Studios"
+    anchor: pirots-4
+    image: "https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png"
+    label:
+      de: "6×6-Raster · CollectR · erweiterndes Spielfeld"
+      en: "6×6 grid · CollectR · expanding playfield"
+      pl: "Siatka 6×6 · CollectR · rozszerzające się pole"
+      es: "Cuadrícula 6×6 · CollectR · tablero expansible"
+      pt: "Grelha 6×6 · CollectR · campo expansível"
+      ja: "6×6グリッド · CollectR · 拡張するフィールド"
+    description:
+      de: "Ein Weltraum-Slot auf einem 6×6-Raster. CollectR, ein wachsendes Spielfeld und Symbolveränderungen prägen den Ablauf; hinzu kommen Space Bandit und das Münzspiel Lost in Space."
+      en: "A space-themed slot on a 6×6 grid. CollectR, an expanding playfield and symbol transformations shape the rounds, alongside Space Bandit and the Lost in Space coin game."
+      pl: "Kosmiczny slot na siatce 6×6. CollectR, rozszerzające się pole i przemiany symboli uzupełniają funkcje Space Bandit oraz gra monetarna Lost in Space."
+      es: "Una tragamonedas espacial con cuadrícula de 6×6. CollectR, la expansión del tablero y las transformaciones de símbolos se combinan con Space Bandit y el juego de monedas Lost in Space."
+      pt: "Um slot espacial numa grelha 6×6. CollectR, a expansão do campo e as transformações de símbolos juntam-se ao Space Bandit e ao jogo de moedas Lost in Space."
+      ja: "6×6グリッドの宇宙テーマのスロットです。CollectR、フィールド拡張、シンボル変換に加え、Space BanditとLost in Spaceのコインゲームが登場します。"
+    alt:
+      de: "Pirots 4 Spielgrafik mit Weltraumvögeln und dem CollectR-Logo"
+      en: "Pirots 4 artwork featuring spacefaring birds and the CollectR logo"
+      pl: "Grafika Pirots 4 przedstawiająca kosmiczne ptaki i logo CollectR"
+      es: "Ilustración de Pirots 4 con aves espaciales y el logotipo CollectR"
+      pt: "Arte de Pirots 4 com aves espaciais e o logótipo CollectR"
+      ja: "宇宙を旅する鳥たちとCollectRロゴを描いたPirots 4のゲームアート"
+  - name: "Fire in the Hole 3"
+    provider: "Nolimit City"
+    anchor: fire-in-the-hole-3
+    image: "https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png"
+    label:
+      de: "Collapsing Mine · xBomb · xSplit"
+      en: "Collapsing Mine · xBomb · xSplit"
+      pl: "Collapsing Mine · xBomb · xSplit"
+      es: "Collapsing Mine · xBomb · xSplit"
+      pt: "Collapsing Mine · xBomb · xSplit"
+      ja: "Collapsing Mine · xBomb · xSplit"
+    description:
+      de: "Ein Minen-Slot mit einer zusammenbrechenden Spielfläche. xBomb-Wilds, xSplit und xHole verändern das Raster; Lucky-Wagon-Spins bilden eine eigene Bonusphase."
+      en: "A mining-themed slot with a collapsing playfield. xBomb Wilds, xSplit and xHole change the reel area, while Lucky Wagon Spins provide a separate bonus round."
+      pl: "Slot w klimacie kopalni z zapadającym się polem. xBomb Wild, xSplit i xHole zmieniają układ bębnów, a Lucky Wagon Spins tworzą osobną rundę bonusową."
+      es: "Una tragamonedas minera con un tablero que se derrumba. Los Wild xBomb, xSplit y xHole modifican los rodillos; Lucky Wagon Spins ofrece una ronda de bonificación independiente."
+      pt: "Um slot mineiro com um campo que colapsa. Os Wilds xBomb, xSplit e xHole alteram os rolos; Lucky Wagon Spins constitui uma ronda de bónus própria."
+      ja: "崩落する鉱山が舞台のスロットです。xBomb Wild、xSplit、xHoleがリール領域を変化させ、Lucky Wagon Spinsでは独立したボーナスが展開します。"
+    alt:
+      de: "Fire in the Hole 3 Spielgrafik mit Zwerg, Dynamit und eisiger Mine"
+      en: "Fire in the Hole 3 artwork showing a miner, dynamite and an icy mine"
+      pl: "Grafika Fire in the Hole 3 przedstawiająca górnika, dynamit i lodową kopalnię"
+      es: "Arte de Fire in the Hole 3 con un minero, dinamita y una mina helada"
+      pt: "Arte de Fire in the Hole 3 com um mineiro, dinamite e uma mina gelada"
+      ja: "鉱夫、ダイナマイト、氷の鉱山を描いたFire in the Hole 3のゲームアート"
+  - name: "Razor Shark"
+    provider: "Push Gaming"
+    anchor: razor-shark
+    image: "https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50"
+    label:
+      de: "Mystery Stacks · Razor Reveal · Freispiele"
+      en: "Mystery Stacks · Razor Reveal · free games"
+      pl: "Mystery Stacks · Razor Reveal · darmowe gry"
+      es: "Mystery Stacks · Razor Reveal · juegos gratis"
+      pt: "Mystery Stacks · Razor Reveal · jogos grátis"
+      ja: "Mystery Stacks · Razor Reveal · フリーゲーム"
+    description:
+      de: "Ein Unterwasser-Slot mit fünf Walzen, vier Reihen und 20 Gewinnlinien. Mystery Stacks werden aufgedeckt und verschoben; goldene Haie lösen Razor Reveal und Freispiele mit steigenden Multiplikatoren aus."
+      en: "An underwater slot with five reels, four rows and 20 paylines. Mystery Stacks reveal and nudge into place; Golden Shark symbols trigger Razor Reveal and free games with increasing multipliers."
+      pl: "Podwodny slot z pięcioma bębnami, czterema rzędami i 20 liniami. Mystery Stacks odsłaniają symbole i przesuwają je, a złote rekiny uruchamiają Razor Reveal oraz darmowe gry z rosnącymi mnożnikami."
+      es: "Una tragamonedas submarina de cinco rodillos, cuatro filas y 20 líneas. Mystery Stacks revelan y desplazan símbolos; los tiburones dorados activan Razor Reveal y juegos gratis con multiplicadores crecientes."
+      pt: "Um slot subaquático com cinco rolos, quatro filas e 20 linhas. Mystery Stacks revelam e deslocam símbolos; os tubarões dourados ativam Razor Reveal e jogos grátis com multiplicadores crescentes."
+      ja: "5リール、4段、20ペイラインの海中テーマです。Mystery Stacksがシンボルを公開して移動させ、Golden SharkがRazor Revealと倍率上昇型フリーゲームを発動します。"
+    alt:
+      de: "Razor Shark Slotgrafik mit einem großen Hai vor blauem Meeresgrund"
+      en: "Razor Shark slot artwork featuring a large shark against a blue underwater background"
+      pl: "Grafika Razor Shark z dużym rekinem na niebieskim podwodnym tle"
+      es: "Arte de Razor Shark con un gran tiburón sobre un fondo submarino azul"
+      pt: "Arte de Razor Shark com um grande tubarão sobre um fundo subaquático azul"
+      ja: "青い海中の背景に大きなサメを描いたRazor Sharkのゲームアート"
+  - name: "Pink Elephants 2 – Reborn"
+    provider: "Thunderkick"
+    anchor: pink-elephants-2-reborn
+    image: "https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg"
+    label:
+      de: "Connecting Pay Ways · Mystery Scatter · Retrigger"
+      en: "Connecting Pay Ways · Mystery Scatter · retriggers"
+      pl: "Connecting Pay Ways · Mystery Scatter · ponowne uruchomienia"
+      es: "Connecting Pay Ways · Mystery Scatter · reactivaciones"
+      pt: "Connecting Pay Ways · Mystery Scatter · reativações"
+      ja: "Connecting Pay Ways · Mystery Scatter · 再トリガー"
+    description:
+      de: "Ein surrealer Slot mit sechs Walzen und 4.096 Connecting Pay Ways. Der Mystery Scatter kann Freispiele starten; in der Bonusrunde gibt es Symbolveränderungen und mögliche Retrigger."
+      en: "A surreal slot with six reels and 4,096 Connecting Pay Ways. A Mystery Scatter can start free spins featuring symbol transformations and possible retriggers."
+      pl: "Surrealistyczny slot z sześcioma bębnami i 4096 Connecting Pay Ways. Mystery Scatter może uruchomić darmowe spiny z przemianami symboli i możliwością ponownego uruchomienia rundy."
+      es: "Una tragamonedas surrealista de seis rodillos y 4.096 Connecting Pay Ways. El Mystery Scatter puede activar tiradas gratis con transformaciones de símbolos y posibles reactivaciones."
+      pt: "Um slot surrealista com seis rolos e 4.096 Connecting Pay Ways. O Mystery Scatter pode iniciar rodadas grátis com transformações de símbolos e possíveis reativações."
+      ja: "6リール、4,096通りのConnecting Pay Waysを備えた幻想的なスロットです。Mystery Scatterでフリースピンが始まり、シンボル変換や再トリガーが発生します。"
+    alt:
+      de: "Pink Elephants 2 – Reborn Spielgrafik mit pinkem Elefanten und fantasievollen Ziegen"
+      en: "Pink Elephants 2 – Reborn artwork featuring a pink elephant and surreal goat characters"
+      pl: "Grafika Pink Elephants 2 – Reborn z różowym słoniem i surrealistycznymi kozami"
+      es: "Arte de Pink Elephants 2 – Reborn con un elefante rosa y personajes de cabras surrealistas"
+      pt: "Arte de Pink Elephants 2 – Reborn com um elefante cor-de-rosa e personagens de cabras surreais"
+      ja: "ピンクの象と幻想的なヤギのキャラクターを描いたPink Elephants 2 – Rebornのゲームアート"
+  - name: "Temple Tumble"
+    provider: "Relax Gaming"
+    anchor: temple-tumble
+    image: "https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png"
+    label:
+      de: "6×6-Raster · Megaways · Kaskaden"
+      en: "6×6 grid · Megaways · cascades"
+      pl: "Siatka 6×6 · Megaways · kaskady"
+      es: "Cuadrícula 6×6 · Megaways · cascadas"
+      pt: "Grelha 6×6 · Megaways · cascatas"
+      ja: "6×6グリッド · Megaways · カスケード"
+    description:
+      de: "Ein Dschungel-Abenteuer auf einem 6×6-Raster mit bis zu 46.656 Gewinnwegen. Kaskaden und zerbrechende Steinblöcke führen in Freispiele, bei denen zwischen drei Bonuswelten gewählt wird."
+      en: "A jungle adventure on a 6×6 grid with up to 46,656 ways to win. Cascades and breaking stone blocks lead to free spins, where players choose between three bonus worlds."
+      pl: "Przygoda w dżungli na siatce 6×6 z maksymalnie 46 656 sposobami wygrywania. Kaskady i kamienne bloki prowadzą do darmowych spinów z wyborem jednego z trzech światów."
+      es: "Una aventura selvática en una cuadrícula de 6×6 con hasta 46.656 formas de ganar. Las cascadas y los bloques de piedra conducen a tiradas gratis con elección entre tres mundos."
+      pt: "Uma aventura na selva numa grelha 6×6 com até 46.656 formas de ganhar. As cascatas e os blocos de pedra conduzem a rodadas grátis com escolha entre três mundos."
+      ja: "最大46,656通りの配当方法を持つ6×6グリッドのジャングルアドベンチャーです。カスケードと石ブロックがフリースピンにつながり、3つのボーナスワールドから選択します。"
+    alt:
+      de: "Temple Tumble Spielgrafik mit goldenem Spieletitel vor einem Dschungeltempel"
+      en: "Temple Tumble artwork showing its gold title in front of a jungle temple"
+      pl: "Grafika Temple Tumble ze złotym tytułem na tle świątyni w dżungli"
+      es: "Arte de Temple Tumble con el título dorado frente a un templo en la selva"
+      pt: "Arte de Temple Tumble com o título dourado em frente a um templo na selva"
+      ja: "ジャングルの寺院を背景に金色のタイトルを配したTemple Tumbleのゲームアート"

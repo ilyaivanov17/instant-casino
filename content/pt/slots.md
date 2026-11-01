@@ -1,8 +1,8 @@
 ---
 title: 'Guia de slots: fundamentos e perfis de jogos'
-description: 'Perfis de slots com mecânicas, análise editorial e orientações para verificar cada versão.'
+description: "35 perfis de slots com mecânicas, análise editorial e orientações para verificar cada versão."
 type: page
-seo_title: 'Guia de slots: 30 perfis e mecânicas de jogo | Instant Casino'
+seo_title: "Guia de slots: 35 perfis e mecânicas de jogo | Instant Casino"
 lastmod: '2026-11-01'
 article_review_status: editorial-review-pending
 build:
@@ -1031,6 +1031,111 @@ Mega Moolah combina um slot clássico de linhas com quatro níveis de jackpot pr
 
 
 
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
+</div>
+
+<h2 id="pirots-4">Pirots 4</h2>
+
+Pirots 4 combina uma aventura espacial com uma grelha 6×6. CollectR, a expansão do campo e as transformações de símbolos influenciam cada ronda. Entre as funções adicionais estão Space Bandit e o jogo de moedas Lost in Space.
+
+| Fornecedor | Mecânicas registadas |
+|---|---|
+| ELK Studios | grelha 6×6, CollectR, expansão do campo, transformação de símbolos, bónus e jogo de moedas |
+
+### O que confirmar antes de jogar
+
+Consulte a ajuda da versão aberta para confirmar como os símbolos CollectR são recolhidos e valorizados, o que ativa o bónus e como funciona a expansão da grelha.
+
+### Análise editorial
+
+Importa distinguir a mecânica CollectR dos acontecimentos adicionais na grelha. A ELK Studios indica que o progresso e as melhorias podem manter-se durante a ronda de bónus. [Informação oficial do jogo](https://www.elk-studios.com/games/pirots-4/)
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
+</div>
+
+<h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
+
+Fire in the Hole 3 decorre numa mina gelada cujo campo se altera com cada desmoronamento. Os Wilds xBomb, xSplit e xHole afetam os símbolos e rolos; Lucky Wagon Spins é uma função de bónus independente.
+
+| Fornecedor | Mecânicas registadas |
+|---|---|
+| Nolimit City | Collapsing Mine, xBomb, xSplit, xHole, Wild Mining, Lucky Wagon Spins |
+
+### O que confirmar antes de jogar
+
+A ajuda deve explicar o que provoca o desmoronamento da mina, como interagem as xMechanics e quais as condições de Lucky Wagon Spins.
+
+### Análise editorial
+
+Ao contrário de um slot de cascatas convencional, os desmoronamentos podem revelar filas adicionais. A Nolimit City também descreve funções escondidas em blocos de gelo e potenciadores na ronda de bónus. [Informação oficial do jogo](https://nolimitcity.com/posts/fire-in-the-hole-3-now-live)
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
+</div>
+
+<h2 id="razor-shark">Razor Shark</h2>
+
+Razor Shark é um slot subaquático com cinco rolos, quatro filas e 20 linhas. Mystery Stacks revelam símbolos e podem deslocar-se para baixo. Os Golden Shark ativam Razor Reveal e os jogos grátis acrescentam multiplicadores crescentes.
+
+| Fornecedor | Mecânicas registadas |
+|---|---|
+| Push Gaming | Mystery Stacks, Nudge & Reveal, Razor Reveal, jogos grátis e multiplicadores crescentes |
+
+### O que confirmar antes de jogar
+
+A Push Gaming informa que o RTP pode variar entre versões de casino. Confirme o valor no painel de informação e no ecrã de carregamento do jogo específico. Verifique também os requisitos dos scatters e as regras dos jogos grátis.
+
+### Análise editorial
+
+A característica distintiva é a combinação de Mystery Stacks com deslocamento e Razor Reveal. A informação oficial explica como scatters adicionais podem melhorar a ronda de jogos grátis. [Informação oficial do jogo](https://www.pushgaming.com/games/razor-shark.html)
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
+</div>
+
+<h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
+
+Pink Elephants 2 – Reborn é um slot surrealista com seis rolos e 4.096 Connecting Pay Ways. O Mystery Scatter pode iniciar rodadas grátis com transformações de símbolos e possíveis reativações.
+
+| Fornecedor | Mecânicas registadas |
+|---|---|
+| Thunderkick | 6 rolos, 4.096 Connecting Pay Ways, Mystery Scatter, rodadas grátis, transformações e reativações |
+
+### O que confirmar antes de jogar
+
+Consulte a ajuda para confirmar como são calculados os Connecting Pay Ways, os requisitos dos scatters e quando a ronda pode ser reativada. O RTP e os limites devem ser verificados na versão do operador.
+
+### Análise editorial
+
+Mystery Scatter e as transformações de símbolos definem a ronda de bónus. A Thunderkick publica especificações, mas a referência decisiva é a versão carregada pelo operador. [Informação oficial do jogo](https://www.thunderkick.com/games/pink-elephants-2-reborn/)
+
+<div class="slot-profile-bonus-cta">
+  <p>Ver condições dos bónus</p>
+  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
+</div>
+
+<h2 id="temple-tumble">Temple Tumble</h2>
+
+Temple Tumble é uma aventura na selva numa grelha 6×6 com até 46.656 formas de ganhar. Os símbolos vencedores desaparecem em cascatas e os blocos de pedra abrem caminho para rodadas grátis, nas quais se escolhe entre três mundos.
+
+| Fornecedor | Mecânicas registadas |
+|---|---|
+| Relax Gaming | grelha 6×6, Megaways, cascatas, blocos quebráveis e rodadas grátis com três mundos |
+
+### O que confirmar antes de jogar
+
+A Relax Gaming apresenta configurações de RTP diferentes consoante o mercado. Confirme a versão e as respetivas regras. Consulte também a ajuda para perceber as escolhas durante as rodadas grátis.
+
+### Análise editorial
+
+O jogo combina cascatas com uma mecânica de progressão baseada em blocos de pedra. A ronda de bónus apresenta três mundos; os efeitos devem ser confirmados na ajuda atual. [Informação oficial do jogo](https://www.relax-gaming.com/products/casino/templetumble)
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>

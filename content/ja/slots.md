@@ -1,8 +1,8 @@
 ---
 title: スロットガイド：基本とゲームプロフィール
-description: 'ゲームの仕組み、編集部による分析、各バージョンの確認ポイントをまとめたスロットガイド。'
+description: "35タイトルのゲーム仕様、編集部の分析、バージョンごとの確認ポイントをまとめたスロットガイド."
 type: page
-seo_title: 'スロットガイド：30タイトルのプロフィールとゲームの仕組み | Instant Casino'
+seo_title: "スロットガイド：35タイトルのプロフィールとゲームの仕組み | Instant Casino"
 lastmod: '2026-11-01'
 article_review_status: editorial-review-pending
 build:
@@ -759,6 +759,111 @@ Wolf Goldはクラシックなペイラインに、フリースピン中の大�
 ### 独自分析
 
 Mega Moolahはクラシックなライン型ゲームに4段階のプログレッシブジャックポットを組み合わせ、フリースピンには別の倍率機能を備えています。通常のゲーム機能とネットワーク型ジャックポットを区別して説明することが重要です。
+
+<div class="slot-profile-bonus-cta">
+  <p>ボーナス条件を見る</p>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
+</div>
+
+<h2 id="pirots-4">Pirots 4</h2>
+
+Pirots 4は6×6グリッドの宇宙テーマのスロットです。CollectR、フィールド拡張、シンボル変換がゲーム展開を形作り、Space BanditとLost in Spaceのコインゲームも登場します。
+
+| プロバイダー | 主な仕組み |
+|---|---|
+| ELK Studios | 6×6グリッド、CollectR、フィールド拡張、シンボル変換、ボーナスとコインゲーム |
+
+### プレイ前に確認すること
+
+起動したバージョンのヘルプで、CollectRシンボルの収集と評価方法、ボーナス開始条件、グリッド拡張のルールを確認してください。
+
+### 編集部の見解
+
+CollectRの基本ルールと追加イベントを分けて理解すると特徴を把握しやすくなります。ELK Studiosによると、ボーナス中も一部の進行状況やアップグレードが維持されます。 [公式ゲーム情報](https://www.elk-studios.com/games/pirots-4/)
+
+<div class="slot-profile-bonus-cta">
+  <p>ボーナス条件を見る</p>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
+</div>
+
+<h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
+
+Fire in the Hole 3は、連続して崩落する氷の鉱山が舞台です。xBomb Wild、xSplit、xHoleがシンボルやリール領域に作用し、Lucky Wagon Spinsは独立したボーナス機能です。
+
+| プロバイダー | 主な仕組み |
+|---|---|
+| Nolimit City | Collapsing Mine、xBomb、xSplit、xHole、Wild Mining、Lucky Wagon Spins |
+
+### プレイ前に確認すること
+
+ゲーム内ヘルプで、鉱山の崩落条件、xMechanicsの相互作用、Lucky Wagon Spinsの参加条件を確認してください。
+
+### 編集部の見解
+
+一般的なカスケード型と異なり、崩落のたびに追加のリール段が開きます。Nolimit Cityは、氷のブロックに隠された機能やボーナス中の強化要素も紹介しています。 [公式ゲーム情報](https://nolimitcity.com/posts/fire-in-the-hole-3-now-live)
+
+<div class="slot-profile-bonus-cta">
+  <p>ボーナス条件を見る</p>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
+</div>
+
+<h2 id="razor-shark">Razor Shark</h2>
+
+Razor Sharkは、5リール、4段、20ペイラインの海中テーマのスロットです。Mystery Stacksがシンボルを公開して下方向へ移動し、Golden SharkがRazor Revealを発動します。フリーゲームには倍率上昇機能があります。
+
+| プロバイダー | 主な仕組み |
+|---|---|
+| Push Gaming | Mystery Stacks、Nudge & Reveal、Razor Reveal、フリーゲーム、倍率上昇 |
+
+### プレイ前に確認すること
+
+Push Gamingによると、RTPはカジノの提供バージョンで異なる場合があります。実際のゲームの情報パネルとロード画面で数値を確認し、Scatter条件とフリーゲームのルールも確認してください。
+
+### 編集部の見解
+
+特徴は、移動するMystery StacksとRazor Revealの組み合わせです。公式情報では、追加のScatterによってフリーゲームが強化される仕組みも説明されています。 [公式ゲーム情報](https://www.pushgaming.com/games/razor-shark.html)
+
+<div class="slot-profile-bonus-cta">
+  <p>ボーナス条件を見る</p>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
+</div>
+
+<h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
+
+Pink Elephants 2 – Rebornは、6リールと4,096通りのConnecting Pay Waysを備えた幻想的なスロットです。Mystery Scatterでフリースピンが始まり、シンボル変換や再トリガーが発生します。
+
+| プロバイダー | 主な仕組み |
+|---|---|
+| Thunderkick | 6リール、4,096 Connecting Pay Ways、Mystery Scatter、フリースピン、シンボル変換、再トリガー |
+
+### プレイ前に確認すること
+
+ゲーム内ヘルプでConnecting Pay Waysの判定方法、Scatter条件、再トリガーの条件を確認してください。RTPや賭け額の上限は、運営会社が提供するバージョンで確認します。
+
+### 編集部の見解
+
+Mystery Scatterとシンボル変換がボーナスの特徴です。Thunderkickは仕様を公開していますが、利用者に適用されるのは運営会社が読み込むバージョンです。 [公式ゲーム情報](https://www.thunderkick.com/games/pink-elephants-2-reborn/)
+
+<div class="slot-profile-bonus-cta">
+  <p>ボーナス条件を見る</p>
+  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
+</div>
+
+<h2 id="temple-tumble">Temple Tumble</h2>
+
+Temple Tumbleは最大46,656通りの配当方法を持つ6×6グリッドのジャングルアドベンチャーです。シンボルがカスケードで消え、石ブロックを壊すとフリースピンにつながり、3つのワールドから選択します。
+
+| プロバイダー | 主な仕組み |
+|---|---|
+| Relax Gaming | 6×6グリッド、Megaways、カスケード、破壊可能なブロック、3種類から選ぶフリースピン |
+
+### プレイ前に確認すること
+
+Relax Gamingは市場ごとに異なるRTP設定を掲載しています。実際に読み込まれたバージョン表示とルールを確認し、フリースピン中の選択肢もヘルプで確かめてください。
+
+### 編集部の見解
+
+石ブロックを使った進行要素とカスケードを組み合わせたゲームです。ボーナスでは3つのワールドを選べますが、効果は現行バージョンのヘルプで確認してください。 [公式ゲーム情報](https://www.relax-gaming.com/products/casino/templetumble)
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>

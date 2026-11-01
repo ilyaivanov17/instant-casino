@@ -1,8 +1,8 @@
 ---
 title: 'Slot guide: fundamentals and game profiles'
-description: 'Slot profiles with game mechanics, editorial analysis and version-specific checks.'
+description: "35 slot profiles with game mechanics, editorial analysis and version-specific checks."
 type: page
-seo_title: 'Slot guide: 30 game profiles and mechanics | Instant Casino'
+seo_title: "Slot guide: 35 game profiles and mechanics | Instant Casino"
 lastmod: '2026-11-01'
 article_review_status: editorial-review-pending
 build:
@@ -817,6 +817,111 @@ The jackpot element follows its own rules and may depend on the version or opera
 ### Our analysis
 
 Mega Moolah pairs a classic payline game with four progressive jackpot tiers, while free spins add a separate multiplier mechanic. A clear profile distinguishes ordinary game features from the linked jackpot network.
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
+</div>
+
+<h2 id="pirots-4">Pirots 4</h2>
+
+Pirots 4 combines a space adventure with a 6×6 grid. Its CollectR mechanic, expanding playfield and symbol transformations shape each round. Special features include Space Bandit and the Lost in Space coin game.
+
+| Provider | Listed mechanics |
+|---|---|
+| ELK Studios | 6×6 grid, CollectR, expanding playfield, symbol transformations, bonus and coin game |
+
+### What to check before playing
+
+Use the help screen in the version you open to confirm how CollectR symbols are collected and valued, what starts the bonus game and how the expanding grid works.
+
+### Editorial insight
+
+The profile separates the core CollectR mechanic from additional grid events. ELK Studios notes that collected progress and upgrades can persist during the bonus round. [Official game information](https://www.elk-studios.com/games/pirots-4/)
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
+</div>
+
+<h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
+
+Fire in the Hole 3 takes place in an icy mine where the playfield changes through successive collapses. xBomb Wilds, xSplit and xHole affect symbols and reel positions, while Lucky Wagon Spins form a separate bonus feature.
+
+| Provider | Listed mechanics |
+|---|---|
+| Nolimit City | Collapsing Mine, xBomb, xSplit, xHole, Wild Mining, Lucky Wagon Spins |
+
+### What to check before playing
+
+The in-game help should clarify what triggers a mine collapse, how the xMechanics interact and which conditions apply to Lucky Wagon Spins.
+
+### Editorial insight
+
+Unlike a conventional cascading slot, the mine can reveal additional rows as collapses occur. Nolimit City also describes buried features inside ice blocks and several enhancers during the bonus feature. [Official game information](https://nolimitcity.com/posts/fire-in-the-hole-3-now-live)
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
+</div>
+
+<h2 id="razor-shark">Razor Shark</h2>
+
+Razor Shark is an underwater slot with five reels, four rows and 20 paylines. Mystery Stacks reveal symbols and can nudge down the reels. Golden Shark symbols trigger Razor Reveal, while free games add increasing multipliers.
+
+| Provider | Listed mechanics |
+|---|---|
+| Push Gaming | Mystery Stacks, Nudge & Reveal, Razor Reveal, free games, increasing multipliers |
+
+### What to check before playing
+
+Push Gaming states that RTP can vary between casino versions. Check the figure in the information panel and on the loading screen of the specific game offered to you. Confirm the scatter requirements and free-game rules in the live help screen.
+
+### Editorial insight
+
+The distinctive element is the combination of nudging Mystery Stacks and Razor Reveal. The official game information explains how additional scatters can enhance the free games round. [Official game information](https://www.pushgaming.com/games/razor-shark.html)
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
+</div>
+
+<h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
+
+Pink Elephants 2 – Reborn is a surreal slot with six reels and 4,096 Connecting Pay Ways. A Mystery Scatter can start free spins, which include symbol transformations and possible retriggers.
+
+| Provider | Listed mechanics |
+|---|---|
+| Thunderkick | 6 reels, 4,096 Connecting Pay Ways, Mystery Scatter, free spins, symbol transformations, retriggers |
+
+### What to check before playing
+
+Use the game help to confirm how Connecting Pay Ways are evaluated, the scatter requirements and when a retrigger can occur. RTP and stake limits should be taken from the version actually loaded by the operator.
+
+### Editorial insight
+
+Mystery Scatter and symbol transformations define the bonus round. Thunderkick publishes game specifications, but the live version offered by an operator remains the relevant reference. [Official game information](https://www.thunderkick.com/games/pink-elephants-2-reborn/)
+
+<div class="slot-profile-bonus-cta">
+  <p>Explore bonus terms</p>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
+</div>
+
+<h2 id="temple-tumble">Temple Tumble</h2>
+
+Temple Tumble is a jungle adventure on a 6×6 grid with up to 46,656 ways to win. Winning symbols tumble away, while breakable stone blocks help open the route to free spins. The bonus round offers a choice between three worlds.
+
+| Provider | Listed mechanics |
+|---|---|
+| Relax Gaming | 6×6 grid, Megaways, cascades, breakable blocks, free spins with three selectable worlds |
+
+### What to check before playing
+
+Relax Gaming lists different RTP configurations for different markets. Check the version label and rules in the game that is actually loaded. Confirm the available free-spin choices in its help screen.
+
+### Editorial insight
+
+The game combines cascading wins with a progress mechanic built around stone blocks. The bonus round presents three worlds; their exact effects should be checked against the current game help. [Official game information](https://www.relax-gaming.com/products/casino/templetumble)
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>

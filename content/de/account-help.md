@@ -111,6 +111,12 @@ Kontaktiere den Anbieter über dessen offiziellen Support und frage nach dem Gru
 
 Prüfe zuerst den Transaktionsstatus und mögliche Dokumentenanforderungen im offiziellen Konto. Bitte den Support um eine konkrete Statusauskunft und eine Referenznummer. Weitere Prüfschritte stehen im [Auszahlungsratgeber]({{< relref "auszahlung" >}}).
 
+### Betreiber und Lizenz
+
+Laut der offiziellen Datenschutzseite ist der Betreiber GALAKTIKA N.V., Scharlooweg 39, Willemstad, Curaçao, Registernummer 140803. Dort wird die Lizenz der Curaçao Gaming Authority mit der Nummer OGL/2024/169/0146 und Ausstellungsdatum 28. Oktober 2024 genannt. Die offiziellen Betreiberangaben stehen auf der Website des Anbieters; dieses Projekt selbst ist ein Informations- und Vergleichsangebot.
+
+Quelle: [offizielle Datenschutzseite von Instant Casino]({{< relref "legal" >}}).
+
 ## Offizielle Quellen
 
 - [GGL: Amtliche Whitelist erlaubter Glücksspielanbieter](https://www.gluecksspiel-behoerde.de/de/fuer-spielende/uebersicht-erlaubter-anbieter-whitelist) – Prüfung der Anbieter und Domains für Deutschland.

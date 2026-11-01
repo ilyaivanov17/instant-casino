@@ -364,6 +364,7 @@ async function inspectPage(page, path, expectedCards = null) {
     const profileOk = profileResponse?.status() === 200 && profileTableCount === 1 &&
       profileH1.includes('Bonanza') && canonical.includes('/slots/bonanza/') && hreflangCount === 6;
     const contentOk = hubOk && profileOk;
+    await page.goto('http://127.0.0.1:4173' + item.path, { waitUntil: 'networkidle' });
     let calculationOk = false;
     if (hubExists) {
       const form = hub.locator('[data-wager-form]');

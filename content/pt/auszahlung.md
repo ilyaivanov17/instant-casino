@@ -1,8 +1,8 @@
 ---
-title: Levantamentos em casinos: prazos, verificação e atrasos
+title: 'Levantamentos em casinos: prazos, verificação e atrasos'
 description: Como funciona um levantamento, qual o papel da verificação e do método de pagamento e o que verificar em caso de atraso.
 type: page
-seo_title: Levantamentos em casinos: prazos, KYC e limites | Instant Casino
+seo_title: 'Levantamentos em casinos: prazos, KYC e limites | Instant Casino'
 lastmod: '2026-11-01'
 article_review_status: editorial-review-pending
 build:

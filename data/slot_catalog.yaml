@@ -30,6 +30,51 @@ games:
   - name: Bigger Bass Bonanza
     provider: Pragmatic Play
     anchor: bigger-bass-bonanza
+    author: arthur-mustoe
+    author_name: "Arthur Mustoe"
+    keywords:
+      de:
+        - "Bigger Bass Bonanza Slot"
+        - "Bigger Bass Bonanza Spielmechanik"
+        - "Bigger Bass Bonanza RTP"
+        - "Bigger Bass Bonanza Volatilität"
+        - "Pragmatic Play Slots"
+        - "Bigger Bass Bonanza Spielanalyse"
+      en:
+        - "Bigger Bass Bonanza slot"
+        - "Bigger Bass Bonanza game mechanics"
+        - "Bigger Bass Bonanza RTP"
+        - "Bigger Bass Bonanza volatility"
+        - "Pragmatic Play slots"
+        - "Bigger Bass Bonanza slot review"
+      pl:
+        - "automat Bigger Bass Bonanza"
+        - "slot Bigger Bass Bonanza"
+        - "Bigger Bass Bonanza mechanika gry"
+        - "Bigger Bass Bonanza RTP"
+        - "Bigger Bass Bonanza zmienność"
+        - "automaty Pragmatic Play"
+      es:
+        - "tragamonedas Bigger Bass Bonanza"
+        - "slot Bigger Bass Bonanza"
+        - "mecánicas de Bigger Bass Bonanza"
+        - "RTP de Bigger Bass Bonanza"
+        - "volatilidad de Bigger Bass Bonanza"
+        - "tragamonedas Pragmatic Play"
+      pt:
+        - "slot Bigger Bass Bonanza"
+        - "jogo Bigger Bass Bonanza"
+        - "mecânicas de Bigger Bass Bonanza"
+        - "RTP de Bigger Bass Bonanza"
+        - "volatilidade de Bigger Bass Bonanza"
+        - "slots Pragmatic Play"
+      ja:
+        - "Bigger Bass Bonanza スロット"
+        - "Bigger Bass Bonanza ゲームの仕組み"
+        - "Bigger Bass Bonanza RTP"
+        - "Bigger Bass Bonanza ボラティリティ"
+        - "Pragmatic Play スロット"
+        - "Bigger Bass Bonanza ゲーム分析"
     image: /images/slots/bigger-bass-bonanza-cover.webp
     label:
       de: "Angeln · Fischsymbole · Freispiele"
@@ -39,12 +84,12 @@ games:
       pt: Pesca · Rodadas grátis
       ja: 釣りテーマ · フリースピン
     description:
-      de: "Ein Angel-Slot mit Fischsymbolen, einer Freispielrunde und einer Sammelmechanik mit Multiplikatoren."
-      en: A fishing theme with fish symbols, a free-spins round and a bonus feature with multipliers.
-      pl: Motyw wędkarski, symbole ryb, runda darmowych spinów i funkcja bonusowa z mnożnikami.
-      es: Una temática de pesca con símbolos de peces, una ronda de giros gratis y una función de bonificación con multiplicadores.
-      pt: Um tema de pesca com símbolos de peixes, uma ronda de rodadas grátis e uma funcionalidade de bónus com multiplicadores.
-      ja: 魚のシンボル、フリースピン、倍率機能を備えた釣りテーマのスロットです。
+      de: "In den Freispielen gehen Fisherman Wilds auf Fang: Sie sammeln die Werte sichtbarer Geldsymbole. Weitere Wilds können zusätzliche Spins auslösen und den Multiplikator erhöhen."
+      en: "During free spins, Fisherman Wilds collect the values shown on money symbols. More of these Wilds can add spins and raise the multiplier."
+      pl: "Podczas darmowych spinów Fisherman Wild zbiera wartości widocznych symboli pieniężnych. Kolejne Wildy mogą dodać spiny i podnieść mnożnik."
+      es: "En los giros gratis, Fisherman Wild recoge los valores de los símbolos de dinero visibles. Si aparecen más Wild, pueden sumarse giros y aumentar el multiplicador."
+      pt: "Nas rodadas grátis, Fisherman Wild recolhe os valores dos símbolos de dinheiro visíveis. A presença de mais Wilds pode acrescentar jogadas e aumentar o multiplicador."
+      ja: "フリースピンではFisherman Wildが画面上のマネーシンボルの値を集めます。Wildがさらに出現すると、スピン数や倍率が増えることがあります。"
     alt:
       de: Bigger Bass Bonanza Spielgrafik mit Angler, goldenem Fisch und tropischem Hintergrund
       en: Bigger Bass Bonanza game artwork showing a fisherman, a golden fish and a tropical background
@@ -55,6 +100,51 @@ games:
   - name: Bonanza
     provider: Big Time Gaming
     anchor: bonanza
+    author: jon-pill
+    author_name: "Jon Pill"
+    keywords:
+      de:
+        - "Bonanza Slot"
+        - "Bonanza Spielmechanik"
+        - "Bonanza RTP"
+        - "Bonanza Volatilität"
+        - "Big Time Gaming Slots"
+        - "Bonanza Spielanalyse"
+      en:
+        - "Bonanza slot"
+        - "Bonanza game mechanics"
+        - "Bonanza RTP"
+        - "Bonanza volatility"
+        - "Big Time Gaming slots"
+        - "Bonanza slot review"
+      pl:
+        - "automat Bonanza"
+        - "slot Bonanza"
+        - "Bonanza mechanika gry"
+        - "Bonanza RTP"
+        - "Bonanza zmienność"
+        - "automaty Big Time Gaming"
+      es:
+        - "tragamonedas Bonanza"
+        - "slot Bonanza"
+        - "mecánicas de Bonanza"
+        - "RTP de Bonanza"
+        - "volatilidad de Bonanza"
+        - "tragamonedas Big Time Gaming"
+      pt:
+        - "slot Bonanza"
+        - "jogo Bonanza"
+        - "mecânicas de Bonanza"
+        - "RTP de Bonanza"
+        - "volatilidade de Bonanza"
+        - "slots Big Time Gaming"
+      ja:
+        - "Bonanza スロット"
+        - "Bonanza ゲームの仕組み"
+        - "Bonanza RTP"
+        - "Bonanza ボラティリティ"
+        - "Big Time Gaming スロット"
+        - "Bonanza ゲーム分析"
     image: /images/slots/bonanza-cover.webp
     label:
       de: "Megaways · Kaskaden · Freispiele"
@@ -64,12 +154,12 @@ games:
       pt: Megaways · Cascatas
       ja: Megaways · カスケード
     description:
-      de: "Ein Megaways-Slot mit wechselnder Walzenhöhe, Kaskaden und einer eigenen Freispiele-Funktion."
-      en: A gold-mining theme with changing reel layouts and cascading symbols.
-      pl: Motyw poszukiwania złota ze zmiennym układem bębnów i kaskadowymi symbolami.
-      es: Una temática minera con configuraciones variables de carretes y símbolos en cascada.
-      pt: Um tema de exploração mineira com configurações variáveis dos rolos e símbolos em cascata.
-      ja: 金鉱をテーマに、リール構成が変化し、シンボルが連続して落下するスロットです。
+      de: "Bonanza nutzt variable Megaways-Walzen und Dual Reactions: Gewinnsymbole kaskadieren in zwei Richtungen. Vier Scatter starten Freispiele; möglich sind bis zu 117.649 Gewinnwege."
+      en: "Bonanza pairs variable Megaways reels with Dual Reactions, sending winning symbols cascading in two directions. Four Scatters start free spins; the game offers up to 117,649 ways."
+      pl: "Megaways zmienia układ bębnów, a Dual Reactions uruchamia kaskady w dwóch kierunkach. Cztery Scatter aktywują darmowe spiny; dostępnych jest do 117 649 sposobów wygrywania."
+      es: "Bonanza une rodillos Megaways variables y Dual Reactions, con cascadas en dos direcciones. Cuatro Scatter activan los giros gratis y hay hasta 117.649 formas de ganar."
+      pt: "Bonanza junta rolos Megaways variáveis e Dual Reactions, que cria cascatas em duas direções. Quatro símbolos Scatter ativam as rodadas grátis; existem até 117.649 formas de ganhar."
+      ja: "Bonanzaは可変リールのMegaways方式を採用。Dual Reactionsでシンボルが2方向にカスケードし、4個のScatterでフリースピンが始まります。最大117,649通りの配当方法があります。"
     alt:
       de: Bonanza Spielgrafik mit rotem Edelstein und goldener Schrift auf einem hölzernen Schild
       en: Bonanza game artwork with a red gemstone and gold lettering on a wooden sign
@@ -80,6 +170,51 @@ games:
   - name: Book of Dead
     provider: Play'n GO
     anchor: book-of-dead
+    author: corey-levitan
+    author_name: "Corey Levitan"
+    keywords:
+      de:
+        - "Book of Dead Slot"
+        - "Book of Dead Spielmechanik"
+        - "Book of Dead RTP"
+        - "Book of Dead Volatilität"
+        - "Play'n GO Slots"
+        - "Book of Dead Spielanalyse"
+      en:
+        - "Book of Dead slot"
+        - "Book of Dead game mechanics"
+        - "Book of Dead RTP"
+        - "Book of Dead volatility"
+        - "Play'n GO slots"
+        - "Book of Dead slot review"
+      pl:
+        - "automat Book of Dead"
+        - "slot Book of Dead"
+        - "Book of Dead mechanika gry"
+        - "Book of Dead RTP"
+        - "Book of Dead zmienność"
+        - "automaty Play'n GO"
+      es:
+        - "tragamonedas Book of Dead"
+        - "slot Book of Dead"
+        - "mecánicas de Book of Dead"
+        - "RTP de Book of Dead"
+        - "volatilidad de Book of Dead"
+        - "tragamonedas Play'n GO"
+      pt:
+        - "slot Book of Dead"
+        - "jogo Book of Dead"
+        - "mecânicas de Book of Dead"
+        - "RTP de Book of Dead"
+        - "volatilidade de Book of Dead"
+        - "slots Play'n GO"
+      ja:
+        - "Book of Dead スロット"
+        - "Book of Dead ゲームの仕組み"
+        - "Book of Dead RTP"
+        - "Book of Dead ボラティリティ"
+        - "Play'n GO スロット"
+        - "Book of Dead ゲーム分析"
     image: /images/slots/book-of-dead-cover.webp
     label:
       de: "Altes Ägypten · Expandierendes Symbol"
@@ -89,12 +224,12 @@ games:
       pt: Antigo Egito · Rodadas grátis
       ja: 古代エジプト · フリースピン
     description:
-      de: "Ein Ägypten-Abenteuer mit Scatter-Symbolen, Freispielen und einem expandierenden Symbol in der Bonusrunde."
-      en: An ancient-Egypt adventure with scatter symbols, free spins and expanding symbols.
-      pl: Przygoda w scenerii starożytnego Egiptu z symbolami Scatter, darmowymi spinami i rozszerzającymi się symbolami.
-      es: Una aventura ambientada en el antiguo Egipto con símbolos scatter, giros gratis y símbolos expansivos.
-      pt: Uma aventura no antigo Egito com símbolos scatter, rodadas grátis e símbolos expansíveis.
-      ja: 古代エジプトを舞台に、Scatterシンボル、フリースピン、拡張シンボルが登場する冒険テーマです。
+      de: "Rich Wilde führt durch das alte Ägypten: Scatter öffnen die Freispiele, bevor ein Symbol für die Bonusrunde ausgewählt wird. Es kann sich über die Walzen ausdehnen."
+      en: "Rich Wilde’s Egyptian quest leads to free spins when Scatter symbols land. Before the bonus begins, one symbol is selected and can expand across the reels during the feature."
+      pl: "Wyprawa Rich Wilde’a prowadzi do starożytnego Egiptu. Scatter uruchamia darmowe spiny, a wybrany symbol może rozszerzyć się na bębnach podczas rundy bonusowej."
+      es: "La expedición de Rich Wilde recorre el antiguo Egipto. Los Scatter activan giros gratis y, antes de la bonificación, se elige un símbolo que puede expandirse por los rodillos."
+      pt: "A aventura de Rich Wilde passa pelo antigo Egito. Os símbolos Scatter ativam as rodadas grátis e, antes do bónus, é escolhido um símbolo que pode expandir-se pelos rolos."
+      ja: "Rich Wildeの冒険の舞台は古代エジプト。Scatterでフリースピンが始まり、ボーナス前に選ばれたシンボルがリール上に拡張することがあります。"
     alt:
       de: Book of Dead Spielgrafik mit Abenteurer und magischem Buch vor ägyptischer Tempelkulisse
       en: Book of Dead game artwork showing an explorer and a mysterious book in an ancient Egyptian setting
@@ -105,6 +240,51 @@ games:
   - name: "Dragon's Luck"
     provider: Red Tiger
     anchor: dragons-luck
+    author: corey-levitan
+    author_name: "Corey Levitan"
+    keywords:
+      de:
+        - "Dragon's Luck Slot"
+        - "Dragon's Luck Spielmechanik"
+        - "Dragon's Luck RTP"
+        - "Dragon's Luck Volatilität"
+        - "Red Tiger Slots"
+        - "Dragon's Luck Spielanalyse"
+      en:
+        - "Dragon's Luck slot"
+        - "Dragon's Luck game mechanics"
+        - "Dragon's Luck RTP"
+        - "Dragon's Luck volatility"
+        - "Red Tiger slots"
+        - "Dragon's Luck slot review"
+      pl:
+        - "automat Dragon's Luck"
+        - "slot Dragon's Luck"
+        - "Dragon's Luck mechanika gry"
+        - "Dragon's Luck RTP"
+        - "Dragon's Luck zmienność"
+        - "automaty Red Tiger"
+      es:
+        - "tragamonedas Dragon's Luck"
+        - "slot Dragon's Luck"
+        - "mecánicas de Dragon's Luck"
+        - "RTP de Dragon's Luck"
+        - "volatilidad de Dragon's Luck"
+        - "tragamonedas Red Tiger"
+      pt:
+        - "slot Dragon's Luck"
+        - "jogo Dragon's Luck"
+        - "mecânicas de Dragon's Luck"
+        - "RTP de Dragon's Luck"
+        - "volatilidade de Dragon's Luck"
+        - "slots Red Tiger"
+      ja:
+        - "Dragon's Luck スロット"
+        - "Dragon's Luck ゲームの仕組み"
+        - "Dragon's Luck RTP"
+        - "Dragon's Luck ボラティリティ"
+        - "Red Tiger スロット"
+        - "Dragon's Luck ゲーム分析"
     image: /images/slots/dragons-luck-cover.webp
     label:
       de: "Drache · Münzfunktionen"
@@ -114,12 +294,12 @@ games:
       pt: Dragão · Funcionalidades de moedas
       ja: ドラゴン · コイン機能
     description:
-      de: "Ein Drachenthema mit den Sonderfunktionen Dragon Coin, Dragon’s Help und Mega Coin."
-      en: An East Asian dragon theme with Dragon Coin and Mega Coin features.
-      pl: Motyw smoka inspirowany Azją Wschodnią z funkcjami Dragon Coin i Mega Coin.
-      es: Una temática de dragones de Asia oriental con funciones Dragon Coin y Mega Coin.
-      pt: Um tema de dragões do Leste Asiático com funcionalidades Dragon Coin e Mega Coin.
-      ja: 東アジアの龍をテーマに、Dragon CoinとMega Coinの機能が登場します。
+      de: "Dragon Coin, Dragon’s Help und Mega Coin prägen die Münzfunktionen von Dragon's Luck. Welche Symbole sie auslösen und wie sie den Spielablauf verändern, erklärt die Hilfe im Spiel."
+      en: "Dragon Coin, Dragon’s Help and Mega Coin are the defining coin features in Dragon’s Luck. The in-game guide outlines their triggers and how each one affects a round."
+      pl: "Dragon Coin, Dragon’s Help i Mega Coin to główne funkcje monet w Dragon’s Luck. Pomoc w grze opisuje warunki ich aktywacji i wpływ na przebieg rundy."
+      es: "Dragon Coin, Dragon’s Help y Mega Coin distinguen las funciones de monedas de Dragon’s Luck. La ayuda del juego explica cómo se activan y qué cambia durante la ronda."
+      pt: "Dragon Coin, Dragon’s Help e Mega Coin são as principais funções de moedas de Dragon’s Luck. A ajuda do jogo explica como são ativadas e o que muda em cada ronda."
+      ja: "Dragon's LuckではDragon Coin、Dragon’s Help、Mega Coinの3つのコイン機能が登場。発動条件やラウンドへの影響はゲーム内ヘルプで確認できます。"
     alt:
       de: Dragon's Luck Spielgrafik mit goldenem Drachenkopf auf einem roten Hintergrund
       en: Dragon's Luck game artwork featuring a golden dragon head on a red background
@@ -130,6 +310,51 @@ games:
   - name: Fruit Party
     provider: Pragmatic Play
     anchor: fruit-party
+    author: cristina-tudose
+    author_name: "Cristina Tudose"
+    keywords:
+      de:
+        - "Fruit Party Slot"
+        - "Fruit Party Spielmechanik"
+        - "Fruit Party RTP"
+        - "Fruit Party Volatilität"
+        - "Pragmatic Play Slots"
+        - "Fruit Party Spielanalyse"
+      en:
+        - "Fruit Party slot"
+        - "Fruit Party game mechanics"
+        - "Fruit Party RTP"
+        - "Fruit Party volatility"
+        - "Pragmatic Play slots"
+        - "Fruit Party slot review"
+      pl:
+        - "automat Fruit Party"
+        - "slot Fruit Party"
+        - "Fruit Party mechanika gry"
+        - "Fruit Party RTP"
+        - "Fruit Party zmienność"
+        - "automaty Pragmatic Play"
+      es:
+        - "tragamonedas Fruit Party"
+        - "slot Fruit Party"
+        - "mecánicas de Fruit Party"
+        - "RTP de Fruit Party"
+        - "volatilidad de Fruit Party"
+        - "tragamonedas Pragmatic Play"
+      pt:
+        - "slot Fruit Party"
+        - "jogo Fruit Party"
+        - "mecânicas de Fruit Party"
+        - "RTP de Fruit Party"
+        - "volatilidade de Fruit Party"
+        - "slots Pragmatic Play"
+      ja:
+        - "Fruit Party スロット"
+        - "Fruit Party ゲームの仕組み"
+        - "Fruit Party RTP"
+        - "Fruit Party ボラティリティ"
+        - "Pragmatic Play スロット"
+        - "Fruit Party ゲーム分析"
     image: /images/slots/fruit-party-cover.webp
     label:
       de: "7×7-Cluster · Kaskaden · Multiplikatoren"
@@ -139,12 +364,12 @@ games:
       pt: Fruta · Multiplicadores
       ja: フルーツ · 倍率
     description:
-      de: "Ein 7×7-Cluster-Slot mit Kaskaden, Symbolmultiplikatoren und einer Freispiele-Funktion."
-      en: A colourful 7×7 cluster game with symbol multipliers and a free-spins round.
-      pl: Kolorowa gra klastrowa 7×7 z mnożnikami symboli i rundą darmowych spinów.
-      es: Un colorido juego de clústeres de 7×7 con multiplicadores en los símbolos y una ronda de giros gratis.
-      pt: Um jogo de clusters 7×7 colorido, com multiplicadores nos símbolos e uma ronda de rodadas grátis.
-      ja: 7×7のカラフルなクラスターゲームで、シンボル倍率とフリースピン機能を備えています。
+      de: "Fruit Party zahlt Cluster auf einem 7×7-Raster statt Gewinnlinien. Treffer lösen Kaskaden aus; Golden Fruit Scatter starten Freispiele mit Multiplikatoren auf Gewinnblöcken."
+      en: "Fruit Party pays by clusters on a 7×7 grid, not traditional paylines. Winning symbols tumble away; Golden Fruit Scatters start free spins with more chances for multipliers."
+      pl: "Fruit Party rozlicza grupy symboli na siatce 7×7 zamiast klasycznych linii. Wygrywające symbole znikają w kaskadach, a Golden Fruit Scatter uruchamia darmowe spiny z mnożnikami."
+      es: "Fruit Party paga por grupos en una cuadrícula 7×7, no por líneas tradicionales. Las cascadas eliminan los aciertos; Golden Fruit Scatter activa giros gratis con multiplicadores."
+      pt: "Fruit Party paga por grupos de símbolos numa grelha 7×7, sem linhas tradicionais. As vitórias dão lugar a cascatas e Golden Fruit Scatter ativa rodadas grátis com multiplicadores."
+      ja: "Fruit Partyは7×7のクラスター配当型。勝利シンボルがカスケードで消え、Golden Fruit Scatterがフリースピンを開始し、倍率が当たりブロックを強化することがあります。"
     alt:
       de: Fruit Party Spielgrafik mit bunten Früchten und dem mehrfarbigen Spieletitel
       en: Fruit Party game artwork with colourful fruit and the multicoloured game title
@@ -154,6 +379,51 @@ games:
       ja: カラフルなフルーツと多色のタイトルを描いたFruit Partyのゲームアート
   - name: "Starburst"
     anchor: starburst
+    author: arthur-mustoe
+    author_name: "Arthur Mustoe"
+    keywords:
+      de:
+        - "Starburst Slot"
+        - "Starburst Spielmechanik"
+        - "Starburst RTP"
+        - "Starburst Volatilität"
+        - "NetEnt Slots"
+        - "Starburst Spielanalyse"
+      en:
+        - "Starburst slot"
+        - "Starburst game mechanics"
+        - "Starburst RTP"
+        - "Starburst volatility"
+        - "NetEnt slots"
+        - "Starburst slot review"
+      pl:
+        - "automat Starburst"
+        - "slot Starburst"
+        - "Starburst mechanika gry"
+        - "Starburst RTP"
+        - "Starburst zmienność"
+        - "automaty NetEnt"
+      es:
+        - "tragamonedas Starburst"
+        - "slot Starburst"
+        - "mecánicas de Starburst"
+        - "RTP de Starburst"
+        - "volatilidad de Starburst"
+        - "tragamonedas NetEnt"
+      pt:
+        - "slot Starburst"
+        - "jogo Starburst"
+        - "mecânicas de Starburst"
+        - "RTP de Starburst"
+        - "volatilidade de Starburst"
+        - "slots NetEnt"
+      ja:
+        - "Starburst スロット"
+        - "Starburst ゲームの仕組み"
+        - "Starburst RTP"
+        - "Starburst ボラティリティ"
+        - "NetEnt スロット"
+        - "Starburst ゲーム分析"
     image: /images/slots/catalog-starburst.webp
     provider: "NetEnt"
     label:
@@ -164,12 +434,12 @@ games:
       pt: "o espaço e as gemas coloridas"
       ja: "宇宙と色鮮やかな宝石"
     description:
-      de: "Ein Edelstein-Slot mit expandierenden Wild-Symbolen und Respins."
-      en: "A slot built around space and colourful gemstones, featuring expanding Wilds and respins."
-      pl: "Slot inspirowany motywem kosmos i kolorowe klejnoty, z funkcją: rozszerzające się symbole Wild i respiny."
-      es: "Una tragamonedas ambientada en el espacio y las gemas de colores, con símbolos Wild expansivos y respins."
-      pt: "Um slot inspirado em o espaço e as gemas coloridas, com símbolos Wild expansivos e respins."
-      ja: "宇宙と色鮮やかな宝石をテーマに、拡張Wildシンボルとリスピンを備えたスロットです。"
+      de: "Starburst setzt auf leuchtende Edelsteine und eine klare Wild-Mechanik: Trifft ein Wild die mittleren Walzen, kann es sich ausdehnen und Respins auslösen."
+      en: "Starburst pairs a space-and-gem theme with a simple hook: a Wild on the central reels can expand to cover a reel and trigger respins."
+      pl: "Starburst łączy kosmiczną oprawę z kolorowymi klejnotami. Wild na środkowych bębnach może się rozszerzyć i uruchomić respiny."
+      es: "Starburst combina un universo de gemas con una mecánica reconocible: un Wild en los rodillos centrales puede expandirse y activar respins."
+      pt: "Starburst combina um cenário espacial com pedras preciosas. Um Wild nos rolos centrais pode expandir-se e ativar respins."
+      ja: "宝石と宇宙をテーマにしたStarburstでは、中央リールのWildが拡張してリスピンを発生させることがあります。"
     alt:
       de: "Starburst Spielgrafik mit Weltraum und bunte Edelsteine."
       en: "Starburst slot game artwork showing space and colourful gemstones."
@@ -179,6 +449,51 @@ games:
       ja: "Starburstのゲームアート。宇宙と色鮮やかな宝石を描いています。"
   - name: "The Dog House"
     anchor: the-dog-house
+    author: corey-levitan
+    author_name: "Corey Levitan"
+    keywords:
+      de:
+        - "The Dog House Slot"
+        - "The Dog House Spielmechanik"
+        - "The Dog House RTP"
+        - "The Dog House Volatilität"
+        - "Pragmatic Play Slots"
+        - "The Dog House Spielanalyse"
+      en:
+        - "The Dog House slot"
+        - "The Dog House game mechanics"
+        - "The Dog House RTP"
+        - "The Dog House volatility"
+        - "Pragmatic Play slots"
+        - "The Dog House slot review"
+      pl:
+        - "automat The Dog House"
+        - "slot The Dog House"
+        - "The Dog House mechanika gry"
+        - "The Dog House RTP"
+        - "The Dog House zmienność"
+        - "automaty Pragmatic Play"
+      es:
+        - "tragamonedas The Dog House"
+        - "slot The Dog House"
+        - "mecánicas de The Dog House"
+        - "RTP de The Dog House"
+        - "volatilidad de The Dog House"
+        - "tragamonedas Pragmatic Play"
+      pt:
+        - "slot The Dog House"
+        - "jogo The Dog House"
+        - "mecânicas de The Dog House"
+        - "RTP de The Dog House"
+        - "volatilidade de The Dog House"
+        - "slots Pragmatic Play"
+      ja:
+        - "The Dog House スロット"
+        - "The Dog House ゲームの仕組み"
+        - "The Dog House RTP"
+        - "The Dog House ボラティリティ"
+        - "Pragmatic Play スロット"
+        - "The Dog House ゲーム分析"
     image: /images/slots/catalog-the-dog-house.webp
     provider: "Pragmatic Play"
     label:
@@ -189,12 +504,12 @@ games:
       pt: "cães e uma casota divertida"
       ja: "犬たちとカラフルな犬小屋"
     description:
-      de: "Ein Hundethema mit Sticky Wilds und einer Freispiele-Bonusrunde."
-      en: "A slot built around dogs and a playful doghouse, featuring Sticky Wilds and free spins."
-      pl: "Slot inspirowany motywem psy i wesołą budę dla psów, z funkcją: Sticky Wild i darmowe spiny."
-      es: "Una tragamonedas ambientada en perros y una caseta de colores, con Sticky Wilds y giros gratis."
-      pt: "Um slot inspirado em cães e uma casota divertida, com Sticky Wilds e rodadas grátis."
-      ja: "犬たちとカラフルな犬小屋をテーマに、Sticky Wildとフリースピンを備えたスロットです。"
+      de: "Im Mittelpunkt von The Dog House stehen Sticky Wilds: Während der Freispiele bleiben sie auf ihren Walzenpositionen haften. Das Hundethema gibt dem Slot seinen Namen und Look."
+      en: "The Dog House builds its free-spins feature around Sticky Wilds: once they land, they stay in position for the round. Dogs and kennels set the playful scene."
+      pl: "W The Dog House najważniejsze są Sticky Wilds: podczas darmowych spinów pozostają na swoich pozycjach. Motyw psów i bud nadaje grze jej charakter."
+      es: "The Dog House centra su bonificación en los Sticky Wilds, que permanecen en su posición durante los giros gratis. Los perros y sus casetas definen la temática."
+      pt: "The Dog House destaca os Sticky Wilds: durante as rodadas grátis, estes símbolos ficam nas mesmas posições. Os cães e as casotas dão personalidade ao tema."
+      ja: "The Dog HouseのフリースピンではSticky Wildが同じ位置に残ります。犬や犬小屋をモチーフにしたデザインと、この固定Wildがゲームの特徴です。"
     alt:
       de: "The Dog House Spielgrafik mit Hunde und ein gemütliches Hundehäuschen."
       en: "The Dog House slot game artwork showing dogs and a playful doghouse."
@@ -204,6 +519,51 @@ games:
       ja: "The Dog Houseのゲームアート。犬たちとカラフルな犬小屋を描いています。"
   - name: "Legacy of Dead"
     anchor: legacy-of-dead
+    author: dominic-field
+    author_name: "Dominic Field"
+    keywords:
+      de:
+        - "Legacy of Dead Slot"
+        - "Legacy of Dead Spielmechanik"
+        - "Legacy of Dead RTP"
+        - "Legacy of Dead Volatilität"
+        - "Play'n GO Slots"
+        - "Legacy of Dead Spielanalyse"
+      en:
+        - "Legacy of Dead slot"
+        - "Legacy of Dead game mechanics"
+        - "Legacy of Dead RTP"
+        - "Legacy of Dead volatility"
+        - "Play'n GO slots"
+        - "Legacy of Dead slot review"
+      pl:
+        - "automat Legacy of Dead"
+        - "slot Legacy of Dead"
+        - "Legacy of Dead mechanika gry"
+        - "Legacy of Dead RTP"
+        - "Legacy of Dead zmienność"
+        - "automaty Play'n GO"
+      es:
+        - "tragamonedas Legacy of Dead"
+        - "slot Legacy of Dead"
+        - "mecánicas de Legacy of Dead"
+        - "RTP de Legacy of Dead"
+        - "volatilidad de Legacy of Dead"
+        - "tragamonedas Play'n GO"
+      pt:
+        - "slot Legacy of Dead"
+        - "jogo Legacy of Dead"
+        - "mecânicas de Legacy of Dead"
+        - "RTP de Legacy of Dead"
+        - "volatilidade de Legacy of Dead"
+        - "slots Play'n GO"
+      ja:
+        - "Legacy of Dead スロット"
+        - "Legacy of Dead ゲームの仕組み"
+        - "Legacy of Dead RTP"
+        - "Legacy of Dead ボラティリティ"
+        - "Play'n GO スロット"
+        - "Legacy of Dead ゲーム分析"
     image: /images/slots/catalog-legacy-of-dead.webp
     provider: "Play'n GO"
     label:
@@ -214,12 +574,12 @@ games:
       pt: "templos do antigo Egito e escaravelhos dourados"
       ja: "古代エジプトの神殿と黄金のスカラベ"
     description:
-      de: "Ein Ägypten-Slot mit Freispielen und expandierenden Symbolen."
-      en: "A slot built around ancient Egyptian temples and golden scarabs, featuring free spins and expanding symbols."
-      pl: "Slot inspirowany motywem starożytne egipskie świątynie i złote skarabeusze, z funkcją: darmowe spiny i rozszerzające się symbole."
-      es: "Una tragamonedas ambientada en templos del antiguo Egipto y escarabajos dorados, con giros gratis y símbolos expansivos."
-      pt: "Um slot inspirado em templos do antigo Egito e escaravelhos dourados, com rodadas grátis e símbolos expansíveis."
-      ja: "古代エジプトの神殿と黄金のスカラベをテーマに、フリースピンと拡張シンボルを備えたスロットです。"
+      de: "Scatter öffnen die Freispiele von Legacy of Dead. In der Bonusrunde wird ein Symbol ausgewählt, das sich ausdehnen und mehrere Positionen auf den Walzen abdecken kann."
+      en: "Scatter symbols open Legacy of Dead’s free spins. During the bonus, one selected symbol can expand across several reel positions."
+      pl: "Symbole Scatter uruchamiają darmowe spiny w Legacy of Dead. W rundzie bonusowej wybrany symbol może rozszerzyć się na kilka pozycji bębnów."
+      es: "Los símbolos Scatter activan los giros gratis de Legacy of Dead. En la bonificación se elige un símbolo que puede expandirse por varias posiciones de los rodillos."
+      pt: "Os símbolos Scatter iniciam as rodadas grátis de Legacy of Dead. No bónus, um símbolo escolhido pode expandir-se por várias posições dos rolos."
+      ja: "ScatterでLegacy of Deadのフリースピンが始まります。ボーナス中に選ばれたシンボルは、複数のリール位置へ拡張することがあります。"
     alt:
       de: "Legacy of Dead Spielgrafik mit altägyptische Tempel und goldene Skarabäen."
       en: "Legacy of Dead slot game artwork showing ancient Egyptian temples and golden scarabs."
@@ -229,6 +589,51 @@ games:
       ja: "Legacy of Deadのゲームアート。古代エジプトの神殿と黄金のスカラベを描いています。"
   - name: "Reactoonz"
     anchor: reactoonz
+    author: marco-ibarra
+    author_name: "Marco Ibarra"
+    keywords:
+      de:
+        - "Reactoonz Slot"
+        - "Reactoonz Spielmechanik"
+        - "Reactoonz RTP"
+        - "Reactoonz Volatilität"
+        - "Play'n GO Slots"
+        - "Reactoonz Spielanalyse"
+      en:
+        - "Reactoonz slot"
+        - "Reactoonz game mechanics"
+        - "Reactoonz RTP"
+        - "Reactoonz volatility"
+        - "Play'n GO slots"
+        - "Reactoonz slot review"
+      pl:
+        - "automat Reactoonz"
+        - "slot Reactoonz"
+        - "Reactoonz mechanika gry"
+        - "Reactoonz RTP"
+        - "Reactoonz zmienność"
+        - "automaty Play'n GO"
+      es:
+        - "tragamonedas Reactoonz"
+        - "slot Reactoonz"
+        - "mecánicas de Reactoonz"
+        - "RTP de Reactoonz"
+        - "volatilidad de Reactoonz"
+        - "tragamonedas Play'n GO"
+      pt:
+        - "slot Reactoonz"
+        - "jogo Reactoonz"
+        - "mecânicas de Reactoonz"
+        - "RTP de Reactoonz"
+        - "volatilidade de Reactoonz"
+        - "slots Play'n GO"
+      ja:
+        - "Reactoonz スロット"
+        - "Reactoonz ゲームの仕組み"
+        - "Reactoonz RTP"
+        - "Reactoonz ボラティリティ"
+        - "Play'n GO スロット"
+        - "Reactoonz ゲーム分析"
     image: /images/slots/catalog-reactoonz.webp
     provider: "Play'n GO"
     label:
@@ -239,12 +644,12 @@ games:
       pt: "alienígenas coloridos num cenário espacial"
       ja: "宇宙を舞台にしたカラフルなエイリアン"
     description:
-      de: "Ein Cluster-Slot mit außerirdischen Figuren und der Quantum-Leap-Funktion."
-      en: "A slot built around colourful aliens in a space setting, featuring cluster wins and the Quantum Leap feature."
-      pl: "Slot inspirowany motywem kolorowi kosmici w kosmicznej scenerii, z funkcją: wygrane klastrowe i funkcję Quantum Leap."
-      es: "Una tragamonedas ambientada en alienígenas de colores en un entorno espacial, con premios por grupos y la función Quantum Leap."
-      pt: "Um slot inspirado em alienígenas coloridos num cenário espacial, com prémios por grupos e a funcionalidade Quantum Leap."
-      ja: "宇宙を舞台にしたカラフルなエイリアンをテーマに、クラスター配当とQuantum Leap機能を備えたスロットです。"
+      de: "Auf dem 7×7-Raster bilden gleiche Symbole Cluster. Treffer laden Gargantoon auf; ist die Anzeige voll, startet Quantum Leap eine Abfolge zusätzlicher Funktionen."
+      en: "Matching symbols form clusters on Reactoonz’s 7×7 grid. Wins charge Gargantoon; when it is full, Quantum Leap sets off a sequence of extra features."
+      pl: "Na planszy 7×7 takie same symbole tworzą klastry. Wygrane ładują Gargantoon, a po zapełnieniu wskaźnika Quantum Leap uruchamia serię dodatkowych funkcji."
+      es: "En la cuadrícula 7×7, los símbolos iguales forman grupos. Los aciertos cargan Gargantoon y, al completarse, Quantum Leap activa una secuencia de funciones especiales."
+      pt: "Na grelha 7×7, símbolos iguais formam grupos. As vitórias carregam Gargantoon; quando fica cheio, Quantum Leap desencadeia uma sequência de funcionalidades."
+      ja: "7×7の盤面で同じシンボルがクラスターを形成。配当でGargantoonがチャージされ、満タンになるとQuantum Leapが特殊機能を連続して発動します。"
     alt:
       de: "Reactoonz Spielgrafik mit bunte Außerirdische in einer Weltraumwelt."
       en: "Reactoonz slot game artwork showing colourful aliens in a space setting."
@@ -254,6 +659,51 @@ games:
       ja: "Reactoonzのゲームアート。宇宙を舞台にしたカラフルなエイリアンを描いています。"
   - name: "Wild West Gold"
     anchor: wild-west-gold
+    author: dominic-field
+    author_name: "Dominic Field"
+    keywords:
+      de:
+        - "Wild West Gold Slot"
+        - "Wild West Gold Spielmechanik"
+        - "Wild West Gold RTP"
+        - "Wild West Gold Volatilität"
+        - "Pragmatic Play Slots"
+        - "Wild West Gold Spielanalyse"
+      en:
+        - "Wild West Gold slot"
+        - "Wild West Gold game mechanics"
+        - "Wild West Gold RTP"
+        - "Wild West Gold volatility"
+        - "Pragmatic Play slots"
+        - "Wild West Gold slot review"
+      pl:
+        - "automat Wild West Gold"
+        - "slot Wild West Gold"
+        - "Wild West Gold mechanika gry"
+        - "Wild West Gold RTP"
+        - "Wild West Gold zmienność"
+        - "automaty Pragmatic Play"
+      es:
+        - "tragamonedas Wild West Gold"
+        - "slot Wild West Gold"
+        - "mecánicas de Wild West Gold"
+        - "RTP de Wild West Gold"
+        - "volatilidad de Wild West Gold"
+        - "tragamonedas Pragmatic Play"
+      pt:
+        - "slot Wild West Gold"
+        - "jogo Wild West Gold"
+        - "mecânicas de Wild West Gold"
+        - "RTP de Wild West Gold"
+        - "volatilidade de Wild West Gold"
+        - "slots Pragmatic Play"
+      ja:
+        - "Wild West Gold スロット"
+        - "Wild West Gold ゲームの仕組み"
+        - "Wild West Gold RTP"
+        - "Wild West Gold ボラティリティ"
+        - "Pragmatic Play スロット"
+        - "Wild West Gold ゲーム分析"
     image: /images/slots/catalog-wild-west-gold.webp
     provider: "Pragmatic Play"
     label:
@@ -264,12 +714,12 @@ games:
       pt: "cowboys e ouro do Oeste Selvagem"
       ja: "西部開拓時代のカウボーイと金"
     description:
-      de: "Ein Western-Slot mit Sticky Wilds, Multiplikatoren und Respins."
-      en: "A slot built around cowboys and gold in the Wild West, featuring Sticky Wilds and respins."
-      pl: "Slot inspirowany motywem kowboje i złoto Dzikiego Zachodu, z funkcją: Sticky Wild i respiny."
-      es: "Una tragamonedas ambientada en vaqueros y oro del Salvaje Oeste, con Sticky Wilds y respins."
-      pt: "Um slot inspirado em cowboys e ouro do Oeste Selvagem, com Sticky Wilds e respins."
-      ja: "西部開拓時代のカウボーイと金をテーマに、Sticky Wildとリスピンを備えたスロットです。"
+      de: "Wild West Gold verbindet das Western-Thema mit Sticky Wilds und Respins. Während der Funktion können Wild-Symbole auf den Walzen bleiben und spätere Kombinationen ergänzen."
+      en: "Wild West Gold brings Sticky Wilds and respins to its Western setting. Wild symbols can stay on the reels during the feature and contribute to later combinations."
+      pl: "Wild West Gold łączy westernową tematykę ze Sticky Wilds i respinami. Podczas funkcji symbole Wild mogą pozostać na bębnach i brać udział w kolejnych układach."
+      es: "Wild West Gold lleva Sticky Wilds y respins a un escenario del Oeste. Durante la función, los Wild pueden quedarse en los rodillos y participar en combinaciones posteriores."
+      pt: "Wild West Gold combina o tema do Oeste com Sticky Wilds e respins. Durante a funcionalidade, os Wilds podem ficar nos rolos e integrar combinações seguintes."
+      ja: "西部劇を舞台にSticky Wildとリスピンを搭載。機能中にWildがリール上に残り、その後の組み合わせに加わることがあります。"
     alt:
       de: "Wild West Gold Spielgrafik mit Cowboys und Gold im Wilden Westen."
       en: "Wild West Gold slot game artwork showing cowboys and gold in the Wild West."
@@ -279,6 +729,51 @@ games:
       ja: "Wild West Goldのゲームアート。西部開拓時代のカウボーイと金を描いています。"
   - name: "Starlight Princess"
     anchor: starlight-princess
+    author: cristina-tudose
+    author_name: "Cristina Tudose"
+    keywords:
+      de:
+        - "Starlight Princess Slot"
+        - "Starlight Princess Spielmechanik"
+        - "Starlight Princess RTP"
+        - "Starlight Princess Volatilität"
+        - "Pragmatic Play Slots"
+        - "Starlight Princess Spielanalyse"
+      en:
+        - "Starlight Princess slot"
+        - "Starlight Princess game mechanics"
+        - "Starlight Princess RTP"
+        - "Starlight Princess volatility"
+        - "Pragmatic Play slots"
+        - "Starlight Princess slot review"
+      pl:
+        - "automat Starlight Princess"
+        - "slot Starlight Princess"
+        - "Starlight Princess mechanika gry"
+        - "Starlight Princess RTP"
+        - "Starlight Princess zmienność"
+        - "automaty Pragmatic Play"
+      es:
+        - "tragamonedas Starlight Princess"
+        - "slot Starlight Princess"
+        - "mecánicas de Starlight Princess"
+        - "RTP de Starlight Princess"
+        - "volatilidad de Starlight Princess"
+        - "tragamonedas Pragmatic Play"
+      pt:
+        - "slot Starlight Princess"
+        - "jogo Starlight Princess"
+        - "mecânicas de Starlight Princess"
+        - "RTP de Starlight Princess"
+        - "volatilidade de Starlight Princess"
+        - "slots Pragmatic Play"
+      ja:
+        - "Starlight Princess スロット"
+        - "Starlight Princess ゲームの仕組み"
+        - "Starlight Princess RTP"
+        - "Starlight Princess ボラティリティ"
+        - "Pragmatic Play スロット"
+        - "Starlight Princess ゲーム分析"
     image: /images/slots/catalog-starlight-princess.webp
     provider: "Pragmatic Play"
     label:
@@ -289,12 +784,12 @@ games:
       pt: "uma princesa mágica num mundo de fantasia"
       ja: "幻想的な世界の魔法のプリンセス"
     description:
-      de: "Ein Fantasy-Slot mit Kaskaden und zufälligen Multiplikatoren."
-      en: "A slot built around a magical princess in a fantasy world, featuring tumble wins and multipliers."
-      pl: "Slot inspirowany motywem magiczna księżniczka w świecie fantasy, z funkcją: wygrane kaskadowe i mnożniki."
-      es: "Una tragamonedas ambientada en una princesa mágica en un mundo fantástico, con premios en cascada y multiplicadores."
-      pt: "Um slot inspirado em uma princesa mágica num mundo de fantasia, com prémios em cascata e multiplicadores."
-      ja: "幻想的な世界の魔法のプリンセスをテーマに、連続落下配当と倍率を備えたスロットです。"
+      de: "Starlight Princess zahlt gleiche Symbole überall auf dem Raster. Zufällige Multiplikatoren addieren sich; Freispiele bauen einen Gesamtmultiplikator auf."
+      en: "Starlight Princess pays for matching symbols anywhere on the grid. Random multipliers can add together, while free spins build a running total multiplier."
+      pl: "Starlight Princess wypłaca za takie same symbole w dowolnym miejscu planszy. Losowe mnożniki mogą się sumować, a darmowe spiny budują łączny mnożnik."
+      es: "Starlight Princess paga por símbolos iguales en cualquier lugar de la cuadrícula. Los multiplicadores aleatorios pueden sumarse y los giros gratis acumulan un total."
+      pt: "Starlight Princess paga por símbolos iguais em qualquer posição da grelha. Os multiplicadores aleatórios podem somar-se e as rodadas grátis acumulam um total."
+      ja: "Starlight Princessは盤面のどこでも同じシンボルがそろうと配当。ランダム倍率は加算され、フリースピン中は累積倍率として引き継がれます。"
     alt:
       de: "Starlight Princess Spielgrafik mit eine magische Prinzessin in einer Fantasiewelt."
       en: "Starlight Princess slot game artwork showing a magical princess in a fantasy world."
@@ -304,6 +799,51 @@ games:
       ja: "Starlight Princessのゲームアート。幻想的な世界の魔法のプリンセスを描いています。"
   - name: "Buffalo King Megaways"
     anchor: buffalo-king-megaways
+    author: dominic-field
+    author_name: "Dominic Field"
+    keywords:
+      de:
+        - "Buffalo King Megaways Slot"
+        - "Buffalo King Megaways Spielmechanik"
+        - "Buffalo King Megaways RTP"
+        - "Buffalo King Megaways Volatilität"
+        - "Pragmatic Play Slots"
+        - "Buffalo King Megaways Spielanalyse"
+      en:
+        - "Buffalo King Megaways slot"
+        - "Buffalo King Megaways game mechanics"
+        - "Buffalo King Megaways RTP"
+        - "Buffalo King Megaways volatility"
+        - "Pragmatic Play slots"
+        - "Buffalo King Megaways slot review"
+      pl:
+        - "automat Buffalo King Megaways"
+        - "slot Buffalo King Megaways"
+        - "Buffalo King Megaways mechanika gry"
+        - "Buffalo King Megaways RTP"
+        - "Buffalo King Megaways zmienność"
+        - "automaty Pragmatic Play"
+      es:
+        - "tragamonedas Buffalo King Megaways"
+        - "slot Buffalo King Megaways"
+        - "mecánicas de Buffalo King Megaways"
+        - "RTP de Buffalo King Megaways"
+        - "volatilidad de Buffalo King Megaways"
+        - "tragamonedas Pragmatic Play"
+      pt:
+        - "slot Buffalo King Megaways"
+        - "jogo Buffalo King Megaways"
+        - "mecânicas de Buffalo King Megaways"
+        - "RTP de Buffalo King Megaways"
+        - "volatilidade de Buffalo King Megaways"
+        - "slots Pragmatic Play"
+      ja:
+        - "Buffalo King Megaways スロット"
+        - "Buffalo King Megaways ゲームの仕組み"
+        - "Buffalo King Megaways RTP"
+        - "Buffalo King Megaways ボラティリティ"
+        - "Pragmatic Play スロット"
+        - "Buffalo King Megaways ゲーム分析"
     image: /images/slots/catalog-buffalo-king-megaways.webp
     provider: "Pragmatic Play"
     label:
@@ -314,12 +854,12 @@ games:
       pt: "búfalos e vida selvagem na pradaria norte-americana"
       ja: "北米の草原に暮らすバッファローと野生動物"
     description:
-      de: "Ein Tier-Slot mit variabler Megaways-Walzenhöhe und Kaskaden."
-      en: "A slot built around buffalo and wildlife across the North American prairie, featuring Megaways reels and cascades."
-      pl: "Slot inspirowany motywem bawoły i dzikie zwierzęta na północnoamerykańskiej prerii, z funkcją: bębny Megaways i kaskady."
-      es: "Una tragamonedas ambientada en búfalos y fauna salvaje en la pradera norteamericana, con rodillos Megaways y cascadas."
-      pt: "Um slot inspirado em búfalos e vida selvagem na pradaria norte-americana, com rolos Megaways e cascatas."
-      ja: "北米の草原に暮らすバッファローと野生動物をテーマに、Megawaysリールとカスケードを備えたスロットです。"
+      de: "Bei Buffalo King Megaways verändert die Symbolzahl pro Walze die Walzenhöhe und damit die Gewinnwege. Kaskaden lassen Treffer verschwinden und neue Symbole nachrücken."
+      en: "In Buffalo King Megaways, changing symbol counts alter reel heights and the available ways to win. Cascades remove winning symbols and let new ones drop into place."
+      pl: "W Buffalo King Megaways liczba symboli zmienia wysokość bębnów i liczbę sposobów wygrywania. Kaskady usuwają wygrywające symbole, a na ich miejsce spadają kolejne."
+      es: "En Buffalo King Megaways, la cantidad de símbolos cambia la altura de los rodillos y las formas de ganar. Las cascadas retiran los aciertos y dejan caer nuevos símbolos."
+      pt: "Em Buffalo King Megaways, a quantidade de símbolos altera a altura dos rolos e as formas de ganhar. As cascatas removem os símbolos vencedores e fazem cair outros."
+      ja: "Buffalo King Megawaysでは、リール上のシンボル数に応じて高さと配当方法の数が変化。カスケードで当たりシンボルが消え、新しいシンボルが落下します。"
     alt:
       de: "Buffalo King Megaways Spielgrafik mit Büffel und Wildtiere in der nordamerikanischen Prärie."
       en: "Buffalo King Megaways slot game artwork showing buffalo and wildlife across the North American prairie."
@@ -329,6 +869,51 @@ games:
       ja: "Buffalo King Megawaysのゲームアート。北米の草原に暮らすバッファローと野生動物を描いています。"
   - name: "Mega Fortune"
     anchor: mega-fortune
+    author: dan-michalski
+    author_name: "Dan Michalski"
+    keywords:
+      de:
+        - "Mega Fortune Slot"
+        - "Mega Fortune Spielmechanik"
+        - "Mega Fortune RTP"
+        - "Mega Fortune Volatilität"
+        - "NetEnt Slots"
+        - "Mega Fortune Spielanalyse"
+      en:
+        - "Mega Fortune slot"
+        - "Mega Fortune game mechanics"
+        - "Mega Fortune RTP"
+        - "Mega Fortune volatility"
+        - "NetEnt slots"
+        - "Mega Fortune slot review"
+      pl:
+        - "automat Mega Fortune"
+        - "slot Mega Fortune"
+        - "Mega Fortune mechanika gry"
+        - "Mega Fortune RTP"
+        - "Mega Fortune zmienność"
+        - "automaty NetEnt"
+      es:
+        - "tragamonedas Mega Fortune"
+        - "slot Mega Fortune"
+        - "mecánicas de Mega Fortune"
+        - "RTP de Mega Fortune"
+        - "volatilidad de Mega Fortune"
+        - "tragamonedas NetEnt"
+      pt:
+        - "slot Mega Fortune"
+        - "jogo Mega Fortune"
+        - "mecânicas de Mega Fortune"
+        - "RTP de Mega Fortune"
+        - "volatilidade de Mega Fortune"
+        - "slots NetEnt"
+      ja:
+        - "Mega Fortune スロット"
+        - "Mega Fortune ゲームの仕組み"
+        - "Mega Fortune RTP"
+        - "Mega Fortune ボラティリティ"
+        - "NetEnt スロット"
+        - "Mega Fortune ゲーム分析"
     image: /images/slots/catalog-mega-fortune.webp
     provider: NetEnt
     label:
@@ -339,12 +924,12 @@ games:
       pt: "Luxo · Jackpot"
       ja: "ラグジュアリー · ジャックポット"
     description:
-      de: "Ein Luxus-Thema mit Freispiele-Funktion und separatem progressivem Jackpot-System."
-      en: "A slot built around a luxury yacht and a glittering jackpot, featuring progressive jackpot tiers."
-      pl: "Slot inspirowany motywem luksusowy jacht i lśniący jackpot, z funkcją: progresywne poziomy jackpota."
-      es: "Una tragamonedas ambientada en un yate de lujo y un jackpot brillante, con niveles de jackpot progresivo."
-      pt: "Um slot inspirado em um iate de luxo e um jackpot reluzente, com níveis de jackpot progressivo."
-      ja: "豪華なヨットと輝くジャックポットをテーマに、段階式プログレッシブジャックポットを備えたスロットです。"
+      de: "Mega Fortune verbindet Yachten und Luxus mit Freispielen und progressiven Jackpots. Jede Jackpot-Stufe hat eigene Teilnahmebedingungen und Regeln."
+      en: "Mega Fortune pairs a yacht-and-luxury theme with free spins and progressive jackpots. Each jackpot tier has its own eligibility rules and is separate from regular symbol wins."
+      pl: "Mega Fortune łączy motyw luksusu i jachtów z darmowymi spinami oraz progresywnymi jackpotami. Każdy poziom ma własne warunki udziału i zasady przyznawania nagród."
+      es: "Mega Fortune combina yates y lujo con giros gratis y jackpots progresivos. Cada nivel tiene requisitos propios y se gestiona por separado de los premios normales."
+      pt: "Mega Fortune junta o tema de iates e luxo a rodadas grátis e jackpots progressivos. Cada nível tem regras próprias e funciona à parte dos prémios normais."
+      ja: "ヨットと豪華さをテーマに、フリースピンとプログレッシブジャックポットを搭載。各段階には独自の参加条件があり、通常配当とは別に扱われます。"
     alt:
       de: "Mega Fortune Spielgrafik mit eine luxuriöse Yacht und einen glitzernden Jackpot."
       en: "Mega Fortune slot game artwork showing a luxury yacht and a glittering jackpot."
@@ -354,6 +939,51 @@ games:
       ja: "Mega Fortuneのゲームアート。豪華なヨットと輝くジャックポットを描いています。"
   - name: "Dead or Alive 2"
     anchor: dead-or-alive-2
+    author: dan-michalski
+    author_name: "Dan Michalski"
+    keywords:
+      de:
+        - "Dead or Alive 2 Slot"
+        - "Dead or Alive 2 Spielmechanik"
+        - "Dead or Alive 2 RTP"
+        - "Dead or Alive 2 Volatilität"
+        - "NetEnt Slots"
+        - "Dead or Alive 2 Spielanalyse"
+      en:
+        - "Dead or Alive 2 slot"
+        - "Dead or Alive 2 game mechanics"
+        - "Dead or Alive 2 RTP"
+        - "Dead or Alive 2 volatility"
+        - "NetEnt slots"
+        - "Dead or Alive 2 slot review"
+      pl:
+        - "automat Dead or Alive 2"
+        - "slot Dead or Alive 2"
+        - "Dead or Alive 2 mechanika gry"
+        - "Dead or Alive 2 RTP"
+        - "Dead or Alive 2 zmienność"
+        - "automaty NetEnt"
+      es:
+        - "tragamonedas Dead or Alive 2"
+        - "slot Dead or Alive 2"
+        - "mecánicas de Dead or Alive 2"
+        - "RTP de Dead or Alive 2"
+        - "volatilidad de Dead or Alive 2"
+        - "tragamonedas NetEnt"
+      pt:
+        - "slot Dead or Alive 2"
+        - "jogo Dead or Alive 2"
+        - "mecânicas de Dead or Alive 2"
+        - "RTP de Dead or Alive 2"
+        - "volatilidade de Dead or Alive 2"
+        - "slots NetEnt"
+      ja:
+        - "Dead or Alive 2 スロット"
+        - "Dead or Alive 2 ゲームの仕組み"
+        - "Dead or Alive 2 RTP"
+        - "Dead or Alive 2 ボラティリティ"
+        - "NetEnt スロット"
+        - "Dead or Alive 2 ゲーム分析"
     image: /images/slots/catalog-dead-or-alive-2.webp
     provider: "NetEnt"
     label:
@@ -364,12 +994,12 @@ games:
       pt: "uma cidade poeirenta do Oeste e pistoleiros"
       ja: "西部の荒野の町とガンマン"
     description:
-      de: "Ein Western-Slot mit mehreren auswählbaren Freispiele-Modi."
-      en: "A slot built around a dusty Wild West town and gunslingers, featuring multiple free-spins modes."
-      pl: "Slot inspirowany motywem zakurzone miasteczko Dzikiego Zachodu i rewolwerowców, z funkcją: kilka trybów darmowych spinów."
-      es: "Una tragamonedas ambientada en un pueblo polvoriento del Oeste y pistoleros, con varios modos de giros gratis."
-      pt: "Um slot inspirado em uma cidade poeirenta do Oeste e pistoleiros, com vários modos de rodadas grátis."
-      ja: "西部の荒野の町とガンマンをテーマに、複数のフリースピンモードを備えたスロットです。"
+      de: "Dead or Alive 2 verlegt die Action in den Wilden Westen und bietet mehrere Freispiele-Modi zur Auswahl. Jeder Modus bringt eigene Modifikatoren und Bonusregeln mit."
+      en: "Dead or Alive 2 sets its action in the Wild West and offers several free-spins modes to choose from. Each mode comes with its own modifiers and bonus rules."
+      pl: "Dead or Alive 2 przenosi akcję na Dziki Zachód i oferuje kilka trybów darmowych spinów do wyboru. Każdy ma własne modyfikatory i zasady bonusu."
+      es: "Dead or Alive 2 lleva la acción al Salvaje Oeste y permite elegir entre varios modos de giros gratis. Cada uno aplica modificadores y reglas de bonificación distintos."
+      pt: "Dead or Alive 2 leva a ação para o Oeste Selvagem e permite escolher entre vários modos de rodadas grátis. Cada modo tem modificadores e regras de bónus próprios."
+      ja: "Dead or Alive 2は西部劇を舞台に、複数のフリースピンモードから選択できます。モードごとに異なる効果とボーナスルールが用意されています。"
     alt:
       de: "Dead or Alive 2 Spielgrafik mit eine staubige Westernstadt und Revolverhelden."
       en: "Dead or Alive 2 slot game artwork showing a dusty Wild West town and gunslingers."
@@ -379,6 +1009,51 @@ games:
       ja: "Dead or Alive 2のゲームアート。西部の荒野の町とガンマンを描いています。"
   - name: "Twin Spin"
     anchor: twin-spin
+    author: jon-pill
+    author_name: "Jon Pill"
+    keywords:
+      de:
+        - "Twin Spin Slot"
+        - "Twin Spin Spielmechanik"
+        - "Twin Spin RTP"
+        - "Twin Spin Volatilität"
+        - "NetEnt Slots"
+        - "Twin Spin Spielanalyse"
+      en:
+        - "Twin Spin slot"
+        - "Twin Spin game mechanics"
+        - "Twin Spin RTP"
+        - "Twin Spin volatility"
+        - "NetEnt slots"
+        - "Twin Spin slot review"
+      pl:
+        - "automat Twin Spin"
+        - "slot Twin Spin"
+        - "Twin Spin mechanika gry"
+        - "Twin Spin RTP"
+        - "Twin Spin zmienność"
+        - "automaty NetEnt"
+      es:
+        - "tragamonedas Twin Spin"
+        - "slot Twin Spin"
+        - "mecánicas de Twin Spin"
+        - "RTP de Twin Spin"
+        - "volatilidad de Twin Spin"
+        - "tragamonedas NetEnt"
+      pt:
+        - "slot Twin Spin"
+        - "jogo Twin Spin"
+        - "mecânicas de Twin Spin"
+        - "RTP de Twin Spin"
+        - "volatilidade de Twin Spin"
+        - "slots NetEnt"
+      ja:
+        - "Twin Spin スロット"
+        - "Twin Spin ゲームの仕組み"
+        - "Twin Spin RTP"
+        - "Twin Spin ボラティリティ"
+        - "NetEnt スロット"
+        - "Twin Spin ゲーム分析"
     image: /images/slots/catalog-twin-spin.webp
     provider: "NetEnt"
     label:
@@ -389,12 +1064,12 @@ games:
       pt: "símbolos clássicos de slots e rolos ligados"
       ja: "クラシックなスロットシンボルと連動リール"
     description:
-      de: "Ein klassischer Früchte-Slot, bei dem Walzen durch die Twin-Reel-Funktion gekoppelt werden können."
-      en: "A slot built around classic slot symbols and linked reels, featuring twin-reel features and random symbols."
-      pl: "Slot inspirowany motywem klasyczne symbole automatów i połączone bębny, z funkcją: funkcje podwójnych bębnów i losowe symbole."
-      es: "Una tragamonedas ambientada en símbolos clásicos de tragaperras y rodillos enlazados, con funciones de rodillos gemelos y símbolos aleatorios."
-      pt: "Um slot inspirado em símbolos clássicos de slots e rolos ligados, com funcionalidades de rolos gémeos e símbolos aleatórios."
-      ja: "クラシックなスロットシンボルと連動リールをテーマに、ツインリール機能とランダムシンボルを備えたスロットです。"
+      de: "Klassischer Slot mit Fruchtsymbolen und gekoppelten Walzen. Die Twin-Reel-Funktion kann mehrere Walzen synchronisieren und so das Walzenbild verändern."
+      en: "A classic fruit-symbol slot with linked reels. The Twin Reel feature can synchronise reels and change the layout."
+      pl: "Klasyczny slot z symbolami owoców i połączonymi bębnami. Funkcja Twin Reel może synchronizować bębny i zmieniać ich układ."
+      es: "Tragamonedas clásica con símbolos de frutas y rodillos enlazados. La función Twin Reel puede sincronizar varios rodillos y modificar su disposición."
+      pt: "Slot clássico com símbolos de fruta e rolos ligados. A funcionalidade Twin Reel pode sincronizar vários rolos e alterar a sua disposição."
+      ja: "フルーツシンボルを使ったクラシックなスロットです。Twin Reel機能によって複数のリールが連動し、配置が変わることがあります。"
     alt:
       de: "Twin Spin Spielgrafik mit klassische Spielautomaten-Symbole und verbundene Walzen."
       en: "Twin Spin slot game artwork showing classic slot symbols and linked reels."
@@ -404,6 +1079,51 @@ games:
       ja: "Twin Spinのゲームアート。クラシックなスロットシンボルと連動リールを描いています。"
   - name: "Hand of Anubis"
     anchor: hand-of-anubis
+    author: marco-ibarra
+    author_name: "Marco Ibarra"
+    keywords:
+      de:
+        - "Hand of Anubis Slot"
+        - "Hand of Anubis Spielmechanik"
+        - "Hand of Anubis RTP"
+        - "Hand of Anubis Volatilität"
+        - "Hacksaw Gaming Slots"
+        - "Hand of Anubis Spielanalyse"
+      en:
+        - "Hand of Anubis slot"
+        - "Hand of Anubis game mechanics"
+        - "Hand of Anubis RTP"
+        - "Hand of Anubis volatility"
+        - "Hacksaw Gaming slots"
+        - "Hand of Anubis slot review"
+      pl:
+        - "automat Hand of Anubis"
+        - "slot Hand of Anubis"
+        - "Hand of Anubis mechanika gry"
+        - "Hand of Anubis RTP"
+        - "Hand of Anubis zmienność"
+        - "automaty Hacksaw Gaming"
+      es:
+        - "tragamonedas Hand of Anubis"
+        - "slot Hand of Anubis"
+        - "mecánicas de Hand of Anubis"
+        - "RTP de Hand of Anubis"
+        - "volatilidad de Hand of Anubis"
+        - "tragamonedas Hacksaw Gaming"
+      pt:
+        - "slot Hand of Anubis"
+        - "jogo Hand of Anubis"
+        - "mecânicas de Hand of Anubis"
+        - "RTP de Hand of Anubis"
+        - "volatilidade de Hand of Anubis"
+        - "slots Hacksaw Gaming"
+      ja:
+        - "Hand of Anubis スロット"
+        - "Hand of Anubis ゲームの仕組み"
+        - "Hand of Anubis RTP"
+        - "Hand of Anubis ボラティリティ"
+        - "Hacksaw Gaming スロット"
+        - "Hand of Anubis ゲーム分析"
     image: /images/slots/catalog-hand-of-anubis.webp
     provider: "Hacksaw Gaming"
     label:
@@ -414,12 +1134,12 @@ games:
       pt: "Anúbis e motivos do antigo Egito"
       ja: "アヌビスと古代エジプトのモチーフ"
     description:
-      de: "Ein ägyptisch inspiriertes Cluster-Spiel mit Sammelsymbolen und Bonusfunktionen."
-      en: "A slot built around Anubis and ancient Egyptian imagery, featuring collectible symbols and bonus features."
-      pl: "Slot inspirowany motywem Anubisa i starożytne egipskie motywy, z funkcją: symbole kolekcjonerskie i funkcje bonusowe."
-      es: "Una tragamonedas ambientada en Anubis y motivos del antiguo Egipto, con símbolos coleccionables y funciones de bonificación."
-      pt: "Um slot inspirado em Anúbis e motivos do antigo Egito, com símbolos colecionáveis e funcionalidades de bónus."
-      ja: "アヌビスと古代エジプトのモチーフをテーマに、コレクションシンボルとボーナス機能を備えたスロットです。"
+      de: "Ägyptisch inspiriertes Cluster-Spiel mit Sammelsymbolen und Bonusfunktionen. Die Sammelmechanik bestimmt, wie sich die Bonusrunde entwickelt."
+      en: "An ancient-Egypt inspired cluster slot with collection symbols and bonus features. The collection mechanic shapes how the bonus round develops."
+      pl: "Slot klastrowy inspirowany starożytnym Egiptem, z symbolami kolekcji i funkcjami bonusowymi. Mechanika zbierania wpływa na przebieg rundy bonusowej."
+      es: "Tragamonedas de clústeres inspirada en Egipto, con símbolos coleccionables y una bonificación basada en la recolección."
+      pt: "Slot de clusters inspirado no antigo Egito, com símbolos de coleção e funcionalidades de bónus. A mecânica de recolha influencia o desenrolar da ronda de bónus."
+      ja: "古代エジプトをモチーフにしたクラスター型スロットです。コレクションシンボルとボーナス機能があり、収集メカニズムがボーナスの進行を左右します。"
     alt:
       de: "Hand of Anubis Spielgrafik mit Anubis und altägyptische Symbolwelten."
       en: "Hand of Anubis slot game artwork showing Anubis and ancient Egyptian imagery."
@@ -429,6 +1149,51 @@ games:
       ja: "Hand of Anubisのゲームアート。アヌビスと古代エジプトのモチーフを描いています。"
   - name: "Sugar Rush"
     anchor: sugar-rush
+    author: cristina-tudose
+    author_name: "Cristina Tudose"
+    keywords:
+      de:
+        - "Sugar Rush Slot"
+        - "Sugar Rush Spielmechanik"
+        - "Sugar Rush RTP"
+        - "Sugar Rush Volatilität"
+        - "Pragmatic Play Slots"
+        - "Sugar Rush Spielanalyse"
+      en:
+        - "Sugar Rush slot"
+        - "Sugar Rush game mechanics"
+        - "Sugar Rush RTP"
+        - "Sugar Rush volatility"
+        - "Pragmatic Play slots"
+        - "Sugar Rush slot review"
+      pl:
+        - "automat Sugar Rush"
+        - "slot Sugar Rush"
+        - "Sugar Rush mechanika gry"
+        - "Sugar Rush RTP"
+        - "Sugar Rush zmienność"
+        - "automaty Pragmatic Play"
+      es:
+        - "tragamonedas Sugar Rush"
+        - "slot Sugar Rush"
+        - "mecánicas de Sugar Rush"
+        - "RTP de Sugar Rush"
+        - "volatilidad de Sugar Rush"
+        - "tragamonedas Pragmatic Play"
+      pt:
+        - "slot Sugar Rush"
+        - "jogo Sugar Rush"
+        - "mecânicas de Sugar Rush"
+        - "RTP de Sugar Rush"
+        - "volatilidade de Sugar Rush"
+        - "slots Pragmatic Play"
+      ja:
+        - "Sugar Rush スロット"
+        - "Sugar Rush ゲームの仕組み"
+        - "Sugar Rush RTP"
+        - "Sugar Rush ボラティリティ"
+        - "Pragmatic Play スロット"
+        - "Sugar Rush ゲーム分析"
     image: /images/slots/catalog-sugar-rush.webp
     provider: "Pragmatic Play"
     label:
@@ -439,12 +1204,12 @@ games:
       pt: "doces e um mundo de fantasia colorido"
       ja: "お菓子とカラフルなファンタジーの世界"
     description:
-      de: "Ein 7×7-Cluster-Slot mit Kaskaden und Multiplikatoren, die auf dem Spielfeld verbleiben können."
-      en: "A slot built around sweets, candy and a colourful fantasy world, featuring cluster wins and growing multipliers."
-      pl: "Slot inspirowany motywem słodycze i kolorowy świat fantasy, z funkcją: wygrane klastrowe i rosnące mnożniki."
-      es: "Una tragamonedas ambientada en dulces y un mundo fantástico lleno de color, con premios por grupos y multiplicadores crecientes."
-      pt: "Um slot inspirado em doces e um mundo de fantasia colorido, com prémios por grupos e multiplicadores crescentes."
-      ja: "お菓子とカラフルなファンタジーの世界をテーマに、クラスター配当と上昇する倍率を備えたスロットです。"
+      de: "7×7-Cluster-Slot mit Kaskaden und Multiplikatoren auf markierten Spielfeldpositionen. Die Positionen und ihre Multiplikatoren bleiben während der Freispiele erhalten."
+      en: "A 7×7 cluster slot with tumbling wins and multipliers on marked grid positions. Marked positions and their multipliers persist during free spins."
+      pl: "Slot klastrowy 7×7 z kaskadami i mnożnikami przypisanymi do zaznaczonych pól. Podczas darmowych spinów pola i ich mnożniki pozostają aktywne."
+      es: "Tragamonedas de clústeres 7×7 con cascadas y multiplicadores en posiciones marcadas de la cuadrícula. Las posiciones y sus multiplicadores se mantienen durante los giros gratis."
+      pt: "Slot de clusters 7×7 com cascatas e multiplicadores em posições assinaladas na grelha. Essas posições e os respetivos multiplicadores mantêm-se durante as rodadas grátis."
+      ja: "7×7のクラスター型スロットで、連続落下とマス目に付く倍率が特徴です。フリースピン中はマークされた位置と倍率が維持されます。"
     alt:
       de: "Sugar Rush Spielgrafik mit Süßigkeiten, Bonbons und eine bunte Fantasiewelt."
       en: "Sugar Rush slot game artwork showing sweets, candy and a colourful fantasy world."
@@ -454,6 +1219,51 @@ games:
       ja: "Sugar Rushのゲームアート。お菓子とカラフルなファンタジーの世界を描いています。"
   - name: "Immortal Romance"
     anchor: immortal-romance
+    author: corey-levitan
+    author_name: "Corey Levitan"
+    keywords:
+      de:
+        - "Immortal Romance Slot"
+        - "Immortal Romance Spielmechanik"
+        - "Immortal Romance RTP"
+        - "Immortal Romance Volatilität"
+        - "Microgaming Slots"
+        - "Immortal Romance Spielanalyse"
+      en:
+        - "Immortal Romance slot"
+        - "Immortal Romance game mechanics"
+        - "Immortal Romance RTP"
+        - "Immortal Romance volatility"
+        - "Microgaming slots"
+        - "Immortal Romance slot review"
+      pl:
+        - "automat Immortal Romance"
+        - "slot Immortal Romance"
+        - "Immortal Romance mechanika gry"
+        - "Immortal Romance RTP"
+        - "Immortal Romance zmienność"
+        - "automaty Microgaming"
+      es:
+        - "tragamonedas Immortal Romance"
+        - "slot Immortal Romance"
+        - "mecánicas de Immortal Romance"
+        - "RTP de Immortal Romance"
+        - "volatilidad de Immortal Romance"
+        - "tragamonedas Microgaming"
+      pt:
+        - "slot Immortal Romance"
+        - "jogo Immortal Romance"
+        - "mecânicas de Immortal Romance"
+        - "RTP de Immortal Romance"
+        - "volatilidade de Immortal Romance"
+        - "slots Microgaming"
+      ja:
+        - "Immortal Romance スロット"
+        - "Immortal Romance ゲームの仕組み"
+        - "Immortal Romance RTP"
+        - "Immortal Romance ボラティリティ"
+        - "Microgaming スロット"
+        - "Immortal Romance ゲーム分析"
     image: /images/slots/catalog-immortal-romance.webp
     provider: "Microgaming"
     label:
@@ -464,12 +1274,12 @@ games:
       pt: "personagens vampíricas e um romance gótico"
       ja: "吸血鬼の登場人物とゴシックな恋物語"
     description:
-      de: "Ein Gothic-Slot mit mehreren charakterbezogenen Freispiele-Modi."
-      en: "A slot built around vampire characters and a gothic romance, featuring free spins and the Wild Desire feature."
-      pl: "Slot inspirowany motywem wampiryczne postacie i gotycka opowieść o miłości, z funkcją: darmowe spiny i funkcję Wild Desire."
-      es: "Una tragamonedas ambientada en personajes vampíricos y un romance gótico, con giros gratis y la función Wild Desire."
-      pt: "Um slot inspirado em personagens vampíricas e um romance gótico, com rodadas grátis e a funcionalidade Wild Desire."
-      ja: "吸血鬼の登場人物とゴシックな恋物語をテーマに、フリースピンとWild Desire機能を備えたスロットです。"
+      de: "Gothic-Slot mit Vampirfiguren und mehreren charakterbezogenen Freispiele-Modi. Die Chamber of Spins bietet unterschiedliche Varianten der Bonusrunde."
+      en: "A gothic vampire-themed slot with several character-based free-spins modes. The Chamber of Spins offers different versions of the bonus round."
+      pl: "Gotycki slot z postaciami wampirów i kilkoma trybami darmowych spinów związanymi z bohaterami. Chamber of Spins oferuje różne warianty rundy bonusowej."
+      es: "Tragamonedas gótica con vampiros y varios modos de giros gratis ligados a sus personajes. Chamber of Spins ofrece distintas rondas."
+      pt: "Slot gótico com personagens vampíricas e vários modos de rodadas grátis associados às personagens. Chamber of Spins apresenta diferentes versões da ronda de bónus."
+      ja: "吸血鬼を題材にしたゴシック系スロットです。Chamber of Spinsでは登場人物に結びついた複数のフリースピンモードを選べます。"
     alt:
       de: "Immortal Romance Spielgrafik mit vampirische Figuren und eine gotische Liebesgeschichte."
       en: "Immortal Romance slot game artwork showing vampire characters and a gothic romance."
@@ -479,6 +1289,51 @@ games:
       ja: "Immortal Romanceのゲームアート。吸血鬼の登場人物とゴシックな恋物語を描いています。"
   - name: "5 Lions Megaways"
     anchor: 5-lions-megaways
+    author: dominic-field
+    author_name: "Dominic Field"
+    keywords:
+      de:
+        - "5 Lions Megaways Slot"
+        - "5 Lions Megaways Spielmechanik"
+        - "5 Lions Megaways RTP"
+        - "5 Lions Megaways Volatilität"
+        - "Pragmatic Play Slots"
+        - "5 Lions Megaways Spielanalyse"
+      en:
+        - "5 Lions Megaways slot"
+        - "5 Lions Megaways game mechanics"
+        - "5 Lions Megaways RTP"
+        - "5 Lions Megaways volatility"
+        - "Pragmatic Play slots"
+        - "5 Lions Megaways slot review"
+      pl:
+        - "automat 5 Lions Megaways"
+        - "slot 5 Lions Megaways"
+        - "5 Lions Megaways mechanika gry"
+        - "5 Lions Megaways RTP"
+        - "5 Lions Megaways zmienność"
+        - "automaty Pragmatic Play"
+      es:
+        - "tragamonedas 5 Lions Megaways"
+        - "slot 5 Lions Megaways"
+        - "mecánicas de 5 Lions Megaways"
+        - "RTP de 5 Lions Megaways"
+        - "volatilidad de 5 Lions Megaways"
+        - "tragamonedas Pragmatic Play"
+      pt:
+        - "slot 5 Lions Megaways"
+        - "jogo 5 Lions Megaways"
+        - "mecânicas de 5 Lions Megaways"
+        - "RTP de 5 Lions Megaways"
+        - "volatilidade de 5 Lions Megaways"
+        - "slots Pragmatic Play"
+      ja:
+        - "5 Lions Megaways スロット"
+        - "5 Lions Megaways ゲームの仕組み"
+        - "5 Lions Megaways RTP"
+        - "5 Lions Megaways ボラティリティ"
+        - "Pragmatic Play スロット"
+        - "5 Lions Megaways ゲーム分析"
     image: /images/slots/catalog-5-lions-megaways.webp
     provider: "Pragmatic Play"
     label:
@@ -489,12 +1344,12 @@ games:
       pt: "cinco leões dourados num cenário de templos inspirado na Ásia"
       ja: "アジア風の寺院を舞台にした5頭の黄金の獅子"
     description:
-      de: "Ein Megaways-Slot mit fünf Löwen als Motiv und einer Freispiele-Funktion."
-      en: "A slot built around five golden lions in an Asian-inspired temple setting, featuring Megaways reels and free spins."
-      pl: "Slot inspirowany motywem pięć złotych lwów w świątynnym świecie inspirowanym Azją, z funkcją: bębny Megaways i darmowe spiny."
-      es: "Una tragamonedas ambientada en cinco leones dorados en un entorno de templos inspirado en Asia, con rodillos Megaways y giros gratis."
-      pt: "Um slot inspirado em cinco leões dourados num cenário de templos inspirado na Ásia, com rolos Megaways e rodadas grátis."
-      ja: "アジア風の寺院を舞台にした5頭の黄金の獅子をテーマに、Megawaysリールとフリースピンを備えたスロットです。"
+      de: "Megaways-Slot mit fünf goldenen Löwen als Motiv. Variable Walzenhöhen verändern die Gewinnwege; Freispiele ergänzen das Spiel um eine eigene Bonusrunde."
+      en: "A Megaways slot featuring five golden lions. Variable reel heights change the available ways to win, while free spins add a separate bonus round."
+      pl: "Slot Megaways z pięcioma złotymi lwami w motywie przewodnim. Zmienna wysokość bębnów wpływa na liczbę sposobów wygrywania, a darmowe spiny uruchamiają osobną rundę bonusową."
+      es: "Tragamonedas Megaways con cinco leones dorados. La altura variable de los rodillos modifica las formas de ganar y los giros gratis ofrecen una ronda de bonificación independiente."
+      pt: "Slot Megaways com cinco leões dourados. A altura variável dos rolos altera as formas de ganhar e as rodadas grátis acrescentam uma ronda de bónus própria."
+      ja: "5頭の黄金のライオンをテーマにしたMegawaysスロットです。リールの高さが変化して配当方法が変わり、フリースピンでは独立したボーナスラウンドが展開します。"
     alt:
       de: "5 Lions Megaways Spielgrafik mit fünf goldene Löwen in einer asiatisch inspirierten Tempelwelt."
       en: "5 Lions Megaways slot game artwork showing five golden lions in an Asian-inspired temple setting."
@@ -504,6 +1359,51 @@ games:
       ja: "5 Lions Megawaysのゲームアート。アジア風の寺院を舞台にした5頭の黄金の獅子を描いています。"
   - name: "Le Bandit"
     anchor: le-bandit
+    author: dominic-field
+    author_name: "Dominic Field"
+    keywords:
+      de:
+        - "Le Bandit Slot"
+        - "Le Bandit Spielmechanik"
+        - "Le Bandit RTP"
+        - "Le Bandit Volatilität"
+        - "Hacksaw Gaming Slots"
+        - "Le Bandit Spielanalyse"
+      en:
+        - "Le Bandit slot"
+        - "Le Bandit game mechanics"
+        - "Le Bandit RTP"
+        - "Le Bandit volatility"
+        - "Hacksaw Gaming slots"
+        - "Le Bandit slot review"
+      pl:
+        - "automat Le Bandit"
+        - "slot Le Bandit"
+        - "Le Bandit mechanika gry"
+        - "Le Bandit RTP"
+        - "Le Bandit zmienność"
+        - "automaty Hacksaw Gaming"
+      es:
+        - "tragamonedas Le Bandit"
+        - "slot Le Bandit"
+        - "mecánicas de Le Bandit"
+        - "RTP de Le Bandit"
+        - "volatilidad de Le Bandit"
+        - "tragamonedas Hacksaw Gaming"
+      pt:
+        - "slot Le Bandit"
+        - "jogo Le Bandit"
+        - "mecânicas de Le Bandit"
+        - "RTP de Le Bandit"
+        - "volatilidade de Le Bandit"
+        - "slots Hacksaw Gaming"
+      ja:
+        - "Le Bandit スロット"
+        - "Le Bandit ゲームの仕組み"
+        - "Le Bandit RTP"
+        - "Le Bandit ボラティリティ"
+        - "Hacksaw Gaming スロット"
+        - "Le Bandit ゲーム分析"
     image: /images/slots/catalog-le-bandit.webp
     provider: "Hacksaw Gaming"
     label:
@@ -514,12 +1414,12 @@ games:
       pt: "um guaxinim ladrão num cenário parisiense"
       ja: "パリを舞台にしたアライグマの盗賊"
     description:
-      de: "Ein Cluster-Slot mit Waschbär-Thema und einer sammelbasierten Bonusstruktur."
-      en: "A slot built around a raccoon thief in a Parisian setting, featuring cluster wins and bonus features."
-      pl: "Slot inspirowany motywem szopa-złodzieja w paryskiej scenerii, z funkcją: wygrane klastrowe i funkcje bonusowe."
-      es: "Una tragamonedas ambientada en un mapache ladrón en un entorno parisino, con premios por grupos y funciones de bonificación."
-      pt: "Um slot inspirado em um guaxinim ladrão num cenário parisiense, com prémios por grupos e funcionalidades de bónus."
-      ja: "パリを舞台にしたアライグマの盗賊をテーマに、クラスター配当とボーナス機能を備えたスロットです。"
+      de: "Cluster-Slot mit einem Waschbär-Dieb im Pariser Setting. Gewinnende Symbolgruppen und eine sammelbasierte Bonusstruktur prägen den Spielablauf."
+      en: "A cluster slot featuring a raccoon thief in a Parisian setting. Winning symbol groups and a collection-based bonus structure shape the gameplay."
+      pl: "Slot klastrowy z szopem-złodziejem w paryskiej scenerii. Rozgrywkę kształtują wygrywające grupy symboli i bonus oparty na zbieraniu."
+      es: "Tragamonedas de clústeres con un mapache ladrón en un entorno parisino. Los grupos de símbolos ganadores y una bonificación basada en la recolección definen la partida."
+      pt: "Slot de clusters com um guaxinim ladrão num cenário parisiense. Os grupos de símbolos vencedores e um bónus baseado na recolha definem a jogabilidade."
+      ja: "パリを舞台にしたアライグマの盗賊が登場するクラスター型スロットです。シンボルのグループ配当と収集型のボーナスがゲームの中心です。"
     alt:
       de: "Le Bandit Spielgrafik mit einen Waschbär-Dieb in einer Pariser Kulisse."
       en: "Le Bandit slot game artwork showing a raccoon thief in a Parisian setting."
@@ -529,6 +1429,51 @@ games:
       ja: "Le Banditのゲームアート。パリを舞台にしたアライグマの盗賊を描いています。"
   - name: "Wanted Dead or a Wild"
     anchor: wanted-dead-or-a-wild
+    author: arthur-mustoe
+    author_name: "Arthur Mustoe"
+    keywords:
+      de:
+        - "Wanted Dead or a Wild Slot"
+        - "Wanted Dead or a Wild Spielmechanik"
+        - "Wanted Dead or a Wild RTP"
+        - "Wanted Dead or a Wild Volatilität"
+        - "Hacksaw Gaming Slots"
+        - "Wanted Dead or a Wild Spielanalyse"
+      en:
+        - "Wanted Dead or a Wild slot"
+        - "Wanted Dead or a Wild game mechanics"
+        - "Wanted Dead or a Wild RTP"
+        - "Wanted Dead or a Wild volatility"
+        - "Hacksaw Gaming slots"
+        - "Wanted Dead or a Wild slot review"
+      pl:
+        - "automat Wanted Dead or a Wild"
+        - "slot Wanted Dead or a Wild"
+        - "Wanted Dead or a Wild mechanika gry"
+        - "Wanted Dead or a Wild RTP"
+        - "Wanted Dead or a Wild zmienność"
+        - "automaty Hacksaw Gaming"
+      es:
+        - "tragamonedas Wanted Dead or a Wild"
+        - "slot Wanted Dead or a Wild"
+        - "mecánicas de Wanted Dead or a Wild"
+        - "RTP de Wanted Dead or a Wild"
+        - "volatilidad de Wanted Dead or a Wild"
+        - "tragamonedas Hacksaw Gaming"
+      pt:
+        - "slot Wanted Dead or a Wild"
+        - "jogo Wanted Dead or a Wild"
+        - "mecânicas de Wanted Dead or a Wild"
+        - "RTP de Wanted Dead or a Wild"
+        - "volatilidade de Wanted Dead or a Wild"
+        - "slots Hacksaw Gaming"
+      ja:
+        - "Wanted Dead or a Wild スロット"
+        - "Wanted Dead or a Wild ゲームの仕組み"
+        - "Wanted Dead or a Wild RTP"
+        - "Wanted Dead or a Wild ボラティリティ"
+        - "Hacksaw Gaming スロット"
+        - "Wanted Dead or a Wild ゲーム分析"
     image: /images/slots/catalog-wanted-dead-or-a-wild.webp
     provider: "Hacksaw Gaming"
     label:
@@ -539,12 +1484,12 @@ games:
       pt: "pistoleiros mascarados no Oeste Selvagem"
       ja: "西部開拓時代の覆面ガンマン"
     description:
-      de: "Ein Western-Slot mit mehreren Bonusmodi und Duell-Inszenierung."
-      en: "A slot built around masked gunslingers in the Wild West, featuring bonus rounds and duel features."
-      pl: "Slot inspirowany motywem zamaskowanych rewolwerowców na Dzikim Zachodzie, z funkcją: rundy bonusowe i funkcje pojedynków."
-      es: "Una tragamonedas ambientada en pistoleros enmascarados en el Salvaje Oeste, con rondas de bonificación y funciones de duelo."
-      pt: "Um slot inspirado em pistoleiros mascarados no Oeste Selvagem, com rondas de bónus e funcionalidades de duelo."
-      ja: "西部開拓時代の覆面ガンマンをテーマに、ボーナスラウンドと決闘機能を備えたスロットです。"
+      de: "Western-Slot mit der DuelReels-Mechanik: VS-Symbole können zu Wild-Walzen werden, deren Multiplikator Gewinne auf der Walze erhöht. Mehrere Bonusmodi ergänzen das Spiel."
+      en: "A Wild West slot featuring DuelReels: VS symbols can expand into Wild reels, applying a multiplier to wins that pass through them. Several bonus modes are also available."
+      pl: "Slot Dzikiego Zachodu z DuelReels. Symbole VS zmieniają się w bębny Wild, których mnożniki zwiększają wygrane. Dostępnych jest kilka bonusów."
+      es: "Tragamonedas del Salvaje Oeste con DuelReels. Los símbolos VS se expanden en rodillos Wild y aplican multiplicadores a sus premios; incluye varios bonos."
+      pt: "Slot do Oeste Selvagem com DuelReels. Os símbolos VS expandem-se em rolos Wild e aplicam multiplicadores aos prémios; inclui vários bónus."
+      ja: "DuelReelsを搭載した西部劇テーマのスロットです。VSシンボルがWildリールに拡張し、そのリールを通る配当に倍率を適用することがあります。複数のボーナスモードも用意されています。"
     alt:
       de: "Wanted Dead or a Wild Spielgrafik mit maskierte Revolverhelden im Wilden Westen."
       en: "Wanted Dead or a Wild slot game artwork showing masked gunslingers in the Wild West."
@@ -554,6 +1499,51 @@ games:
       ja: "Wanted Dead or a Wildのゲームアート。西部開拓時代の覆面ガンマンを描いています。"
   - name: "Money Train 3"
     anchor: money-train-3
+    author: jon-pill
+    author_name: "Jon Pill"
+    keywords:
+      de:
+        - "Money Train 3 Slot"
+        - "Money Train 3 Spielmechanik"
+        - "Money Train 3 RTP"
+        - "Money Train 3 Volatilität"
+        - "Relax Gaming Slots"
+        - "Money Train 3 Spielanalyse"
+      en:
+        - "Money Train 3 slot"
+        - "Money Train 3 game mechanics"
+        - "Money Train 3 RTP"
+        - "Money Train 3 volatility"
+        - "Relax Gaming slots"
+        - "Money Train 3 slot review"
+      pl:
+        - "automat Money Train 3"
+        - "slot Money Train 3"
+        - "Money Train 3 mechanika gry"
+        - "Money Train 3 RTP"
+        - "Money Train 3 zmienność"
+        - "automaty Relax Gaming"
+      es:
+        - "tragamonedas Money Train 3"
+        - "slot Money Train 3"
+        - "mecánicas de Money Train 3"
+        - "RTP de Money Train 3"
+        - "volatilidad de Money Train 3"
+        - "tragamonedas Relax Gaming"
+      pt:
+        - "slot Money Train 3"
+        - "jogo Money Train 3"
+        - "mecânicas de Money Train 3"
+        - "RTP de Money Train 3"
+        - "volatilidade de Money Train 3"
+        - "slots Relax Gaming"
+      ja:
+        - "Money Train 3 スロット"
+        - "Money Train 3 ゲームの仕組み"
+        - "Money Train 3 RTP"
+        - "Money Train 3 ボラティリティ"
+        - "Relax Gaming スロット"
+        - "Money Train 3 ゲーム分析"
     image: /images/slots/catalog-money-train-3.webp
     provider: "Relax Gaming"
     label:
@@ -564,12 +1554,12 @@ games:
       pt: "um comboio futurista e dois fora da lei"
       ja: "未来的な列車と2人のアウトロー"
     description:
-      de: "Ein Slot mit persistenten Funktionssymbolen, Sammelmechaniken und Multiplikatoren in der Bonusrunde."
-      en: "A slot built around a futuristic train and two outlaws, featuring bonus symbols and multiplier features."
-      pl: "Slot inspirowany motywem futurystyczny pociąg i dwoje banitów, z funkcją: symbole bonusowe i funkcje mnożników."
-      es: "Una tragamonedas ambientada en un tren futurista y dos forajidos, con símbolos de bonificación y funciones de multiplicadores."
-      pt: "Um slot inspirado em um comboio futurista e dois fora da lei, com símbolos de bónus e funcionalidades de multiplicadores."
-      ja: "未来的な列車と2人のアウトローをテーマに、ボーナスシンボルと倍率機能を備えたスロットです。"
+      de: "Outlaw-Thema mit einer Hold-and-Respin-Bonusrunde. Funktionssymbole sammeln Werte, verändern Symbole und können Multiplikatoren aufbauen."
+      en: "An outlaw-themed slot with a Hold-and-Respin bonus round. Feature symbols collect values, modify symbols and can build multipliers."
+      pl: "Slot z motywem banitów i rundą bonusową Hold and Respin. Symbole funkcyjne zbierają wartości, zmieniają symbole i mogą budować mnożniki."
+      es: "Tragamonedas de forajidos con una ronda de bonificación Hold and Respin. Los símbolos especiales recogen valores, modifican otros símbolos y pueden acumular multiplicadores."
+      pt: "Slot com tema de foras da lei e uma ronda de bónus Hold and Respin. Os símbolos especiais recolhem valores, alteram outros símbolos e podem acumular multiplicadores."
+      ja: "アウトローをテーマにしたHold and Respinボーナス搭載スロットです。特殊シンボルが値を集めたり、他のシンボルを変化させたり、倍率を蓄積したりします。"
     alt:
       de: "Money Train 3 Spielgrafik mit einen futuristischen Zug und zwei Outlaws."
       en: "Money Train 3 slot game artwork showing a futuristic train and two outlaws."
@@ -579,6 +1569,51 @@ games:
       ja: "Money Train 3のゲームアート。未来的な列車と2人のアウトローを描いています。"
   - name: "Money Train 4"
     anchor: money-train-4
+    author: jon-pill
+    author_name: "Jon Pill"
+    keywords:
+      de:
+        - "Money Train 4 Slot"
+        - "Money Train 4 Spielmechanik"
+        - "Money Train 4 RTP"
+        - "Money Train 4 Volatilität"
+        - "Relax Gaming Slots"
+        - "Money Train 4 Spielanalyse"
+      en:
+        - "Money Train 4 slot"
+        - "Money Train 4 game mechanics"
+        - "Money Train 4 RTP"
+        - "Money Train 4 volatility"
+        - "Relax Gaming slots"
+        - "Money Train 4 slot review"
+      pl:
+        - "automat Money Train 4"
+        - "slot Money Train 4"
+        - "Money Train 4 mechanika gry"
+        - "Money Train 4 RTP"
+        - "Money Train 4 zmienność"
+        - "automaty Relax Gaming"
+      es:
+        - "tragamonedas Money Train 4"
+        - "slot Money Train 4"
+        - "mecánicas de Money Train 4"
+        - "RTP de Money Train 4"
+        - "volatilidad de Money Train 4"
+        - "tragamonedas Relax Gaming"
+      pt:
+        - "slot Money Train 4"
+        - "jogo Money Train 4"
+        - "mecânicas de Money Train 4"
+        - "RTP de Money Train 4"
+        - "volatilidade de Money Train 4"
+        - "slots Relax Gaming"
+      ja:
+        - "Money Train 4 スロット"
+        - "Money Train 4 ゲームの仕組み"
+        - "Money Train 4 RTP"
+        - "Money Train 4 ボラティリティ"
+        - "Relax Gaming スロット"
+        - "Money Train 4 ゲーム分析"
     image: /images/slots/catalog-money-train-4.webp
     provider: "Relax Gaming"
     label:
@@ -589,12 +1624,12 @@ games:
       pt: "fora da lei e uma aventura ferroviária futurista"
       ja: "アウトローたちと未来的な列車の冒険"
     description:
-      de: "Ein Hold-and-Respin-Slot mit mehreren Funktionssymbolen und unterschiedlichen Modifikatoren."
-      en: "A slot built around outlaws and a futuristic train adventure, featuring collectible symbols and bonus features."
-      pl: "Slot inspirowany motywem banitów i futurystyczną przygodę kolejową, z funkcją: symbole kolekcjonerskie i funkcje bonusowe."
-      es: "Una tragamonedas ambientada en forajidos y una aventura ferroviaria futurista, con símbolos coleccionables y funciones de bonificación."
-      pt: "Um slot inspirado em fora da lei e uma aventura ferroviária futurista, com símbolos colecionáveis e funcionalidades de bónus."
-      ja: "アウトローたちと未来的な列車の冒険をテーマに、コレクションシンボルとボーナス機能を備えたスロットです。"
+      de: "Outlaw-Slot mit einer erweiterten Hold-and-Respin-Bonusrunde. Verschiedene Funktionssymbole bringen eigene Sammel-, Upgrade- und Multiplikatoreffekte mit."
+      en: "An outlaw-themed slot with an expanded Hold-and-Respin bonus round. Different feature symbols add collection, upgrade and multiplier effects."
+      pl: "Slot z motywem banitów z rozbudowaną rundą Hold and Respin. Różne symbole funkcyjne odpowiadają za zbieranie wartości, ulepszenia i mnożniki."
+      es: "Tragamonedas de forajidos con una ronda Hold and Respin ampliada. Los distintos símbolos especiales añaden efectos de colección, mejora y multiplicación."
+      pt: "Slot com tema de foras da lei e uma ronda Hold and Respin expandida. Os vários símbolos especiais acrescentam efeitos de recolha, melhoria e multiplicação."
+      ja: "アウトローをテーマにした拡張型Hold and Respinボーナス搭載スロットです。複数の特殊シンボルが収集、アップグレード、倍率効果をもたらします。"
     alt:
       de: "Money Train 4 Spielgrafik mit Outlaws und ein futuristisches Zugabenteuer."
       en: "Money Train 4 slot game artwork showing outlaws and a futuristic train adventure."
@@ -604,6 +1639,51 @@ games:
       ja: "Money Train 4のゲームアート。アウトローたちと未来的な列車の冒険を描いています。"
   - name: "Thunderstruck II"
     anchor: thunderstruck-ii
+    author: dan-michalski
+    author_name: "Dan Michalski"
+    keywords:
+      de:
+        - "Thunderstruck II Slot"
+        - "Thunderstruck II Spielmechanik"
+        - "Thunderstruck II RTP"
+        - "Thunderstruck II Volatilität"
+        - "Microgaming Slots"
+        - "Thunderstruck II Spielanalyse"
+      en:
+        - "Thunderstruck II slot"
+        - "Thunderstruck II game mechanics"
+        - "Thunderstruck II RTP"
+        - "Thunderstruck II volatility"
+        - "Microgaming slots"
+        - "Thunderstruck II slot review"
+      pl:
+        - "automat Thunderstruck II"
+        - "slot Thunderstruck II"
+        - "Thunderstruck II mechanika gry"
+        - "Thunderstruck II RTP"
+        - "Thunderstruck II zmienność"
+        - "automaty Microgaming"
+      es:
+        - "tragamonedas Thunderstruck II"
+        - "slot Thunderstruck II"
+        - "mecánicas de Thunderstruck II"
+        - "RTP de Thunderstruck II"
+        - "volatilidad de Thunderstruck II"
+        - "tragamonedas Microgaming"
+      pt:
+        - "slot Thunderstruck II"
+        - "jogo Thunderstruck II"
+        - "mecânicas de Thunderstruck II"
+        - "RTP de Thunderstruck II"
+        - "volatilidade de Thunderstruck II"
+        - "slots Microgaming"
+      ja:
+        - "Thunderstruck II スロット"
+        - "Thunderstruck II ゲームの仕組み"
+        - "Thunderstruck II RTP"
+        - "Thunderstruck II ボラティリティ"
+        - "Microgaming スロット"
+        - "Thunderstruck II ゲーム分析"
     image: /images/slots/catalog-thunderstruck-ii.webp
     provider: "Microgaming"
     label:
@@ -614,12 +1694,12 @@ games:
       pt: "deuses nórdicos e o mundo dos vikings"
       ja: "北欧の神々とヴァイキングの世界"
     description:
-      de: "Ein nordisch inspiriertes Spiel mit vier charakterbezogenen Freispiele-Modi."
-      en: "A slot built around Norse gods and the world of Vikings, featuring free spins and special bonus features."
-      pl: "Slot inspirowany motywem nordyckich bogów i świat Wikingów, z funkcją: darmowe spiny i specjalne funkcje bonusowe."
-      es: "Una tragamonedas ambientada en dioses nórdicos y el mundo vikingo, con giros gratis y funciones de bonificación especiales."
-      pt: "Um slot inspirado em deuses nórdicos e o mundo dos vikings, com rodadas grátis e funcionalidades de bónus especiais."
-      ja: "北欧の神々とヴァイキングの世界をテーマに、フリースピンと特別なボーナス機能を備えたスロットです。"
+      de: "Nordische Mythologie mit vier charakterbezogenen Freispiele-Modi. Die Bonusrunde ist in unterschiedliche Kammern mit eigenen Regeln aufgeteilt."
+      en: "A Norse mythology slot with four character-based free-spins modes. The bonus round is divided into chambers with different rules."
+      pl: "Slot inspirowany mitologią nordycką z czterema trybami darmowych spinów związanymi z postaciami. Runda bonusowa dzieli się na komnaty o różnych zasadach."
+      es: "Tragamonedas inspirada en la mitología nórdica con cuatro modos de giros gratis asociados a personajes. La bonificación se divide en cámaras con reglas diferentes."
+      pt: "Slot inspirado na mitologia nórdica, com quatro modos de rodadas grátis associados a personagens. A ronda de bónus divide-se em câmaras com regras distintas."
+      ja: "北欧神話をテーマに、登場人物ごとに異なる4種類のフリースピンモードを備えています。ボーナスラウンドはそれぞれ異なるルールのチャンバーに分かれています。"
     alt:
       de: "Thunderstruck II Spielgrafik mit nordische Götter und die Welt der Wikinger."
       en: "Thunderstruck II slot game artwork showing Norse gods and the world of Vikings."
@@ -629,6 +1709,51 @@ games:
       ja: "Thunderstruck IIのゲームアート。北欧の神々とヴァイキングの世界を描いています。"
   - name: "Fruit Party 2"
     anchor: fruit-party-2
+    author: cristina-tudose
+    author_name: "Cristina Tudose"
+    keywords:
+      de:
+        - "Fruit Party 2 Slot"
+        - "Fruit Party 2 Spielmechanik"
+        - "Fruit Party 2 RTP"
+        - "Fruit Party 2 Volatilität"
+        - "Pragmatic Play Slots"
+        - "Fruit Party 2 Spielanalyse"
+      en:
+        - "Fruit Party 2 slot"
+        - "Fruit Party 2 game mechanics"
+        - "Fruit Party 2 RTP"
+        - "Fruit Party 2 volatility"
+        - "Pragmatic Play slots"
+        - "Fruit Party 2 slot review"
+      pl:
+        - "automat Fruit Party 2"
+        - "slot Fruit Party 2"
+        - "Fruit Party 2 mechanika gry"
+        - "Fruit Party 2 RTP"
+        - "Fruit Party 2 zmienność"
+        - "automaty Pragmatic Play"
+      es:
+        - "tragamonedas Fruit Party 2"
+        - "slot Fruit Party 2"
+        - "mecánicas de Fruit Party 2"
+        - "RTP de Fruit Party 2"
+        - "volatilidad de Fruit Party 2"
+        - "tragamonedas Pragmatic Play"
+      pt:
+        - "slot Fruit Party 2"
+        - "jogo Fruit Party 2"
+        - "mecânicas de Fruit Party 2"
+        - "RTP de Fruit Party 2"
+        - "volatilidade de Fruit Party 2"
+        - "slots Pragmatic Play"
+      ja:
+        - "Fruit Party 2 スロット"
+        - "Fruit Party 2 ゲームの仕組み"
+        - "Fruit Party 2 RTP"
+        - "Fruit Party 2 ボラティリティ"
+        - "Pragmatic Play スロット"
+        - "Fruit Party 2 ゲーム分析"
     image: /images/slots/catalog-fruit-party-2.webp
     provider: "Pragmatic Play"
     label:
@@ -639,12 +1764,12 @@ games:
       pt: "frutas coloridas e um mundo de fantasia soalheiro"
       ja: "カラフルなフルーツと明るいファンタジーの世界"
     description:
-      de: "Ein Frucht-Cluster-Slot mit weiterentwickelten Wild- und Multiplikatoreffekten sowie Freispielen."
-      en: "A slot built around colourful fruit and a bright fantasy world, featuring cluster wins and multipliers."
-      pl: "Slot inspirowany motywem kolorowe owoce i słoneczny świat fantasy, z funkcją: wygrane klastrowe i mnożniki."
-      es: "Una tragamonedas ambientada en frutas de colores y un mundo fantástico y soleado, con premios por grupos y multiplicadores."
-      pt: "Um slot inspirado em frutas coloridas e um mundo de fantasia soalheiro, com prémios por grupos e multiplicadores."
-      ja: "カラフルなフルーツと明るいファンタジーの世界をテーマに、クラスター配当と倍率を備えたスロットです。"
+      de: "7×7-Frucht-Cluster-Slot: Gewinnende Cluster können Wilds mit wachsenden Multiplikatoren hinterlassen. In Freispielen können Wild-Multiplikatoren bis zu 729× erreichen."
+      en: "A 7×7 fruit-cluster slot where winning clusters can leave Wilds with rising multipliers. In free spins, Wild multipliers can reach up to 729×."
+      pl: "Slot owocowy 7×7 z wygranymi klastrowymi. Wygrywające grupy mogą pozostawiać symbole Wild z rosnącymi mnożnikami, które w darmowych spinach mogą osiągać 729×."
+      es: "Tragamonedas de clústeres de frutas 7×7. Los grupos ganadores pueden dejar símbolos Wild con multiplicadores crecientes, que en los giros gratis pueden alcanzar 729×."
+      pt: "Slot de clusters de fruta 7×7. Os grupos vencedores podem deixar símbolos Wild com multiplicadores crescentes, que nas rodadas grátis podem chegar a 729×."
+      ja: "7×7のフルーツクラスター型スロットです。勝利クラスターが倍率付きWildを残すことがあり、フリースピン中のWild倍率は最大729×に達する場合があります。"
     alt:
       de: "Fruit Party 2 Spielgrafik mit bunte Früchte und eine sonnige Fantasiewelt."
       en: "Fruit Party 2 slot game artwork showing colourful fruit and a bright fantasy world."
@@ -654,6 +1779,51 @@ games:
       ja: "Fruit Party 2のゲームアート。カラフルなフルーツと明るいファンタジーの世界を描いています。"
   - name: "Gates of Olympus"
     anchor: gates-of-olympus
+    author: jon-pill
+    author_name: "Jon Pill"
+    keywords:
+      de:
+        - "Gates of Olympus Slot"
+        - "Gates of Olympus Spielmechanik"
+        - "Gates of Olympus RTP"
+        - "Gates of Olympus Volatilität"
+        - "Pragmatic Play Slots"
+        - "Gates of Olympus Spielanalyse"
+      en:
+        - "Gates of Olympus slot"
+        - "Gates of Olympus game mechanics"
+        - "Gates of Olympus RTP"
+        - "Gates of Olympus volatility"
+        - "Pragmatic Play slots"
+        - "Gates of Olympus slot review"
+      pl:
+        - "automat Gates of Olympus"
+        - "slot Gates of Olympus"
+        - "Gates of Olympus mechanika gry"
+        - "Gates of Olympus RTP"
+        - "Gates of Olympus zmienność"
+        - "automaty Pragmatic Play"
+      es:
+        - "tragamonedas Gates of Olympus"
+        - "slot Gates of Olympus"
+        - "mecánicas de Gates of Olympus"
+        - "RTP de Gates of Olympus"
+        - "volatilidad de Gates of Olympus"
+        - "tragamonedas Pragmatic Play"
+      pt:
+        - "slot Gates of Olympus"
+        - "jogo Gates of Olympus"
+        - "mecânicas de Gates of Olympus"
+        - "RTP de Gates of Olympus"
+        - "volatilidade de Gates of Olympus"
+        - "slots Pragmatic Play"
+      ja:
+        - "Gates of Olympus スロット"
+        - "Gates of Olympus ゲームの仕組み"
+        - "Gates of Olympus RTP"
+        - "Gates of Olympus ボラティリティ"
+        - "Pragmatic Play スロット"
+        - "Gates of Olympus ゲーム分析"
     image: /images/slots/catalog-gates-of-olympus.webp
     provider: "Pragmatic Play"
     label:
@@ -664,12 +1834,12 @@ games:
       pt: "Zeus e um magnífico templo no Olimpo"
       ja: "ゼウスとオリンポスの壮大な神殿"
     description:
-      de: "Ein Slot ohne klassische Gewinnlinien mit Kaskaden und zufällig erscheinenden Multiplikatoren."
-      en: "A slot built around Zeus and a grand temple on Mount Olympus, featuring tumble wins and multipliers."
-      pl: "Slot inspirowany motywem Zeusa i wspaniałą świątynię na Olimpie, z funkcją: wygrane kaskadowe i mnożniki."
-      es: "Una tragamonedas ambientada en Zeus y un magnífico templo en el Olimpo, con premios en cascada y multiplicadores."
-      pt: "Um slot inspirado em Zeus e um magnífico templo no Olimpo, com prémios em cascata e multiplicadores."
-      ja: "ゼウスとオリンポスの壮大な神殿をテーマに、連続落下配当と倍率を備えたスロットです。"
+      de: "Zeus-Thema ohne klassische Gewinnlinien: Gleiche Symbole zahlen an beliebigen Positionen, Kaskaden setzen Gewinne fort und zufällige Multiplikatoren können sich addieren."
+      en: "A Zeus-themed slot without traditional paylines: matching symbols pay anywhere, tumbles continue winning sequences and random multipliers can add together."
+      pl: "Slot z motywem Zeusa bez klasycznych linii wypłat. Takie same symbole mogą wygrywać w dowolnym miejscu, kaskady kontynuują sekwencje, a losowe mnożniki mogą się sumować."
+      es: "Tragamonedas de Zeus sin líneas tradicionales: los símbolos iguales pagan en cualquier posición, con cascadas y multiplicadores aleatorios."
+      pt: "Slot de Zeus sem linhas tradicionais: símbolos iguais pagam em qualquer posição, com cascatas e multiplicadores aleatórios."
+      ja: "ゼウスをテーマにしたペイラインのないスロットです。同じシンボルが任意の位置で配当となり、カスケードが続き、ランダム倍率が加算されることがあります。"
     alt:
       de: "Gates of Olympus Spielgrafik mit Zeus und einen prachtvollen Tempel auf dem Olymp."
       en: "Gates of Olympus slot game artwork showing Zeus and a grand temple on Mount Olympus."
@@ -679,6 +1849,51 @@ games:
       ja: "Gates of Olympusのゲームアート。ゼウスとオリンポスの壮大な神殿を描いています。"
   - name: "Gonzo's Quest"
     anchor: gonzos-quest
+    author: arthur-mustoe
+    author_name: "Arthur Mustoe"
+    keywords:
+      de:
+        - "Gonzo's Quest Slot"
+        - "Gonzo's Quest Spielmechanik"
+        - "Gonzo's Quest RTP"
+        - "Gonzo's Quest Volatilität"
+        - "NetEnt Slots"
+        - "Gonzo's Quest Spielanalyse"
+      en:
+        - "Gonzo's Quest slot"
+        - "Gonzo's Quest game mechanics"
+        - "Gonzo's Quest RTP"
+        - "Gonzo's Quest volatility"
+        - "NetEnt slots"
+        - "Gonzo's Quest slot review"
+      pl:
+        - "automat Gonzo's Quest"
+        - "slot Gonzo's Quest"
+        - "Gonzo's Quest mechanika gry"
+        - "Gonzo's Quest RTP"
+        - "Gonzo's Quest zmienność"
+        - "automaty NetEnt"
+      es:
+        - "tragamonedas Gonzo's Quest"
+        - "slot Gonzo's Quest"
+        - "mecánicas de Gonzo's Quest"
+        - "RTP de Gonzo's Quest"
+        - "volatilidad de Gonzo's Quest"
+        - "tragamonedas NetEnt"
+      pt:
+        - "slot Gonzo's Quest"
+        - "jogo Gonzo's Quest"
+        - "mecânicas de Gonzo's Quest"
+        - "RTP de Gonzo's Quest"
+        - "volatilidade de Gonzo's Quest"
+        - "slots NetEnt"
+      ja:
+        - "Gonzo's Quest スロット"
+        - "Gonzo's Quest ゲームの仕組み"
+        - "Gonzo's Quest RTP"
+        - "Gonzo's Quest ボラティリティ"
+        - "NetEnt スロット"
+        - "Gonzo's Quest ゲーム分析"
     image: /images/slots/gonzos-quest.webp
     provider: "NetEnt"
     label:
@@ -689,12 +1904,12 @@ games:
       pt: "um explorador à procura de El Dorado"
       ja: "エルドラドを探す冒険家"
     description:
-      de: "Ein Abenteuer-Slot mit Avalanche-Kaskaden und steigenden Multiplikatoren."
-      en: "A slot built around an explorer searching for El Dorado, featuring cascading wins and rising multipliers."
-      pl: "Slot inspirowany motywem odkrywcę poszukującego El Dorado, z funkcją: wygrane kaskadowe i rosnące mnożniki."
-      es: "Una tragamonedas ambientada en un explorador en busca de El Dorado, con premios en cascada y multiplicadores crecientes."
-      pt: "Um slot inspirado em um explorador à procura de El Dorado, com prémios em cascata e multiplicadores crescentes."
-      ja: "エルドラドを探す冒険家をテーマに、カスケード配当と上昇する倍率を備えたスロットです。"
+      de: "Abenteuer-Slot mit Avalanche-Kaskaden: Gewinnsymbole verschwinden und werden ersetzt. Aufeinanderfolgende Avalanche-Treffer erhöhen den Multiplikator innerhalb eines Spins."
+      en: "An adventure slot with Avalanche cascades: winning symbols disappear and are replaced. Consecutive Avalanche wins increase the multiplier within a spin."
+      pl: "Slot przygodowy z kaskadami Avalanche: wygrywające symbole znikają i są zastępowane nowymi. Kolejne wygrane w ramach jednego spinu zwiększają mnożnik."
+      es: "Tragamonedas de aventuras con cascadas Avalanche: los símbolos ganadores desaparecen y son reemplazados. Las victorias consecutivas dentro de una tirada aumentan el multiplicador."
+      pt: "Slot de aventura com cascatas Avalanche: os símbolos vencedores desaparecem e são substituídos. As vitórias consecutivas na mesma jogada aumentam o multiplicador."
+      ja: "Avalancheカスケードを採用した冒険テーマのスロットです。勝利シンボルが消えて新しいシンボルに置き換わり、同一スピン内で連続して当たると倍率が上昇します。"
     alt:
       de: "Gonzo's Quest Spielgrafik mit einen Abenteurer auf der Suche nach El Dorado."
       en: "Gonzo's Quest slot game artwork showing an explorer searching for El Dorado."
@@ -704,6 +1919,51 @@ games:
       ja: "Gonzo's Questのゲームアート。エルドラドを探す冒険家を描いています。"
   - name: "Sweet Bonanza"
     anchor: sweet-bonanza
+    author: corey-levitan
+    author_name: "Corey Levitan"
+    keywords:
+      de:
+        - "Sweet Bonanza Slot"
+        - "Sweet Bonanza Spielmechanik"
+        - "Sweet Bonanza RTP"
+        - "Sweet Bonanza Volatilität"
+        - "Pragmatic Play Slots"
+        - "Sweet Bonanza Spielanalyse"
+      en:
+        - "Sweet Bonanza slot"
+        - "Sweet Bonanza game mechanics"
+        - "Sweet Bonanza RTP"
+        - "Sweet Bonanza volatility"
+        - "Pragmatic Play slots"
+        - "Sweet Bonanza slot review"
+      pl:
+        - "automat Sweet Bonanza"
+        - "slot Sweet Bonanza"
+        - "Sweet Bonanza mechanika gry"
+        - "Sweet Bonanza RTP"
+        - "Sweet Bonanza zmienność"
+        - "automaty Pragmatic Play"
+      es:
+        - "tragamonedas Sweet Bonanza"
+        - "slot Sweet Bonanza"
+        - "mecánicas de Sweet Bonanza"
+        - "RTP de Sweet Bonanza"
+        - "volatilidad de Sweet Bonanza"
+        - "tragamonedas Pragmatic Play"
+      pt:
+        - "slot Sweet Bonanza"
+        - "jogo Sweet Bonanza"
+        - "mecânicas de Sweet Bonanza"
+        - "RTP de Sweet Bonanza"
+        - "volatilidade de Sweet Bonanza"
+        - "slots Pragmatic Play"
+      ja:
+        - "Sweet Bonanza スロット"
+        - "Sweet Bonanza ゲームの仕組み"
+        - "Sweet Bonanza RTP"
+        - "Sweet Bonanza ボラティリティ"
+        - "Pragmatic Play スロット"
+        - "Sweet Bonanza ゲーム分析"
     image: /images/slots/sweet-bonanza.jpg
     provider: "Pragmatic Play"
     label:
@@ -714,12 +1974,12 @@ games:
       pt: "doces e frutas num mundo de fantasia colorido"
       ja: "カラフルなファンタジー世界のお菓子とフルーツ"
     description:
-      de: "Ein Slot mit Symbolgruppen, Tumble-Kaskaden und zufälligen Multiplikatoren."
-      en: "A slot built around sweets and fruit in a colourful fantasy world, featuring tumble wins and multipliers."
-      pl: "Slot inspirowany motywem słodycze i owoce w kolorowym świecie fantasy, z funkcją: wygrane kaskadowe i mnożniki."
-      es: "Una tragamonedas ambientada en dulces y frutas en un mundo fantástico lleno de color, con premios en cascada y multiplicadores."
-      pt: "Um slot inspirado em doces e frutas num mundo de fantasia colorido, com prémios em cascata e multiplicadores."
-      ja: "カラフルなファンタジー世界のお菓子とフルーツをテーマに、連続落下配当と倍率を備えたスロットです。"
+      de: "Farbenfroher Slot mit Süßigkeiten- und Fruchtsymbolen. Gewinne entstehen durch Symbolgruppen an beliebigen Positionen; Kaskaden und zufällige Multiplikatoren prägen den Ablauf."
+      en: "A colourful slot with candy and fruit symbols. Wins come from matching groups anywhere on the grid, while tumbles and random multipliers shape each round."
+      pl: "Kolorowy slot z symbolami słodyczy i owoców. Wygrane tworzą grupy takich samych symboli w dowolnym miejscu planszy, a rozgrywkę uzupełniają kaskady i losowe mnożniki."
+      es: "Slot colorida con dulces y frutas. Grupos de símbolos iguales pagan en cualquier posición; las cascadas y los multiplicadores aleatorios completan la mecánica."
+      pt: "Slot colorido com símbolos de doces e frutas. Os prémios resultam de grupos de símbolos iguais em qualquer posição da grelha, com cascatas e multiplicadores aleatórios."
+      ja: "お菓子とフルーツをテーマにしたカラフルなスロットです。同じシンボルのグループがグリッド上の任意の位置で配当となり、カスケードとランダム倍率が展開します。"
     alt:
       de: "Sweet Bonanza Spielgrafik mit Süßigkeiten und Früchte in einer bunten Fantasiewelt."
       en: "Sweet Bonanza slot game artwork showing sweets and fruit in a colourful fantasy world."
@@ -729,6 +1989,51 @@ games:
       ja: "Sweet Bonanzaのゲームアート。カラフルなファンタジー世界のお菓子とフルーツを描いています。"
   - name: "Wolf Gold"
     anchor: wolf-gold
+    author: dan-michalski
+    author_name: "Dan Michalski"
+    keywords:
+      de:
+        - "Wolf Gold Slot"
+        - "Wolf Gold Spielmechanik"
+        - "Wolf Gold RTP"
+        - "Wolf Gold Volatilität"
+        - "Pragmatic Play Slots"
+        - "Wolf Gold Spielanalyse"
+      en:
+        - "Wolf Gold slot"
+        - "Wolf Gold game mechanics"
+        - "Wolf Gold RTP"
+        - "Wolf Gold volatility"
+        - "Pragmatic Play slots"
+        - "Wolf Gold slot review"
+      pl:
+        - "automat Wolf Gold"
+        - "slot Wolf Gold"
+        - "Wolf Gold mechanika gry"
+        - "Wolf Gold RTP"
+        - "Wolf Gold zmienność"
+        - "automaty Pragmatic Play"
+      es:
+        - "tragamonedas Wolf Gold"
+        - "slot Wolf Gold"
+        - "mecánicas de Wolf Gold"
+        - "RTP de Wolf Gold"
+        - "volatilidad de Wolf Gold"
+        - "tragamonedas Pragmatic Play"
+      pt:
+        - "slot Wolf Gold"
+        - "jogo Wolf Gold"
+        - "mecânicas de Wolf Gold"
+        - "RTP de Wolf Gold"
+        - "volatilidade de Wolf Gold"
+        - "slots Pragmatic Play"
+      ja:
+        - "Wolf Gold スロット"
+        - "Wolf Gold ゲームの仕組み"
+        - "Wolf Gold RTP"
+        - "Wolf Gold ボラティリティ"
+        - "Pragmatic Play スロット"
+        - "Wolf Gold ゲーム分析"
     image: /images/slots/wolf-gold.webp
     provider: "Pragmatic Play"
     label:
@@ -739,12 +2044,12 @@ games:
       pt: "lobos e a natureza selvagem da América do Norte"
       ja: "オオカミと北米の荒野"
     description:
-      de: "Ein Wildnis-Thema mit Freispielen, übergroßen Symbolen und einer separaten Jackpot-Respin-Funktion."
-      en: "A slot built around wolves and the North American wilderness, featuring Wild symbols, respins and jackpot features."
-      pl: "Slot inspirowany motywem wilki i północnoamerykańską dziką przyrodę, z funkcją: symbole Wild, respiny i funkcje jackpot."
-      es: "Una tragamonedas ambientada en lobos y la naturaleza salvaje de Norteamérica, con símbolos Wild, respins y funciones de jackpot."
-      pt: "Um slot inspirado em lobos e a natureza selvagem da América do Norte, com símbolos Wild, respins e funcionalidades de jackpot."
-      ja: "オオカミと北米の荒野をテーマに、Wildシンボル、リスピン、ジャックポット機能を備えたスロットです。"
+      de: "Wildnis-Thema mit Freispielen, übergroßen Symbolen und einer separaten Jackpot-Respin-Funktion. Die Jackpot-Runde folgt eigenen Regeln und ist von normalen Gewinnen getrennt."
+      en: "A wilderness-themed slot with free spins, oversized symbols and a separate jackpot respin feature. The jackpot round follows its own rules and is separate from regular wins."
+      pl: "Slot z motywem dzikiej przyrody, darmowymi spinami, powiększonymi symbolami i osobną funkcją jackpot respin. Runda jackpot ma własne zasady i jest niezależna od zwykłych wygranych."
+      es: "Tragamonedas de naturaleza salvaje con giros gratis, símbolos grandes y una función independiente de respins de jackpot."
+      pt: "Slot de natureza selvagem com rodadas grátis, símbolos grandes e uma funcionalidade independente de jackpot respin."
+      ja: "大自然をテーマに、フリースピン、大型シンボル、独立したジャックポットリスピン機能を備えています。ジャックポットラウンドには通常配当とは別のルールがあります。"
     alt:
       de: "Wolf Gold Spielgrafik mit Wölfe und die nordamerikanische Wildnis."
       en: "Wolf Gold slot game artwork showing wolves and the North American wilderness."
@@ -754,6 +2059,51 @@ games:
       ja: "Wolf Goldのゲームアート。オオカミと北米の荒野を描いています。"
   - name: "Mega Moolah"
     anchor: mega-moolah
+    author: dan-michalski
+    author_name: "Dan Michalski"
+    keywords:
+      de:
+        - "Mega Moolah Slot"
+        - "Mega Moolah Spielmechanik"
+        - "Mega Moolah RTP"
+        - "Mega Moolah Volatilität"
+        - "Microgaming Slots"
+        - "Mega Moolah Spielanalyse"
+      en:
+        - "Mega Moolah slot"
+        - "Mega Moolah game mechanics"
+        - "Mega Moolah RTP"
+        - "Mega Moolah volatility"
+        - "Microgaming slots"
+        - "Mega Moolah slot review"
+      pl:
+        - "automat Mega Moolah"
+        - "slot Mega Moolah"
+        - "Mega Moolah mechanika gry"
+        - "Mega Moolah RTP"
+        - "Mega Moolah zmienność"
+        - "automaty Microgaming"
+      es:
+        - "tragamonedas Mega Moolah"
+        - "slot Mega Moolah"
+        - "mecánicas de Mega Moolah"
+        - "RTP de Mega Moolah"
+        - "volatilidad de Mega Moolah"
+        - "tragamonedas Microgaming"
+      pt:
+        - "slot Mega Moolah"
+        - "jogo Mega Moolah"
+        - "mecânicas de Mega Moolah"
+        - "RTP de Mega Moolah"
+        - "volatilidade de Mega Moolah"
+        - "slots Microgaming"
+      ja:
+        - "Mega Moolah スロット"
+        - "Mega Moolah ゲームの仕組み"
+        - "Mega Moolah RTP"
+        - "Mega Moolah ボラティリティ"
+        - "Microgaming スロット"
+        - "Mega Moolah ゲーム分析"
     image: /images/slots/mega-moolah.jpg
     provider: "Microgaming"
     label:
@@ -764,12 +2114,12 @@ games:
       pt: "um leão e a savana africana"
       ja: "ライオンとアフリカのサバンナ"
     description:
-      de: "Ein Safari-Slot mit vier progressiven Jackpot-Stufen."
-      en: "A slot built around a lion and the African savannah, featuring progressive jackpot tiers."
-      pl: "Slot inspirowany motywem lwa i afrykańską sawannę, z funkcją: progresywne poziomy jackpota."
-      es: "Una tragamonedas ambientada en un león y la sabana africana, con niveles de jackpot progresivo."
-      pt: "Um slot inspirado em um leão e a savana africana, com níveis de jackpot progressivo."
-      ja: "ライオンとアフリカのサバンナをテーマに、段階式プログレッシブジャックポットを備えたスロットです。"
+      de: "Safari-Slot mit vier progressiven Jackpot-Stufen. Das Jackpot-System ist von den regulären Symbolgewinnen getrennt und folgt eigenen Teilnahmebedingungen."
+      en: "A safari-themed slot with four progressive jackpot tiers. The jackpot system is separate from regular symbol wins and has its own eligibility rules."
+      pl: "Slot safari z czterema poziomami progresywnego jackpota. System jackpotowy jest niezależny od zwykłych wygranych za symbole i ma odrębne warunki udziału."
+      es: "Tragamonedas de safari con cuatro niveles de jackpot progresivo, independientes de los premios normales por símbolos."
+      pt: "Slot de safari com quatro níveis de jackpot progressivo. O sistema de jackpot é independente dos prémios normais por símbolos e tem condições próprias de participação."
+      ja: "サファリをテーマにしたスロットで、4段階のプログレッシブジャックポットがあります。ジャックポットは通常のシンボル配当とは別の仕組みで、参加条件も異なります。"
     alt:
       de: "Mega Moolah Spielgrafik mit einen Löwen und die afrikanische Savanne."
       en: "Mega Moolah slot game artwork showing a lion and the African savannah."
@@ -780,6 +2130,51 @@ games:
   - name: "Pirots 4"
     provider: "ELK Studios"
     anchor: pirots-4
+    author: marco-ibarra
+    author_name: "Marco Ibarra"
+    keywords:
+      de:
+        - "Pirots 4 Slot"
+        - "Pirots 4 Spielmechanik"
+        - "Pirots 4 RTP"
+        - "Pirots 4 Volatilität"
+        - "ELK Studios Slots"
+        - "Pirots 4 Spielanalyse"
+      en:
+        - "Pirots 4 slot"
+        - "Pirots 4 game mechanics"
+        - "Pirots 4 RTP"
+        - "Pirots 4 volatility"
+        - "ELK Studios slots"
+        - "Pirots 4 slot review"
+      pl:
+        - "automat Pirots 4"
+        - "slot Pirots 4"
+        - "Pirots 4 mechanika gry"
+        - "Pirots 4 RTP"
+        - "Pirots 4 zmienność"
+        - "automaty ELK Studios"
+      es:
+        - "tragamonedas Pirots 4"
+        - "slot Pirots 4"
+        - "mecánicas de Pirots 4"
+        - "RTP de Pirots 4"
+        - "volatilidad de Pirots 4"
+        - "tragamonedas ELK Studios"
+      pt:
+        - "slot Pirots 4"
+        - "jogo Pirots 4"
+        - "mecânicas de Pirots 4"
+        - "RTP de Pirots 4"
+        - "volatilidade de Pirots 4"
+        - "slots ELK Studios"
+      ja:
+        - "Pirots 4 スロット"
+        - "Pirots 4 ゲームの仕組み"
+        - "Pirots 4 RTP"
+        - "Pirots 4 ボラティリティ"
+        - "ELK Studios スロット"
+        - "Pirots 4 ゲーム分析"
     image: "https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png"
     label:
       de: "6×6-Raster · CollectR · erweiterndes Spielfeld"
@@ -789,11 +2184,11 @@ games:
       pt: "Grelha 6×6 · CollectR · campo expansível"
       ja: "6×6グリッド · CollectR · 拡張するフィールド"
     description:
-      de: "Ein Weltraum-Slot auf einem 6×6-Raster. CollectR, ein wachsendes Spielfeld und Symbolveränderungen prägen den Ablauf; hinzu kommen Space Bandit und das Münzspiel Lost in Space."
+      de: "Weltraum-Slot auf einem 6×6-Raster. CollectR, ein erweiterbares Spielfeld und Symbolveränderungen prägen den Ablauf; dazu kommen Space Bandit und das Münzspiel Lost in Space."
       en: "A space-themed slot on a 6×6 grid. CollectR, an expanding playfield and symbol transformations shape the rounds, alongside Space Bandit and the Lost in Space coin game."
       pl: "Kosmiczny slot na siatce 6×6. CollectR, rozszerzające się pole i przemiany symboli uzupełniają funkcje Space Bandit oraz gra monetarna Lost in Space."
-      es: "Una tragamonedas espacial con cuadrícula de 6×6. CollectR, la expansión del tablero y las transformaciones de símbolos se combinan con Space Bandit y el juego de monedas Lost in Space."
-      pt: "Um slot espacial numa grelha 6×6. CollectR, a expansão do campo e as transformações de símbolos juntam-se ao Space Bandit e ao jogo de moedas Lost in Space."
+      es: "Tragamonedas espacial con cuadrícula de 6×6. CollectR, la expansión del tablero y las transformaciones de símbolos se combinan con Space Bandit y el juego de monedas Lost in Space."
+      pt: "Slot espacial numa grelha 6×6. CollectR, a expansão do campo e as transformações de símbolos juntam-se ao Space Bandit e ao jogo de moedas Lost in Space."
       ja: "6×6グリッドの宇宙テーマのスロットです。CollectR、フィールド拡張、シンボル変換に加え、Space BanditとLost in Spaceのコインゲームが登場します。"
     alt:
       de: "Pirots 4 Spielgrafik mit Weltraumvögeln und dem CollectR-Logo"
@@ -805,6 +2200,51 @@ games:
   - name: "Fire in the Hole 3"
     provider: "Nolimit City"
     anchor: fire-in-the-hole-3
+    author: jon-pill
+    author_name: "Jon Pill"
+    keywords:
+      de:
+        - "Fire in the Hole 3 Slot"
+        - "Fire in the Hole 3 Spielmechanik"
+        - "Fire in the Hole 3 RTP"
+        - "Fire in the Hole 3 Volatilität"
+        - "Nolimit City Slots"
+        - "Fire in the Hole 3 Spielanalyse"
+      en:
+        - "Fire in the Hole 3 slot"
+        - "Fire in the Hole 3 game mechanics"
+        - "Fire in the Hole 3 RTP"
+        - "Fire in the Hole 3 volatility"
+        - "Nolimit City slots"
+        - "Fire in the Hole 3 slot review"
+      pl:
+        - "automat Fire in the Hole 3"
+        - "slot Fire in the Hole 3"
+        - "Fire in the Hole 3 mechanika gry"
+        - "Fire in the Hole 3 RTP"
+        - "Fire in the Hole 3 zmienność"
+        - "automaty Nolimit City"
+      es:
+        - "tragamonedas Fire in the Hole 3"
+        - "slot Fire in the Hole 3"
+        - "mecánicas de Fire in the Hole 3"
+        - "RTP de Fire in the Hole 3"
+        - "volatilidad de Fire in the Hole 3"
+        - "tragamonedas Nolimit City"
+      pt:
+        - "slot Fire in the Hole 3"
+        - "jogo Fire in the Hole 3"
+        - "mecânicas de Fire in the Hole 3"
+        - "RTP de Fire in the Hole 3"
+        - "volatilidade de Fire in the Hole 3"
+        - "slots Nolimit City"
+      ja:
+        - "Fire in the Hole 3 スロット"
+        - "Fire in the Hole 3 ゲームの仕組み"
+        - "Fire in the Hole 3 RTP"
+        - "Fire in the Hole 3 ボラティリティ"
+        - "Nolimit City スロット"
+        - "Fire in the Hole 3 ゲーム分析"
     image: "https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png"
     label:
       de: "Collapsing Mine · xBomb · xSplit"
@@ -814,12 +2254,12 @@ games:
       pt: "Collapsing Mine · xBomb · xSplit"
       ja: "Collapsing Mine · xBomb · xSplit"
     description:
-      de: "Ein Minen-Slot mit einer zusammenbrechenden Spielfläche. xBomb-Wilds, xSplit und xHole verändern das Raster; Lucky-Wagon-Spins bilden eine eigene Bonusphase."
-      en: "A mining-themed slot with a collapsing playfield. xBomb Wilds, xSplit and xHole change the reel area, while Lucky Wagon Spins provide a separate bonus round."
-      pl: "Slot w klimacie kopalni z zapadającym się polem. xBomb Wild, xSplit i xHole zmieniają układ bębnów, a Lucky Wagon Spins tworzą osobną rundę bonusową."
-      es: "Una tragamonedas minera con un tablero que se derrumba. Los Wild xBomb, xSplit y xHole modifican los rodillos; Lucky Wagon Spins ofrece una ronda de bonificación independiente."
-      pt: "Um slot mineiro com um campo que colapsa. Os Wilds xBomb, xSplit e xHole alteram os rolos; Lucky Wagon Spins constitui uma ronda de bónus própria."
-      ja: "崩落する鉱山が舞台のスロットです。xBomb Wild、xSplit、xHoleがリール領域を変化させ、Lucky Wagon Spinsでは独立したボーナスが展開します。"
+      de: "Slot in einer einstürzenden Eismine: xBomb, xSplit, xGod und xHole verändern Symbole und Spielfeld. Lucky Wagon Spins bilden eine eigene Bonusfunktion."
+      en: "A slot set in a collapsing icy mine. xBomb, xSplit, xGod and xHole alter symbols and the playfield, while Lucky Wagon Spins provide a separate bonus feature."
+      pl: "Slot rozgrywający się w zapadającej się, skutej lodem kopalni. xBomb, xSplit, xGod i xHole zmieniają symbole oraz pole gry, a Lucky Wagon Spins stanowią osobną funkcję bonusową."
+      es: "Tragamonedas en una mina helada que se derrumba. xBomb, xSplit, xGod y xHole cambian el tablero; Lucky Wagon Spins añade un bono aparte."
+      pt: "Slot numa mina gelada em colapso. xBomb, xSplit, xGod e xHole alteram o campo; Lucky Wagon Spins é uma funcionalidade de bónus separada."
+      ja: "崩落する氷の鉱山が舞台のスロットです。xBomb、xSplit、xGod、xHoleがシンボルやプレイエリアを変化させ、Lucky Wagon Spinsでは独立したボーナス機能が展開します。"
     alt:
       de: "Fire in the Hole 3 Spielgrafik mit Zwerg, Dynamit und eisiger Mine"
       en: "Fire in the Hole 3 artwork showing a miner, dynamite and an icy mine"
@@ -830,6 +2270,51 @@ games:
   - name: "Razor Shark"
     provider: "Push Gaming"
     anchor: razor-shark
+    author: arthur-mustoe
+    author_name: "Arthur Mustoe"
+    keywords:
+      de:
+        - "Razor Shark Slot"
+        - "Razor Shark Spielmechanik"
+        - "Razor Shark RTP"
+        - "Razor Shark Volatilität"
+        - "Push Gaming Slots"
+        - "Razor Shark Spielanalyse"
+      en:
+        - "Razor Shark slot"
+        - "Razor Shark game mechanics"
+        - "Razor Shark RTP"
+        - "Razor Shark volatility"
+        - "Push Gaming slots"
+        - "Razor Shark slot review"
+      pl:
+        - "automat Razor Shark"
+        - "slot Razor Shark"
+        - "Razor Shark mechanika gry"
+        - "Razor Shark RTP"
+        - "Razor Shark zmienność"
+        - "automaty Push Gaming"
+      es:
+        - "tragamonedas Razor Shark"
+        - "slot Razor Shark"
+        - "mecánicas de Razor Shark"
+        - "RTP de Razor Shark"
+        - "volatilidad de Razor Shark"
+        - "tragamonedas Push Gaming"
+      pt:
+        - "slot Razor Shark"
+        - "jogo Razor Shark"
+        - "mecânicas de Razor Shark"
+        - "RTP de Razor Shark"
+        - "volatilidade de Razor Shark"
+        - "slots Push Gaming"
+      ja:
+        - "Razor Shark スロット"
+        - "Razor Shark ゲームの仕組み"
+        - "Razor Shark RTP"
+        - "Razor Shark ボラティリティ"
+        - "Push Gaming スロット"
+        - "Razor Shark ゲーム分析"
     image: "https://mediumrare.imgix.net/4840bfd5ae610faa311fc61cc6a2f453e291369cce0ad63a17491d8fd95a0bea?auto=format&dpr=2&format=auto&q=50"
     label:
       de: "Mystery Stacks · Razor Reveal · Freispiele"
@@ -839,12 +2324,12 @@ games:
       pt: "Mystery Stacks · Razor Reveal · jogos grátis"
       ja: "Mystery Stacks · Razor Reveal · フリーゲーム"
     description:
-      de: "Ein Unterwasser-Slot mit fünf Walzen, vier Reihen und 20 Gewinnlinien. Mystery Stacks werden aufgedeckt und verschoben; goldene Haie lösen Razor Reveal und Freispiele mit steigenden Multiplikatoren aus."
-      en: "An underwater slot with five reels, four rows and 20 paylines. Mystery Stacks reveal and nudge into place; Golden Shark symbols trigger Razor Reveal and free games with increasing multipliers."
-      pl: "Podwodny slot z pięcioma bębnami, czterema rzędami i 20 liniami. Mystery Stacks odsłaniają symbole i przesuwają je, a złote rekiny uruchamiają Razor Reveal oraz darmowe gry z rosnącymi mnożnikami."
-      es: "Una tragamonedas submarina de cinco rodillos, cuatro filas y 20 líneas. Mystery Stacks revelan y desplazan símbolos; los tiburones dorados activan Razor Reveal y juegos gratis con multiplicadores crecientes."
-      pt: "Um slot subaquático com cinco rolos, quatro filas e 20 linhas. Mystery Stacks revelam e deslocam símbolos; os tubarões dourados ativam Razor Reveal e jogos grátis com multiplicadores crescentes."
-      ja: "5リール、4段、20ペイラインの海中テーマです。Mystery Stacksがシンボルを公開して移動させ、Golden SharkがRazor Revealと倍率上昇型フリーゲームを発動します。"
+      de: "Unterwasser-Slot mit fünf Walzen, vier Reihen und 20 Gewinnlinien. Mystery Stacks decken Symbole auf; Golden Shark startet Razor Reveal und Freispiele."
+      en: "An underwater slot with five reels, four rows and 20 paylines. Mystery Stacks reveal symbols; Golden Shark symbols trigger Razor Reveal and free games with rising multipliers."
+      pl: "Podwodny slot z pięcioma bębnami, czterema rzędami i 20 liniami. Mystery Stacks odsłaniają symbole, a Golden Shark uruchamia Razor Reveal i darmowe gry."
+      es: "Tragamonedas submarina de cinco rodillos, cuatro filas y 20 líneas. Mystery Stacks revelan símbolos; Golden Shark activa Razor Reveal y partidas gratis."
+      pt: "Slot subaquático com cinco rolos, quatro filas e 20 linhas. Mystery Stacks revelam símbolos; Golden Shark ativa Razor Reveal e jogos grátis."
+      ja: "5リール、4段、20ペイラインの海中テーマのスロットです。Mystery Stacksがシンボルを公開し、Golden SharkでRazor Revealと倍率上昇型フリーゲームが発動します。"
     alt:
       de: "Razor Shark Slotgrafik mit einem großen Hai vor blauem Meeresgrund"
       en: "Razor Shark slot artwork featuring a large shark against a blue underwater background"
@@ -855,6 +2340,51 @@ games:
   - name: "Pink Elephants 2 – Reborn"
     provider: "Thunderkick"
     anchor: pink-elephants-2-reborn
+    author: corey-levitan
+    author_name: "Corey Levitan"
+    keywords:
+      de:
+        - "Pink Elephants 2 – Reborn Slot"
+        - "Pink Elephants 2 – Reborn Spielmechanik"
+        - "Pink Elephants 2 – Reborn RTP"
+        - "Pink Elephants 2 – Reborn Volatilität"
+        - "Thunderkick Slots"
+        - "Pink Elephants 2 – Reborn Spielanalyse"
+      en:
+        - "Pink Elephants 2 – Reborn slot"
+        - "Pink Elephants 2 – Reborn game mechanics"
+        - "Pink Elephants 2 – Reborn RTP"
+        - "Pink Elephants 2 – Reborn volatility"
+        - "Thunderkick slots"
+        - "Pink Elephants 2 – Reborn slot review"
+      pl:
+        - "automat Pink Elephants 2 – Reborn"
+        - "slot Pink Elephants 2 – Reborn"
+        - "Pink Elephants 2 – Reborn mechanika gry"
+        - "Pink Elephants 2 – Reborn RTP"
+        - "Pink Elephants 2 – Reborn zmienność"
+        - "automaty Thunderkick"
+      es:
+        - "tragamonedas Pink Elephants 2 – Reborn"
+        - "slot Pink Elephants 2 – Reborn"
+        - "mecánicas de Pink Elephants 2 – Reborn"
+        - "RTP de Pink Elephants 2 – Reborn"
+        - "volatilidad de Pink Elephants 2 – Reborn"
+        - "tragamonedas Thunderkick"
+      pt:
+        - "slot Pink Elephants 2 – Reborn"
+        - "jogo Pink Elephants 2 – Reborn"
+        - "mecânicas de Pink Elephants 2 – Reborn"
+        - "RTP de Pink Elephants 2 – Reborn"
+        - "volatilidade de Pink Elephants 2 – Reborn"
+        - "slots Thunderkick"
+      ja:
+        - "Pink Elephants 2 – Reborn スロット"
+        - "Pink Elephants 2 – Reborn ゲームの仕組み"
+        - "Pink Elephants 2 – Reborn RTP"
+        - "Pink Elephants 2 – Reborn ボラティリティ"
+        - "Thunderkick スロット"
+        - "Pink Elephants 2 – Reborn ゲーム分析"
     image: "https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg"
     label:
       de: "Connecting Pay Ways · Mystery Scatter · Retrigger"
@@ -864,12 +2394,12 @@ games:
       pt: "Connecting Pay Ways · Mystery Scatter · reativações"
       ja: "Connecting Pay Ways · Mystery Scatter · 再トリガー"
     description:
-      de: "Ein surrealer Slot mit sechs Walzen und 4.096 Connecting Pay Ways. Der Mystery Scatter kann Freispiele starten; in der Bonusrunde gibt es Symbolveränderungen und mögliche Retrigger."
-      en: "A surreal slot with six reels and 4,096 Connecting Pay Ways. A Mystery Scatter can start free spins featuring symbol transformations and possible retriggers."
+      de: "Surrealer Slot mit sechs Walzen und 4.096 Connecting Pay Ways. Mystery Scatter kann Freispiele mit Symbolveränderungen und möglichen Retriggern auslösen."
+      en: "A surreal slot with six reels and 4,096 Connecting Pay Ways. Mystery Scatter can trigger free spins with symbol transformations and possible retriggers."
       pl: "Surrealistyczny slot z sześcioma bębnami i 4096 Connecting Pay Ways. Mystery Scatter może uruchomić darmowe spiny z przemianami symboli i możliwością ponownego uruchomienia rundy."
-      es: "Una tragamonedas surrealista de seis rodillos y 4.096 Connecting Pay Ways. El Mystery Scatter puede activar tiradas gratis con transformaciones de símbolos y posibles reactivaciones."
-      pt: "Um slot surrealista com seis rolos e 4.096 Connecting Pay Ways. O Mystery Scatter pode iniciar rodadas grátis com transformações de símbolos e possíveis reativações."
-      ja: "6リール、4,096通りのConnecting Pay Waysを備えた幻想的なスロットです。Mystery Scatterでフリースピンが始まり、シンボル変換や再トリガーが発生します。"
+      es: "Tragamonedas surrealista de seis rodillos y 4.096 Connecting Pay Ways. Mystery Scatter puede activar giros gratis con transformaciones de símbolos y posibles reactivaciones."
+      pt: "Slot surrealista com seis rolos e 4.096 Connecting Pay Ways. Mystery Scatter pode ativar rodadas grátis com transformações de símbolos e possíveis reativações."
+      ja: "6リール、4,096通りのConnecting Pay Waysを備えた幻想的なスロットです。Mystery Scatterでフリースピンが始まり、シンボル変換や再トリガーが発生することがあります。"
     alt:
       de: "Pink Elephants 2 – Reborn Spielgrafik mit pinkem Elefanten und fantasievollen Ziegen"
       en: "Pink Elephants 2 – Reborn artwork featuring a pink elephant and surreal goat characters"
@@ -880,6 +2410,51 @@ games:
   - name: "Temple Tumble"
     provider: "Relax Gaming"
     anchor: temple-tumble
+    author: marco-ibarra
+    author_name: "Marco Ibarra"
+    keywords:
+      de:
+        - "Temple Tumble Slot"
+        - "Temple Tumble Spielmechanik"
+        - "Temple Tumble RTP"
+        - "Temple Tumble Volatilität"
+        - "Relax Gaming Slots"
+        - "Temple Tumble Spielanalyse"
+      en:
+        - "Temple Tumble slot"
+        - "Temple Tumble game mechanics"
+        - "Temple Tumble RTP"
+        - "Temple Tumble volatility"
+        - "Relax Gaming slots"
+        - "Temple Tumble slot review"
+      pl:
+        - "automat Temple Tumble"
+        - "slot Temple Tumble"
+        - "Temple Tumble mechanika gry"
+        - "Temple Tumble RTP"
+        - "Temple Tumble zmienność"
+        - "automaty Relax Gaming"
+      es:
+        - "tragamonedas Temple Tumble"
+        - "slot Temple Tumble"
+        - "mecánicas de Temple Tumble"
+        - "RTP de Temple Tumble"
+        - "volatilidad de Temple Tumble"
+        - "tragamonedas Relax Gaming"
+      pt:
+        - "slot Temple Tumble"
+        - "jogo Temple Tumble"
+        - "mecânicas de Temple Tumble"
+        - "RTP de Temple Tumble"
+        - "volatilidade de Temple Tumble"
+        - "slots Relax Gaming"
+      ja:
+        - "Temple Tumble スロット"
+        - "Temple Tumble ゲームの仕組み"
+        - "Temple Tumble RTP"
+        - "Temple Tumble ボラティリティ"
+        - "Relax Gaming スロット"
+        - "Temple Tumble ゲーム分析"
     image: "https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png"
     label:
       de: "6×6-Raster · Megaways · Kaskaden"
@@ -889,12 +2464,12 @@ games:
       pt: "Grelha 6×6 · Megaways · cascatas"
       ja: "6×6グリッド · Megaways · カスケード"
     description:
-      de: "Ein Dschungel-Abenteuer auf einem 6×6-Raster mit bis zu 46.656 Gewinnwegen. Kaskaden und zerbrechende Steinblöcke führen in Freispiele, bei denen zwischen drei Bonuswelten gewählt wird."
-      en: "A jungle adventure on a 6×6 grid with up to 46,656 ways to win. Cascades and breaking stone blocks lead to free spins, where players choose between three bonus worlds."
-      pl: "Przygoda w dżungli na siatce 6×6 z maksymalnie 46 656 sposobami wygrywania. Kaskady i kamienne bloki prowadzą do darmowych spinów z wyborem jednego z trzech światów."
-      es: "Una aventura selvática en una cuadrícula de 6×6 con hasta 46.656 formas de ganar. Las cascadas y los bloques de piedra conducen a tiradas gratis con elección entre tres mundos."
-      pt: "Uma aventura na selva numa grelha 6×6 com até 46.656 formas de ganhar. As cascatas e os blocos de pedra conduzem a rodadas grátis com escolha entre três mundos."
-      ja: "最大46,656通りの配当方法を持つ6×6グリッドのジャングルアドベンチャーです。カスケードと石ブロックがフリースピンにつながり、3つのボーナスワールドから選択します。"
+      de: "Dschungel-Abenteuer auf 6×6 mit 46.656 Gewinnwegen und lizenzierter Megaways-Mechanik. Kaskaden und Steinblöcke führen zu Freispielen mit drei Bonuswelten."
+      en: "A jungle adventure on a 6×6 grid with 46,656 ways to win and licensed Megaways. Cascades and breakable stone blocks lead to free spins with three bonus worlds."
+      pl: "Przygoda w dżungli: siatka 6×6, 46 656 sposobów wygrywania i licencjonowane Megaways. Kaskady i kamienne bloki prowadzą do darmowych spinów z trzema światami bonusowymi."
+      es: "Aventura selvática: cuadrícula 6×6, 46.656 formas de ganar y Megaways bajo licencia. Cascadas y bloques rompibles conducen a giros gratis con tres mundos."
+      pt: "Aventura na selva: grelha 6×6, 46.656 formas de ganhar e Megaways licenciada. Cascatas e blocos quebráveis levam a rodadas grátis com três mundos."
+      ja: "6×6グリッド、46,656通りの配当方法、ライセンス供与されたMegaways方式を備えたジャングルアドベンチャーです。カスケードと壊せる石ブロックを経て、3つのボーナスワールドから選ぶフリースピンに進みます。"
     alt:
       de: "Temple Tumble Spielgrafik mit goldenem Spieletitel vor einem Dschungeltempel"
       en: "Temple Tumble artwork showing its gold title in front of a jungle temple"

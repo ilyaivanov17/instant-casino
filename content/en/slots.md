@@ -9,15 +9,9 @@ build:
   render: always
   list: always
 aliases:
-- /en/catalog/slots/bigger-bass-bonanza/
-- /en/catalog/slots/bonanza/
-- /en/catalog/slots/book-of-dead/
-- /en/catalog/slots/dragons-luck/
-- /en/catalog/slots/fruit-party/
 - /en/catalog/slots/
 slug: slots
 ---
-
 This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
 
 ## How to read a slot review
@@ -44,886 +38,211 @@ Before playing, confirm the game version, RTP setting where disclosed, stake lim
 
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
-## Bigger Bass Bonanza: a quick guide
+During free spins, Fisherman Wilds collect the values shown on money symbols. More of these Wilds can add spins and raise the multiplier.
 
-Bigger Bass Bonanza uses a fishing theme and a bonus round as its main identity. The stored feature list includes free spins and multipliers. Check the paytable for the symbols that trigger the bonus and the rules that govern it.
+[Read the full game profile]({{< relref "slot-profiles/bigger-bass-bonanza" >}})
 
-### Game overview
-
-| Provider | RTP (theoretical) | Volatility | Stake range | Features |
-|---|---:|---|---|---|
-| Pragmatic Play | 96.71 % | High | 0.2–125 EUR | Scatter symbols, Free spins, Multipliers |
-
-### What the figures do — and do not — tell you
-
-RTP is a theoretical figure calculated over a very large number of rounds. It does not predict the result of a single spin or a short session. The listed volatility is not a forecast of whether you will win.
-
-### What to check before playing
-
-Open the paytable before playing. It explains symbol values, feature triggers and any rules for free spins or jackpots. Set a firm budget and only play where it is legal for you.
-
----
-
-## Bigger Bass Bonanza: In-depth editorial review
-
-This article is an editorial guide to Bigger Bass Bonanza. It distinguishes game information from interpretation and does not predict outcomes.
-
-Bigger Bass Bonanza is listed with Pragmatic Play. The page profile lists Scatter symbols, Free spins, Multipliers, within a theme built around fishing and aquatic imagery. These details describe the site record; they do not replace checking the exact version that loads for a player. Before publication, verify the in-game help, paytable and stake limits directly.
-
-### Theme and first impressions
-
-The artwork gives the game its identity, but a fair review needs to look beyond the theme. With Bigger Bass Bonanza, the useful questions concern symbol values, win conditions, special rules and how clearly the help screen explains them. A colourful presentation cannot tell a reader how often a feature will trigger or how a session will end. Treat the first impression as context, not evidence of likely returns. A good review separates atmosphere from mechanics. Record which information is visible immediately and which requires opening the help menu. If rules are buried across several screens, that is a usability drawback; if they are easy to find, players can make a more informed choice. Clear explanations do not improve the mathematical odds, but they do improve understanding.
-
-### Base game and win logic
-
-The base game is the starting point for every feature. Check which symbols count, which combinations are required, and whether wins follow paylines, clusters or another rule described in the current game. For Bigger Bass Bonanza, take these details from its own paytable rather than promotional copy or a similarly named title. Small differences between versions can change both the rules and the way a feature works. Notice whether the interface explains a win in a way that can be checked. An animation highlights an event, but it is not the settlement record. A careful test notes the combination, the stake used and the amount actually credited. A handful of successful outcomes cannot establish that the game is favourable over the long run.
-
-### Features and triggers
-
-A feature description is useful only when its conditions are clear. Check which symbols or events start a special round, whether a minimum combination is required and which rules apply once the feature begins. For Bigger Bass Bonanza, the in-game help is the authority; related titles may use different triggers, payouts or restrictions even when their names or artwork look alike. Separate three questions: what starts the feature, what changes during it, and how is the result calculated? This prevents a dramatic animation from being mistaken for a better chance of winning. If the help does not explain a trigger precisely, the article should not invent a symbol count or promise a particular sequence.
-
-### Volatility and variance
-
-A volatility label is, at most, a broad guide when the provider explains what it means. It is not a promise of frequent small wins or rare large ones. Consider it alongside the actual rules and your own risk tolerance. A short personal sample cannot reliably reproduce the long-run distribution, and one unusual session should not be treated as proof of a general pattern. A useful review distinguishes observations from claims. “This session included a long stretch without a notable win” describes what happened in that sample. “The game rarely pays” is a much broader claim and cannot be supported by a small number of rounds. Precise wording helps readers avoid forming expectations that the evidence cannot justify.
-
-### Stake range and budget
-
----
-
-### Our analysis
-
-The core loop is easy to follow: the Fisherman Wild collects fish values, while free spins and retriggers determine how the feature develops. The most useful comparison point is how collection and extra spins interact, not the fishing theme alone.
-
-
-
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="bonanza">Bonanza</h2>
 
-## Bonanza: a quick guide
+Bonanza pairs variable Megaways reels with Dual Reactions, sending winning symbols cascading in two directions. Four Scatters start free spins; the game offers up to 117,649 ways.
 
-Bonanza uses the Megaways system, with variable reel heights and cascading wins. Its free-spins round is a separate bonus phase. The site record lists Megaways, cascades and free spins. Check the loaded version's help for exact triggers and rules.
+[Read the full game profile]({{< relref "slot-profiles/bonanza" >}})
 
-### Game overview
-
-| Provider | RTP (theoretical) | Volatility | Stake range | Features |
-|---|---:|---|---|---|
-| Big Time Gaming | 96.1 % | Medium | 0.1–50 EUR | Megaways, Cascades, Free spins |
-
-### What the figures do — and do not — tell you
-
-RTP is a theoretical figure calculated over a very large number of rounds. It does not predict the result of a single spin or a short session. The listed volatility is not a forecast of whether you will win.
-
-### What to check before playing
-
-Open the paytable before playing. It explains symbol values, feature triggers and any rules for free spins or jackpots. Set a firm budget and only play where it is legal for you.
-
----
-
-## Bonanza: In-depth editorial review
-
-This article is an editorial guide to Bonanza. It distinguishes game information from interpretation and does not predict outcomes.
-
-Bonanza is listed with Big Time Gaming. The page profile lists Megaways, Cascades, Free spins, within a theme built around a compact, high-energy slot presentation. These details describe the site record; they do not replace checking the exact version that loads for a player. Before publication, verify the in-game help, paytable and stake limits directly.
-
-### Theme and first impressions
-
-The artwork gives the game its identity, but a fair review needs to look beyond the theme. With Bonanza, the useful questions concern symbol values, win conditions, special rules and how clearly the help screen explains them. A colourful presentation cannot tell a reader how often a feature will trigger or how a session will end. Treat the first impression as context, not evidence of likely returns. A good review separates atmosphere from mechanics. Record which information is visible immediately and which requires opening the help menu. If rules are buried across several screens, that is a usability drawback; if they are easy to find, players can make a more informed choice. Clear explanations do not improve the mathematical odds, but they do improve understanding.
-
-### Base game and win logic
-
-The base game is the starting point for every feature. Check which symbols count, which combinations are required, and whether wins follow paylines, clusters or another rule described in the current game. For Bonanza, take these details from its own paytable rather than promotional copy or a similarly named title. Small differences between versions can change both the rules and the way a feature works. Notice whether the interface explains a win in a way that can be checked. An animation highlights an event, but it is not the settlement record. A careful test notes the combination, the stake used and the amount actually credited. A handful of successful outcomes cannot establish that the game is favourable over the long run.
-
-### Features and triggers
-
-A feature description is useful only when its conditions are clear. Check which symbols or events start a special round, whether a minimum combination is required and which rules apply once the feature begins. For Bonanza, the in-game help is the authority; related titles may use different triggers, payouts or restrictions even when their names or artwork look alike. Separate three questions: what starts the feature, what changes during it, and how is the result calculated? This prevents a dramatic animation from being mistaken for a better chance of winning. If the help does not explain a trigger precisely, the article should not invent a symbol count or promise a particular sequence.
-
-### Volatility and variance
-
-A volatility label is, at most, a broad guide when the provider explains what it means. It is not a promise of frequent small wins or rare large ones. Consider it alongside the actual rules and your own risk tolerance. A short personal sample cannot reliably reproduce the long-run distribution, and one unusual session should not be treated as proof of a general pattern. A useful review distinguishes observations from claims. “This session included a long stretch without a notable win” describes what happened in that sample. “The game rarely pays” is a much broader claim and cannot be supported by a small number of rounds. Precise wording helps readers avoid forming expectations that the evidence cannot justify.
-
-### Stake range and budget
-
----
-
-### Our analysis
-
-Bonanza pairs a changing Megaways grid with cascading wins and a multiplier that can build during free spins. Its defining detail is the way each cascade can affect the next multiplier step.
-
-
-
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="book-of-dead">Book of Dead</h2>
 
-## Book of Dead: a quick guide
+Rich Wilde’s Egyptian quest leads to free spins when Scatter symbols land. Before the bonus begins, one symbol is selected and can expand across the reels during the feature.
 
-Book of Dead uses an ancient-Egypt adventure theme built around its central book symbol. Scatters, free spins and an expanding symbol are key parts of the game’s familiar feature set. Before playing, check the paytable to see how the free-spin round starts and which symbol can expand.
+[Read the full game profile]({{< relref "slot-profiles/book-of-dead" >}})
 
-### Game overview
-
-| Provider | RTP (theoretical) | Volatility | Stake range | Features |
-|---|---:|---|---|---|
-| Play'n GO | 96.21 % | High | 0.1–50 EUR | Scatter symbols, Free spins, Expanding symbol |
-
-### What the figures do — and do not — tell you
-
-RTP is a theoretical figure calculated over a very large number of rounds. It does not predict the result of a single spin or a short session. The listed volatility is not a forecast of whether you will win.
-
-### What to check before playing
-
-Open the paytable before playing. It explains symbol values, feature triggers and any rules for free spins or jackpots. Set a firm budget and only play where it is legal for you.
-
----
-
-## Book of Dead: In-depth editorial review
-
-This article is an editorial guide to Book of Dead. It distinguishes game information from interpretation and does not predict outcomes.
-
-Book of Dead is listed with Play'n GO. The page profile lists Scatter symbols, Free spins, Expanding symbol, within a theme built around an ancient-Egypt adventure theme. These details describe the site record; they do not replace checking the exact version that loads for a player. Before publication, verify the in-game help, paytable and stake limits directly.
-
-### Theme and first impressions
-
-The artwork gives the game its identity, but a fair review needs to look beyond the theme. With Book of Dead, the useful questions concern symbol values, win conditions, special rules and how clearly the help screen explains them. A colourful presentation cannot tell a reader how often a feature will trigger or how a session will end. Treat the first impression as context, not evidence of likely returns. A good review separates atmosphere from mechanics. Record which information is visible immediately and which requires opening the help menu. If rules are buried across several screens, that is a usability drawback; if they are easy to find, players can make a more informed choice. Clear explanations do not improve the mathematical odds, but they do improve understanding.
-
-### Base game and win logic
-
-The base game is the starting point for every feature. Check which symbols count, which combinations are required, and whether wins follow paylines, clusters or another rule described in the current game. For Book of Dead, take these details from its own paytable rather than promotional copy or a similarly named title. Small differences between versions can change both the rules and the way a feature works. Notice whether the interface explains a win in a way that can be checked. An animation highlights an event, but it is not the settlement record. A careful test notes the combination, the stake used and the amount actually credited. A handful of successful outcomes cannot establish that the game is favourable over the long run.
-
-### Features and triggers
-
-A feature description is useful only when its conditions are clear. Check which symbols or events start a special round, whether a minimum combination is required and which rules apply once the feature begins. For Book of Dead, the in-game help is the authority; related titles may use different triggers, payouts or restrictions even when their names or artwork look alike. Separate three questions: what starts the feature, what changes during it, and how is the result calculated? This prevents a dramatic animation from being mistaken for a better chance of winning. If the help does not explain a trigger precisely, the article should not invent a symbol count or promise a particular sequence.
-
-### Volatility and variance
-
-A volatility label is, at most, a broad guide when the provider explains what it means. It is not a promise of frequent small wins or rare large ones. Consider it alongside the actual rules and your own risk tolerance. A short personal sample cannot reliably reproduce the long-run distribution, and one unusual session should not be treated as proof of a general pattern. A useful review distinguishes observations from claims. “This session included a long stretch without a notable win” describes what happened in that sample. “The game rarely pays” is a much broader claim and cannot be supported by a small number of rounds. Precise wording helps readers avoid forming expectations that the evidence cannot justify.
-
-### Stake range and budget
-
----
-
-### Our analysis
-
-Book of Dead keeps its bonus structure focused on one expanding symbol selected for free spins. That clear, single-mechanic format makes it a useful reference point for comparing other Egyptian book-style slots.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
-## Dragon's Luck: a quick guide
+Dragon Coin, Dragon’s Help and Mega Coin are the defining coin features in Dragon’s Luck. The in-game guide outlines their triggers and how each one affects a round.
 
-Dragon's Luck is a Red Tiger slot built around dragon-themed artwork and the Dragon Coin, Dragon's Help and Mega Coin features. Check the official game information and the paytable in the loaded version for their exact rules.
+[Read the full game profile]({{< relref "slot-profiles/dragons-luck" >}})
 
-### Game overview
-
-| Provider | RTP (theoretical) | Volatility | Stake range | Features |
-|---|---:|---|---|---|
-| Red Tiger | 94.71 % | High | Check in game | Dragon Coin, Dragon's Help, Mega Coin |
-
-### What the figures do — and do not — tell you
-
-RTP is a theoretical figure calculated over a very large number of rounds. It does not predict the result of a single spin or a short session. The listed volatility is not a forecast of whether you will win.
-
-### What to check before playing
-
-Open the paytable before playing. It explains symbol values, feature triggers and any rules for free spins or jackpots. Set a firm budget and only play where it is legal for you.
-
----
-
-## Dragon's Luck: In-depth editorial review
-
-This article is an editorial guide to Dragon's Luck. It distinguishes game information from interpretation and does not predict outcomes.
-
-The official game listing identifies Dragon's Luck as a Red Tiger title and names Dragon Coin, Dragon's Help and Mega Coin among its features. The published RTP is 94.71%, while the exact stake range and any operator-specific settings should be checked in the loaded game.
-
-### Theme and first impressions
-
-The artwork gives the game its identity, but a fair review needs to look beyond the theme. With Dragon's Luck, the useful questions concern symbol values, win conditions, special rules and how clearly the help screen explains them. A colourful presentation cannot tell a reader how often a feature will trigger or how a session will end. Treat the first impression as context, not evidence of likely returns. A good review separates atmosphere from mechanics. Record which information is visible immediately and which requires opening the help menu. If rules are buried across several screens, that is a usability drawback; if they are easy to find, players can make a more informed choice. Clear explanations do not improve the mathematical odds, but they do improve understanding.
-
-### Base game and win logic
-
-The base game is the starting point for every feature. Check which symbols count, which combinations are required, and whether wins follow paylines, clusters or another rule described in the current game. For Dragon's Luck, take these details from its own paytable rather than promotional copy or a similarly named title. Small differences between versions can change both the rules and the way a feature works. Notice whether the interface explains a win in a way that can be checked. An animation highlights an event, but it is not the settlement record. A careful test notes the combination, the stake used and the amount actually credited. A handful of successful outcomes cannot establish that the game is favourable over the long run.
-
-### Features and triggers
-
-A feature description is useful only when its conditions are clear. Check which symbols or events start a special round, whether a minimum combination is required and which rules apply once the feature begins. For Dragon's Luck, the in-game help is the authority; related titles may use different triggers, payouts or restrictions even when their names or artwork look alike. Separate three questions: what starts the feature, what changes during it, and how is the result calculated? This prevents a dramatic animation from being mistaken for a better chance of winning. If the help does not explain a trigger precisely, the article should not invent a symbol count or promise a particular sequence.
-
-### Volatility and variance
-
-A volatility label is, at most, a broad guide when the provider explains what it means. It is not a promise of frequent small wins or rare large ones. Consider it alongside the actual rules and your own risk tolerance. A short personal sample cannot reliably reproduce the long-run distribution, and one unusual session should not be treated as proof of a general pattern. A useful review distinguishes observations from claims. “This session included a long stretch without a notable win” describes what happened in that sample. “The game rarely pays” is a much broader claim and cannot be supported by a small number of rounds. Precise wording helps readers avoid forming expectations that the evidence cannot justify.
-
-### Stake range and budget
-
----
-
-### Our analysis
-
-Dragon's Luck centres on coin symbols that reveal or transform symbols on the reels rather than a conventional free-spin sequence. The paytable is the best guide to the exact role of Dragon Coin and Mega Coin.
-
-
-
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="fruit-party">Fruit Party</h2>
 
-## Fruit Party: a quick guide
+Fruit Party pays by clusters on a 7×7 grid, not traditional paylines. Winning symbols tumble away; Golden Fruit Scatters start free spins with more chances for multipliers.
 
-Fruit Party combines bright fruit artwork with tumble wins and multipliers. The stored feature list also includes free spins. The in-game rules explain how consecutive wins work and what is required to trigger the bonus.
+[Read the full game profile]({{< relref "slot-profiles/fruit-party" >}})
 
-### Game overview
-
-| Provider | RTP (theoretical) | Volatility | Stake range | Features |
-|---|---:|---|---|---|
-| Pragmatic Play | 96.47 % | High | 0.2–100 EUR | Tumble, Win multipliers, Free spins |
-
-### What the figures do — and do not — tell you
-
-RTP is a theoretical figure calculated over a very large number of rounds. It does not predict the result of a single spin or a short session. The listed volatility is not a forecast of whether you will win.
-
-### What to check before playing
-
-Open the paytable before playing. It explains symbol values, feature triggers and any rules for free spins or jackpots. Set a firm budget and only play where it is legal for you.
-
----
-
-## Fruit Party: In-depth editorial review
-
-This article is an editorial guide to Fruit Party. It distinguishes game information from interpretation and does not predict outcomes.
-
-Fruit Party is listed with Pragmatic Play. The page profile lists Tumble mechanic, Win multipliers, Free spins, within a theme built around bright fruit imagery and a light arcade-like presentation. These details describe the site record; they do not replace checking the exact version that loads for a player. Before publication, verify the in-game help, paytable and stake limits directly.
-
-### Theme and first impressions
-
-The artwork gives the game its identity, but a fair review needs to look beyond the theme. With Fruit Party, the useful questions concern symbol values, win conditions, special rules and how clearly the help screen explains them. A colourful presentation cannot tell a reader how often a feature will trigger or how a session will end. Treat the first impression as context, not evidence of likely returns. A good review separates atmosphere from mechanics. Record which information is visible immediately and which requires opening the help menu. If rules are buried across several screens, that is a usability drawback; if they are easy to find, players can make a more informed choice. Clear explanations do not improve the mathematical odds, but they do improve understanding.
-
-### Base game and win logic
-
-The base game is the starting point for every feature. Check which symbols count, which combinations are required, and whether wins follow paylines, clusters or another rule described in the current game. For Fruit Party, take these details from its own paytable rather than promotional copy or a similarly named title. Small differences between versions can change both the rules and the way a feature works. Notice whether the interface explains a win in a way that can be checked. An animation highlights an event, but it is not the settlement record. A careful test notes the combination, the stake used and the amount actually credited. A handful of successful outcomes cannot establish that the game is favourable over the long run.
-
-### Features and triggers
-
-A feature description is useful only when its conditions are clear. Check which symbols or events start a special round, whether a minimum combination is required and which rules apply once the feature begins. For Fruit Party, the in-game help is the authority; related titles may use different triggers, payouts or restrictions even when their names or artwork look alike. Separate three questions: what starts the feature, what changes during it, and how is the result calculated? This prevents a dramatic animation from being mistaken for a better chance of winning. If the help does not explain a trigger precisely, the article should not invent a symbol count or promise a particular sequence.
-
-### Volatility and variance
-
-A volatility label is, at most, a broad guide when the provider explains what it means. It is not a promise of frequent small wins or rare large ones. Consider it alongside the actual rules and your own risk tolerance. A short personal sample cannot reliably reproduce the long-run distribution, and one unusual session should not be treated as proof of a general pattern. A useful review distinguishes observations from claims. “This session included a long stretch without a notable win” describes what happened in that sample. “The game rarely pays” is a much broader claim and cannot be supported by a small number of rounds. Precise wording helps readers avoid forming expectations that the evidence cannot justify.
-
-### Stake range and budget
-
-### Our analysis
-
-Fruit Party uses a 7×7 cluster grid, where one winning group can trigger a cascade and create a new board state. Multiplier symbols matter because they can influence successive wins within the same spin.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="starburst">Starburst</h2>
 
-A slot built around space and colourful gemstones, featuring expanding Wilds and respins.
+Starburst pairs a space-and-gem theme with a simple hook: a Wild on the central reels can expand to cover a reel and trigger respins.
 
-| Provider | Listed features |
-|---|---|
-| NetEnt | Expanding Wild symbols, Respins |
+[Read the full game profile]({{< relref "slot-profiles/starburst" >}})
 
-
-The expanding Wild feature can change how symbols connect across the reels; check the game rules for its exact trigger and respin conditions.
-
-### Our analysis
-
-Starburst is built around a compact Wild-and-respin loop instead of a long multi-stage bonus. Its uncluttered grid and easily recognised feature explain much of its enduring identity.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="the-dog-house">The Dog House</h2>
 
-A slot built around dogs and a playful doghouse, featuring Sticky Wilds and free spins.
+The Dog House builds its free-spins feature around Sticky Wilds: once they land, they stay in position for the round. Dogs and kennels set the playful scene.
 
-| Provider | Listed features |
-|---|---|
-| Pragmatic Play | Sticky Wilds, Free spins |
+[Read the full game profile]({{< relref "slot-profiles/the-dog-house" >}})
 
-
-Sticky Wilds remain in position during the relevant feature, making the bonus-round rules and symbol positions especially important.
-
-### Our analysis
-
-Sticky Wilds make The Dog House bonus round a game of position and persistence: a Wild that stays on the reels changes the combinations available on later spins. The barrel and retrigger rules are the details worth checking.
-
-
-
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
-A slot built around ancient Egyptian temples and golden scarabs, featuring free spins and expanding symbols.
+Scatter symbols open Legacy of Dead’s free spins. During the bonus, one selected symbol can expand across several reel positions.
 
-| Provider | Listed features |
-|---|---|
-| Play'n GO | Free spins, expanding symbols |
+[Read the full game profile]({{< relref "slot-profiles/legacy-of-dead" >}})
 
-
-The expanding-symbol feature changes the reel layout during free spins; the paytable explains which symbol is selected and how the expansion works.
-
-### Our analysis
-
-Legacy of Dead develops the familiar expanding-symbol book format by allowing retriggers to add further expanding symbols. That progression is the key distinction to look for when comparing its bonus with similar titles.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="reactoonz">Reactoonz</h2>
 
-A slot built around colourful aliens in a space setting, featuring cluster wins and the Quantum Leap feature.
+Matching symbols form clusters on Reactoonz’s 7×7 grid. Wins charge Gargantoon; when it is full, Quantum Leap sets off a sequence of extra features.
 
-| Provider | Listed features |
-|---|---|
-| Play'n GO | Cluster pays, Quantum Leap |
+[Read the full game profile]({{< relref "slot-profiles/reactoonz" >}})
 
-
-Wins are evaluated through adjacent symbol groups rather than standard paylines, so the required cluster size and symbol-clearing rules matter.
-
-### Our analysis
-
-Reactoonz is more than a cluster grid: its charge meter, creature transformations and chain reactions create a feature sequence that develops over time. The meter thresholds are central to understanding the game.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
-A slot built around cowboys and gold in the Wild West, featuring Sticky Wilds and respins.
+Wild West Gold brings Sticky Wilds and respins to its Western setting. Wild symbols can stay on the reels during the feature and contribute to later combinations.
 
-| Provider | Listed features |
-|---|---|
-| Pragmatic Play | Sticky Wilds, Multipliers, Respins |
+[Read the full game profile]({{< relref "slot-profiles/wild-west-gold" >}})
 
-
-Sticky Wilds remain in position during the relevant feature, making the bonus-round rules and symbol positions especially important.
-
-### Our analysis
-
-Wild West Gold combines sticky multiplier Wilds with sheriff-star symbols that can extend the free-spins round. The interaction between retained Wild positions and extra spins is more informative than the Western theme alone.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="starlight-princess">Starlight Princess</h2>
 
-A slot built around a magical princess in a fantasy world, featuring tumble wins and multipliers.
+Starlight Princess pays for matching symbols anywhere on the grid. Random multipliers can add together, while free spins build a running total multiplier.
 
-| Provider | Listed features |
-|---|---|
-| Pragmatic Play | Cascades, zufällige Multipliers |
+[Read the full game profile]({{< relref "slot-profiles/starlight-princess" >}})
 
-
-Winning symbols are removed and replaced, allowing consecutive results within one paid spin; multiplier rules vary by game.
-
-### Our analysis
-
-Starlight Princess combines pay-anywhere cluster wins, tumbles and random multipliers. A useful analysis follows how multipliers are collected and applied to a tumble sequence rather than treating them as a general bonus label.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
-A slot built around buffalo and wildlife across the North American prairie, featuring Megaways reels and cascades.
+In Buffalo King Megaways, changing symbol counts alter reel heights and the available ways to win. Cascades remove winning symbols and let new ones drop into place.
 
-| Provider | Listed features |
-|---|---|
-| Pragmatic Play | Megaways, variable reel height, Cascades |
+[Read the full game profile]({{< relref "slot-profiles/buffalo-king-megaways" >}})
 
-
-The number of symbols on each reel can vary from spin to spin, changing the available winning ways; the displayed game rules define the exact range.
-
-### Our analysis
-
-Buffalo King Megaways combines variable reel heights with cascades and multiplier Wilds in free spins. Its two layers should be read separately: the changing number of ways in the base game and the multiplier rules in the bonus.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="mega-fortune">Mega Fortune</h2>
 
-A slot built around a luxury yacht and a glittering jackpot, featuring progressive jackpot tiers.
+Mega Fortune pairs a yacht-and-luxury theme with free spins and progressive jackpots. Each jackpot tier has its own eligibility rules and is separate from regular symbol wins.
 
-| Provider | Listed features |
-|---|---|
-| NetEnt | Free spins, progressive jackpot system |
+[Read the full game profile]({{< relref "slot-profiles/mega-fortune" >}})
 
-
-The jackpot element follows its own rules and may depend on the version or operator; check the live game display for current eligibility and prize details.
-
-### Our analysis
-
-Mega Fortune has two distinct bonus routes: free spins with modifiers and a separate jackpot wheel. Jackpot eligibility and prize tiers are separate from ordinary symbol wins and must be checked in the live version.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
-A slot built around a dusty Wild West town and gunslingers, featuring multiple free-spins modes.
+Dead or Alive 2 sets its action in the Wild West and offers several free-spins modes to choose from. Each mode comes with its own modifiers and bonus rules.
 
-| Provider | Listed features |
-|---|---|
-| NetEnt | Mehrere auswählbare Free spins-Modi |
+[Read the full game profile]({{< relref "slot-profiles/dead-or-alive-2" >}})
 
-
-The free-spins feature has its own entry and round rules, including any retrigger conditions; these should be checked in the in-game help.
-
-### Our analysis
-
-Three different free-spins modes make player choice part of Dead or Alive 2's bonus design. Compare the modifiers and rules of each mode instead of treating the bonus as one uniform feature.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="twin-spin">Twin Spin</h2>
 
-A slot built around classic slot symbols and linked reels, featuring twin-reel features and random symbols.
+A classic fruit-symbol slot with linked reels. The Twin Reel feature can synchronise reels and change the layout.
 
-| Provider | Listed features |
-|---|---|
-| NetEnt | Twin-reel feature, linked reels |
+[Read the full game profile]({{< relref "slot-profiles/twin-spin" >}})
 
-
-Linked reels can act together as a feature, so the way matching symbols are copied or paired is central to understanding the game.
-
-### Our analysis
-
-Twin Spin puts linked reels at the centre of the experience: random synchronisation changes the reel layout before winning combinations are evaluated. Its simplicity makes the timing and extent of the linked-reel feature the main point of interest.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
-A slot built around Anubis and ancient Egyptian imagery, featuring collectible symbols and bonus features.
+An ancient-Egypt inspired cluster slot with collection symbols and bonus features. The collection mechanic shapes how the bonus round develops.
 
-| Provider | Listed features |
-|---|---|
-| Hacksaw Gaming | Cluster pays, collection symbols, bonus features |
+[Read the full game profile]({{< relref "slot-profiles/hand-of-anubis" >}})
 
-
-Collection symbols and bonus triggers determine how the feature develops; consult the paytable for the exact collection and award conditions.
-
-### Our analysis
-
-Hand of Anubis combines cluster pays with collection and bonus features. The important analytical question is how symbols are gathered and how each stage changes the state of the feature round.
-
-
-
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="sugar-rush">Sugar Rush</h2>
 
-A slot built around sweets, candy and a colourful fantasy world, featuring cluster wins and growing multipliers.
+A 7×7 cluster slot with tumbling wins and multipliers on marked grid positions. Marked positions and their multipliers persist during free spins.
 
-| Provider | Listed features |
-|---|---|
-| Pragmatic Play | 7×7 clusters, Cascades, Multipliers |
+[Read the full game profile]({{< relref "slot-profiles/sugar-rush" >}})
 
-
-Wins are evaluated through adjacent symbol groups rather than standard paylines, so the required cluster size and symbol-clearing rules matter.
-
-### Our analysis
-
-Sugar Rush uses a 7×7 cluster grid with tumbles and multipliers that can remain on the board. The distinctive detail is how multiplier positions may influence later cascades in the same spin.
-
-
-
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-A slot built around vampire characters and a gothic romance, featuring free spins and the Wild Desire feature.
+A gothic vampire-themed slot with several character-based free-spins modes. The Chamber of Spins offers different versions of the bonus round.
 
-| Provider | Listed features |
-|---|---|
-| Microgaming | Charakterbezogene Free spins-Modi |
+[Read the full game profile]({{< relref "slot-profiles/immortal-romance" >}})
 
-
-The free-spins feature has its own entry and round rules, including any retrigger conditions; these should be checked in the in-game help.
-
-### Our analysis
-
-Immortal Romance offers several character-led free-spins modes through its Chamber of Spins structure. Each mode has a different modifier, so the bonus architecture and the story presentation work together.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
-A slot built around five golden lions in an Asian-inspired temple setting, featuring Megaways reels and free spins.
+A Megaways slot featuring five golden lions. Variable reel heights change the available ways to win, while free spins add a separate bonus round.
 
-| Provider | Listed features |
-|---|---|
-| Pragmatic Play | Megaways, Free spins |
+[Read the full game profile]({{< relref "slot-profiles/5-lions-megaways" >}})
 
-
-The number of symbols on each reel can vary from spin to spin, changing the available winning ways; the displayed game rules define the exact range.
-
-### Our analysis
-
-5 Lions Megaways combines a variable-reel Megaways format with an Asian-inspired symbol set and a free-spins feature. Separate the changing ways count from the rules that govern the bonus round.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="le-bandit">Le Bandit</h2>
 
-A slot built around a raccoon thief in a Parisian setting, featuring cluster wins and bonus features.
+A cluster slot featuring a raccoon thief in a Parisian setting. Winning symbol groups and a collection-based bonus structure shape the gameplay.
 
-| Provider | Listed features |
-|---|---|
-| Hacksaw Gaming | Cluster pays, collection-based bonus structure |
+[Read the full game profile]({{< relref "slot-profiles/le-bandit" >}})
 
-
-Wins are evaluated through adjacent symbol groups rather than standard paylines, so the required cluster size and symbol-clearing rules matter.
-
-### Our analysis
-
-Le Bandit uses a cluster grid and a collection-led bonus structure, creating a more layered feature round than a classic line slot. The key is how the bonus symbols interact, not the raccoon character alone.
-
-
-
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
-A slot built around masked gunslingers in the Wild West, featuring bonus rounds and duel features.
+A Wild West slot featuring DuelReels: VS symbols can expand into Wild reels, applying a multiplier to wins that pass through them. Several bonus modes are also available.
 
-| Provider | Listed features |
-|---|---|
-| Hacksaw Gaming | Western theme, duel presentation, multiple bonus modes |
+[Read the full game profile]({{< relref "slot-profiles/wanted-dead-or-a-wild" >}})
 
-
-The bonus round is a central part of the game, but its trigger and sequence are version-specific details best confirmed in the paytable.
-
-### Our analysis
-
-Wanted Dead or a Wild stands out for its different bonus modes and duel-style presentation. A useful comparison looks at the choices and modifiers in each mode rather than relying on headline win figures.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="money-train-3">Money Train 3</h2>
 
-A slot built around a futuristic train and two outlaws, featuring bonus symbols and multiplier features.
+An outlaw-themed slot with a Hold-and-Respin bonus round. Feature symbols collect values, modify symbols and can build multipliers.
 
-| Provider | Listed features |
-|---|---|
-| Relax Gaming | persistent feature symbols, collection mechanics, Multipliers |
+[Read the full game profile]({{< relref "slot-profiles/money-train-3" >}})
 
-
-Collection symbols and bonus triggers determine how the feature develops; consult the paytable for the exact collection and award conditions.
-
-### Our analysis
-
-Money Train 3 gives its persistent feature characters distinct roles, such as collecting values or applying multipliers during the respin round. The combinations between those roles are the game's main analytical focus.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="money-train-4">Money Train 4</h2>
 
-A slot built around outlaws and a futuristic train adventure, featuring collectible symbols and bonus features.
+An outlaw-themed slot with an expanded Hold-and-Respin bonus round. Different feature symbols add collection, upgrade and multiplier effects.
 
-| Provider | Listed features |
-|---|---|
-| Relax Gaming | Hold-and-Respin, feature symbols, modifiers |
+[Read the full game profile]({{< relref "slot-profiles/money-train-4" >}})
 
-
-Collection symbols and bonus triggers determine how the feature develops; consult the paytable for the exact collection and award conditions.
-
-### Our analysis
-
-Money Train 4 expands the feature-symbol roster and adds more layers to the hold-and-respin format. Understanding what each modifier does is more useful than simply counting the number of special symbols.
-
-
-
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
-A slot built around Norse gods and the world of Vikings, featuring free spins and special bonus features.
+A Norse mythology slot with four character-based free-spins modes. The bonus round is divided into chambers with different rules.
 
-| Provider | Listed features |
-|---|---|
-| Microgaming | Norse mythology, vier Free spins-Modi |
+[Read the full game profile]({{< relref "slot-profiles/thunderstruck-ii" >}})
 
-
-The free-spins feature has its own entry and round rules, including any retrigger conditions; these should be checked in the in-game help.
-
-### Our analysis
-
-Thunderstruck II organises its free spins into four character-linked chambers, each with a different modifier. The unlock progression and the contrast between the modes are central to the game's structure.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
-A slot built around colourful fruit and a bright fantasy world, featuring cluster wins and multipliers.
+A 7×7 fruit-cluster slot where winning clusters can leave Wilds with rising multipliers. In free spins, Wild multipliers can reach up to 729×.
 
-| Provider | Listed features |
-|---|---|
-| Pragmatic Play | Cluster pays, Wild and multiplier effects, Free spins |
+[Read the full game profile]({{< relref "slot-profiles/fruit-party-2" >}})
 
-
-Wins are evaluated through adjacent symbol groups rather than standard paylines, so the required cluster size and symbol-clearing rules matter.
-
-### Our analysis
-
-Fruit Party 2 builds on the fruit-cluster format with evolving Wild and multiplier effects alongside free spins. It is worth comparing how its Wild growth works with the original rather than assuming the two versions are identical.
-
-
-
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
-A slot built around Zeus and a grand temple on Mount Olympus, featuring tumble wins and multipliers.
+A Zeus-themed slot without traditional paylines: matching symbols pay anywhere, tumbles continue winning sequences and random multipliers can add together.
 
-| Provider | Listed features |
-|---|---|
-| Pragmatic Play | No traditional paylines, Cascades, zufällige Multipliers |
+[Read the full game profile]({{< relref "slot-profiles/gates-of-olympus" >}})
 
-
-Winning symbols are removed and replaced, allowing consecutive results within one paid spin; multiplier rules vary by game.
-
-### Our analysis
-
-Gates of Olympus uses a no-payline grid and random multiplier symbols, giving it a different rhythm from traditional line slots. The key detail is when multipliers are collected and how they apply to the current tumble sequence.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
-A slot built around an explorer searching for El Dorado, featuring cascading wins and rising multipliers.
+An adventure slot with Avalanche cascades: winning symbols disappear and are replaced. Consecutive Avalanche wins increase the multiplier within a spin.
 
-| Provider | Listed features |
-|---|---|
-| NetEnt | Avalanche-Cascades, steigende Multipliers |
+[Read the full game profile]({{< relref "slot-profiles/gonzos-quest" >}})
 
-
-Winning symbols are removed and replaced, allowing consecutive results within one paid spin; multiplier rules vary by game.
-
-### Our analysis
-
-Gonzo's Quest turns a spin into a sequence of linked outcomes through Avalanche wins and rising multipliers. The explorer character, jungle setting and soundtrack are also important parts of its recognisable identity.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
-A slot built around sweets and fruit in a colourful fantasy world, featuring tumble wins and multipliers.
+A colourful slot with candy and fruit symbols. Wins come from matching groups anywhere on the grid, while tumbles and random multipliers shape each round.
 
-| Provider | Listed features |
-|---|---|
-| Pragmatic Play | symbol groups, Tumble-Cascades, zufällige Multipliers |
+[Read the full game profile]({{< relref "slot-profiles/sweet-bonanza" >}})
 
-
-Winning symbols are removed and replaced, allowing consecutive results within one paid spin; multiplier rules vary by game.
-
-### Our analysis
-
-Sweet Bonanza combines fruit-and-candy clusters with tumbles and random multipliers. Its central loop is the repeated symbol drop within a single spin, presented through a bright, distinctive visual theme.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-A slot built around wolves and the North American wilderness, featuring Wild symbols, respins and jackpot features.
+A wilderness-themed slot with free spins, oversized symbols and a separate jackpot respin feature. The jackpot round follows its own rules and is separate from regular wins.
 
-| Provider | Listed features |
-|---|---|
-| Pragmatic Play | Free spins, übergroße Symbole, jackpot respins |
+[Read the full game profile]({{< relref "slot-profiles/wolf-gold" >}})
 
-
-The jackpot element follows its own rules and may depend on the version or operator; check the live game display for current eligibility and prize details.
-
-### Our analysis
-
-Wolf Gold combines a classic payline layout with oversized symbols in free spins and a separate jackpot-respin feature. These are two different bonus routes and should be assessed independently.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-A slot built around a lion and the African savannah, featuring progressive jackpot tiers.
+A safari-themed slot with four progressive jackpot tiers. The jackpot system is separate from regular symbol wins and has its own eligibility rules.
 
-| Provider | Listed features |
-|---|---|
-| Microgaming | Safari theme, four progressive jackpot levels |
-
-
-The jackpot element follows its own rules and may depend on the version or operator; check the live game display for current eligibility and prize details.
-
-### Our analysis
-
-Mega Moolah pairs a classic payline game with four progressive jackpot tiers, while free spins add a separate multiplier mechanic. A clear profile distinguishes ordinary game features from the linked jackpot network.
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
+[Read the full game profile]({{< relref "slot-profiles/mega-moolah" >}})
 
 <h2 id="pirots-4">Pirots 4</h2>
 
-Pirots 4 combines a space adventure with a 6×6 grid. Its CollectR mechanic, expanding playfield and symbol transformations shape each round. Special features include Space Bandit and the Lost in Space coin game.
+A space-themed slot on a 6×6 grid. CollectR, an expanding playfield and symbol transformations shape the rounds, alongside Space Bandit and the Lost in Space coin game.
 
-| Provider | Listed mechanics |
-|---|---|
-| ELK Studios | 6×6 grid, CollectR, expanding playfield, symbol transformations, bonus and coin game |
-
-### What to check before playing
-
-Use the help screen in the version you open to confirm how CollectR symbols are collected and valued, what starts the bonus game and how the expanding grid works.
-
-### Editorial insight
-
-The profile separates the core CollectR mechanic from additional grid events. ELK Studios notes that collected progress and upgrades can persist during the bonus round. [Official game information](https://www.elk-studios.com/games/pirots-4/)
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
+[Read the full game profile]({{< relref "slot-profiles/pirots-4" >}})
 
 <h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
 
-Fire in the Hole 3 takes place in an icy mine where the playfield changes through successive collapses. xBomb Wilds, xSplit and xHole affect symbols and reel positions, while Lucky Wagon Spins form a separate bonus feature.
+A slot set in a collapsing icy mine. xBomb, xSplit, xGod and xHole alter symbols and the playfield, while Lucky Wagon Spins provide a separate bonus feature.
 
-| Provider | Listed mechanics |
-|---|---|
-| Nolimit City | Collapsing Mine, xBomb, xSplit, xHole, Wild Mining, Lucky Wagon Spins |
-
-### What to check before playing
-
-The in-game help should clarify what triggers a mine collapse, how the xMechanics interact and which conditions apply to Lucky Wagon Spins.
-
-### Editorial insight
-
-Unlike a conventional cascading slot, the mine can reveal additional rows as collapses occur. Nolimit City also describes buried features inside ice blocks and several enhancers during the bonus feature. [Official game information](https://nolimitcity.com/posts/fire-in-the-hole-3-now-live)
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
+[Read the full game profile]({{< relref "slot-profiles/fire-in-the-hole-3" >}})
 
 <h2 id="razor-shark">Razor Shark</h2>
 
-Razor Shark is an underwater slot with five reels, four rows and 20 paylines. Mystery Stacks reveal symbols and can nudge down the reels. Golden Shark symbols trigger Razor Reveal, while free games add increasing multipliers.
+An underwater slot with five reels, four rows and 20 paylines. Mystery Stacks reveal symbols; Golden Shark symbols trigger Razor Reveal and free games with rising multipliers.
 
-| Provider | Listed mechanics |
-|---|---|
-| Push Gaming | Mystery Stacks, Nudge & Reveal, Razor Reveal, free games, increasing multipliers |
-
-### What to check before playing
-
-Push Gaming states that RTP can vary between casino versions. Check the figure in the information panel and on the loading screen of the specific game offered to you. Confirm the scatter requirements and free-game rules in the live help screen.
-
-### Editorial insight
-
-The distinctive element is the combination of nudging Mystery Stacks and Razor Reveal. The official game information explains how additional scatters can enhance the free games round. [Official game information](https://www.pushgaming.com/games/razor-shark.html)
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
+[Read the full game profile]({{< relref "slot-profiles/razor-shark" >}})
 
 <h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
 
-Pink Elephants 2 – Reborn is a surreal slot with six reels and 4,096 Connecting Pay Ways. A Mystery Scatter can start free spins, which include symbol transformations and possible retriggers.
+A surreal slot with six reels and 4,096 Connecting Pay Ways. Mystery Scatter can trigger free spins with symbol transformations and possible retriggers.
 
-| Provider | Listed mechanics |
-|---|---|
-| Thunderkick | 6 reels, 4,096 Connecting Pay Ways, Mystery Scatter, free spins, symbol transformations, retriggers |
-
-### What to check before playing
-
-Use the game help to confirm how Connecting Pay Ways are evaluated, the scatter requirements and when a retrigger can occur. RTP and stake limits should be taken from the version actually loaded by the operator.
-
-### Editorial insight
-
-Mystery Scatter and symbol transformations define the bonus round. Thunderkick publishes game specifications, but the live version offered by an operator remains the relevant reference. [Official game information](https://www.thunderkick.com/games/pink-elephants-2-reborn/)
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>
+[Read the full game profile]({{< relref "slot-profiles/pink-elephants-2-reborn" >}})
 
 <h2 id="temple-tumble">Temple Tumble</h2>
 
-Temple Tumble is a jungle adventure on a 6×6 grid with up to 46,656 ways to win. Winning symbols tumble away, while breakable stone blocks help open the route to free spins. The bonus round offers a choice between three worlds.
+A jungle adventure on a 6×6 grid with 46,656 ways to win and licensed Megaways. Cascades and breakable stone blocks lead to free spins with three bonus worlds.
 
-| Provider | Listed mechanics |
-|---|---|
-| Relax Gaming | 6×6 grid, Megaways, cascades, breakable blocks, free spins with three selectable worlds |
+[Read the full game profile]({{< relref "slot-profiles/temple-tumble" >}})
 
-### What to check before playing
-
-Relax Gaming lists different RTP configurations for different markets. Check the version label and rules in the game that is actually loaded. Confirm the available free-spin choices in its help screen.
-
-### Editorial insight
-
-The game combines cascading wins with a progress mechanic built around stone blocks. The bonus round presents three worlds; their exact effects should be checked against the current game help. [Official game information](https://www.relax-gaming.com/products/casino/templetumble)
-
-<div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
-</div>

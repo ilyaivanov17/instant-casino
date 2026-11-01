@@ -8,9 +8,28 @@
 {{ $brand := $settings.brand | default site.Title }}
 {{ $title := .Params.seo_title | default (cond .IsHome $brand (printf "%s | %s" .Title $brand)) }}
 {{ $description := .Params.description | default $settings.description }}
+{{ $keywords := .Params.keywords | default slice }}
+{{ $authorSlug := .Params.author | default "" }}
+{{ $authorName := .Params.author_name | default "" }}
+{{/* Use the localized catalogue summary as the SEO description for standalone slot profiles. */}}
+{{ $translationKey := .Params.translationKey | default "" }}
+{{ if hasPrefix $translationKey "slot-profile-" }}
+  {{ $profileSlug := strings.TrimPrefix "slot-profile-" $translationKey }}
+  {{ range site.Data.slot_catalog.games }}
+    {{ if eq .anchor $profileSlug }}
+      {{ $localizedDescription := index .description $.Site.Language.Lang | default (index .description "en") }}
+      {{ with $localizedDescription }}{{ $description = . }}{{ end }}
+      {{ $keywords = index .keywords $.Site.Language.Lang | default (index .keywords "en") }}
+      {{ $authorSlug = .author }}
+      {{ $authorName = .author_name }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $metaAuthor := $authorName | default ($settings.author | default "Instant Casino Redaktion") }}
 <title>{{ $title }}</title>
 <meta name="description" content="{{ $description }}">
-{{ with $settings.author }}<meta name="author" content="{{ . }}">{{ end }}
+<meta name="author" content="{{ $metaAuthor }}">
+{{ with $keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
 {{ $isAuthorProfile := eq .Type "author" }}
 {{ $reviewTest := .Params.test | default dict }}
 {{/* Indexing policy: all public pages are indexable. Only tracking/redirect URLs under /go/ are excluded. */}}
@@ -99,7 +118,7 @@
   "description":{{ $description | jsonify | safeJS }},
   "inLanguage":{{ .Site.Language.Lang | jsonify | safeJS }},
   "mainEntityOfPage":{"@type":"WebPage","@id":{{ .Permalink | jsonify | safeJS }}},
-  "author":{{ with .Params.author }}{{ $authorPage := site.GetPage (printf "/authors/%s" .) }}{{ if $authorPage }}{"@type":"Person","@id":{{ printf "%s#person" $authorPage.Permalink | jsonify | safeJS }},"name":{{ $authorPage.Title | jsonify | safeJS }},"url":{{ $authorPage.Permalink | jsonify | safeJS }}}{{ else }}{"@type":"Organization","name":{{ $settings.author | jsonify | safeJS }}}{{ end }}{{ else }}{"@type":"Organization","name":{{ $settings.author | jsonify | safeJS }}}{{ end }},
+  "author":{{ if and $authorSlug $authorName }}{"@type":"Person","@id":{{ printf "%s%s/authors/%s/#person" (strings.TrimSuffix "/" site.BaseURL) $.Site.LanguagePrefix $authorSlug | jsonify | safeJS }},"name":{{ $authorName | jsonify | safeJS }},"url":{{ printf "%s%s/authors/%s/" (strings.TrimSuffix "/" site.BaseURL) $.Site.LanguagePrefix $authorSlug | jsonify | safeJS }}}{{ else }}{"@type":"Organization","name":{{ $settings.author | jsonify | safeJS }}}{{ end }},
   "publisher":{"@type":"Organization","name":{{ $brand | jsonify | safeJS }},"url":{{ .Site.BaseURL | jsonify | safeJS }}}
   {{- with .Date }},"datePublished":{{ .Format "2006-01-02" | jsonify | safeJS }}{{ end }}
   {{- with .Lastmod }},"dateModified":{{ .Format "2006-01-02" | jsonify | safeJS }}{{ end }}

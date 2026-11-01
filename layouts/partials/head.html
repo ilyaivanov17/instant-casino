@@ -8,6 +8,17 @@
 {{ $brand := $settings.brand | default site.Title }}
 {{ $title := .Params.seo_title | default (cond .IsHome $brand (printf "%s | %s" .Title $brand)) }}
 {{ $description := .Params.description | default $settings.description }}
+{{/* Use the localized catalogue summary as the SEO description for standalone slot profiles. */}}
+{{ $translationKey := .Params.translationKey | default "" }}
+{{ if hasPrefix $translationKey "slot-profile-" }}
+  {{ $profileSlug := strings.TrimPrefix "slot-profile-" $translationKey }}
+  {{ range site.Data.slot_catalog.games }}
+    {{ if eq .anchor $profileSlug }}
+      {{ $localizedDescription := index .description $.Site.Language.Lang | default (index .description "en") }}
+      {{ with $localizedDescription }}{{ $description = . }}{{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 <title>{{ $title }}</title>
 <meta name="description" content="{{ $description }}">
 {{ with $settings.author }}<meta name="author" content="{{ . }}">{{ end }}

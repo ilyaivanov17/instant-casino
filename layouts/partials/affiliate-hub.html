@@ -48,7 +48,7 @@
     <p class="de-ranking-note">{{ index $t "rankingNote" }}</p>
   </section>
   <p class="de-affiliate-disclosure">{{ index $t "disclosure" }}</p>
-  <div class="de-wager-calculator" data-wager-calculator data-calculator-lang="{{ $lang }}">
+  <div class="de-wager-calculator" data-wager-calculator data-calculator-lang="{{ $lang }}" data-error="{{ index $t "error" }}" data-base-bonus="{{ index $t "baseBonus" }}" data-base-deposit="{{ index $t "baseDeposit" }}" data-turnover-label="{{ index $t "turnover" }}" data-at-weight="{{ index $t "atWeight" }}" data-weight-tail="{{ index $t "weightTail" }}" data-stakes-tail="{{ index $t "stakesTail" }}">
     <div class="de-calculator-copy">
       <span class="de-affiliate-eyebrow">{{ index $t "calcEyebrow" }}</span>
       <h2>{{ index $t "calcTitle" }}</h2>

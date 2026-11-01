@@ -136,9 +136,11 @@ def main():
         errors.append("Missing localized expert-analysis partial")
     else:
         expert_text = expert_partial.read_text(encoding="utf-8")
-        for lang in LANGS:
+        for lang in LANGS[:-1]:
             if f'eq $lang "{lang}"' not in expert_text:
                 errors.append(f"Expert-analysis partial has no {lang} branch")
+        if "{{ else }}" not in expert_text:
+            errors.append("Expert-analysis partial has no Japanese fallback branch")
         if "data-slot-expert-analysis" not in expert_text:
             errors.append("Expert-analysis partial is missing its testable section marker")
     single_layout = (ROOT / "layouts" / "_default" / "single.html").read_text(encoding="utf-8")

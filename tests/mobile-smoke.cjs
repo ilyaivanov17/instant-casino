@@ -102,7 +102,7 @@ async function inspectPage(page, path, expectedCards = null) {
 
   for (const path of slotRoutes) {
     const page = await browser.newPage({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 1 });
-    const check = await inspectPage(page, path, 30);
+    const check = await inspectPage(page, path, 35);
     if (!check.ok) failed = true;
     await page.close();
   }

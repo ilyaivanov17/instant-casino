@@ -420,3 +420,8 @@ Con tarjetas y transferencias, considera la titularidad y los días bancarios. C
 - Guarda la referencia y usa canales de soporte oficiales.
 
 Los datos del catálogo están estructurados para comparar opciones. Antes de depositar, activar un bono o pagar, consulta las condiciones vigentes para tu país y cuenta.
+
+
+## Más información
+
+[Guía de retiradas rápidas en casinos]({{< relref "schnelle-auszahlung" >}})

@@ -359,10 +359,14 @@ async function inspectPage(page, path, expectedCards = null) {
     const profileResponse = await page.goto('http://127.0.0.1:4173' + profilePath, { waitUntil: 'networkidle' });
     const profileTableCount = await page.locator('table').count();
     const profileH1 = await page.locator('h1').first().textContent();
+    const profileDescription = (await page.locator('article header p').first().textContent() || '').trim();
+    const metaDescription = (await page.locator('meta[name="description"]').getAttribute('content') || '').trim();
     const canonical = await page.locator('link[rel="canonical"]').getAttribute('href');
     const hreflangCount = await page.locator('link[rel="alternate"][hreflang]').count();
+    const profileSummaryOk = profileDescription.includes('Dual Reactions') && profileDescription === metaDescription;
     const profileOk = profileResponse?.status() === 200 && profileTableCount === 1 &&
-      profileH1.includes('Bonanza') && canonical.includes('/slots/bonanza/') && hreflangCount === 7;
+      profileH1.includes('Bonanza') && canonical.includes('/slots/bonanza/') &&
+      hreflangCount === 7 && profileSummaryOk;
     const contentOk = hubOk && profileOk;
     await page.goto('http://127.0.0.1:4173' + item.path, { waitUntil: 'networkidle' });
     let calculationOk = false;

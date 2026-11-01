@@ -5,7 +5,7 @@ seo_title: "Temple Tumble: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-temple-tumble"
 url: "/pl/slots/temple-tumble/"
-ogImage: "\"https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png\""
+ogImage: "https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png"
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Grafika Temple Tumble ze złotym tytułem na tle świątyni w dżungli]("https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png")
+![Grafika Temple Tumble ze złotym tytułem na tle świątyni w dżungli](https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png)
 
 Temple Tumble to przygoda w dżungli na siatce 6×6 z maksymalnie 46 656 sposobami wygrywania. Symbole znikają w kaskadach, a kamienne bloki otwierają drogę do darmowych spinów. W rundzie bonusowej wybiera się jeden z trzech światów.
 

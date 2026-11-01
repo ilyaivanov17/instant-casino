@@ -5,7 +5,7 @@ seo_title: "Pirots 4: ゲームの仕組みと機能 | Instant Casino"
 type: slots
 translationKey: "slot-profile-pirots-4"
 url: "/ja/slots/pirots-4/"
-ogImage: "\"https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png\""
+ogImage: "https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png"
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![宇宙を旅する鳥たちとCollectRロゴを描いたPirots 4のゲームアート]("https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png")
+![宇宙を旅する鳥たちとCollectRロゴを描いたPirots 4のゲームアート](https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png)
 
 Pirots 4は6×6グリッドの宇宙テーマのスロットです。CollectR、フィールド拡張、シンボル変換がゲーム展開を形作り、Space BanditとLost in Spaceのコインゲームも登場します。
 

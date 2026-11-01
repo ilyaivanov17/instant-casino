@@ -5,7 +5,7 @@ seo_title: "Pink Elephants 2 – Reborn: ゲームの仕組みと機能 | Instan
 type: slots
 translationKey: "slot-profile-pink-elephants-2-reborn"
 url: "/ja/slots/pink-elephants-2-reborn/"
-ogImage: "\"https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg\""
+ogImage: "https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg"
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![ピンクの象と幻想的なヤギのキャラクターを描いたPink Elephants 2 – Rebornのゲームアート]("https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg")
+![ピンクの象と幻想的なヤギのキャラクターを描いたPink Elephants 2 – Rebornのゲームアート](https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg)
 
 Pink Elephants 2 – Rebornは、6リールと4,096通りのConnecting Pay Waysを備えた幻想的なスロットです。Mystery Scatterでフリースピンが始まり、シンボル変換や再トリガーが発生します。
 

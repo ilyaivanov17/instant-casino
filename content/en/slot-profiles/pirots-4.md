@@ -5,7 +5,7 @@ seo_title: "Pirots 4: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-pirots-4"
 url: "/en/slots/pirots-4/"
-ogImage: "\"https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png\""
+ogImage: "https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png"
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Pirots 4 artwork featuring spacefaring birds and the CollectR logo]("https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png")
+![Pirots 4 artwork featuring spacefaring birds and the CollectR logo](https://www.elk-studios.com/app/uploads/2025/06/pirots4_lostinspace.png)
 
 Pirots 4 combines a space adventure with a 6×6 grid. Its CollectR mechanic, expanding playfield and symbol transformations shape each round. Special features include Space Bandit and the Lost in Space coin game.
 

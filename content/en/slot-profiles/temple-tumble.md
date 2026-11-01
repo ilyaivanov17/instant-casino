@@ -5,7 +5,7 @@ seo_title: "Temple Tumble: Game mechanics & features | Instant Casino"
 type: slots
 translationKey: "slot-profile-temple-tumble"
 url: "/en/slots/temple-tumble/"
-ogImage: "\"https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png\""
+ogImage: "https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png"
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Temple Tumble artwork showing its gold title in front of a jungle temple]("https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png")
+![Temple Tumble artwork showing its gold title in front of a jungle temple](https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png)
 
 Temple Tumble is a jungle adventure on a 6×6 grid with up to 46,656 ways to win. Winning symbols tumble away, while breakable stone blocks help open the route to free spins. The bonus round offers a choice between three worlds.
 

@@ -5,7 +5,7 @@ seo_title: "Temple Tumble: Spielmechanik & Funktionen | Instant Casino"
 type: slots
 translationKey: "slot-profile-temple-tumble"
 url: "/slots/temple-tumble/"
-ogImage: "\"https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png\""
+ogImage: "https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png"
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Temple Tumble Spielgrafik mit goldenem Spieletitel vor einem Dschungeltempel]("https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png")
+![Temple Tumble Spielgrafik mit goldenem Spieletitel vor einem Dschungeltempel](https://clientarea.relax-gaming.com/gameassets/templetumble/thumbnail2x/WH6ZbZZczeFSfeb75huV/thumbnail_Temple_Tumble_600x600.png)
 
 Temple Tumble ist ein Dschungel-Abenteuer auf einem 6×6-Raster mit bis zu 46.656 Gewinnwegen. Gewinnsymbole verschwinden in Kaskaden, während zerbrechende Steinblöcke den Weg in Freispiele öffnen. Dort wird eine von drei Bonuswelten gewählt.
 

@@ -5,7 +5,7 @@ seo_title: "Pink Elephants 2 – Reborn: mecânicas e funcionalidades | Instant 
 type: slots
 translationKey: "slot-profile-pink-elephants-2-reborn"
 url: "/pt/slots/pink-elephants-2-reborn/"
-ogImage: "\"https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg\""
+ogImage: "https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg"
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Arte de Pink Elephants 2 – Reborn com um elefante cor-de-rosa e personagens de cabras surreais]("https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg")
+![Arte de Pink Elephants 2 – Reborn com um elefante cor-de-rosa e personagens de cabras surreais](https://www.thunderkick.com/wp-content/uploads/2023/04/BANNER_1920x1080_pink-elephants2.jpg)
 
 Pink Elephants 2 – Reborn é um slot surrealista com seis rolos e 4.096 Connecting Pay Ways. O Mystery Scatter pode iniciar rodadas grátis com transformações de símbolos e possíveis reativações.
 

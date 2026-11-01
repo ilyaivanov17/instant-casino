@@ -5,7 +5,7 @@ seo_title: "Fire in the Hole 3: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-fire-in-the-hole-3"
 url: "/pt/slots/fire-in-the-hole-3/"
-ogImage: "\"https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png\""
+ogImage: "https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png"
 lastmod: "2026-11-01"
 article_review_status: editorial-review-pending
 
@@ -14,7 +14,7 @@ build:
   list: always
 ---
 
-![Arte de Fire in the Hole 3 com um mineiro, dinamite e uma mina gelada]("https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png")
+![Arte de Fire in the Hole 3 com um mineiro, dinamite e uma mina gelada](https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png)
 
 Fire in the Hole 3 decorre numa mina gelada cujo campo se altera com cada desmoronamento. Os Wilds xBomb, xSplit e xHole afetam os símbolos e rolos; Lucky Wagon Spins é uma função de bónus independente.
 

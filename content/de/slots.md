@@ -172,43 +172,43 @@ DuelReels prägt diesen Western-Slot: VS-Symbole können sich zu Wild-Walzen aus
 
 <h2 id="money-train-3">Money Train 3</h2>
 
-Outlaw-Thema mit einer Hold-and-Respin-Bonusrunde. Funktionssymbole sammeln Werte, verändern Symbole und können Multiplikatoren aufbauen.
+In der Hold-and-Respin-Runde zeigen Outlaw-Symbole verschiedene Rollen: Sie sammeln Werte, verändern das Feld oder bauen Multiplikatoren auf.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/money-train-3" >}})
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-Outlaw-Slot mit einer erweiterten Hold-and-Respin-Bonusrunde. Verschiedene Funktionssymbole bringen eigene Sammel-, Upgrade- und Multiplikatoreffekte mit.
+Die erweiterte Hold-and-Respin-Runde setzt auf ein größeres Arsenal an Funktionssymbolen, die Werte sammeln, Symbole aufwerten und Multiplikatoren auslösen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/money-train-4" >}})
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
-Nordische Mythologie mit vier charakterbezogenen Freispiele-Modi. Die Bonusrunde ist in unterschiedliche Kammern mit eigenen Regeln aufgeteilt.
+Vier Figuren öffnen eigene Freispiel-Kammern mit unterschiedlichen Modifikatoren. Der Fortschritt durch diese Modi prägt den Bonus von Thunderstruck II.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/thunderstruck-ii" >}})
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
-7×7-Frucht-Cluster-Slot: Gewinnende Cluster können Wilds mit wachsenden Multiplikatoren hinterlassen. In Freispielen können Wild-Multiplikatoren bis zu 729× erreichen.
+Auf dem 7×7-Raster bilden Früchte Cluster; Treffer können Wilds mit steigenden Multiplikatoren hinterlassen, die in Freispielen bis 729× reichen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/fruit-party-2" >}})
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
-Zeus-Thema ohne klassische Gewinnlinien: Gleiche Symbole zahlen an beliebigen Positionen, Kaskaden setzen Gewinne fort und zufällige Multiplikatoren können sich addieren.
+Bei Zeus zählen gleiche Symbole überall auf dem Raster statt auf Linien. Kaskaden halten den Spin am Laufen, während zufällige Multiplikatoren zusammenwirken.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/gates-of-olympus" >}})
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
-Abenteuer-Slot mit Avalanche-Kaskaden: Gewinnsymbole verschwinden und werden ersetzt. Aufeinanderfolgende Avalanche-Treffer erhöhen den Multiplikator innerhalb eines Spins.
+Gonzos Expedition nutzt Avalanche: Gewinnsymbole fallen weg und neue rücken nach. Jede weitere Avalanche im selben Spin erhöht den Multiplikator.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/gonzos-quest" >}})
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
-Farbenfroher Slot mit Süßigkeiten- und Fruchtsymbolen. Gewinne entstehen durch Symbolgruppen an beliebigen Positionen; Kaskaden und zufällige Multiplikatoren prägen den Ablauf.
+Süßigkeiten und Früchte zahlen als Symbolgruppen an beliebigen Rasterpositionen. Nach Treffern fallen neue Symbole nach; Zufalls-Multiplikatoren können die Folge verstärken.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/sweet-bonanza" >}})
 

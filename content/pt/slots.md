@@ -164,43 +164,43 @@ DuelReels distingue esta slot do Oeste: os símbolos VS podem expandir-se em rol
 
 <h2 id="money-train-3">Money Train 3</h2>
 
-Slot com tema de foras da lei e uma ronda de bónus Hold and Respin. Os símbolos especiais recolhem valores, alteram outros símbolos e podem acumular multiplicadores.
+Na ronda Hold and Respin, os símbolos dos foras da lei têm funções próprias: recolhem valores, alteram símbolos ou acumulam multiplicadores.
 
 [Ler o perfil completo]({{< relref "slot-profiles/money-train-3" >}})
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-Slot com tema de foras da lei e uma ronda Hold and Respin expandida. Os vários símbolos especiais acrescentam efeitos de recolha, melhoria e multiplicação.
+A ronda Hold and Respin alargada reúne mais símbolos especiais, com efeitos de recolha, melhoria e multiplicação que mudam cada resultado.
 
 [Ler o perfil completo]({{< relref "slot-profiles/money-train-4" >}})
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
-Slot inspirado na mitologia nórdica, com quatro modos de rodadas grátis associados a personagens. A ronda de bónus divide-se em câmaras com regras distintas.
+Quatro personagens abrem câmaras de rodadas grátis, cada uma com um modificador próprio. A progressão entre modos define o bónus.
 
 [Ler o perfil completo]({{< relref "slot-profiles/thunderstruck-ii" >}})
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
-Slot de clusters de fruta 7×7. Os grupos vencedores podem deixar símbolos Wild com multiplicadores crescentes, que nas rodadas grátis podem chegar a 729×.
+Na grelha 7×7, as frutas formam grupos; os acertos podem deixar Wilds com multiplicadores crescentes, que nas rodadas grátis chegam a 729×.
 
 [Ler o perfil completo]({{< relref "slot-profiles/fruit-party-2" >}})
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
-Slot de Zeus sem linhas tradicionais: símbolos iguais pagam em qualquer posição, com cascatas e multiplicadores aleatórios.
+Com Zeus, não há linhas fixas: símbolos iguais pagam em qualquer posição. As quedas prolongam a jogada e os multiplicadores aleatórios podem somar-se.
 
 [Ler o perfil completo]({{< relref "slot-profiles/gates-of-olympus" >}})
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
-Slot de aventura com cascatas Avalanche: os símbolos vencedores desaparecem e são substituídos. As vitórias consecutivas na mesma jogada aumentam o multiplicador.
+Avalanche remove os símbolos premiados e faz cair outros. Cada nova vitória em cascata na mesma jogada aumenta o multiplicador.
 
 [Ler o perfil completo]({{< relref "slot-profiles/gonzos-quest" >}})
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
-Slot colorido com símbolos de doces e frutas. Os prémios resultam de grupos de símbolos iguais em qualquer posição da grelha, com cascatas e multiplicadores aleatórios.
+Doces e frutas pagam em grupos em qualquer zona da grelha. Após um prémio, caem novos símbolos e os multiplicadores aleatórios podem reforçar a sequência.
 
 [Ler o perfil completo]({{< relref "slot-profiles/sweet-bonanza" >}})
 

@@ -164,43 +164,43 @@ DuelReels defines this Wild West slot: VS symbols can expand into Wild reels and
 
 <h2 id="money-train-3">Money Train 3</h2>
 
-An outlaw-themed slot with a Hold-and-Respin bonus round. Feature symbols collect values, modify symbols and can build multipliers.
+Money Train 3 gives its outlaw symbols distinct jobs in Hold and Respin: some collect values, others alter symbols or build multipliers.
 
 [Read the full game profile]({{< relref "slot-profiles/money-train-3" >}})
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-An outlaw-themed slot with an expanded Hold-and-Respin bonus round. Different feature symbols add collection, upgrade and multiplier effects.
+Its expanded Hold and Respin round adds a broader cast of feature symbols, with collection, upgrade and multiplier effects shaping each result.
 
 [Read the full game profile]({{< relref "slot-profiles/money-train-4" >}})
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
-A Norse mythology slot with four character-based free-spins modes. The bonus round is divided into chambers with different rules.
+Four characters unlock their own free-spins chambers, each with a different modifier. Progress through these modes defines the Thunderstruck II bonus.
 
 [Read the full game profile]({{< relref "slot-profiles/thunderstruck-ii" >}})
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
-A 7×7 fruit-cluster slot where winning clusters can leave Wilds with rising multipliers. In free spins, Wild multipliers can reach up to 729×.
+Fruit clusters form on a 7×7 grid; winning groups can leave Wilds with rising multipliers, which can reach 729× during free spins.
 
 [Read the full game profile]({{< relref "slot-profiles/fruit-party-2" >}})
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
-A Zeus-themed slot without traditional paylines: matching symbols pay anywhere, tumbles continue winning sequences and random multipliers can add together.
+Zeus presides over a grid with no fixed paylines: matching symbols pay anywhere, tumbles extend the sequence and random multipliers can combine.
 
 [Read the full game profile]({{< relref "slot-profiles/gates-of-olympus" >}})
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
-An adventure slot with Avalanche cascades: winning symbols disappear and are replaced. Consecutive Avalanche wins increase the multiplier within a spin.
+Gonzo's Quest uses Avalanche drops: winning symbols disappear and replacements fall into place. Each consecutive hit in one spin raises the multiplier.
 
 [Read the full game profile]({{< relref "slot-profiles/gonzos-quest" >}})
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
-A colourful slot with candy and fruit symbols. Wins come from matching groups anywhere on the grid, while tumbles and random multipliers shape each round.
+Candy and fruit pay in matching groups anywhere on the grid. After a win, fresh symbols tumble in, while random multipliers can boost the sequence.
 
 [Read the full game profile]({{< relref "slot-profiles/sweet-bonanza" >}})
 

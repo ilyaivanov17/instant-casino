@@ -164,43 +164,43 @@ Mechanika DuelReels wyróżnia ten slot westernowy: symbole VS mogą rozszerzyć
 
 <h2 id="money-train-3">Money Train 3</h2>
 
-Slot z motywem banitów i rundą bonusową Hold and Respin. Symbole funkcyjne zbierają wartości, zmieniają symbole i mogą budować mnożniki.
+Runda Hold and Respin przypisuje symbolom banitów różne role: zbierają wartości, zmieniają układ lub budują mnożniki.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/money-train-3" >}})
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-Slot z motywem banitów z rozbudowaną rundą Hold and Respin. Różne symbole funkcyjne odpowiadają za zbieranie wartości, ulepszenia i mnożniki.
+Rozbudowana runda Hold and Respin wprowadza więcej symboli funkcyjnych; ich efekty zbierania, ulepszania i mnożników nakładają się na siebie.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/money-train-4" >}})
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
-Slot inspirowany mitologią nordycką z czterema trybami darmowych spinów związanymi z postaciami. Runda bonusowa dzieli się na komnaty o różnych zasadach.
+Cztery postacie otwierają własne komnaty darmowych spinów, każdą z innym modyfikatorem. Odblokowywanie trybów nadaje kształt bonusowi.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/thunderstruck-ii" >}})
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
-Slot owocowy 7×7 z wygranymi klastrowymi. Wygrywające grupy mogą pozostawiać symbole Wild z rosnącymi mnożnikami, które w darmowych spinach mogą osiągać 729×.
+Na siatce 7×7 owoce tworzą klastry, a trafienia mogą zostawiać Wildy z rosnącymi mnożnikami; podczas darmowych spinów sięgają one 729×.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/fruit-party-2" >}})
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
-Slot z motywem Zeusa bez klasycznych linii wypłat. Takie same symbole mogą wygrywać w dowolnym miejscu, kaskady kontynuują sekwencje, a losowe mnożniki mogą się sumować.
+U Zeusa wygrywają grupy identycznych symboli w dowolnym miejscu siatki. Kaskady przedłużają spin, a losowe mnożniki mogą się sumować.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/gates-of-olympus" >}})
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
-Slot przygodowy z kaskadami Avalanche: wygrywające symbole znikają i są zastępowane nowymi. Kolejne wygrane w ramach jednego spinu zwiększają mnożnik.
+Avalanche usuwa wygrywające symbole i sprowadza kolejne. Każda następna wygrana kaskadowa w tym samym spinie zwiększa mnożnik.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/gonzos-quest" >}})
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
-Kolorowy slot z symbolami słodyczy i owoców. Wygrane tworzą grupy takich samych symboli w dowolnym miejscu planszy, a rozgrywkę uzupełniają kaskady i losowe mnożniki.
+Cukierki i owoce tworzą grupy płatne w dowolnym miejscu planszy. Po trafieniu symbole spadają ponownie, a losowe mnożniki wzmacniają serię.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/sweet-bonanza" >}})
 

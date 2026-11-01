@@ -164,43 +164,43 @@ DuelReels distingue esta tragamonedas del Oeste: los VS pueden expandirse en rod
 
 <h2 id="money-train-3">Money Train 3</h2>
 
-Tragamonedas de forajidos con una ronda de bonificación Hold and Respin. Los símbolos especiales recogen valores, modifican otros símbolos y pueden acumular multiplicadores.
+En la ronda Hold and Respin, los símbolos de forajidos cumplen distintos papeles: recogen valores, modifican símbolos o acumulan multiplicadores.
 
 [Leer el perfil completo]({{< relref "slot-profiles/money-train-3" >}})
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-Tragamonedas de forajidos con una ronda Hold and Respin ampliada. Los distintos símbolos especiales añaden efectos de colección, mejora y multiplicación.
+La ronda Hold and Respin ampliada incorpora más símbolos especiales, con efectos de recogida, mejora y multiplicación que cambian cada resultado.
 
 [Leer el perfil completo]({{< relref "slot-profiles/money-train-4" >}})
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
-Tragamonedas inspirada en la mitología nórdica con cuatro modos de giros gratis asociados a personajes. La bonificación se divide en cámaras con reglas diferentes.
+Cuatro personajes dan acceso a cámaras de giros gratis, cada una con un modificador propio. El avance entre modos define la bonificación.
 
 [Leer el perfil completo]({{< relref "slot-profiles/thunderstruck-ii" >}})
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
-Tragamonedas de clústeres de frutas 7×7. Los grupos ganadores pueden dejar símbolos Wild con multiplicadores crecientes, que en los giros gratis pueden alcanzar 729×.
+En la cuadrícula 7×7, las frutas forman grupos; los aciertos pueden dejar Wilds con multiplicadores crecientes, que en giros gratis llegan a 729×.
 
 [Leer el perfil completo]({{< relref "slot-profiles/fruit-party-2" >}})
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
-Tragamonedas de Zeus sin líneas tradicionales: los símbolos iguales pagan en cualquier posición, con cascadas y multiplicadores aleatorios.
+Con Zeus no hay líneas fijas: los símbolos iguales pagan en cualquier posición. Las caídas encadenan resultados y los multiplicadores aleatorios se combinan.
 
 [Leer el perfil completo]({{< relref "slot-profiles/gates-of-olympus" >}})
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
-Tragamonedas de aventuras con cascadas Avalanche: los símbolos ganadores desaparecen y son reemplazados. Las victorias consecutivas dentro de una tirada aumentan el multiplicador.
+Avalanche elimina los símbolos ganadores y deja caer otros nuevos. Cada acierto consecutivo dentro de la misma tirada eleva el multiplicador.
 
 [Leer el perfil completo]({{< relref "slot-profiles/gonzos-quest" >}})
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
-Slot colorida con dulces y frutas. Grupos de símbolos iguales pagan en cualquier posición; las cascadas y los multiplicadores aleatorios completan la mecánica.
+Caramelos y frutas pagan como grupos en cualquier zona de la cuadrícula. Tras cada acierto caen símbolos nuevos y los multiplicadores aleatorios pueden impulsar la secuencia.
 
 [Leer el perfil completo]({{< relref "slot-profiles/sweet-bonanza" >}})
 

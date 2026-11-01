@@ -51,6 +51,8 @@ def main():
         "arthur-mustoe", "corey-levitan", "cristina-tudose", "dan-michalski",
         "dominic-field", "jon-pill", "marco-ibarra",
     }
+    # Prevent accidental reuse of one card teaser for multiple games in any locale.
+    seen_descriptions: dict[str, dict[str, str]] = {lang: {} for lang in LANGS}
     for game in games:
         game_name = str(game.get("name", "")).strip()
         localized = game.get("description", {}) or {}
@@ -72,6 +74,12 @@ def main():
             if not summary:
                 errors.append(f"{game_name}: missing {lang} catalogue description")
                 continue
+            normalized_summary = re.sub(r"\\s+", " ", summary).strip().casefold()
+            previous_game = seen_descriptions[lang].get(normalized_summary)
+            if previous_game:
+                errors.append(f"{game_name}/{lang}: card description duplicates {previous_game}")
+            else:
+                seen_descriptions[lang][normalized_summary] = game_name
             if len(summary) < 45 or len(summary) > 180:
                 errors.append(
                     f"{game_name}/{lang}: catalogue description length {len(summary)} is outside 45–180 characters"

@@ -47,9 +47,26 @@ def main():
         "Temple Tumble": ("Megaways", "6×6"),
         "Bigger Bass Bonanza": ("Fisherman Wild",),
     }
+    author_slugs = {
+        "arthur-mustoe", "corey-levitan", "cristina-tudose", "dan-michalski",
+        "dominic-field", "jon-pill", "marco-ibarra",
+    }
     for game in games:
         game_name = str(game.get("name", "")).strip()
         localized = game.get("description", {}) or {}
+        author = str(game.get("author", "")).strip()
+        if author not in author_slugs:
+            errors.append(f"{game_name}: missing or unknown confirmed author {author!r}")
+        keywords = game.get("keywords", {}) or {}
+        for lang in LANGS:
+            localized_keywords = keywords.get(lang, [])
+            if not isinstance(localized_keywords, list) or len(localized_keywords) < 5:
+                errors.append(f"{game_name}/{lang}: expected at least five localized SEO keywords")
+            if len({str(item).casefold() for item in localized_keywords}) != len(localized_keywords):
+                errors.append(f"{game_name}/{lang}: duplicate SEO keywords")
+            author_page = ROOT / "content" / lang / "authors" / f"{author}.md"
+            if author and not author_page.exists():
+                errors.append(f"{game_name}/{lang}: missing author profile {author_page.relative_to(ROOT)}")
         for lang in LANGS:
             summary = str(localized.get(lang, "")).strip()
             if not summary:
@@ -114,6 +131,25 @@ def main():
                 errors.append(f"content/{lang}/slots.md: missing legacy anchor {slug}")
             if f'relref "slot-profiles/{slug}"' not in hub:
                 errors.append(f"content/{lang}/slots.md: missing link to profile {slug}")
+    expert_partial = ROOT / "layouts" / "partials" / "slot-profile-expert-analysis.html"
+    if not expert_partial.exists():
+        errors.append("Missing localized expert-analysis partial")
+    else:
+        expert_text = expert_partial.read_text(encoding="utf-8")
+        for lang in LANGS:
+            if f'eq $lang "{lang}"' not in expert_text:
+                errors.append(f"Expert-analysis partial has no {lang} branch")
+        if "data-slot-expert-analysis" not in expert_text:
+            errors.append("Expert-analysis partial is missing its testable section marker")
+    single_layout = (ROOT / "layouts" / "_default" / "single.html").read_text(encoding="utf-8")
+    head_layout = (ROOT / "layouts" / "partials" / "head.html").read_text(encoding="utf-8")
+    card_layout = (ROOT / "layouts" / "partials" / "slot-catalog.html").read_text(encoding="utf-8")
+    if "slot-profile-expert-analysis.html" not in single_layout:
+        errors.append("Single page layout does not render expert slot analyses")
+    if 'name="keywords"' not in head_layout:
+        errors.append("Head partial does not render localized SEO keywords")
+    if "slot-game-card-author" not in card_layout:
+        errors.append("Slot cards do not display author bylines")
     if errors:
         print("ERROR: standalone slot-profile checks failed:")
         print("\n".join(f" - {item}" for item in errors))

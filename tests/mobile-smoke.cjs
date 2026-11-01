@@ -363,11 +363,19 @@ async function inspectPage(page, path, expectedCards = null) {
     const metaDescription = (await page.locator('meta[name="description"]').getAttribute('content') || '').trim();
     const canonical = await page.locator('link[rel="canonical"]').getAttribute('href');
     const hreflangCount = await page.locator('link[rel="alternate"][hreflang]').count();
+    const expertSection = page.locator('[data-slot-expert-analysis]');
+    const expertText = (await expertSection.innerText().catch(() => '')).trim();
+    const authorText = (await page.locator('.editorial-meta').innerText().catch(() => '')).trim();
+    const authorMeta = (await page.locator('meta[name="author"]').getAttribute('content') || '').trim();
+    const keywordMeta = (await page.locator('meta[name="keywords"]').getAttribute('content') || '').trim();
     const profileSummaryOk = profileDescription.includes('Dual Reactions') && profileDescription === metaDescription;
+    const editorialProfileOk = expertText.length > 1800 && /Bonanza/.test(expertText) &&
+      authorText.length > 0 && authorMeta.length > 0 && keywordMeta.includes('Bonanza');
     const profileOk = profileResponse?.status() === 200 && profileTableCount === 1 &&
       profileH1.includes('Bonanza') && canonical.includes('/slots/bonanza/') &&
-      hreflangCount === 7 && profileSummaryOk;
-    const contentOk = hubOk && profileOk;
+      hreflangCount === 7 && profileSummaryOk && editorialProfileOk;
+    const cardAuthorCount = await page.locator('.slot-game-card-author').count();
+    const contentOk = hubOk && profileOk && cardAuthorCount === 35;
     await page.goto('http://127.0.0.1:4173' + item.path, { waitUntil: 'networkidle' });
     let calculationOk = false;
     if (hubExists) {

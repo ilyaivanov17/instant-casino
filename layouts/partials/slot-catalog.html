@@ -61,6 +61,9 @@
             </div>
             <h3>{{ $game.name }}</h3>
             <p class="slot-game-card-summary">{{ $summary }}</p>
+            {{ with site.GetPage (printf "/authors/%s" $game.author) }}
+              <span class="slot-game-card-provider slot-game-card-author">{{ if eq $lang "de" }}Autor:{{ else if eq $lang "en" }}By{{ else if eq $lang "pl" }}Autor:{{ else if eq $lang "es" }}Por{{ else if eq $lang "pt" }}Por{{ else }}執筆者：{{ end }} {{ .Title }}</span>
+            {{ end }}
             <div class="slot-game-card-insight">
               <span class="slot-game-card-insight-title">{{ if eq $lang "de" }}Spielanalyse{{ else if eq $lang "en" }}EDITORIAL INSIGHT{{ else if eq $lang "es" }}ANÁLISIS DEL JUEGO{{ else if eq $lang "pt" }}ANÁLISE DO JOGO{{ else if eq $lang "ja" }}ゲーム分析{{ else }}ANALIZA GRY{{ end }}</span>
               <span class="slot-game-card-label">{{ $label }}</span>

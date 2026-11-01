@@ -8,6 +8,8 @@
 {{ $brand := $settings.brand | default site.Title }}
 {{ $title := .Params.seo_title | default (cond .IsHome $brand (printf "%s | %s" .Title $brand)) }}
 {{ $description := .Params.description | default $settings.description }}
+{{ $keywords := .Params.keywords | default slice }}
+{{ $authorSlug := .Params.author | default "" }}
 {{/* Use the localized catalogue summary as the SEO description for standalone slot profiles. */}}
 {{ $translationKey := .Params.translationKey | default "" }}
 {{ if hasPrefix $translationKey "slot-profile-" }}
@@ -16,12 +18,17 @@
     {{ if eq .anchor $profileSlug }}
       {{ $localizedDescription := index .description $.Site.Language.Lang | default (index .description "en") }}
       {{ with $localizedDescription }}{{ $description = . }}{{ end }}
+      {{ $keywords = index .keywords $.Site.Language.Lang | default (index .keywords "en") }}
+      {{ $authorSlug = .author }}
     {{ end }}
   {{ end }}
 {{ end }}
+{{ $metaAuthor := $settings.author | default "Instant Casino Redaktion" }}
+{{ with $authorSlug }}{{ with site.GetPage (printf "/authors/%s" .) }}{{ $metaAuthor = .Title }}{{ end }}{{ end }}
 <title>{{ $title }}</title>
 <meta name="description" content="{{ $description }}">
-{{ with $settings.author }}<meta name="author" content="{{ . }}">{{ end }}
+<meta name="author" content="{{ $metaAuthor }}">
+{{ with $keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
 {{ $isAuthorProfile := eq .Type "author" }}
 {{ $reviewTest := .Params.test | default dict }}
 {{/* Indexing policy: all public pages are indexable. Only tracking/redirect URLs under /go/ are excluded. */}}

@@ -3,11 +3,20 @@
 from __future__ import annotations
 from pathlib import Path
 import re
+import unicodedata
 import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 LANGS = ("de", "en", "pl", "es", "pt", "ja")
 PREFIX = {"de": "", "en": "/en", "pl": "/pl", "es": "/es", "pt": "/pt", "ja": "/ja"}
+
+def slug_from_game_name(name: str) -> str:
+    """Build a stable URL slug from the original game title."""
+    normalized = unicodedata.normalize("NFKD", name)
+    normalized = normalized.replace("'", "").replace("’", "")
+    ascii_name = normalized.encode("ascii", "ignore").decode("ascii")
+    return re.sub(r"[^a-z0-9]+", "-", ascii_name.lower()).strip("-")
+
 
 def read_page(path: Path):
     text = path.read_text(encoding="utf-8")
@@ -26,10 +35,17 @@ def main():
         errors.append(f"Expected 35 catalogue entries, found {len(games)}")
     hub_cache = {lang: (ROOT / "content" / lang / "slots.md").read_text(encoding="utf-8") for lang in LANGS}
     for game in games:
-        slug = str(game.get("anchor", "")).strip()
-        if not slug:
-            errors.append(f"Catalogue game has no anchor: {game.get('name')}")
+        game_name = str(game.get("name", "")).strip()
+        catalog_slug = str(game.get("anchor", "")).strip()
+        slug = slug_from_game_name(game_name)
+        if not game_name or not slug:
+            errors.append(f"Catalogue game has no usable name: {game!r}")
             continue
+        if catalog_slug != slug:
+            errors.append(
+                f"Game URL slug must be generated from its name: "
+                f"{game_name!r} -> {slug!r}, but catalogue anchor is {catalog_slug!r}"
+            )
         for lang in LANGS:
             path = ROOT / "content" / lang / "slot-profiles" / f"{slug}.md"
             if not path.exists():

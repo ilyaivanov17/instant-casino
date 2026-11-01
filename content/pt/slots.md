@@ -122,43 +122,43 @@ Dead or Alive 2 leva a ação para o Oeste Selvagem e permite escolher entre vá
 
 <h2 id="twin-spin">Twin Spin</h2>
 
-Slot clássico com símbolos de fruta e rolos ligados. A funcionalidade Twin Reel pode sincronizar vários rolos e alterar a sua disposição.
+A função Twin Reel de Twin Spin liga rolos para que se movam em conjunto e alterem a disposição. Os símbolos de fruta dão-lhe um estilo clássico.
 
 [Ler o perfil completo]({{< relref "slot-profiles/twin-spin" >}})
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
-Slot de clusters inspirado no antigo Egito, com símbolos de coleção e funcionalidades de bónus. A mecânica de recolha influencia o desenrolar da ronda de bónus.
+Hand of Anubis combina o antigo Egito com prémios por clusters e símbolos de coleção. A mecânica de recolha influencia o desenrolar do bónus.
 
 [Ler o perfil completo]({{< relref "slot-profiles/hand-of-anubis" >}})
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
-Slot de clusters 7×7 com cascatas e multiplicadores em posições assinaladas na grelha. Essas posições e os respetivos multiplicadores mantêm-se durante as rodadas grátis.
+Na grelha 7×7, os clusters vencedores desencadeiam cascatas. Os multiplicadores ficam em posições assinaladas, que mantêm os seus valores durante as rodadas grátis.
 
 [Ler o perfil completo]({{< relref "slot-profiles/sugar-rush" >}})
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-Slot gótico com personagens vampíricas e vários modos de rodadas grátis associados às personagens. Chamber of Spins apresenta diferentes versões da ronda de bónus.
+A Chamber of Spins é o centro de Immortal Romance: as personagens vampíricas estão ligadas a diferentes modos de rodadas grátis, cada um com regras próprias.
 
 [Ler o perfil completo]({{< relref "slot-profiles/immortal-romance" >}})
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
-Slot Megaways com cinco leões dourados. A altura variável dos rolos altera as formas de ganhar e as rodadas grátis acrescentam uma ronda de bónus própria.
+Cinco leões dourados dão tema a esta slot Megaways. A altura variável dos rolos altera as formas de ganhar e as rodadas grátis acrescentam uma ronda de bónus.
 
 [Ler o perfil completo]({{< relref "slot-profiles/5-lions-megaways" >}})
 
 <h2 id="le-bandit">Le Bandit</h2>
 
-Slot de clusters com um guaxinim ladrão num cenário parisiense. Os grupos de símbolos vencedores e um bónus baseado na recolha definem a jogabilidade.
+Um guaxinim ladrão percorre Paris em Le Bandit, uma slot de clusters com mecânica de recolha. Os grupos vencedores e os símbolos recolhidos moldam o bónus.
 
 [Ler o perfil completo]({{< relref "slot-profiles/le-bandit" >}})
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
-Slot do Oeste Selvagem com DuelReels. Os símbolos VS expandem-se em rolos Wild e aplicam multiplicadores aos prémios; inclui vários bónus.
+DuelReels distingue esta slot do Oeste: os símbolos VS podem expandir-se em rolos Wild e aplicar multiplicadores aos prémios que passam por eles. Existem vários modos de bónus.
 
 [Ler o perfil completo]({{< relref "slot-profiles/wanted-dead-or-a-wild" >}})
 

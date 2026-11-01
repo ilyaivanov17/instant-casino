@@ -130,43 +130,43 @@ Dead or Alive 2 verlegt die Action in den Wilden Westen und bietet mehrere Freis
 
 <h2 id="twin-spin">Twin Spin</h2>
 
-Klassischer Slot mit Fruchtsymbolen und gekoppelten Walzen. Die Twin-Reel-Funktion kann mehrere Walzen synchronisieren und so das Walzenbild verändern.
+Twin Spins Twin-Reel-Funktion koppelt Walzen, die sich synchron bewegen und das Walzenbild verändern können. Fruchtsymbole und klassisches Slot-Layout bilden den Rahmen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/twin-spin" >}})
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
-Ägyptisch inspiriertes Cluster-Spiel mit Sammelsymbolen und Bonusfunktionen. Die Sammelmechanik bestimmt, wie sich die Bonusrunde entwickelt.
+Hand of Anubis verbindet ägyptisches Motiv und Cluster-Gewinne mit Sammelsymbolen. Die Sammelmechanik beeinflusst, wie sich die Bonusfunktion entwickelt.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/hand-of-anubis" >}})
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
-7×7-Cluster-Slot mit Kaskaden und Multiplikatoren auf markierten Spielfeldpositionen. Die Positionen und ihre Multiplikatoren bleiben während der Freispiele erhalten.
+Auf dem 7×7-Raster lösen Gewinn-Cluster Kaskaden aus. Multiplikatoren sitzen auf markierten Feldern und behalten ihre Positionen während der Freispiele.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/sugar-rush" >}})
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-Gothic-Slot mit Vampirfiguren und mehreren charakterbezogenen Freispiele-Modi. Die Chamber of Spins bietet unterschiedliche Varianten der Bonusrunde.
+Die Chamber of Spins ist das Herzstück von Immortal Romance: Mehrere Figuren stehen für unterschiedliche Freispiele-Modi. Jeder Modus bringt eigene Regeln in die Bonusrunde.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/immortal-romance" >}})
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
-Megaways-Slot mit fünf goldenen Löwen als Motiv. Variable Walzenhöhen verändern die Gewinnwege; Freispiele ergänzen das Spiel um eine eigene Bonusrunde.
+Fünf goldene Löwen prägen diesen Megaways-Slot. Wechselnde Walzenhöhen verändern die Zahl der Gewinnwege; Freispiele ergänzen die Grundrunde um eine eigene Bonusphase.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/5-lions-megaways" >}})
 
 <h2 id="le-bandit">Le Bandit</h2>
 
-Cluster-Slot mit einem Waschbär-Dieb im Pariser Setting. Gewinnende Symbolgruppen und eine sammelbasierte Bonusstruktur prägen den Spielablauf.
+Ein Waschbär auf Beutezug durch Paris: Le Bandit setzt auf Cluster-Gewinne und eine Sammelmechanik. Symbolgruppen und Sammlung bestimmen den Verlauf der Bonusfunktion.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/le-bandit" >}})
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
-Western-Slot mit der DuelReels-Mechanik: VS-Symbole können zu Wild-Walzen werden, deren Multiplikator Gewinne auf der Walze erhöht. Mehrere Bonusmodi ergänzen das Spiel.
+DuelReels prägt diesen Western-Slot: VS-Symbole können sich zu Wild-Walzen ausdehnen und Gewinne auf diesen Walzen mit Multiplikatoren versehen. Mehrere Bonusmodi stehen bereit.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/wanted-dead-or-a-wild" >}})
 

@@ -122,43 +122,43 @@ Dead or Alive 2 sets its action in the Wild West and offers several free-spins m
 
 <h2 id="twin-spin">Twin Spin</h2>
 
-A classic fruit-symbol slot with linked reels. The Twin Reel feature can synchronise reels and change the layout.
+Twin Spin’s Twin Reel feature links reels so they can move together and change the layout. Fruit symbols and a familiar slot format frame the game.
 
 [Read the full game profile]({{< relref "slot-profiles/twin-spin" >}})
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
-An ancient-Egypt inspired cluster slot with collection symbols and bonus features. The collection mechanic shapes how the bonus round develops.
+Hand of Anubis pairs an ancient-Egypt setting with cluster wins and collection symbols. The collection mechanic shapes how its bonus round develops.
 
 [Read the full game profile]({{< relref "slot-profiles/hand-of-anubis" >}})
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
-A 7×7 cluster slot with tumbling wins and multipliers on marked grid positions. Marked positions and their multipliers persist during free spins.
+On Sugar Rush’s 7×7 grid, winning clusters trigger tumbles. Multipliers sit on marked positions, which retain their values throughout free spins.
 
 [Read the full game profile]({{< relref "slot-profiles/sugar-rush" >}})
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-A gothic vampire-themed slot with several character-based free-spins modes. The Chamber of Spins offers different versions of the bonus round.
+The Chamber of Spins is central to Immortal Romance: its vampire characters are tied to different free-spins modes, each with its own bonus-round rules.
 
 [Read the full game profile]({{< relref "slot-profiles/immortal-romance" >}})
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
-A Megaways slot featuring five golden lions. Variable reel heights change the available ways to win, while free spins add a separate bonus round.
+Five golden lions headline this Megaways slot. Changing reel heights alter the available ways to win, while free spins add a separate bonus round.
 
 [Read the full game profile]({{< relref "slot-profiles/5-lions-megaways" >}})
 
 <h2 id="le-bandit">Le Bandit</h2>
 
-A cluster slot featuring a raccoon thief in a Parisian setting. Winning symbol groups and a collection-based bonus structure shape the gameplay.
+A raccoon thief roams Paris in Le Bandit, a cluster slot with a collection-based feature. Winning groups and collected symbols shape the bonus round.
 
 [Read the full game profile]({{< relref "slot-profiles/le-bandit" >}})
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
-A Wild West slot featuring DuelReels: VS symbols can expand into Wild reels, applying a multiplier to wins that pass through them. Several bonus modes are also available.
+DuelReels defines this Wild West slot: VS symbols can expand into Wild reels and apply multipliers to wins passing through them. Several bonus modes are available.
 
 [Read the full game profile]({{< relref "slot-profiles/wanted-dead-or-a-wild" >}})
 

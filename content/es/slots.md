@@ -122,43 +122,43 @@ Dead or Alive 2 lleva la acción al Salvaje Oeste y permite elegir entre varios 
 
 <h2 id="twin-spin">Twin Spin</h2>
 
-Tragamonedas clásica con símbolos de frutas y rodillos enlazados. La función Twin Reel puede sincronizar varios rodillos y modificar su disposición.
+La función Twin Reel de Twin Spin enlaza varios rodillos para que se muevan juntos y cambien la disposición. Los símbolos de fruta mantienen el estilo clásico.
 
 [Leer el perfil completo]({{< relref "slot-profiles/twin-spin" >}})
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
-Tragamonedas de clústeres inspirada en Egipto, con símbolos coleccionables y una bonificación basada en la recolección.
+Hand of Anubis combina el antiguo Egipto con premios por grupos y símbolos coleccionables. La mecánica de recolección influye en el desarrollo del bono.
 
 [Leer el perfil completo]({{< relref "slot-profiles/hand-of-anubis" >}})
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
-Tragamonedas de clústeres 7×7 con cascadas y multiplicadores en posiciones marcadas de la cuadrícula. Las posiciones y sus multiplicadores se mantienen durante los giros gratis.
+En la cuadrícula 7×7, los grupos ganadores provocan cascadas. Los multiplicadores ocupan casillas marcadas que conservan sus valores durante los giros gratis.
 
 [Leer el perfil completo]({{< relref "slot-profiles/sugar-rush" >}})
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-Tragamonedas gótica con vampiros y varios modos de giros gratis ligados a sus personajes. Chamber of Spins ofrece distintas rondas.
+Chamber of Spins es el centro de Immortal Romance: sus personajes vampiros se asocian a distintos modos de giros gratis, cada uno con reglas propias.
 
 [Leer el perfil completo]({{< relref "slot-profiles/immortal-romance" >}})
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
-Tragamonedas Megaways con cinco leones dorados. La altura variable de los rodillos modifica las formas de ganar y los giros gratis ofrecen una ronda de bonificación independiente.
+Cinco leones dorados protagonizan esta tragamonedas Megaways. La altura variable de los rodillos cambia las formas de ganar y los giros gratis añaden una bonificación propia.
 
 [Leer el perfil completo]({{< relref "slot-profiles/5-lions-megaways" >}})
 
 <h2 id="le-bandit">Le Bandit</h2>
 
-Tragamonedas de clústeres con un mapache ladrón en un entorno parisino. Los grupos de símbolos ganadores y una bonificación basada en la recolección definen la partida.
+Un mapache ladrón recorre París en Le Bandit, una tragamonedas de grupos con función de recolección. Los símbolos recogidos dan forma al bono.
 
 [Leer el perfil completo]({{< relref "slot-profiles/le-bandit" >}})
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
-Tragamonedas del Salvaje Oeste con DuelReels. Los símbolos VS se expanden en rodillos Wild y aplican multiplicadores a sus premios; incluye varios bonos.
+DuelReels distingue esta tragamonedas del Oeste: los VS pueden expandirse en rodillos Wild y multiplicar premios que los atraviesan. Incluye varios modos de bono.
 
 [Leer el perfil completo]({{< relref "slot-profiles/wanted-dead-or-a-wild" >}})
 

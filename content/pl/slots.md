@@ -122,43 +122,43 @@ Dead or Alive 2 przenosi akcję na Dziki Zachód i oferuje kilka trybów darmowy
 
 <h2 id="twin-spin">Twin Spin</h2>
 
-Klasyczny slot z symbolami owoców i połączonymi bębnami. Funkcja Twin Reel może synchronizować bębny i zmieniać ich układ.
+Funkcja Twin Reel w Twin Spin łączy bębny, które mogą obracać się synchronicznie i zmieniać układ. Całość utrzymana jest w klasycznej owocowej stylistyce.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/twin-spin" >}})
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
-Slot klastrowy inspirowany starożytnym Egiptem, z symbolami kolekcji i funkcjami bonusowymi. Mechanika zbierania wpływa na przebieg rundy bonusowej.
+Hand of Anubis łączy staroegipski motyw z wygranymi klastrowymi i symbolami kolekcji. Mechanika zbierania wpływa na przebieg rundy bonusowej.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/hand-of-anubis" >}})
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
-Slot klastrowy 7×7 z kaskadami i mnożnikami przypisanymi do zaznaczonych pól. Podczas darmowych spinów pola i ich mnożniki pozostają aktywne.
+Na planszy 7×7 wygrywające klastry uruchamiają kaskady. Mnożniki są przypisane do oznaczonych pól, które zachowują swoje wartości podczas darmowych spinów.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/sugar-rush" >}})
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-Gotycki slot z postaciami wampirów i kilkoma trybami darmowych spinów związanymi z bohaterami. Chamber of Spins oferuje różne warianty rundy bonusowej.
+Chamber of Spins to główny element Immortal Romance. Postacie wampirów wiążą się z różnymi trybami darmowych spinów, z których każdy ma własne zasady.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/immortal-romance" >}})
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
-Slot Megaways z pięcioma złotymi lwami w motywie przewodnim. Zmienna wysokość bębnów wpływa na liczbę sposobów wygrywania, a darmowe spiny uruchamiają osobną rundę bonusową.
+Pięć złotych lwów wyróżnia ten automat Megaways. Zmienna wysokość bębnów wpływa na liczbę sposobów wygrywania, a darmowe spiny uruchamiają osobną rundę bonusową.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/5-lions-megaways" >}})
 
 <h2 id="le-bandit">Le Bandit</h2>
 
-Slot klastrowy z szopem-złodziejem w paryskiej scenerii. Rozgrywkę kształtują wygrywające grupy symboli i bonus oparty na zbieraniu.
+Szop-złodziej przemierza Paryż w Le Bandit. To slot klastrowy z mechaniką zbierania, w której wygrywające grupy i zebrane symbole wpływają na rundę bonusową.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/le-bandit" >}})
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
-Slot Dzikiego Zachodu z DuelReels. Symbole VS zmieniają się w bębny Wild, których mnożniki zwiększają wygrane. Dostępnych jest kilka bonusów.
+Mechanika DuelReels wyróżnia ten slot westernowy: symbole VS mogą rozszerzyć się w bębny Wild i mnożyć wygrane przechodzące przez te bębny. Dostępnych jest kilka trybów bonusowych.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/wanted-dead-or-a-wild" >}})
 

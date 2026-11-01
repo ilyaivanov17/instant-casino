@@ -122,43 +122,43 @@ Dead or Alive 2は西部劇を舞台に、複数のフリースピンモード�
 
 <h2 id="twin-spin">Twin Spin</h2>
 
-フルーツシンボルを使ったクラシックなスロットです。Twin Reel機能によって複数のリールが連動し、配置が変わることがあります。
+Twin SpinのTwin Reel機能は複数のリールを連動させ、配置を変えることがあります。フルーツシンボルを使ったクラシックなスロットです。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/twin-spin" >}})
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
-古代エジプトをモチーフにしたクラスター型スロットです。コレクションシンボルとボーナス機能があり、収集メカニズムがボーナスの進行を左右します。
+古代エジプトを舞台にクラスター配当とコレクションシンボルを採用。収集メカニズムがボーナスラウンドの進行に影響します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/hand-of-anubis" >}})
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
-7×7のクラスター型スロットで、連続落下とマス目に付く倍率が特徴です。フリースピン中はマークされた位置と倍率が維持されます。
+7×7の盤面で当たりクラスターが連続落下を発生させます。倍率付きのマス目はフリースピン中も位置と値を維持します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/sugar-rush" >}})
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-吸血鬼を題材にしたゴシック系スロットです。Chamber of Spinsでは登場人物に結びついた複数のフリースピンモードを選べます。
+Immortal Romanceの中心はChamber of Spins。吸血鬼の登場人物に結びついた複数のフリースピンモードがあり、それぞれ異なるルールで進行します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/immortal-romance" >}})
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
-5頭の黄金のライオンをテーマにしたMegawaysスロットです。リールの高さが変化して配当方法が変わり、フリースピンでは独立したボーナスラウンドが展開します。
+5頭の黄金のライオンがテーマのMegawaysスロット。リールの高さによって配当方法の数が変わり、フリースピンでは別のボーナスラウンドが展開します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/5-lions-megaways" >}})
 
 <h2 id="le-bandit">Le Bandit</h2>
 
-パリを舞台にしたアライグマの盗賊が登場するクラスター型スロットです。シンボルのグループ配当と収集型のボーナスがゲームの中心です。
+パリを駆け回るアライグマの盗賊が主人公。Le Banditはクラスター配当と収集機能を採用し、当たりグループと集めたシンボルがボーナスの展開を左右します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/le-bandit" >}})
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
-DuelReelsを搭載した西部劇テーマのスロットです。VSシンボルがWildリールに拡張し、そのリールを通る配当に倍率を適用することがあります。複数のボーナスモードも用意されています。
+DuelReelsが特徴の西部劇スロット。VSシンボルがWildリールへ拡張し、そのリールを通る配当に倍率を適用します。複数のボーナスモードもあります。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/wanted-dead-or-a-wild" >}})
 

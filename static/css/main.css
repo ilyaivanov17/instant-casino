@@ -1800,7 +1800,7 @@ main, header, footer, section, article, nav, .container, .lobby-header-inner, .l
 }
 
 /* Final mobile containment pass */
-html, body { max-width:100%; overflow-x:hidden; }
+html, body { max-width:100%; overflow-x:clip; }
 body, #main-content, main, header, footer, section, article { max-width:100%; }
 img, svg, video, canvas, iframe { max-width:100%; }
 pre, code { white-space:pre-wrap; overflow-wrap:anywhere; }

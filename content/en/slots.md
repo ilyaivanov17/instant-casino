@@ -107,7 +107,7 @@ The core loop is easy to follow: the Fisherman Wild collects fish values, while 
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="bonanza">Bonanza</h2>
 
@@ -166,7 +166,7 @@ Bonanza pairs a changing Megaways grid with cascading wins and a multiplier that
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="book-of-dead">Book of Dead</h2>
 
@@ -231,7 +231,7 @@ A published player review highlights the Egyptian atmosphere, soundtrack and str
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
@@ -290,7 +290,7 @@ Dragon's Luck centres on coin symbols that reveal or transform symbols on the re
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="fruit-party">Fruit Party</h2>
 
@@ -353,7 +353,7 @@ A player review points to the clear cluster-pay format and cascading wins as mem
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="starburst">Starburst</h2>
 
@@ -376,7 +376,7 @@ A player review praises the colourful graphics and smooth presentation, while an
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="the-dog-house">The Dog House</h2>
 
@@ -393,7 +393,7 @@ Sticky Wilds make The Dog House bonus round a game of position and persistence: 
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
@@ -416,7 +416,7 @@ A player review singles out the retrigger mechanic that can add further expandin
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="reactoonz">Reactoonz</h2>
 
@@ -439,7 +439,7 @@ Reactoonz appears in a public forum participant's personal list of favourite slo
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
@@ -462,7 +462,7 @@ A player review highlights the Western soundtrack and sticky multiplier Wilds as
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="starlight-princess">Starlight Princess</h2>
 
@@ -485,7 +485,7 @@ A player review gives particular attention to the anime-inspired atmosphere, vis
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
@@ -508,7 +508,7 @@ A player review calls out the colourful presentation and animal-themed visual de
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="mega-fortune">Mega Fortune</h2>
 
@@ -531,7 +531,7 @@ A player review praises the polished visuals and the distinction between the fre
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
@@ -554,7 +554,7 @@ Several player reviews praise the visual presentation and the choice between thr
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="twin-spin">Twin Spin</h2>
 
@@ -577,7 +577,7 @@ A long-time player highlights the linked-reel feature, retro atmosphere and soun
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
@@ -594,7 +594,7 @@ Hand of Anubis combines cluster pays with collection and bonus features. The imp
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="sugar-rush">Sugar Rush</h2>
 
@@ -611,7 +611,7 @@ Sugar Rush uses a 7×7 cluster grid with tumbles and multipliers that can remain
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="immortal-romance">Immortal Romance</h2>
 
@@ -634,7 +634,7 @@ Player reviews highlight the gothic storyline, soundtrack and character-specific
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
@@ -657,7 +657,7 @@ A player review says the game grew on them after several sessions and notes its 
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="le-bandit">Le Bandit</h2>
 
@@ -674,7 +674,7 @@ Le Bandit uses a cluster grid and a collection-led bonus structure, creating a m
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
@@ -697,7 +697,7 @@ A player review gives the game a positive rating and singles out its gritty West
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="money-train-3">Money Train 3</h2>
 
@@ -720,7 +720,7 @@ A player review praises the presentation and the variety created by persistent f
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="money-train-4">Money Train 4</h2>
 
@@ -737,7 +737,7 @@ Money Train 4 expands the feature-symbol roster and adds more layers to the hold
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
@@ -760,7 +760,7 @@ Player reviews highlight the four character-led free-spins modes, soundtrack and
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
@@ -777,7 +777,7 @@ Fruit Party 2 builds on the fruit-cluster format with evolving Wild and multipli
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
@@ -800,7 +800,7 @@ A player review praises the mythological setting and describes the multiplier fe
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
@@ -823,7 +823,7 @@ A player review mentions Gonzo's animations, the jungle setting and the music as
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
@@ -846,7 +846,7 @@ In a public slot discussion, a player names Sweet Bonanza among the Pragmatic Pl
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="wolf-gold">Wolf Gold</h2>
 
@@ -869,7 +869,7 @@ Player reviews describe Wolf Gold as a personal favourite and mention its animal
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>
 <h2 id="mega-moolah">Mega Moolah</h2>
 
@@ -892,5 +892,5 @@ A player review highlights the nostalgic safari theme and the appeal of having f
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>
-  <a href="/en/bonuses/">Explore bonus terms →</a>
+  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
 </div>

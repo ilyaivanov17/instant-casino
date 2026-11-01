@@ -1,8 +1,8 @@
 ---
-title: Retiradas de casino: plazos, verificación y retrasos
+title: 'Retiradas de casino: plazos, verificación y retrasos'
 description: Cómo funciona una retirada, qué papel tienen la verificación y el método de pago y qué revisar si se retrasa.
 type: page
-seo_title: Retiradas de casino: plazos, KYC y límites | Instant Casino
+seo_title: 'Retiradas de casino: plazos, KYC y límites | Instant Casino'
 lastmod: '2026-11-01'
 article_review_status: editorial-review-pending
 build:

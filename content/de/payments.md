@@ -479,3 +479,7 @@ Die hier aufgeführten Katalogwerte sind strukturierte Vergleichsdaten. Vor eine
 ## Weiterführender Ratgeber
 
 [Leitfaden: schnelle Casino-Auszahlungen]({{< relref "schnelle-auszahlung" >}})
+
+## Trustly: Funktionsweise und Prüfhinweise
+
+[Trustly im Casino: Einzahlungen, Auszahlungen und Sicherheit]({{< relref "trustly-casino" >}})

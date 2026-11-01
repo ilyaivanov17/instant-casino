@@ -50,33 +50,57 @@
     });
   }
 
-  // Keep the header available while scrolling upward; tuck it away while scrolling down.
+  // Hide the header on downward scroll, but reveal it after even small
+  // accumulated upward movement. Mobile browsers often emit many tiny scroll
+  // deltas, so compare against a direction anchor instead of the last event.
   var lobbyHeader = document.querySelector('.lobby-header');
   if (lobbyHeader) {
     var previousScrollY = window.scrollY || window.pageYOffset;
+    var directionAnchorY = previousScrollY;
+    var lastScrollDirection = 0;
     var scrollFramePending = false;
-    var scrollThreshold = 8;
+    var hideThreshold = 8;
+    var revealThreshold = 2;
+
     function updateHeaderForScroll() {
-      var currentScrollY = window.scrollY || window.pageYOffset;
+      var currentScrollY = Math.max(0, window.scrollY || window.pageYOffset);
       var mobileMenuOpen = mobileMenu && !mobileMenu.classList.contains('hidden');
+      var delta = currentScrollY - previousScrollY;
 
       if (currentScrollY <= 80 || mobileMenuOpen) {
         lobbyHeader.classList.remove('is-scroll-hidden');
-      } else if (currentScrollY > previousScrollY + scrollThreshold) {
-        lobbyHeader.classList.add('is-scroll-hidden');
-      } else if (currentScrollY < previousScrollY - scrollThreshold) {
-        lobbyHeader.classList.remove('is-scroll-hidden');
+        directionAnchorY = currentScrollY;
+        lastScrollDirection = 0;
+      } else if (Math.abs(delta) >= 1) {
+        var direction = delta > 0 ? 1 : -1;
+        if (direction !== lastScrollDirection) {
+          lastScrollDirection = direction;
+          directionAnchorY = previousScrollY;
+        }
+
+        if (direction === 1 && currentScrollY - directionAnchorY >= hideThreshold) {
+          lobbyHeader.classList.add('is-scroll-hidden');
+        } else if (direction === -1 && directionAnchorY - currentScrollY >= revealThreshold) {
+          lobbyHeader.classList.remove('is-scroll-hidden');
+        }
       }
 
       previousScrollY = currentScrollY;
       scrollFramePending = false;
     }
 
-    window.addEventListener('scroll', function () {
+    function scheduleHeaderUpdate() {
       if (scrollFramePending) return;
       scrollFramePending = true;
       window.requestAnimationFrame(updateHeaderForScroll);
-    }, { passive: true });
+    }
+
+    window.addEventListener('scroll', scheduleHeaderUpdate, { passive: true });
+    if (menuBtn) {
+      menuBtn.addEventListener('click', function () {
+        window.requestAnimationFrame(updateHeaderForScroll);
+      });
+    }
   }
 
   document.querySelectorAll('a[href^="#"]').forEach(function (anchor) {

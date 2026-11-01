@@ -259,7 +259,7 @@ Book of Dead koncentruje bonus na jednym rozszerzającym się symbolu wybieranym
 
 ## Dragon's Luck: najważniejsze informacje
 
-Dragon's Luck to automat Red Tiger z motywem smoków i funkcjami Dragon Coin, Dragon's Help oraz Mega Coin. Sprawdź [oficjalne informacje o grze](https://games.evolution.com/slots/dragons-luck/) oraz tabelę wypłat w uruchomionej wersji, aby poznać dokładne zasady.
+Dragon's Luck to automat Red Tiger z motywem smoków i funkcjami Dragon Coin, Dragon's Help oraz Mega Coin. Sprawdź oficjalne informacje o grze oraz tabelę wypłat w uruchomionej wersji, aby poznać dokładne zasady.
 
 ### Informacje o grze
 

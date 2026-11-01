@@ -1,8 +1,8 @@
 ---
-title: カジノの出金：処理時間、本人確認、遅延への対処
+title: 'カジノの出金：処理時間、本人確認、遅延への対処'
 description: 出金の流れ、本人確認や決済方法の役割、出金が遅れた場合に確認すべき点を解説します。
 type: page
-seo_title: カジノ出金ガイド：処理時間・KYC・出金制限 | Instant Casino
+seo_title: 'カジノ出金ガイド：処理時間・KYC・出金制限 | Instant Casino'
 lastmod: '2026-11-01'
 article_review_status: editorial-review-pending
 build:

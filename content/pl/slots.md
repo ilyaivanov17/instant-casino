@@ -38,211 +38,211 @@ Sprawdź wersję automatu, ujawnione ustawienie RTP, limity stawek, tabelę wyp�
 
 <h2 id="bigger-bass-bonanza">Bigger Bass Bonanza</h2>
 
-Bigger Bass Bonanza ma własny motyw i zestaw funkcji, które warto poznać przed grą. W zapisanej specyfikacji wymieniono: symbole Scatter, darmowe spiny, mnożniki. Sprawdź instrukcję i tabelę wypłat, aby poznać warunki aktywacji oraz ograniczenia dostępnej wersji.
+Slot wędkarski 4×5. W darmowych spinach Fisherman Wild zbierają wartości widocznych symboli pieniężnych; kolejne Wilds mogą zwiększyć liczbę spinów i mnożnik.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/bigger-bass-bonanza" >}})
 
 <h2 id="bonanza">Bonanza</h2>
 
-Bonanza wykorzystuje system Megaways ze zmienną wysokością bębnów i kaskadami. Darmowe spiny tworzą osobną rundę bonusową. Sprawdź instrukcję i tabelę wypłat, aby poznać warunki aktywacji oraz ograniczenia dostępnej wersji.
+Slot górniczy z mechaniką Megaways i maksymalnie 117 649 sposobami wygrywania. Dual Reactions uruchamia kaskady w dwóch kierunkach, a cztery symbole Scatter aktywują darmowe spiny.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/bonanza" >}})
 
 <h2 id="book-of-dead">Book of Dead</h2>
 
-Book of Dead przenosi akcję do świata przygód inspirowanego starożytnym Egiptem, a ważnym motywem jest księga. Wśród charakterystycznych elementów znajdują się symbole Scatter, darmowe spiny i rozszerzający się symbol. Przed grą sprawdź w tabeli wypłat warunki uruchomienia rundy bonusowej.
+Przygoda w starożytnym Egipcie z symbolami Scatter i darmowymi spinami. W rundzie bonusowej wybrany symbol może rozszerzać się na bębnach.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/book-of-dead" >}})
 
 <h2 id="dragons-luck">Dragon's Luck</h2>
 
-Dragon's Luck to automat Red Tiger z motywem smoków i funkcjami Dragon Coin, Dragon's Help oraz Mega Coin. Sprawdź oficjalne informacje o grze oraz tabelę wypłat w uruchomionej wersji, aby poznać dokładne zasady.
+Slot z motywem smoka i funkcjami Dragon Coin, Dragon’s Help oraz Mega Coin. Pomoc w grze wyjaśnia warunki aktywacji i działanie tych funkcji monet.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/dragons-luck" >}})
 
 <h2 id="fruit-party">Fruit Party</h2>
 
-Fruit Party ma własny motyw i zestaw funkcji, które warto poznać przed grą. W zapisanej specyfikacji wymieniono: mechanika Tumble, mnożniki wygranych, darmowe spiny. Sprawdź instrukcję i tabelę wypłat, aby poznać warunki aktywacji oraz ograniczenia dostępnej wersji.
+Kolorowy slot klastrowy 7×7 z kaskadami. Symbole Golden Fruit Scatter uruchamiają darmowe spiny, w których wygrywające grupy mogą otrzymywać losowe mnożniki.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/fruit-party" >}})
 
 <h2 id="starburst">Starburst</h2>
 
-Slot inspirowany motywem kosmos i kolorowe klejnoty, z funkcją: rozszerzające się symbole Wild i respiny.
+Slot o kosmicznej tematyce i kolorowych klejnotach. Symbol Wild na środkowych bębnach może się rozszerzyć i uruchomić respiny.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/starburst" >}})
 
 <h2 id="the-dog-house">The Dog House</h2>
 
-Slot inspirowany motywem psy i wesołą budę dla psów, z funkcją: Sticky Wild i darmowe spiny.
+Slot z motywem psów, symbolami Sticky Wild i rundą darmowych spinów. Przyklejone symbole Wild pozostają na swoich pozycjach podczas funkcji bonusowej.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/the-dog-house" >}})
 
 <h2 id="legacy-of-dead">Legacy of Dead</h2>
 
-Slot inspirowany motywem starożytne egipskie świątynie i złote skarabeusze, z funkcją: darmowe spiny i rozszerzające się symbole.
+Slot inspirowany starożytnym Egiptem, z darmowymi spinami i rozszerzającym się symbolem. W rundzie bonusowej wybrany symbol może wypełnić pozycje na bębnach.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/legacy-of-dead" >}})
 
 <h2 id="reactoonz">Reactoonz</h2>
 
-Slot inspirowany motywem kolorowi kosmici w kosmicznej scenerii, z funkcją: wygrane klastrowe i funkcję Quantum Leap.
+Slot klastrowy 7×7 z postaciami kosmitów. Wygrywające grupy ładują Gargantoon, a po zebraniu pełnej energii Quantum Leap uruchamia serię dodatkowych funkcji.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/reactoonz" >}})
 
 <h2 id="wild-west-gold">Wild West Gold</h2>
 
-Slot inspirowany motywem kowboje i złoto Dzikiego Zachodu, z funkcją: Sticky Wild i respiny.
+Slot w klimacie Dzikiego Zachodu z funkcjami Sticky Wild i respinami. Symbole Wild mogą pozostawać na bębnach podczas funkcji bonusowej i uczestniczyć w kolejnych układach.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/wild-west-gold" >}})
 
 <h2 id="starlight-princess">Starlight Princess</h2>
 
-Slot inspirowany motywem magiczna księżniczka w świecie fantasy, z funkcją: wygrane kaskadowe i mnożniki.
+Slot fantasy z wygranymi za takie same symbole w dowolnym miejscu na planszy. Losowe mnożniki sumują się, a podczas darmowych spinów budowany jest łączny mnożnik.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/starlight-princess" >}})
 
 <h2 id="buffalo-king-megaways">Buffalo King Megaways</h2>
 
-Slot inspirowany motywem bawoły i dzikie zwierzęta na północnoamerykańskiej prerii, z funkcją: bębny Megaways i kaskady.
+Slot z motywem dzikiej przyrody, zmienną wysokością bębnów Megaways i kaskadami. Liczba sposobów wygrywania zależy od liczby symboli na bębnach.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/buffalo-king-megaways" >}})
 
 <h2 id="mega-fortune">Mega Fortune</h2>
 
-Slot inspirowany motywem luksusowy jacht i lśniący jackpot, z funkcją: progresywne poziomy jackpota.
+Slot o motywie luksusu i jachtów, z darmowymi spinami oraz osobnym systemem progresywnego jackpota. Poziomy jackpota mają własne zasady udziału i przyznawania nagród.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/mega-fortune" >}})
 
 <h2 id="dead-or-alive-2">Dead or Alive 2</h2>
 
-Slot inspirowany motywem zakurzone miasteczko Dzikiego Zachodu i rewolwerowców, z funkcją: kilka trybów darmowych spinów.
+Slot w klimacie Dzikiego Zachodu z kilkoma trybami darmowych spinów do wyboru. Każdy tryb ma własne modyfikatory i zasady bonusu.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/dead-or-alive-2" >}})
 
 <h2 id="twin-spin">Twin Spin</h2>
 
-Slot inspirowany motywem klasyczne symbole automatów i połączone bębny, z funkcją: funkcje podwójnych bębnów i losowe symbole.
+Klasyczny slot z symbolami owoców i połączonymi bębnami. Funkcja Twin Reel może synchronizować bębny i zmieniać ich układ.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/twin-spin" >}})
 
 <h2 id="hand-of-anubis">Hand of Anubis</h2>
 
-Slot inspirowany motywem Anubisa i starożytne egipskie motywy, z funkcją: symbole kolekcjonerskie i funkcje bonusowe.
+Slot klastrowy inspirowany starożytnym Egiptem, z symbolami kolekcji i funkcjami bonusowymi. Mechanika zbierania wpływa na przebieg rundy bonusowej.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/hand-of-anubis" >}})
 
 <h2 id="sugar-rush">Sugar Rush</h2>
 
-Slot inspirowany motywem słodycze i kolorowy świat fantasy, z funkcją: wygrane klastrowe i rosnące mnożniki.
+Slot klastrowy 7×7 z kaskadami i mnożnikami przypisanymi do zaznaczonych pól. Podczas darmowych spinów pola i ich mnożniki pozostają aktywne.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/sugar-rush" >}})
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-Slot inspirowany motywem wampiryczne postacie i gotycka opowieść o miłości, z funkcją: darmowe spiny i funkcję Wild Desire.
+Gotycki slot z postaciami wampirów i kilkoma trybami darmowych spinów związanymi z bohaterami. Chamber of Spins oferuje różne warianty rundy bonusowej.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/immortal-romance" >}})
 
 <h2 id="5-lions-megaways">5 Lions Megaways</h2>
 
-Slot inspirowany motywem pięć złotych lwów w świątynnym świecie inspirowanym Azją, z funkcją: bębny Megaways i darmowe spiny.
+Slot Megaways z pięcioma złotymi lwami w motywie przewodnim. Zmienna wysokość bębnów wpływa na liczbę sposobów wygrywania, a darmowe spiny uruchamiają osobną rundę bonusową.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/5-lions-megaways" >}})
 
 <h2 id="le-bandit">Le Bandit</h2>
 
-Slot inspirowany motywem szopa-złodzieja w paryskiej scenerii, z funkcją: wygrane klastrowe i funkcje bonusowe.
+Slot klastrowy z szopem-złodziejem w paryskiej scenerii. Rozgrywkę kształtują wygrywające grupy symboli i bonus oparty na zbieraniu.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/le-bandit" >}})
 
 <h2 id="wanted-dead-or-a-wild">Wanted Dead or a Wild</h2>
 
-Slot inspirowany motywem zamaskowanych rewolwerowców na Dzikim Zachodzie, z funkcją: rundy bonusowe i funkcje pojedynków.
+Slot Dzikiego Zachodu z DuelReels. Symbole VS zmieniają się w bębny Wild, których mnożniki zwiększają wygrane. Dostępnych jest kilka bonusów.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/wanted-dead-or-a-wild" >}})
 
 <h2 id="money-train-3">Money Train 3</h2>
 
-Slot inspirowany motywem futurystyczny pociąg i dwoje banitów, z funkcją: symbole bonusowe i funkcje mnożników.
+Slot z motywem banitów i rundą bonusową Hold and Respin. Symbole funkcyjne zbierają wartości, zmieniają symbole i mogą budować mnożniki.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/money-train-3" >}})
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-Slot inspirowany motywem banitów i futurystyczną przygodę kolejową, z funkcją: symbole kolekcjonerskie i funkcje bonusowe.
+Slot z motywem banitów z rozbudowaną rundą Hold and Respin. Różne symbole funkcyjne odpowiadają za zbieranie wartości, ulepszenia i mnożniki.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/money-train-4" >}})
 
 <h2 id="thunderstruck-ii">Thunderstruck II</h2>
 
-Slot inspirowany motywem nordyckich bogów i świat Wikingów, z funkcją: darmowe spiny i specjalne funkcje bonusowe.
+Slot inspirowany mitologią nordycką z czterema trybami darmowych spinów związanymi z postaciami. Runda bonusowa dzieli się na komnaty o różnych zasadach.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/thunderstruck-ii" >}})
 
 <h2 id="fruit-party-2">Fruit Party 2</h2>
 
-Slot inspirowany motywem kolorowe owoce i słoneczny świat fantasy, z funkcją: wygrane klastrowe i mnożniki.
+Slot owocowy 7×7 z wygranymi klastrowymi. Wygrywające grupy mogą pozostawiać symbole Wild z rosnącymi mnożnikami, które w darmowych spinach mogą osiągać 729×.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/fruit-party-2" >}})
 
 <h2 id="gates-of-olympus">Gates of Olympus</h2>
 
-Slot inspirowany motywem Zeusa i wspaniałą świątynię na Olimpie, z funkcją: wygrane kaskadowe i mnożniki.
+Slot z motywem Zeusa bez klasycznych linii wypłat. Takie same symbole mogą wygrywać w dowolnym miejscu, kaskady kontynuują sekwencje, a losowe mnożniki mogą się sumować.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/gates-of-olympus" >}})
 
 <h2 id="gonzos-quest">Gonzo's Quest</h2>
 
-Slot inspirowany motywem odkrywcę poszukującego El Dorado, z funkcją: wygrane kaskadowe i rosnące mnożniki.
+Slot przygodowy z kaskadami Avalanche: wygrywające symbole znikają i są zastępowane nowymi. Kolejne wygrane w ramach jednego spinu zwiększają mnożnik.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/gonzos-quest" >}})
 
 <h2 id="sweet-bonanza">Sweet Bonanza</h2>
 
-Slot inspirowany motywem słodycze i owoce w kolorowym świecie fantasy, z funkcją: wygrane kaskadowe i mnożniki.
+Kolorowy slot z symbolami słodyczy i owoców. Wygrane tworzą grupy takich samych symboli w dowolnym miejscu planszy, a rozgrywkę uzupełniają kaskady i losowe mnożniki.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/sweet-bonanza" >}})
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-Slot inspirowany motywem wilki i północnoamerykańską dziką przyrodę, z funkcją: symbole Wild, respiny i funkcje jackpot.
+Slot z motywem dzikiej przyrody, darmowymi spinami, powiększonymi symbolami i osobną funkcją jackpot respin. Runda jackpot ma własne zasady i jest niezależna od zwykłych wygranych.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/wolf-gold" >}})
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-Slot inspirowany motywem lwa i afrykańską sawannę, z funkcją: progresywne poziomy jackpota.
+Slot safari z czterema poziomami progresywnego jackpota. System jackpotowy jest niezależny od zwykłych wygranych za symbole i ma odrębne warunki udziału.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/mega-moolah" >}})
 
 <h2 id="pirots-4">Pirots 4</h2>
 
-Pirots 4 łączy kosmiczną przygodę z siatką 6×6. CollectR, rozszerzające się pole i przemiany symboli wpływają na przebieg rund. Dodatkowe funkcje to Space Bandit oraz gra monetarna Lost in Space.
+Kosmiczny slot na siatce 6×6. CollectR, rozszerzające się pole i przemiany symboli uzupełniają funkcje Space Bandit oraz gra monetarna Lost in Space.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/pirots-4" >}})
 
 <h2 id="fire-in-the-hole-3">Fire in the Hole 3</h2>
 
-Fire in the Hole 3 rozgrywa się w lodowej kopalni, której pole zmienia się podczas kolejnych zapadnięć. xBomb Wild, xSplit i xHole wpływają na symbole oraz układ bębnów, a Lucky Wagon Spins to osobna funkcja bonusowa.
+Slot rozgrywający się w zapadającej się, skutej lodem kopalni. xBomb, xSplit, xGod i xHole zmieniają symbole oraz pole gry, a Lucky Wagon Spins stanowią osobną funkcję bonusową.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/fire-in-the-hole-3" >}})
 
 <h2 id="razor-shark">Razor Shark</h2>
 
-Razor Shark to podwodny slot z pięcioma bębnami, czterema rzędami i 20 liniami. Mystery Stacks odsłaniają symbole i przesuwają się w dół. Złote rekiny uruchamiają Razor Reveal, a darmowe gry wprowadzają rosnące mnożniki.
+Podwodny slot z pięcioma bębnami, czterema rzędami i 20 liniami. Mystery Stacks odsłaniają symbole, a Golden Shark uruchamia Razor Reveal i darmowe gry.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/razor-shark" >}})
 
 <h2 id="pink-elephants-2-reborn">Pink Elephants 2 – Reborn</h2>
 
-Pink Elephants 2 – Reborn to surrealistyczny slot z sześcioma bębnami i 4096 Connecting Pay Ways. Mystery Scatter może uruchomić darmowe spiny z przemianami symboli i możliwością ponownego uruchomienia rundy.
+Surrealistyczny slot z sześcioma bębnami i 4096 Connecting Pay Ways. Mystery Scatter może uruchomić darmowe spiny z przemianami symboli i możliwością ponownego uruchomienia rundy.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/pink-elephants-2-reborn" >}})
 
 <h2 id="temple-tumble">Temple Tumble</h2>
 
-Temple Tumble to przygoda w dżungli na siatce 6×6 z maksymalnie 46 656 sposobami wygrywania. Symbole znikają w kaskadach, a kamienne bloki otwierają drogę do darmowych spinów. W rundzie bonusowej wybiera się jeden z trzech światów.
+Przygoda w dżungli: siatka 6×6, 46 656 sposobów wygrywania i licencjonowane Megaways. Kaskady i kamienne bloki prowadzą do darmowych spinów z trzema światami bonusowymi.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/temple-tumble" >}})
 

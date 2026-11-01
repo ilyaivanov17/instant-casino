@@ -1,15 +1,19 @@
 {{ if and (not .IsHome) (ne .Type "author") }}
 {{ $settings := (site.GetPage "/editorial/settings").Params }}
 {{ $authorSlug := .Params.author | default "" }}
+{{ $authorName := .Params.author_name | default "" }}
 {{ $translationKey := .Params.translationKey | default "" }}
 {{ if and (eq $authorSlug "") (hasPrefix $translationKey "slot-profile-") }}
   {{ $profileSlug := strings.TrimPrefix "slot-profile-" $translationKey }}
   {{ range site.Data.slot_catalog.games }}
-    {{ if eq .anchor $profileSlug }}{{ $authorSlug = .author }}{{ end }}
+    {{ if eq .anchor $profileSlug }}
+      {{ $authorSlug = .author }}
+      {{ $authorName = .author_name }}
+    {{ end }}
   {{ end }}
 {{ end }}
-{{ $authorPage := false }}
-{{ with $authorSlug }}{{ $authorPage = site.GetPage (printf "/authors/%s" .) }}{{ end }}
+{{ $authorURL := "" }}
+{{ with $authorSlug }}{{ $authorURL = printf "%sauthors/%s/" $.Site.LanguagePrefix . }}{{ end }}
 {{ $byline := "Written by:" }}
 {{ if eq .Site.Language.Lang "de" }}{{ $byline = "Verfasst von:" }}
 {{ else if eq .Site.Language.Lang "es" }}{{ $byline = "Escrito por:" }}
@@ -17,8 +21,8 @@
 {{ else if eq .Site.Language.Lang "pl" }}{{ $byline = "Autor:" }}
 {{ else if eq .Site.Language.Lang "ja" }}{{ $byline = "執筆者：" }}{{ end }}
 <div class="editorial-meta flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-slate-500 mb-8" aria-label="{{ partial "t.html" "editorial_metadata" }}">
-  {{ with $authorPage }}
-  <span>{{ $byline }} <a class="text-slate-300 underline" href="{{ .RelPermalink }}" rel="author"><strong>{{ .Title }}</strong></a></span>
+  {{ if and $authorName $authorURL }}
+  <span>{{ $byline }} <a class="text-slate-300 underline" href="{{ $authorURL }}" rel="author"><strong>{{ $authorName }}</strong></a></span>
   {{ else }}
   <span>{{ partial "t.html" "editorial_by" }}: <strong class="text-slate-300">{{ $settings.author }}</strong></span>
   {{ end }}

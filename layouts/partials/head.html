@@ -10,6 +10,7 @@
 {{ $description := .Params.description | default $settings.description }}
 {{ $keywords := .Params.keywords | default slice }}
 {{ $authorSlug := .Params.author | default "" }}
+{{ $authorName := .Params.author_name | default "" }}
 {{/* Use the localized catalogue summary as the SEO description for standalone slot profiles. */}}
 {{ $translationKey := .Params.translationKey | default "" }}
 {{ if hasPrefix $translationKey "slot-profile-" }}
@@ -20,11 +21,11 @@
       {{ with $localizedDescription }}{{ $description = . }}{{ end }}
       {{ $keywords = index .keywords $.Site.Language.Lang | default (index .keywords "en") }}
       {{ $authorSlug = .author }}
+      {{ $authorName = .author_name }}
     {{ end }}
   {{ end }}
 {{ end }}
-{{ $metaAuthor := $settings.author | default "Instant Casino Redaktion" }}
-{{ with $authorSlug }}{{ with site.GetPage (printf "/authors/%s" .) }}{{ $metaAuthor = .Title }}{{ end }}{{ end }}
+{{ $metaAuthor := $authorName | default ($settings.author | default "Instant Casino Redaktion") }}
 <title>{{ $title }}</title>
 <meta name="description" content="{{ $description }}">
 <meta name="author" content="{{ $metaAuthor }}">

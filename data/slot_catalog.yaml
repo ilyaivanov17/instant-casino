@@ -31,6 +31,7 @@ games:
     provider: Pragmatic Play
     anchor: bigger-bass-bonanza
     author: arthur-mustoe
+    author_name: "Arthur Mustoe"
     keywords:
       de:
         - "Bigger Bass Bonanza Slot"
@@ -100,6 +101,7 @@ games:
     provider: Big Time Gaming
     anchor: bonanza
     author: jon-pill
+    author_name: "Jon Pill"
     keywords:
       de:
         - "Bonanza Slot"
@@ -169,6 +171,7 @@ games:
     provider: Play'n GO
     anchor: book-of-dead
     author: corey-levitan
+    author_name: "Corey Levitan"
     keywords:
       de:
         - "Book of Dead Slot"
@@ -238,6 +241,7 @@ games:
     provider: Red Tiger
     anchor: dragons-luck
     author: corey-levitan
+    author_name: "Corey Levitan"
     keywords:
       de:
         - "Dragon's Luck Slot"
@@ -307,6 +311,7 @@ games:
     provider: Pragmatic Play
     anchor: fruit-party
     author: cristina-tudose
+    author_name: "Cristina Tudose"
     keywords:
       de:
         - "Fruit Party Slot"
@@ -375,6 +380,7 @@ games:
   - name: "Starburst"
     anchor: starburst
     author: arthur-mustoe
+    author_name: "Arthur Mustoe"
     keywords:
       de:
         - "Starburst Slot"
@@ -444,6 +450,7 @@ games:
   - name: "The Dog House"
     anchor: the-dog-house
     author: corey-levitan
+    author_name: "Corey Levitan"
     keywords:
       de:
         - "The Dog House Slot"
@@ -513,6 +520,7 @@ games:
   - name: "Legacy of Dead"
     anchor: legacy-of-dead
     author: dominic-field
+    author_name: "Dominic Field"
     keywords:
       de:
         - "Legacy of Dead Slot"
@@ -582,6 +590,7 @@ games:
   - name: "Reactoonz"
     anchor: reactoonz
     author: marco-ibarra
+    author_name: "Marco Ibarra"
     keywords:
       de:
         - "Reactoonz Slot"
@@ -651,6 +660,7 @@ games:
   - name: "Wild West Gold"
     anchor: wild-west-gold
     author: dominic-field
+    author_name: "Dominic Field"
     keywords:
       de:
         - "Wild West Gold Slot"
@@ -720,6 +730,7 @@ games:
   - name: "Starlight Princess"
     anchor: starlight-princess
     author: cristina-tudose
+    author_name: "Cristina Tudose"
     keywords:
       de:
         - "Starlight Princess Slot"
@@ -789,6 +800,7 @@ games:
   - name: "Buffalo King Megaways"
     anchor: buffalo-king-megaways
     author: dominic-field
+    author_name: "Dominic Field"
     keywords:
       de:
         - "Buffalo King Megaways Slot"
@@ -858,6 +870,7 @@ games:
   - name: "Mega Fortune"
     anchor: mega-fortune
     author: dan-michalski
+    author_name: "Dan Michalski"
     keywords:
       de:
         - "Mega Fortune Slot"
@@ -927,6 +940,7 @@ games:
   - name: "Dead or Alive 2"
     anchor: dead-or-alive-2
     author: dan-michalski
+    author_name: "Dan Michalski"
     keywords:
       de:
         - "Dead or Alive 2 Slot"
@@ -996,6 +1010,7 @@ games:
   - name: "Twin Spin"
     anchor: twin-spin
     author: jon-pill
+    author_name: "Jon Pill"
     keywords:
       de:
         - "Twin Spin Slot"
@@ -1065,6 +1080,7 @@ games:
   - name: "Hand of Anubis"
     anchor: hand-of-anubis
     author: marco-ibarra
+    author_name: "Marco Ibarra"
     keywords:
       de:
         - "Hand of Anubis Slot"
@@ -1134,6 +1150,7 @@ games:
   - name: "Sugar Rush"
     anchor: sugar-rush
     author: cristina-tudose
+    author_name: "Cristina Tudose"
     keywords:
       de:
         - "Sugar Rush Slot"
@@ -1203,6 +1220,7 @@ games:
   - name: "Immortal Romance"
     anchor: immortal-romance
     author: corey-levitan
+    author_name: "Corey Levitan"
     keywords:
       de:
         - "Immortal Romance Slot"
@@ -1272,6 +1290,7 @@ games:
   - name: "5 Lions Megaways"
     anchor: 5-lions-megaways
     author: dominic-field
+    author_name: "Dominic Field"
     keywords:
       de:
         - "5 Lions Megaways Slot"
@@ -1341,6 +1360,7 @@ games:
   - name: "Le Bandit"
     anchor: le-bandit
     author: dominic-field
+    author_name: "Dominic Field"
     keywords:
       de:
         - "Le Bandit Slot"
@@ -1410,6 +1430,7 @@ games:
   - name: "Wanted Dead or a Wild"
     anchor: wanted-dead-or-a-wild
     author: arthur-mustoe
+    author_name: "Arthur Mustoe"
     keywords:
       de:
         - "Wanted Dead or a Wild Slot"
@@ -1479,6 +1500,7 @@ games:
   - name: "Money Train 3"
     anchor: money-train-3
     author: jon-pill
+    author_name: "Jon Pill"
     keywords:
       de:
         - "Money Train 3 Slot"
@@ -1548,6 +1570,7 @@ games:
   - name: "Money Train 4"
     anchor: money-train-4
     author: jon-pill
+    author_name: "Jon Pill"
     keywords:
       de:
         - "Money Train 4 Slot"
@@ -1617,6 +1640,7 @@ games:
   - name: "Thunderstruck II"
     anchor: thunderstruck-ii
     author: dan-michalski
+    author_name: "Dan Michalski"
     keywords:
       de:
         - "Thunderstruck II Slot"
@@ -1686,6 +1710,7 @@ games:
   - name: "Fruit Party 2"
     anchor: fruit-party-2
     author: cristina-tudose
+    author_name: "Cristina Tudose"
     keywords:
       de:
         - "Fruit Party 2 Slot"
@@ -1755,6 +1780,7 @@ games:
   - name: "Gates of Olympus"
     anchor: gates-of-olympus
     author: jon-pill
+    author_name: "Jon Pill"
     keywords:
       de:
         - "Gates of Olympus Slot"
@@ -1824,6 +1850,7 @@ games:
   - name: "Gonzo's Quest"
     anchor: gonzos-quest
     author: arthur-mustoe
+    author_name: "Arthur Mustoe"
     keywords:
       de:
         - "Gonzo's Quest Slot"
@@ -1893,6 +1920,7 @@ games:
   - name: "Sweet Bonanza"
     anchor: sweet-bonanza
     author: corey-levitan
+    author_name: "Corey Levitan"
     keywords:
       de:
         - "Sweet Bonanza Slot"
@@ -1962,6 +1990,7 @@ games:
   - name: "Wolf Gold"
     anchor: wolf-gold
     author: dan-michalski
+    author_name: "Dan Michalski"
     keywords:
       de:
         - "Wolf Gold Slot"
@@ -2031,6 +2060,7 @@ games:
   - name: "Mega Moolah"
     anchor: mega-moolah
     author: dan-michalski
+    author_name: "Dan Michalski"
     keywords:
       de:
         - "Mega Moolah Slot"
@@ -2101,6 +2131,7 @@ games:
     provider: "ELK Studios"
     anchor: pirots-4
     author: marco-ibarra
+    author_name: "Marco Ibarra"
     keywords:
       de:
         - "Pirots 4 Slot"
@@ -2170,6 +2201,7 @@ games:
     provider: "Nolimit City"
     anchor: fire-in-the-hole-3
     author: jon-pill
+    author_name: "Jon Pill"
     keywords:
       de:
         - "Fire in the Hole 3 Slot"
@@ -2239,6 +2271,7 @@ games:
     provider: "Push Gaming"
     anchor: razor-shark
     author: arthur-mustoe
+    author_name: "Arthur Mustoe"
     keywords:
       de:
         - "Razor Shark Slot"
@@ -2308,6 +2341,7 @@ games:
     provider: "Thunderkick"
     anchor: pink-elephants-2-reborn
     author: corey-levitan
+    author_name: "Corey Levitan"
     keywords:
       de:
         - "Pink Elephants 2 – Reborn Slot"
@@ -2377,6 +2411,7 @@ games:
     provider: "Relax Gaming"
     anchor: temple-tumble
     author: marco-ibarra
+    author_name: "Marco Ibarra"
     keywords:
       de:
         - "Temple Tumble Slot"

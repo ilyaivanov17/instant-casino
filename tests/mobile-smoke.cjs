@@ -370,12 +370,13 @@ async function inspectPage(page, path, expectedCards = null) {
     const keywordMeta = (await page.locator('meta[name="keywords"]').getAttribute('content') || '').trim();
     const profileSummaryOk = profileDescription.includes('Dual Reactions') && profileDescription === metaDescription;
     const editorialProfileOk = expertText.length > 1800 && /Bonanza/.test(expertText) &&
-      authorText.length > 0 && authorMeta.length > 0 && keywordMeta.includes('Bonanza');
+      authorText.includes('Jon Pill') && authorMeta === 'Jon Pill' && keywordMeta.includes('Bonanza');
     const profileOk = profileResponse?.status() === 200 && profileTableCount === 1 &&
       profileH1.includes('Bonanza') && canonical.includes('/slots/bonanza/') &&
       hreflangCount === 7 && profileSummaryOk && editorialProfileOk;
     const cardAuthorCount = await page.locator('.slot-game-card-author').count();
     const contentOk = hubOk && profileOk && cardAuthorCount === 35;
+    if (!contentOk) console.log(`  author diagnostics ${item.path}: cards=${cardAuthorCount} expertLength=${expertText.length} byline=${JSON.stringify(authorText)} metaAuthor=${JSON.stringify(authorMeta)} keywords=${JSON.stringify(keywordMeta)}`);
     await page.goto('http://127.0.0.1:4173' + item.path, { waitUntil: 'networkidle' });
     let calculationOk = false;
     if (hubExists) {

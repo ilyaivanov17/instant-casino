@@ -239,7 +239,7 @@ ui:
   nav_team: Autores
   nav_contact: Contacto
   nav_home: Inicio
-  sign_in: Iniciar sesión
+  sign_in: 'Visitar operador'
   open_bonus: Ver oferta
   search_placeholder: Buscar juego, proveedor o categoría…
   random: Juego aleatorio

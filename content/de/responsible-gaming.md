@@ -1,6 +1,7 @@
 ---
 title: 'Sicher spielen: Risiken, Limits und Schutz'
 description: 'Risiken erkennen, Grenzen setzen und Hilfsangebote für verantwortungsvolles Spielen finden.'
+type: page
 seo_title: 'Sicher spielen: Risiken, Limits und Schutz | Instant Casino'
 lastmod: '2026-10-28'
 article_review_status: editorial-review-pending

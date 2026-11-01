@@ -118,7 +118,7 @@
     var track = cards[0].closest('.lobby-track');
     if (track) track.parentNode.insertBefore(noResults, track.nextSibling);
     var lang = (document.documentElement.getAttribute('lang') || 'de').slice(0,2);
-    var noResultText = { de: 'Keine passenden Spiele in dieser Auswahl gefunden.', en: 'No matching games were found in this selection.', fr: 'Aucun jeu correspondant dans cette sélection.', es: 'No hay juegos que coincidan en esta selección.' };
+    var noResultText = { de: 'Keine passenden Spiele in dieser Auswahl gefunden.', en: 'No matching games were found in this selection.', es: 'No hay juegos que coincidan en esta selección.', pl: 'Nie znaleziono pasujących gier w tym zestawie.', pt: 'Não foram encontrados jogos correspondentes nesta seleção.', ja: 'この一覧に一致するゲームは見つかりませんでした。' };
     noResults.textContent = noResultText[lang] || noResultText.en;
 
     search.addEventListener('input', function () {

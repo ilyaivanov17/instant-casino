@@ -235,7 +235,7 @@ ui:
   nav_team: Autorzy
   nav_contact: Kontakt
   nav_home: Strona główna
-  sign_in: Zaloguj się
+  sign_in: 'Przejdź do operatora'
   open_bonus: Zobacz ofertę
   search_placeholder: Szukaj gry, dostawcy lub kategorii…
   random: Losowa gra

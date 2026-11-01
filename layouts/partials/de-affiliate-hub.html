@@ -56,10 +56,13 @@
         <option value="bonus">Nur Bonusbetrag</option>
         <option value="deposit_bonus">Einzahlung + Bonus</option>
       </select>
+      <label for="de-calc-contribution">Spielgewichtung (%)</label>
+      <input id="de-calc-contribution" name="contribution" type="number" min="1" max="100" step="1" value="100" inputmode="numeric" required aria-describedby="de-calc-contribution-help">
+      <small id="de-calc-contribution-help" class="de-calculator-field-help">Beispiel: 100 % bei voller Anrechnung, 20 % wenn nur ein Fünftel des Einsatzes zählt.</small>
       <button class="de-calculator-submit" type="submit">Umsatz berechnen</button>
       <output class="de-calculator-result" data-wager-result aria-live="polite">Gib die Werte aus den Bonusbedingungen ein und berechne den erforderlichen Umsatz.</output>
-      <p class="de-calculator-note">Vereinfachte Rechnung: Spielgewichtung, Fristen, Höchsteinsatz, ausgeschlossene Spiele und weitere Bedingungen werden nicht berücksichtigt. Verwende den tatsächlichen Bonusbetrag und Multiplikator aus den aktuellen Bonusbedingungen. Maßgeblich sind ausschließlich die Bedingungen des Anbieters.</p>
-      <a class="de-offer-cta" href="/go/bonus" rel="sponsored">Angebot und Bedingungen ansehen <span aria-hidden="true">→</span></a>
+      <p class="de-calculator-note">Der Rechner zeigt den erforderlichen anrechenbaren Umsatz und schätzt den dafür nötigen Einsatz bei der angegebenen Spielgewichtung. Er berücksichtigt keine Fristen, Einsatzlimits, ausgeschlossenen Spiele oder Sonderregeln. Die tatsächlichen Bedingungen des Anbieters haben Vorrang. Die hinterlegten Angebote werden nicht automatisch nach dem leichtesten Umsatz sortiert, da dafür keine verifizierten individuellen Umsatzbedingungen vorliegen.</p>
+      <a class="de-offer-cta" data-wager-cta href="/go/bonus" rel="sponsored" hidden>Hinterlegte Angebote und Bedingungen prüfen <span aria-hidden="true">→</span></a>
     </form>
   </div>
 </section>

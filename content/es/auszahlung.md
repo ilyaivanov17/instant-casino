@@ -108,6 +108,6 @@ El juego no es una fuente de ingresos y ningún pago está garantizado. Gasta so
 
 Si necesitas información específica sobre el primer retiro, la revisión de documentos o una solicitud rechazada, consulta estas guías:
 
-- [Primer retiro]({{< relref "primer-retiro-casino" >}})
-- [KYC y verificación]({{< relref "verificacion-kyc-casino" >}})
-- [Retiros rechazados]({{< relref "retiro-casino-rechazado" >}})
+- [Primer retiro]({{< relref "erste-auszahlung" >}})
+- [KYC y verificación]({{< relref "casino-verifizierung" >}})
+- [Retiros rechazados]({{< relref "auszahlung-abgelehnt" >}})

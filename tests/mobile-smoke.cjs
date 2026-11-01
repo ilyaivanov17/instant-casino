@@ -174,16 +174,20 @@ async function inspectPage(page, path, expectedCards = null) {
   }
   await mobileHeaderPage.close();
 
-  // All outbound HTTP(S) anchors, including dynamically added ones, must use /go/bonus.
+  // Ordinary outbound sources must retain their real destinations, including when added dynamically.
   const outboundPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
   await outboundPage.goto('http://127.0.0.1:4173/slots/', { waitUntil: 'networkidle' });
   const outboundResult = await outboundPage.evaluate(async () => {
     const original = document.createElement('a');
-    original.href = 'https://example.org/offer';
-    original.textContent = 'external offer';
+    original.href = 'https://www.gluecksspiel-behoerde.de/source';
+    original.target = '_blank';
+    original.rel = 'noopener';
+    original.textContent = 'official source';
     document.body.appendChild(original);
     await new Promise(resolve => setTimeout(resolve, 50));
     const externalHref = original.getAttribute('href');
+    const externalTarget = original.getAttribute('target');
+    const externalRel = original.getAttribute('rel');
     const internal = document.createElement('a');
     internal.href = '/en/slots/';
     document.body.appendChild(internal);
@@ -192,12 +196,14 @@ async function inspectPage(page, path, expectedCards = null) {
     mail.href = 'mailto:info@example.org';
     document.body.appendChild(mail);
     const mailHref = mail.getAttribute('href');
-    return { externalHref, internalHref, mailHref };
+    return { externalHref, externalTarget, externalRel, internalHref, mailHref };
   });
-  const outboundOk = outboundResult.externalHref === '/go/bonus' &&
+  const outboundOk = outboundResult.externalHref === 'https://www.gluecksspiel-behoerde.de/source' &&
+    outboundResult.externalTarget === '_blank' &&
+    outboundResult.externalRel === 'noopener' &&
     outboundResult.internalHref === '/en/slots/' &&
     outboundResult.mailHref === 'mailto:info@example.org';
-  console.log(`${outboundOk ? 'OK' : 'FAIL'} outbound links external=${outboundResult.externalHref} internal=${outboundResult.internalHref} mail=${outboundResult.mailHref}`);
+  console.log(`${outboundOk ? 'OK' : 'FAIL'} outbound links external=${outboundResult.externalHref} target=${outboundResult.externalTarget} internal=${outboundResult.internalHref} mail=${outboundResult.mailHref}`);
   if (!outboundOk) failed = true;
   await outboundPage.close();
 

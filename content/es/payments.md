@@ -425,3 +425,7 @@ Los datos del catálogo están estructurados para comparar opciones. Antes de de
 ## Más información
 
 [Guía de retiradas rápidas en casinos]({{< relref "schnelle-auszahlung" >}})
+
+## Trustly: funcionamiento y aspectos que debes comprobar
+
+[Trustly en casinos: depósitos, retiradas y seguridad]({{< relref "trustly-casino" >}})

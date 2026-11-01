@@ -23,11 +23,20 @@ async function inspectPage(page, path, expectedCards = null) {
     }));
 
     const anchors = cards.map(card => {
-      const link = card.querySelector('a[href*="#"]');
+      const link = card.querySelector('.slot-game-card-link');
       if (!link) return false;
-      const target = new URL(link.href).hash;
-      return Boolean(target && document.getElementById(decodeURIComponent(target.slice(1))));
+      const segments = new URL(link.href).pathname.split('/').filter(Boolean);
+      return segments.length >= 2 && segments[segments.length - 2] === 'slots';
     });
+    const profileStatuses = await Promise.all(cards.map(async card => {
+      const link = card.querySelector('.slot-game-card-link');
+      try {
+        const response = await fetch(link.href);
+        return response.status;
+      } catch (_) {
+        return 0;
+      }
+    }));
 
     return {
       width: document.documentElement.clientWidth,
@@ -39,6 +48,7 @@ async function inspectPage(page, path, expectedCards = null) {
         loaded: image.complete && image.naturalWidth > 0
       })),
       anchors,
+      profileStatuses,
       tables: [...document.querySelectorAll('.table-scroll-container')].map(container => ({
         clientWidth: container.clientWidth,
         scrollWidth: container.scrollWidth,
@@ -68,14 +78,11 @@ async function inspectPage(page, path, expectedCards = null) {
     result.images.length === expectedCards &&
     result.images.every(image => image.alt.length > 0 && image.loaded) &&
     result.anchors.length === expectedCards &&
-    result.anchors.every(Boolean)
+    result.anchors.every(Boolean) &&
+    result.profileStatuses.length === expectedCards &&
+    result.profileStatuses.every(status => status === 200)
   );
-  const tableStructureOk = expectedCards === null || (
-    result.tables.length > 0 &&
-    result.tables.every(table => table.hasTable) &&
-    result.tables.some(table => table.headers >= 2 && table.cells >= 2) &&
-    (result.width >= 600 || result.tables.every(table => table.scrollWidth > table.clientWidth + 1))
-  );
+  const tableStructureOk = expectedCards === null || result.tables.length === 0;
   const ok = Boolean(response) &&
     response.status() === 200 &&
     result.title &&
@@ -84,8 +91,8 @@ async function inspectPage(page, path, expectedCards = null) {
     galleryOk &&
     tableStructureOk;
 
-  if (!ok) console.log(`  diagnostics ${path}: title=${Boolean(result.title)} pageOverflow=${result.scrollWidth > result.width + 1} galleryOk=${galleryOk} tableStructureOk=${tableStructureOk} tableHeaders=${Math.max(0, ...result.tables.map(table => table.headers))} tableCells=${Math.max(0, ...result.tables.map(table => table.cells))} tableSample=${JSON.stringify(result.tables[0]?.sample || '')} tableWrappers=${result.tables.length} tablesWithContent=${result.tables.filter(table => table.headers > 0 && table.cells > 0).length}`);
-  console.log(`${ok ? 'OK' : 'FAIL'} ${path} status=${response?.status()} viewport=${result.width}/${result.scrollWidth} cards=${result.cards} images=${result.images.filter(image => image.loaded).length}/${result.images.length} links=${result.anchors.filter(Boolean).length}/${result.anchors.length} tables=${result.tables.length} tableScroll=${result.tables.filter(table => table.scrollWidth > table.clientWidth + 1).length} jsErrors=${errors.length}`);
+  if (!ok) console.log(`  diagnostics ${path}: title=${Boolean(result.title)} pageOverflow=${result.scrollWidth > result.width + 1} galleryOk=${galleryOk} tableStructureOk=${tableStructureOk} profileRoutes=${result.profileStatuses.filter(status => status === 200).length}/${result.profileStatuses.length} tableHeaders=${Math.max(0, ...result.tables.map(table => table.headers))} tableCells=${Math.max(0, ...result.tables.map(table => table.cells))} tableSample=${JSON.stringify(result.tables[0]?.sample || '')} tableWrappers=${result.tables.length} tablesWithContent=${result.tables.filter(table => table.headers > 0 && table.cells > 0).length}`);
+  console.log(`${ok ? 'OK' : 'FAIL'} ${path} status=${response?.status()} viewport=${result.width}/${result.scrollWidth} cards=${result.cards} images=${result.images.filter(image => image.loaded).length}/${result.images.length} profileLinks=${result.anchors.filter(Boolean).length}/${result.anchors.length} profileRoutes=${result.profileStatuses.filter(status => status === 200).length}/${result.profileStatuses.length} tables=${result.tables.length} tableScroll=${result.tables.filter(table => table.scrollWidth > table.clientWidth + 1).length} jsErrors=${errors.length}`);
   return { ok, result };
 }
 
@@ -332,7 +339,7 @@ async function inspectPage(page, path, expectedCards = null) {
     const hub = page.locator('[data-wager-calculator]');
     const hubExists = await hub.count() === 1;
     const headingVisible = await page.getByRole('heading', { name: item.heading }).count() === 1;
-    const profileTableCount = await page.locator('table').count();
+    const hubTableCount = await page.locator('table').count();
     const externalReviewLinks = await page.locator('a[href*="askgamblers.com"], a[href*="reddit.com"], a[href*="lcb.org"]').count();
     const bonanzaText = await page.locator('#bonanza').evaluate(el => {
       let node = el.nextElementSibling;
@@ -346,8 +353,17 @@ async function inspectPage(page, path, expectedCards = null) {
       '/pt/slots/': /vitórias por agrupamento/i,
       '/ja/slots/': /クラスター配当/
     }[item.path].test(bonanzaText);
-    const contentOk = profileTableCount >= 35 && externalReviewLinks === 0 &&
+    const hubOk = hubTableCount === 0 && externalReviewLinks === 0 &&
       bonanzaText.includes('Megaways') && !bonanzaWrongClaim;
+    const profilePath = item.path.replace('/slots/', '/slots/bonanza/');
+    const profileResponse = await page.goto('http://127.0.0.1:4173' + profilePath, { waitUntil: 'networkidle' });
+    const profileTableCount = await page.locator('table').count();
+    const profileH1 = await page.locator('h1').first().textContent();
+    const canonical = await page.locator('link[rel="canonical"]').getAttribute('href');
+    const hreflangCount = await page.locator('link[rel="alternate"][hreflang]').count();
+    const profileOk = profileResponse?.status() === 200 && profileTableCount === 1 &&
+      profileH1.includes('Bonanza') && canonical.includes('/slots/bonanza/') && hreflangCount === 6;
+    const contentOk = hubOk && profileOk;
     let calculationOk = false;
     if (hubExists) {
       const form = hub.locator('[data-wager-form]');
@@ -362,7 +378,7 @@ async function inspectPage(page, path, expectedCards = null) {
       calculationOk = /6[.,\s]?000/.test(resultText) && /30[.,\s]?000/.test(resultText) && ctaVisible;
     }
     const localizedOk = hubExists && headingVisible && calculationOk && contentOk;
-    console.log(`${localizedOk ? 'OK' : 'FAIL'} localized hub ${item.path} heading=${headingVisible} calculator=${hubExists} calculation=${calculationOk} tables=${profileTableCount} externalReviewLinks=${externalReviewLinks} content=${contentOk}`);
+    console.log(`${localizedOk ? 'OK' : 'FAIL'} localized hub ${item.path} heading=${headingVisible} calculator=${hubExists} calculation=${calculationOk} hubTables=${hubTableCount} profileTables=${profileTableCount} canonical=${Boolean(canonical?.includes('/slots/bonanza/'))} hreflang=${hreflangCount} externalReviewLinks=${externalReviewLinks} content=${contentOk}`);
     if (!localizedOk) failed = true;
     await page.close();
   }

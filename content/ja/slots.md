@@ -184,7 +184,7 @@ Book of Deadのボーナスは、フリースピン中に選ばれる1つの拡�
 
 ## Dragon's Luck：ゲームの概要
 
-Dragon's Luckは、ドラゴンをテーマにしたRed Tigerのスロットで、Dragon Coin、Dragon's Help、Mega Coinの機能を備えています。正確なルールは[公式ゲーム情報](https://games.evolution.com/slots/dragons-luck/)と、実際に読み込まれたバージョンの配当表で確認してください。
+Dragon's Luckは、ドラゴンをテーマにしたRed Tigerのスロットで、Dragon Coin、Dragon's Help、Mega Coinの機能を備えています。正確なルールは公式ゲーム情報と、実際に読み込まれたバージョンの配当表で確認してください。
 
 ### ゲーム概要
 

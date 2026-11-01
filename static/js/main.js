@@ -50,6 +50,35 @@
     });
   }
 
+  // Keep the header available while scrolling upward; tuck it away while scrolling down.
+  var lobbyHeader = document.querySelector('.lobby-header');
+  if (lobbyHeader) {
+    var previousScrollY = window.scrollY || window.pageYOffset;
+    var scrollFramePending = false;
+    var scrollThreshold = 8;
+    function updateHeaderForScroll() {
+      var currentScrollY = window.scrollY || window.pageYOffset;
+      var mobileMenuOpen = mobileMenu && !mobileMenu.classList.contains('hidden');
+
+      if (currentScrollY <= 80 || mobileMenuOpen) {
+        lobbyHeader.classList.remove('is-scroll-hidden');
+      } else if (currentScrollY > previousScrollY + scrollThreshold) {
+        lobbyHeader.classList.add('is-scroll-hidden');
+      } else if (currentScrollY < previousScrollY - scrollThreshold) {
+        lobbyHeader.classList.remove('is-scroll-hidden');
+      }
+
+      previousScrollY = currentScrollY;
+      scrollFramePending = false;
+    }
+
+    window.addEventListener('scroll', function () {
+      if (scrollFramePending) return;
+      scrollFramePending = true;
+      window.requestAnimationFrame(updateHeaderForScroll);
+    }, { passive: true });
+  }
+
   document.querySelectorAll('a[href^="#"]').forEach(function (anchor) {
     anchor.addEventListener('click', function (e) {
       var href = this.getAttribute('href');

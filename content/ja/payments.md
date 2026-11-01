@@ -425,3 +425,7 @@ screenshots_note: '編集用のイラストです。実際の運営画面のス�
 ## 関連ガイド
 
 [カジノの高速出金ガイド]({{< relref "schnelle-auszahlung" >}})
+
+## Trustlyの仕組みと確認事項
+
+[カジノでのTrustly：入金・出金・安全性]({{< relref "trustly-casino" >}})

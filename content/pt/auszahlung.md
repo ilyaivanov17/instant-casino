@@ -108,6 +108,6 @@ O jogo não é uma fonte de rendimento e nenhum pagamento é garantido. Utilize 
 
 Para questões específicas sobre o primeiro levantamento, a verificação de documentos ou um pedido recusado, consulta estes guias:
 
-- [Primeiro levantamento]({{< relref "primeiro-levantamento-casino" >}})
-- [KYC e verificação]({{< relref "verificacao-kyc-casino" >}})
-- [Levantamentos recusados]({{< relref "levantamento-casino-recusado" >}})
+- [Primeiro levantamento]({{< relref "erste-auszahlung" >}})
+- [KYC e verificação]({{< relref "casino-verifizierung" >}})
+- [Levantamentos recusados]({{< relref "auszahlung-abgelehnt" >}})

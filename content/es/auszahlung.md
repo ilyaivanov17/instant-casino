@@ -103,3 +103,11 @@ El juego no es una fuente de ingresos y ningún pago está garantizado. Gasta so
 - [Depósitos y métodos de pago]({{< relref "payments" >}})
 - [Cuenta y verificación]({{< relref "account-help" >}})
 - [Condiciones de los bonos]({{< relref "bonuses" >}})
+
+## Más guías sobre retiros
+
+Si necesitas información específica sobre el primer retiro, la revisión de documentos o una solicitud rechazada, consulta estas guías:
+
+- [Primer retiro]({{< relref "primer-retiro-casino" >}})
+- [KYC y verificación]({{< relref "verificacion-kyc-casino" >}})
+- [Retiros rechazados]({{< relref "retiro-casino-rechazado" >}})

@@ -425,3 +425,7 @@ Os dados do catálogo estão organizados para comparação. Antes de depositar, 
 ## Mais informações
 
 [Guia de levantamentos rápidos em casinos]({{< relref "schnelle-auszahlung" >}})
+
+## Trustly: funcionamento e pontos a verificar
+
+[Trustly em casinos: depósitos, levantamentos e segurança]({{< relref "trustly-casino" >}})

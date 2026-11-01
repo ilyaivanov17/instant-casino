@@ -28,6 +28,8 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 
 Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
 
+Für den Ablauf nach dem Auszahlungsantrag, mögliche KYC-Prüfungen und verspätete Zahlungen gibt es jetzt einen eigenen [Leitfaden zu Casino-Auszahlungen]({{< relref "auszahlung" >}}).
+
 ## Geld einzahlen bei Instant Casino
 
 ### So findest du den Einzahlungsbereich

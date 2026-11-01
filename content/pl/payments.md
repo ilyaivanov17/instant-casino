@@ -420,3 +420,8 @@ Przy kartach i przelewach uwzględnij własność rachunku oraz dni bankowe. Prz
 - Zachowaj numer transakcji i korzystaj z oficjalnych kanałów pomocy.
 
 Dane katalogowe służą do uporządkowanego porównania. Przed wpłatą, aktywacją bonusu lub płatnością sprawdź warunki widoczne aktualnie dla swojego kraju i konta.
+
+
+## Więcej informacji
+
+[Poradnik: szybkie wypłaty z kasyn]({{< relref "schnelle-auszahlung" >}})

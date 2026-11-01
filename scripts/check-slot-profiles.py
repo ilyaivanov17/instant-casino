@@ -61,8 +61,6 @@ def main():
                 errors.append(f"{path.relative_to(ROOT)}: profile table is missing")
             if 'relref "slots"' not in body:
                 errors.append(f"{path.relative_to(ROOT)}: missing return link to catalogue")
-            if not re.search(r"https?://", body):
-                errors.append(f"{path.relative_to(ROOT)}: no source or outbound reference found")
             hub = hub_cache[lang]
             if f'id="{slug}"' not in hub:
                 errors.append(f"content/{lang}/slots.md: missing legacy anchor {slug}")

@@ -105,7 +105,7 @@ The core loop is easy to follow: the Fisherman Wild collects fish values, while 
 
 ## Bonanza: a quick guide
 
-Bonanza uses the Megaways system, with variable reel heights and cascading wins. Its free-spins round is a separate bonus phase. The site record lists Megaways, cascades and free spins; check the loaded version's help for the exact rules. Check the help panel for the exact trigger rules in the version available.
+Bonanza uses the Megaways system, with variable reel heights and cascading wins. Its free-spins round is a separate bonus phase. The site record lists Megaways, cascades and free spins. Check the loaded version's help for exact triggers and rules.
 
 ### Game overview
 

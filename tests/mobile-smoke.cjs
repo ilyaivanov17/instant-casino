@@ -245,6 +245,39 @@ async function inspectPage(page, path, expectedCards = null) {
   }
   await calculatorPage.close();
 
+  // Verify that the same localized offers, casino overview and calculator exist in every other language.
+  const localizedCases = [
+    { path: '/en/slots/', heading: 'Check bonus offers' },
+    { path: '/pl/slots/', heading: 'Sprawdź oferty bonusowe' },
+    { path: '/es/slots/', heading: 'Consultar ofertas de bonos' },
+    { path: '/pt/slots/', heading: 'Consultar ofertas de bónus' },
+    { path: '/ja/slots/', heading: 'ボーナスオファーを確認' }
+  ];
+  for (const item of localizedCases) {
+    const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    await page.goto('http://127.0.0.1:4173' + item.path, { waitUntil: 'networkidle' });
+    const hub = page.locator('[data-wager-calculator]');
+    const hubExists = await hub.count() === 1;
+    const headingVisible = await page.getByRole('heading', { name: item.heading }).count() === 1;
+    let calculationOk = false;
+    if (hubExists) {
+      const form = hub.locator('[data-wager-form]');
+      await form.locator('[name="deposit"]').fill('100');
+      await form.locator('[name="bonus"]').fill('100');
+      await form.locator('[name="wager"]').fill('30');
+      await form.locator('[name="basis"]').selectOption('deposit_bonus');
+      await form.locator('[name="contribution"]').fill('20');
+      await form.locator('button[type="submit"]').click();
+      const resultText = await form.locator('[data-wager-result]').textContent();
+      const ctaVisible = await form.locator('[data-wager-cta]').isVisible();
+      calculationOk = /6[.,\\s]?000/.test(resultText) && /30[.,\\s]?000/.test(resultText) && ctaVisible;
+    }
+    const localizedOk = hubExists && headingVisible && calculationOk;
+    console.log(`${localizedOk ? 'OK' : 'FAIL'} localized hub ${item.path} heading=${headingVisible} calculator=${hubExists} calculation=${calculationOk}`);
+    if (!localizedOk) failed = true;
+    await page.close();
+  }
+
   await browser.close();
   if (failed) process.exit(1);
 })().catch(error => { console.error(error); process.exit(1); });

@@ -108,6 +108,6 @@ Hazard nie jest źródłem dochodu, a wypłata nigdy nie jest gwarantowana. Graj
 
 Jeśli szukasz informacji o pierwszej wypłacie, dokumentach lub odrzuconym wniosku, przeczytaj te poradniki:
 
-- [Pierwsza wypłata]({{< relref "pierwsza-wyplata-z-kasyna" >}})
-- [KYC i weryfikacja]({{< relref "weryfikacja-kyc-kasyno" >}})
-- [Odrzucona wypłata]({{< relref "odrzucona-wyplata-z-kasyna" >}})
+- [Pierwsza wypłata]({{< relref "erste-auszahlung" >}})
+- [KYC i weryfikacja]({{< relref "casino-verifizierung" >}})
+- [Odrzucona wypłata]({{< relref "auszahlung-abgelehnt" >}})

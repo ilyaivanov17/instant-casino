@@ -107,6 +107,33 @@ async function inspectPage(page, path, expectedCards = null) {
     await page.close();
   }
 
+  // All outbound HTTP(S) anchors, including dynamically added ones, must use /go/bonus.
+  const outboundPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+  await outboundPage.goto('http://127.0.0.1:4173/slots/', { waitUntil: 'networkidle' });
+  const outboundResult = await outboundPage.evaluate(async () => {
+    const original = document.createElement('a');
+    original.href = 'https://example.org/offer';
+    original.textContent = 'external offer';
+    document.body.appendChild(original);
+    await new Promise(resolve => setTimeout(resolve, 50));
+    const externalHref = original.getAttribute('href');
+    const internal = document.createElement('a');
+    internal.href = '/en/slots/';
+    document.body.appendChild(internal);
+    const internalHref = internal.getAttribute('href');
+    const mail = document.createElement('a');
+    mail.href = 'mailto:info@example.org';
+    document.body.appendChild(mail);
+    const mailHref = mail.getAttribute('href');
+    return { externalHref, internalHref, mailHref };
+  });
+  const outboundOk = outboundResult.externalHref === '/go/bonus' &&
+    outboundResult.internalHref === '/en/slots/' &&
+    outboundResult.mailHref === 'mailto:info@example.org';
+  console.log(`${outboundOk ? 'OK' : 'FAIL'} outbound links external=${outboundResult.externalHref} internal=${outboundResult.internalHref} mail=${outboundResult.mailHref}`);
+  if (!outboundOk) failed = true;
+  await outboundPage.close();
+
   // Exercise catalogue search against real catalogue entries and reset behaviour.
   const searchPage = await browser.newPage({ viewport: { width: 1280, height: 900 }, deviceScaleFactor: 1 });
   await searchPage.goto('http://127.0.0.1:4173/en/slots/', { waitUntil: 'networkidle' });

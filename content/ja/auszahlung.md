@@ -103,3 +103,11 @@ page_faq:
 - [入金と決済方法]({{< relref "payments" >}})
 - [アカウントと本人確認]({{< relref "account-help" >}})
 - [ボーナス条件]({{< relref "bonuses" >}})
+
+## 出金に関する関連記事
+
+初回出金、書類確認、出金拒否について詳しく知りたい場合は、次のガイドも確認してください。
+
+- [初回出金]({{< relref "erste-auszahlung" >}})
+- [KYCと本人確認]({{< relref "casino-verifizierung" >}})
+- [出金拒否]({{< relref "auszahlung-abgelehnt" >}})

@@ -103,3 +103,11 @@ Hazard nie jest źródłem dochodu, a wypłata nigdy nie jest gwarantowana. Graj
 - [Wpłaty i metody płatności]({{< relref "payments" >}})
 - [Konto i weryfikacja]({{< relref "account-help" >}})
 - [Warunki bonusów]({{< relref "bonuses" >}})
+
+## Więcej poradników o wypłatach
+
+Jeśli szukasz informacji o pierwszej wypłacie, dokumentach lub odrzuconym wniosku, przeczytaj te poradniki:
+
+- [Pierwsza wypłata]({{< relref "erste-auszahlung" >}})
+- [KYC i weryfikacja]({{< relref "casino-verifizierung" >}})
+- [Odrzucona wypłata]({{< relref "auszahlung-abgelehnt" >}})

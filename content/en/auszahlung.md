@@ -105,3 +105,11 @@ Gambling is not an income source and a payout is never guaranteed. Only spend wh
 - [Deposits and payment methods]({{< relref "payments" >}})
 - [Account access and verification]({{< relref "account-help" >}})
 - [Understanding bonus terms]({{< relref "bonuses" >}})
+
+## More withdrawal guides
+
+For more specific questions about a first payout, document checks or a declined request, see these focused guides:
+
+- [First withdrawal]({{< relref "erste-auszahlung" >}})
+- [KYC and verification]({{< relref "casino-verifizierung" >}})
+- [Declined withdrawals]({{< relref "auszahlung-abgelehnt" >}})

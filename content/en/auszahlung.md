@@ -1,8 +1,8 @@
 ---
-title: Casino withdrawals: timing, verification and delays
+title: 'Casino withdrawals: timing, verification and delays'
 description: Understand withdrawal stages, identity checks, payment-method rules and what to do when a casino payout is delayed.
 type: page
-seo_title: Casino withdrawals: timing, KYC and payout limits | Instant Casino
+seo_title: 'Casino withdrawals: timing, KYC and payout limits | Instant Casino'
 lastmod: '2026-11-01'
 article_review_status: editorial-review-pending
 build:

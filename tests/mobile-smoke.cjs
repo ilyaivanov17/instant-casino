@@ -56,7 +56,8 @@ async function inspectPage(page, path, expectedCards = null) {
           height: image?.getAttribute('height') || '',
           visible: Boolean(style && rect && style.display !== 'none' &&
             style.visibility !== 'hidden' && Number(style.opacity) > 0 &&
-            rect.width > 0 && rect.height > 0)
+            rect.width > 0 && rect.height > 0),
+          noExtraClass: link?.hasAttribute('class') === false
         };
       })(),
       cards: cards.length,
@@ -101,7 +102,7 @@ async function inspectPage(page, path, expectedCards = null) {
   );
   const tableStructureOk = expectedCards === null || result.tables.length === 0;
   const badge = result.toolsCafeBadge;
-  const badgeOk = badge.present && badge.visible &&
+  const badgeOk = badge.present && badge.visible && badge.noExtraClass &&
     badge.target === '_blank' &&
     badge.rel.split(/\s+/).includes('noopener') &&
     badge.alt === 'Listed on tools.cafe' &&

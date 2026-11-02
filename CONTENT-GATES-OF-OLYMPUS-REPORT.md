@@ -18,7 +18,11 @@ The six localized pages now explain the original Gates of Olympus game using pro
 
 The page explicitly distinguishes the original Gates of Olympus from Gates of Olympus 1000 and Gates of Olympus 2500. Their separate rules and multipliers are not copied into this profile.
 
-Existing URLs, translation keys, author metadata, CTA, related links and catalogue navigation are preserved. No RTP, stake range, volatility value, maximum-win claim or personal test-session claim was added. Review status remains `editorial-review-pending`.
+Existing URLs, translation keys, author metadata, CTA, related links and catalogue navigation are preserved. The official localized Pragmatic Play product pages in EN, DE, PL, ES, PT and JA list RTP 96.50%. The six profiles now attribute that number to the provider as a theoretical long-run figure, not a promise about an individual session. No universal stake range, volatility value, maximum-win claim or personal test-session claim was added. Review status remains `editorial-review-pending`.
+
+## Provider-listed RTP
+
+The product page in all six checked locales lists RTP 96.50% in its basic game information. Each localized profile now attributes this figure to Pragmatic Play and directs readers to confirm the RTP displayed by the version actually loaded. This value is not a guaranteed result for a player or session.
 
 ## Sources
 

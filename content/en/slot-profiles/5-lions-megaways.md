@@ -23,12 +23,13 @@ build:
 | Feature | Details |
 |---|---|
 | Provider | Pragmatic Play |
+| RTP (provider listing) | 96.50% |
 | Layout | 7×6 Megaways layout |
 | Maximum ways | up to 117,649 |
 | Listed mechanics | Tumbles, Gold Lion Wilds, free spins |
 | Free spins | seven selectable options |
 
-The layout and feature details above are drawn from the provider's product information and launch announcement. RTP, stake limits and regional availability are not stated here as universal facts: check the help and paytable for the version that actually loads.
+The layout and feature details above are drawn from Pragmatic Play's official product information and launch announcement. The provider's product page lists an RTP of 96.50% in its basic game information. This is a published theoretical long-run figure, not a guarantee for an individual session. Check the RTP shown in the help for the version that actually loads. Stake limits and regional availability are not stated here as universal facts.
 
 ## What Megaways changes
 

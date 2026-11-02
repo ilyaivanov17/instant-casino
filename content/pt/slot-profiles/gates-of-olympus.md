@@ -1,6 +1,6 @@
 ---
 title: "Gates of Olympus – perfil do jogo"
-description: "Gates of Olympus combina prémios em qualquer posição, cascatas e multiplicadores aleatórios até 500x. Quatro Scatters ativam 15 rodadas grátis."
+description: "Gates of Olympus combina prémios por 8–30 símbolos em qualquer posição, seis rolos em cascata, multiplicadores até 500x e 15 rodadas grátis com quatro Scatters."
 seo_title: "Gates of Olympus: mecânicas e rodadas grátis | Instant Casino"
 type: slots
 translationKey: "slot-profile-gates-of-olympus"
@@ -23,13 +23,14 @@ Gates of Olympus, da Pragmatic Play, combina a mitologia grega com uma mecânica
 | Característica | Dados |
 |---|---|
 | Fornecedor | Pragmatic Play |
+| RTP (valor indicado pelo fornecedor) | 96,50% |
 | Sistema de prémios | símbolos iguais podem pagar em qualquer posição |
 | Rolos | seis rolos em cascata |
 | Condição de prémio indicada pelo fornecedor | 8 a 30 símbolos iguais |
 | Multiplicadores | valores aleatórios até 500x |
 | Bónus | 4 ou mais Scatters, 15 rodadas grátis |
 
-Estes dados referem-se ao Gates of Olympus original. Gates of Olympus 1000, Gates of Olympus 2500 e as edições especiais posteriores são jogos distintos, com regras diferentes. Não transfiras automaticamente para este perfil os limites de multiplicador, as modalidades de bónus ou os prémios máximos anunciados para essas versões.
+A página oficial da Pragmatic Play indica um RTP de 96,50% na informação básica do jogo. Trata-se de um valor teórico a longo prazo, não de uma garantia para uma sessão individual. Antes de jogar, confirma o RTP indicado na ajuda da versão efetivamente aberta. Estes dados referem-se ao Gates of Olympus original. Gates of Olympus 1000, Gates of Olympus 2500 e as edições especiais posteriores são jogos distintos, com regras diferentes. Não transfiras automaticamente para este perfil os limites de multiplicador, as modalidades de bónus ou os prémios máximos anunciados para essas versões.
 
 ## Prémios sem linhas fixas
 

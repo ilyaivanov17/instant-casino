@@ -1,6 +1,6 @@
 ---
 title: "5 Lions Megaways – Slot profile"
-description: "Explore 5 Lions Megaways: a 7×6 Megaways layout, up to 117,649 ways, tumbling wins, Gold Lion Wilds and seven free-spins options."
+description: "5 Lions Megaways combines a 7×6 Megaways layout with up to 117,649 ways, Tumbles, Gold Lion Wilds and seven selectable free-spins options."
 seo_title: "5 Lions Megaways: mechanics & free spins | Instant Casino"
 type: slots
 translationKey: "slot-profile-5-lions-megaways"

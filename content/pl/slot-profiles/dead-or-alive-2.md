@@ -1,6 +1,6 @@
 ---
 title: "Dead or Alive 2 – profil gry"
-description: "Dead or Alive 2 oferuje trzy tryby darmowych spinów: Old Saloon z wygranymi x2, High Noon z mnożnikami Wild i Train Heist z rosnącym licznikiem."
+description: "Dead or Alive 2 oferuje trzy tryby darmowych spinów w klimacie Dzikiego Zachodu: Sticky Wild, wygrane x2 i rosnący licznik mnożnika."
 seo_title: "Dead or Alive 2: trzy tryby darmowych spinów | Instant Casino"
 type: slots
 translationKey: "slot-profile-dead-or-alive-2"
@@ -16,7 +16,7 @@ build:
 
 ![Grafika Dead or Alive 2 przedstawiająca postacie Dzikiego Zachodu w zakurzonej scenerii saloonu.](/images/slots/catalog-dead-or-alive-2.webp)
 
-Dead or Alive 2 od NetEnt to automat w klimacie Dzikiego Zachodu, z pięcioma bębnami, trzema rzędami i dziewięcioma stałymi liniami wygrywającymi. Jego główną cechą są nie tylko Sticky Wilds, lecz także trzy różne tryby darmowych spinów: Old Saloon, High Noon Saloon i Train Heist. Każdy z nich inaczej wykorzystuje symbole Wild. Aby zrozumieć bonus, najpierw ustal, który tryb został uruchomiony.
+Dead or Alive 2 od NetEnt to automat w klimacie Dzikiego Zachodu, z pięcioma bębnami, trzema rzędami i dziewięcioma stałymi liniami wygrywającymi. Jego główną cechą jest wybór jednego z trzech odmiennych trybów darmowych spinów: Old Saloon, High Noon Saloon i Train Heist. Każdy inaczej wykorzystuje symbole Wild. Aby zrozumieć bonus, najpierw ustal, który tryb został uruchomiony.
 
 ## Informacje o grze
 
@@ -26,31 +26,31 @@ Dead or Alive 2 od NetEnt to automat w klimacie Dzikiego Zachodu, z pięcioma b�
 | Pole gry | 5 bębnów × 3 rzędy |
 | Linie wygrywające | 9 stałych linii |
 | Wild | zastępuje zwykłe symbole, ale nie Scatter |
-| Scatter | wygrane Scatter są rozliczane niezależnie od linii |
+| Scatter | wygrane Scatter rozliczane niezależnie od linii |
 | Darmowe spiny | Old Saloon, High Noon Saloon lub Train Heist |
-| Główne mechaniki | Sticky Wilds, wygrane x2 i licznik mnożnika |
+| Główne mechaniki | Sticky Wild, wygrane x2 i licznik mnożnika |
 
-Informacje o bębnach, liniach i Wildach pochodzą z dokumentu NetEnt Game Sheet, wersja 1.2 z 29 września 2020 r. Dokument dotyczy konkretnej odmiany gry i nie gwarantuje, że każda integracja operatora ma identyczne ustawienia.
+Informacje o bębnach, liniach i Wild pochodzą z NetEnt Game Sheet, wersja 1.2 z 29 września 2020 r. Dokument opisuje konkretny wariant gry i nie gwarantuje, że każda integracja operatora ma identyczne ustawienia. Pomoc jednego z operatorów podaje dla swojej wersji po 12 początkowych darmowych spinów w każdym trybie; tę informację należy sprawdzić w faktycznie uruchomionej wersji.
 
 ## Gra podstawowa: linie, Wild i Scatter
 
 Gra podstawowa wykorzystuje dziewięć stałych linii na polu z pięcioma bębnami i trzema rzędami. Zwykłe kombinacje są rozliczane zgodnie z tabelą wypłat. Wild może zastępować zwykłe symbole, ale nie Scatter.
 
-Wygrane Scatter są wypłacane niezależnie od trafienia na linii. Oznacza to, że wynik ze Scatter nie wymaga jednoczesnego ułożenia aktywnej kombinacji liniowej. Wartości symboli sprawdź w tabeli wypłat uruchomionej wersji, ponieważ dokładne rozliczenie zależy od jej konfiguracji.
+Wygrane Scatter są wypłacane niezależnie od linii. Wynik ze Scatter nie wymaga więc jednoczesnego ułożenia aktywnej kombinacji liniowej. Wartości symboli sprawdź w tabeli wypłat uruchomionej wersji, ponieważ dokładne rozliczenie zależy od jej konfiguracji.
 
-## Trzy tryby darmowych spinów zamiast jednego bonusu
+## Trzy tryby darmowych spinów i różne zasady
 
-NetEnt opisuje trzy warianty darmowych spinów do wyboru: Old Saloon, High Noon Saloon i Train Heist. W standardowym opisie producenta każdy z nich rozpoczyna się od dwunastu darmowych spinów. Najważniejsza różnica polega na tym, jak Wildy pozostają na bębnach i jak stosowane są mnożniki.
+NetEnt opisuje trzy warianty darmowych spinów do wyboru: Old Saloon, High Noon Saloon i Train Heist. Najważniejsza różnica polega na tym, jak Wildy pozostają na bębnach i jak stosowane są mnożniki.
 
 ### Old Saloon: wszystkie wygrane x2
 
-W Old Saloon wszystkie wygrane podczas darmowych spinów są podwajane. Symbole Wild zamieniają się w Sticky Wilds i pozostają na swoich pozycjach do końca funkcji. Zebranie co najmniej jednego Sticky Wilda na każdym bębnie przyznaje pięć dodatkowych darmowych spinów. Podstawą tego trybu jest więc połączenie zatrzymanych Wildów i stałego mnożnika x2 do wygranych.
+W Old Saloon wszystkie wygrane podczas darmowych spinów są podwajane. Symbole Wild zamieniają się w Sticky Wild i pozostają na swoich pozycjach do końca funkcji. Zebranie co najmniej jednego Sticky Wild na każdym bębnie przyznaje pięć dodatkowych darmowych spinów. Podstawą tego trybu jest połączenie zatrzymanych Wildów i stałego mnożnika x2 do wygranych.
 
 ### High Noon Saloon: podwójne i potrójne mnożniki Wild
 
-W High Noon symbole Wild również stają się Sticky Wilds. Dodatkowa reguła działa, gdy kilka Wildów pojawi się na tym samym bębnie: dwa Wildy na jednym bębnie zmieniają się w Wild z mnożnikiem x2, a trzy — w Wild z mnożnikiem x3. Jeśli kombinacja wygrywająca zawiera kilka takich symboli, mnożniki są stosowane razem. NetEnt podaje przykład, w którym x2 i x3 dają łącznie x6.
+W High Noon symbole Wild również stają się Sticky Wild. Dodatkowa reguła działa, gdy kilka Wildów pojawi się na tym samym bębnie: dwa Wildy na jednym bębnie zmieniają się w Wild z mnożnikiem x2, a trzy — w Wild z mnożnikiem x3. Jeśli kombinacja wygrywająca zawiera kilka takich symboli, mnożniki są stosowane razem. NetEnt podaje przykład, w którym x2 i x3 dają łącznie x6.
 
-Pięć dodatkowych darmowych spinów można otrzymać po zebraniu co najmniej jednego Sticky Wilda na każdym bębnie. Warto zauważyć, że Wildy z mnożnikami powstają przed rozliczeniem wygranej, co ma znaczenie dla obliczeń.
+Pięć dodatkowych darmowych spinów można otrzymać po zebraniu co najmniej jednego Sticky Wild na każdym bębnie. Wildy z mnożnikami powstają przed rozliczeniem wygranej, co ma znaczenie dla obliczeń.
 
 ### Train Heist: rosnący licznik mnożnika
 
@@ -61,7 +61,7 @@ W odróżnieniu od Old Saloon i High Noon najważniejszą rolę odgrywa tutaj ni
 ## Co warto sprawdzić przed rozpoczęciem
 
 - **Tryb darmowych spinów:** ustal, czy uruchomiono Old Saloon, High Noon Saloon czy Train Heist.
-- **Old Saloon:** sprawdź mnożnik wygranych x2 i to, czy Sticky Wildy pojawiły się na wszystkich bębnach.
+- **Old Saloon:** sprawdź mnożnik wygranych x2 i to, czy Sticky Wild pojawiły się na wszystkich bębnach.
 - **High Noon:** obserwuj dwa lub trzy Wildy na tym samym bębnie oraz sposób łączenia mnożników x2 i x3 w jednej wygranej.
 - **Train Heist:** śledź licznik, dodatkowy spin za każdy Wild i moment osiągnięcia x16.
 - **Scatter i Wild:** sprawdź różnicę między wygranymi Scatter a liniami oraz zasady zastępowania symboli przez Wild.
@@ -69,7 +69,7 @@ W odróżnieniu od Old Saloon i High Noon najważniejszą rolę odgrywa tutaj ni
 
 ## Ocena
 
-Dead or Alive 2 wyróżnia się możliwością wyboru jednego z trzech trybów darmowych spinów. Old Saloon ułatwia śledzenie wygranych dzięki mnożnikowi x2, High Noon łączy Sticky Wilds z kilkoma poziomami mnożników, a Train Heist rozwija licznik przyznający dodatkowe spiny. Najważniejszym punktem porównania nie jest więc sama liczba darmowych spinów, ale sposób wykorzystania Wildów i mnożników w każdym trybie.
+Dead or Alive 2 wyróżnia się możliwością wyboru jednego z trzech trybów darmowych spinów. Old Saloon ułatwia śledzenie wygranych dzięki mnożnikowi x2, High Noon łączy Sticky Wild z kilkoma poziomami mnożników, a Train Heist rozwija licznik przyznający dodatkowe spiny. Najważniejszym punktem porównania nie jest więc sama liczba darmowych spinów, ale sposób wykorzystania Wildów i mnożników w każdym trybie.
 
 Profil podsumowuje informacje z NetEnt Game Sheet w wersji 1.2 i pierwotnej zapowiedzi gry. Nie oznacza przeprowadzenia osobistej sesji testowej. Zasady i ustawienia mogą różnić się zależnie od wariantu gry i operatora. Hazard wiąże się z ryzykiem finansowym; graj wyłącznie tam, gdzie jest to legalne, i z budżetem ustalonym wcześniej.
 
@@ -77,6 +77,7 @@ Profil podsumowuje informacje z NetEnt Game Sheet w wersji 1.2 i pierwotnej zapo
 
 - [NetEnt: Dead or Alive 2 – Game Sheet, wersja 1.2 z 29 września 2020 r.](https://cdn-sp.kertn.net/assets/cms/App_Data/20e8c524-e223-48de-9382-7401c87cd065/PDFs/GameRules/Netent/GamerulesEN/Dead_or_Alive_2_deadoralive2_not_mobile_Game_Sheet_default_en.pdf)
 - [NetEnt: zapowiedź Dead or Alive 2 z 24 kwietnia 2019 r.](https://www.netent.com/en/wp-content/uploads/sites/2/2019/04/netent-netent-heads-back-to-the-wild-west-with-dead-or-alive-2-the-sequel-to-one-its-most-iconic-games-190424.pdf)
+- [Danske Spil: pomoc do Dead or Alive 2 – dane o darmowych spinach dla jednej wersji operatora](https://help.danskespil.dk/en/casino-help/slots/netentdeadoralive2)
 
 <div class="slot-profile-bonus-cta">
   <p>Sprawdź warunki bonusów</p>

@@ -1,12 +1,12 @@
 ---
 title: "Dead or Alive 2 – perfil do jogo"
-description: "Um slot inspirado em uma cidade poeirenta do Oeste e pistoleiros, com vários modos de rodadas grátis."
-seo_title: "Dead or Alive 2: mecânicas e funcionalidades | Instant Casino"
+description: "Dead or Alive 2 oferece três modos de rodadas grátis: Old Saloon com prémios x2, High Noon com Wilds multiplicadores e Train Heist com um contador crescente."
+seo_title: "Dead or Alive 2: os 3 modos de rodadas grátis explicados | Instant Casino"
 type: slots
 translationKey: "slot-profile-dead-or-alive-2"
 url: "/pt/slots/dead-or-alive-2/"
 ogImage: "/images/slots/catalog-dead-or-alive-2.webp"
-lastmod: "2026-11-01"
+lastmod: "2026-11-02"
 article_review_status: editorial-review-pending
 
 build:
@@ -14,29 +14,69 @@ build:
   list: always
 ---
 
-![Arte do jogo Dead or Alive 2 com uma cidade poeirenta do Oeste e pistoleiros.](/images/slots/catalog-dead-or-alive-2.webp)
+![Imagem de Dead or Alive 2 com personagens do Oeste Selvagem num saloon poeirento.](/images/slots/catalog-dead-or-alive-2.webp)
 
-Um slot inspirado em uma cidade poeirenta do Oeste e pistoleiros, com vários modos de rodadas grátis.
+Dead or Alive 2, da NetEnt, é um slot de temática do Oeste Selvagem com cinco rolos, três linhas e nove linhas de pagamento fixas. A sua principal característica não são apenas os Sticky Wilds, mas a escolha entre três modos diferentes de rodadas grátis: Old Saloon, High Noon Saloon e Train Heist. Cada modo utiliza os símbolos Wild de uma forma distinta. Para compreender o bónus, começa por identificar qual o modo que está ativo.
 
-| Fornecedor | Funcionalidades registadas |
+## Dados do jogo
+
+| Característica | Dados |
 |---|---|
-| NetEnt | Mehrere auswählbare rodadas grátis-Modi |
+| Fornecedor | NetEnt |
+| Grelha | 5 rolos × 3 linhas |
+| Linhas de pagamento | 9 linhas fixas |
+| Wild | substitui símbolos normais, mas não Scatter |
+| Scatter | prémios independentes das linhas |
+| Rodadas grátis | Old Saloon, High Noon Saloon ou Train Heist |
+| Mecânicas principais | Sticky Wilds, prémios x2 e contador de multiplicador |
 
+Os dados sobre rolos, linhas e Wild provêm do Game Sheet da NetEnt, versão 1.2 de 29 de setembro de 2020. O documento refere-se a uma variante específica do jogo e não garante que todas as integrações dos operadores utilizem as mesmas definições.
 
-As rodadas grátis têm condições próprias de ativação e funcionamento, incluindo eventuais reativações. A ajuda do jogo apresenta esses detalhes.
+## Jogo base: linhas, Wilds e Scatter
 
-### A nossa análise
+O jogo base utiliza nove linhas fixas num campo de cinco rolos e três linhas. As combinações normais são avaliadas de acordo com a tabela de pagamentos. Os símbolos Wild podem substituir símbolos normais, mas não os símbolos Scatter.
 
-Os três modos de rodadas grátis fazem da escolha do jogador parte do desenho do bónus de Dead or Alive 2. Compare os modificadores e as regras de cada modo em vez de tratar o bónus como uma única funcionalidade.
+Os prémios Scatter são pagos independentemente das linhas de pagamento. Isto significa que um resultado com Scatter não depende de também completar uma linha ativa. Consulta os valores dos símbolos na tabela de pagamentos da versão aberta, porque o cálculo exato depende da sua configuração.
 
+## Três modos de rodadas grátis, não um único bónus
 
+A NetEnt descreve três jogos de rodadas grátis à escolha: Old Saloon, High Noon Saloon e Train Heist. Na descrição padrão do fornecedor, cada um começa com doze rodadas grátis. A principal diferença está na forma como os Wilds permanecem nos rolos e como os multiplicadores são aplicados.
 
+### Old Saloon: todos os prémios x2
 
+Em Old Saloon, todos os prémios durante as rodadas grátis são duplicados. Os símbolos Wild transformam-se em Sticky Wilds e permanecem nas suas posições até ao fim da funcionalidade. Recolher pelo menos um Sticky Wild em cada rolo atribui cinco rodadas grátis adicionais. A mecânica central combina Wilds fixos com um multiplicador x2 aplicado aos prémios.
 
+### High Noon Saloon: Wilds com multiplicadores duplos e triplos
 
+Em High Noon, os símbolos Wild também se transformam em Sticky Wilds. A regra especial aplica-se quando aparecem vários Wilds no mesmo rolo: dois Wilds num rolo transformam-se num Wild multiplicador x2, enquanto três se transformam num Wild multiplicador x3. Se uma combinação vencedora incluir vários Wilds multiplicadores, os respetivos valores são aplicados em conjunto. A NetEnt dá o exemplo de x2 e x3, que produzem x6.
 
+Podem ser atribuídas cinco rodadas grátis adicionais depois de recolher pelo menos um Sticky Wild em cada rolo. Nota que os Wilds multiplicadores são formados antes da avaliação do prémio, um detalhe importante para compreender o cálculo.
 
+### Train Heist: um contador de multiplicador crescente
 
+Train Heist utiliza um contador de multiplicador. Cada Wild que aparece em qualquer rolo aumenta o contador em uma unidade e atribui uma rodada grátis adicional. O contador começa em x1. Quando atinge x16, são atribuídas mais cinco rodadas grátis, para além da rodada já concedida pelo Wild. Os Wilds que aparecem depois de atingir x16 continuam a aumentar o contador e atribuem uma rodada adicional cada um.
+
+Ao contrário de Old Saloon e High Noon, aqui o foco não está nos Sticky Wilds, mas no contador progressivo e nas rodadas adicionais que pode gerar.
+
+## O que deves verificar antes de jogar
+
+- **Modo de rodadas grátis:** identifica se começou Old Saloon, High Noon Saloon ou Train Heist.
+- **Old Saloon:** confirma o multiplicador x2 e se existem Sticky Wilds em todos os rolos.
+- **High Noon:** observa dois ou três Wilds no mesmo rolo e como os multiplicadores x2 e x3 se combinam num prémio.
+- **Train Heist:** acompanha o contador, a rodada adicional por cada Wild e o patamar x16.
+- **Scatter e Wild:** verifica a diferença entre prémios Scatter e linhas, bem como as regras de substituição dos Wilds.
+- **Versão do jogo:** RTP, aposta mínima e máxima e eventuais alterações nas regras do bónus devem ser consultados na ajuda da versão aberta. Os valores do Game Sheet de 2020 não são automaticamente válidos para todas as integrações.
+
+## Enquadramento
+
+Dead or Alive 2 distingue-se por permitir escolher entre três modos de rodadas grátis. Old Saloon facilita a leitura dos prémios com um multiplicador x2, High Noon combina Sticky Wilds com vários níveis de multiplicador e Train Heist desenvolve um contador que atribui rodadas adicionais. Por isso, o ponto de comparação mais útil não é apenas o número de rodadas grátis, mas a forma como cada modo utiliza Wilds e multiplicadores.
+
+Este perfil resume informação do Game Sheet da NetEnt versão 1.2 e do anúncio original do jogo. Não afirma que tenha sido realizada uma sessão pessoal de teste. As regras e definições podem variar consoante a variante e o operador. O jogo envolve riscos financeiros; participa apenas onde for legal e com um orçamento definido antecipadamente.
+
+## Informação oficial
+
+- [NetEnt: Dead or Alive 2 – Game Sheet, versão 1.2 de 29 de setembro de 2020](https://cdn-sp.kertn.net/assets/cms/App_Data/20e8c524-e223-48de-9382-7401c87cd065/PDFs/GameRules/Netent/GamerulesEN/Dead_or_Alive_2_deadoralive2_not_mobile_Game_Sheet_default_en.pdf)
+- [NetEnt: anúncio de Dead or Alive 2, 24 de abril de 2019](https://www.netent.com/en/wp-content/uploads/sites/2/2019/04/netent-netent-heads-back-to-the-wild-west-with-dead-or-alive-2-the-sequel-to-one-its-most-iconic-games-190424.pdf)
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>
@@ -45,7 +85,7 @@ Os três modos de rodadas grátis fazem da escolha do jogador parte do desenho d
 
 ## Mais perfis de jogos
 
-- [Twin Spin]({{< relref "slot-profiles/twin-spin" >}})
 - [Hand of Anubis]({{< relref "slot-profiles/hand-of-anubis" >}})
+- [Le Bandit]({{< relref "slot-profiles/le-bandit" >}})
 
 [Voltar ao catálogo completo de jogos]({{< relref "slots" >}})

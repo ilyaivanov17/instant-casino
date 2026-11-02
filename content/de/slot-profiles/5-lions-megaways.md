@@ -23,12 +23,13 @@ build:
 | Merkmal | Angaben |
 |---|---|
 | Anbieter | Pragmatic Play |
+| RTP (Angabe des Anbieters) | 96,50 % |
 | Spielfeld | 7 × 6 Megaways-Layout |
 | Maximale Gewinnwege | bis zu 117.649 |
 | Hinterlegte Funktionen | Tumbles, Goldlöwen-Wilds, Freispiele |
 | Freispiele | sieben auswählbare Optionen |
 
-Die Layout- und Funktionsangaben stammen aus der offiziellen Produktmeldung des Anbieters. RTP, Einsatzgrenzen und regionale Verfügbarkeit werden hier bewusst nicht pauschal angegeben: Maßgeblich sind die Hilfe und die Auszahlungstabelle der tatsächlich geladenen Version.
+Die Layout- und Funktionsangaben stammen aus den offiziellen Informationen von Pragmatic Play. Die Produktseite nennt in den Basis-Spielinformationen einen RTP von 96,50 %. Das ist ein veröffentlichter theoretischer Langzeitwert, keine Garantie für eine einzelne Sitzung. Prüfe vor dem Spielen den RTP-Hinweis der tatsächlich geladenen Version. Einsatzgrenzen und regionale Verfügbarkeit werden hier nicht pauschal angegeben.
 
 ## Was Megaways auf dem Spielfeld verändert
 

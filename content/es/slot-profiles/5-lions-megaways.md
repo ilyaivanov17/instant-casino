@@ -23,12 +23,13 @@ build:
 | Característica | Datos |
 |---|---|
 | Proveedor | Pragmatic Play |
+| RTP (dato publicado por el proveedor) | 96,50 % |
 | Diseño | formato Megaways de 7×6 |
 | Máximo de formas de ganar | hasta 117.649 |
 | Mecánicas registradas | cascadas, Wilds de león dorado, giros gratis |
 | Giros gratis | siete opciones seleccionables |
 
-Los datos del diseño y las funciones proceden de la información publicada por el proveedor. No presentamos el RTP, los límites de apuesta ni la disponibilidad regional como valores universales: consulta la ayuda y la tabla de pagos de la versión que se haya cargado realmente.
+Los datos del diseño y las funciones proceden de la información oficial de Pragmatic Play. La ficha del proveedor indica un RTP del 96,50 % en la información básica del juego. Es un valor teórico publicado a largo plazo, no una garantía para una sesión concreta. Antes de jugar, comprueba el RTP que figura en la ayuda de la versión que se haya cargado realmente. Los límites de apuesta y la disponibilidad regional no se presentan aquí como valores universales.
 
 ## Qué cambia con Megaways
 

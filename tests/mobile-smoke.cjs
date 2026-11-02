@@ -103,7 +103,7 @@ async function inspectPage(page, path, expectedCards = null) {
   const badge = result.toolsCafeBadge;
   const badgeOk = badge.present && badge.visible &&
     badge.target === '_blank' &&
-    badge.rel.split(/\\s+/).includes('noopener') &&
+    badge.rel.split(/\s+/).includes('noopener') &&
     badge.alt === 'Listed on tools.cafe' &&
     badge.width === '180' && badge.height === '54';
   const ok = Boolean(response) &&

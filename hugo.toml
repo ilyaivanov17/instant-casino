@@ -88,7 +88,7 @@ disableKinds = ['taxonomy', 'term']
   about = '/images/guides/live-casino.webp'
   legal = '/images/guides/privacy-documents.webp'
   slot-features = '/images/slots/gates-of-olympus.jpg'
-  slot-strategy = '/images/slots/book-of-dead.jpg'
+  slot-strategy = '/images/slots/book-of-dead.webp'
   mega-fortune-progressive-jackpot = '/images/mega-fortune-editorial.webp'
 [imaging]
   resampleFilter = 'Lanczos'

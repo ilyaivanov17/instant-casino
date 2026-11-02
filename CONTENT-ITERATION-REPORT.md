@@ -193,6 +193,8 @@ The URL, image source, target, rel value, alt text and dimensions are preserved 
 `tests/mobile-smoke.cjs` now checks that the link and image exist in the footer on inspected routes and that target, rel, alt and dimensions match the supplied markup. The check runs for home, section and localized catalogue routes at mobile viewport widths as part of the regular Playwright smoke test.
 
 
-## Badge removal
+## Final tools.cafe badge placement
 
-At the user's request, the tools.cafe badge was removed entirely from the shared footer. Its markup, external image reference and Playwright presence assertion are removed; no hidden or crawler-only presentation is used. The public site no longer renders this badge.
+The user later asked to retain the tools.cafe listing while keeping the footer uncluttered. The badge is now placed as a compact item in the bottom copyright/legal row of the shared footer, after the legal notice. It remains ordinarily visible and is not hidden behind imagery, opacity tricks or crawler-specific markup.
+
+The supplied href, image source, target, rel, alt text and dimensions are retained. The Playwright smoke test checks that the badge exists on inspected home, section and localized catalogue routes, has its expected attributes, and is not hidden by CSS.

@@ -166,6 +166,21 @@ def main():
                         errors.append(f"{path.relative_to(ROOT)}: unsupported/unverified Book of Dead value remains: {unsupported_value}")
                 if meta.get("article_review_status") != "editorial-review-pending":
                     errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+            if slug == "bigger-bass-bonanza":
+                required_sources = (
+                    "https://www.pragmaticplay.com/en/games/bigger-bass-bonanza/",
+                    "https://www.pragmaticplay.com/de/spiele/bigger-bass-bonanza/",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing primary source link {source_url}")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: Bigger Bass Bonanza profile is missing its localized mechanics sections")
+                for unsupported_value in ("96.71", "0.2–125 EUR"):
+                    if unsupported_value in body:
+                        errors.append(f"{path.relative_to(ROOT)}: unsupported/unverified Bigger Bass Bonanza value remains: {unsupported_value}")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
     expert_partial = ROOT / "layouts" / "partials" / "slot-profile-expert-analysis.html"
     if not expert_partial.exists():
         errors.append("Missing localized expert-analysis partial")

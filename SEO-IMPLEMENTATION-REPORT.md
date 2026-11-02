@@ -5,7 +5,7 @@
 Ветка: `seo/fix-indexing-hreflang-2026-11`  
 Целевая ветка: `main`  
 Pull Request: https://github.com/ilyaivanov17/instant-casino/pull/43  
-Итоговый проверенный commit: `448bdd467c53263036c8786abfea2a9291b555c8`
+Итоговый commit с отчётом: `a065975f106d406c4b4030709833358a5429e14e`
 
 ## Итог
 
@@ -31,7 +31,7 @@ PR оставлен открытым для review. Он не смержен в 
 
 ## 2. Исправления и файлы
 
-Всего в PR изменено или добавлено 19 файлов:
+Всего в PR изменено или добавлено 18 файлов:
 
 1. `.github/workflows/hugo-production.yml` — добавлена проверка сгенерированных canonical/hreflang метаданных.
 2. `hugo.toml` — корневые параметры Hugo перенесены выше `[minify]`; `disableKinds` теперь действительно находится на корневом уровне.
@@ -51,7 +51,6 @@ PR оставлен открытым для review. Он не смержен в 
 16. `content/pt/slot-profiles/starburst.md` — исправлены португальское описание и фразы о механике.
 17. `SEO-AUDIT-REPORT.md` — технический аудит и исходные доказательства.
 18. `SEO-IMPLEMENTATION-REPORT.md` — этот итоговый отчёт.
-19. `scripts/check-sitemap.py` и `scripts/check-rendered-seo.py` перечислены выше как отдельные скрипты; общий перечень файлов в PR содержит один экземпляр каждого. 
 
 Полезные страницы, игровые карточки, авторские данные, изображения, URL, все шесть языковых каталогов и `/slot-profiles/` сохранены. Профильный список `/slot-profiles/` оставлен, потому что на production он реально содержит ссылки на 35 профилей. Неизвестные legacy URL автоматически не перенаправлялись.
 
@@ -152,6 +151,7 @@ https://github.com/ilyaivanov17/instant-casino/actions/runs/41432576317
 19. [bcdfe6c](https://github.com/ilyaivanov17/instant-casino/commit/bcdfe6c10f48735f5a9867314a44c61af22c290f) — editorial section (ja).
 20. [fb0b8f6](https://github.com/ilyaivanov17/instant-casino/commit/fb0b8f6517e7db44fdeaa0ea74f6702a4b8dc261) — запрет editorial route в sitemap QA.
 21. [448bdd4](https://github.com/ilyaivanov17/instant-casino/commit/448bdd467c53263036c8786abfea2a9291b555c8) — обновление итогового аудита.
+22. [a065975](https://github.com/ilyaivanov17/instant-casino/commit/a065975f106d406c4b4030709833358a5429e14e) — итоговый отчёт реализации.
 
 ## 6. Оставшиеся задачи и ограничения
 
@@ -177,7 +177,7 @@ https://github.com/ilyaivanov17/instant-casino/actions/runs/41432576317
 - PR: https://github.com/ilyaivanov17/instant-casino/pull/43
 - Target: `main`
 - Branch: `seo/fix-indexing-hreflang-2026-11`
-- Итоговый проверенный commit: `448bdd467c53263036c8786abfea2a9291b555c8`
+- Итоговый проверенный commit: `a065975f106d406c4b4030709833358a5429e14e`
 - Итоговый GitHub Actions run: https://github.com/ilyaivanov17/instant-casino/actions/runs/41432576317 — **success**
 - PR открыт, не смержен.
 - Production-деплой этим действием не выполнялся.

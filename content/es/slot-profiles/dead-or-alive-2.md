@@ -1,7 +1,7 @@
 ---
 title: "Dead or Alive 2 – perfil del juego"
 description: "Dead or Alive 2 ofrece tres modos de giros gratis del Oeste: Sticky Wilds, premios x2 y un contador de multiplicador creciente."
-seo_title: "Dead or Alive 2: explicación de los tres modos de giros gratis | Instant Casino"
+seo_title: "Dead or Alive 2: tres modos de giros gratis | Instant Casino"
 type: slots
 translationKey: "slot-profile-dead-or-alive-2"
 url: "/es/slots/dead-or-alive-2/"

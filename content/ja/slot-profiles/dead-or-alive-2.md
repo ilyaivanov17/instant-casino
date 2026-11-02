@@ -1,6 +1,6 @@
 ---
 title: "Dead or Alive 2 ：ゲームプロフィール"
-description: "Dead or Alive 2は3種類のフリースピンを選択可能。Old Saloonのx2配当、High Noonの倍率Wild、Train Heistの上昇型メーターが特徴です。"
+description: "Dead or Alive 2は3種類の西部劇フリースピンを選択可能。Sticky Wild、x2配当、上昇する倍率メーターが特徴です。"
 seo_title: "Dead or Alive 2：3種類のフリースピンを解説 | Instant Casino"
 type: slots
 translationKey: "slot-profile-dead-or-alive-2"
@@ -30,7 +30,7 @@ NetEntの「Dead or Alive 2」は、5リール・3段・9本の固定ペイラ�
 | フリースピン | Old Saloon、High Noon Saloon、Train Heist |
 | 主な仕組み | Sticky Wild、x2配当、倍率メーター |
 
-リール、ライン、Wildの仕様は、NetEnt Game Sheetのバージョン1.2（2020年9月29日付）に基づいています。この資料は特定のゲーム版を対象としており、すべての運営者の設定が同じであることを保証するものではありません。
+リール、ライン、Wildの仕様は、NetEnt Game Sheetのバージョン1.2（2020年9月29日付）に基づいています。この資料は特定のゲーム版を対象としており、すべての運営者の設定が同じであることを保証するものではありません。ある運営者のヘルプでは、その運営者版の各モードに最初のフリースピンが12回と記載されています。実際に起動したバージョンでも確認してください。
 
 ## 基本ゲーム：ペイライン、Wild、Scatter
 
@@ -38,9 +38,9 @@ NetEntの「Dead or Alive 2」は、5リール・3段・9本の固定ペイラ�
 
 Scatter配当はペイラインの成立とは独立して支払われます。つまり、Scatterが出た結果は、同時に有効なラインがそろうことを条件としません。シンボルの正確な配当額は、起動中のバージョンの配当表で確認してください。具体的な計算は設定によって異なる場合があります。
 
-## ひとつのボーナスではなく、3種類のフリースピン
+## ルールが異なる3種類のフリースピン
 
-NetEntはOld Saloon、High Noon Saloon、Train Heistという3種類のフリースピンを選べると説明しています。NetEntの標準説明では、各モードは12回のフリースピンから始まります。大きな違いは、Wildがリール上に残る方法と倍率の適用方法です。
+NetEntはOld Saloon、High Noon Saloon、Train Heistという3種類のフリースピンを選べると説明しています。大きな違いは、Wildがリール上に残る方法と倍率の適用方法です。
 
 ### Old Saloon：すべての配当がx2
 
@@ -48,7 +48,7 @@ Old Saloonでは、フリースピン中のすべての配当が2倍になりま
 
 ### High Noon Saloon：2倍・3倍の倍率Wild
 
-High NoonでもWildはSticky Wildに変わります。特別なルールは、同じリールに複数のWildが着地したときに適用されます。同じリールにWildが2つ着地するとx2 Multiplier Wildに、3つ着地するとx3 Multiplier Wildに変化します。ひとつの勝利組み合わせに複数の倍率Wildが含まれる場合、それぞれの倍率が一緒に適用されます。NetEntはx2とx3の組み合わせがx6になる例を示しています。
+High NoonでもWildはSticky Wildに変わります。同じリールに複数のWildが着地すると、2つの場合はx2 Multiplier Wildに、3つの場合はx3 Multiplier Wildに変化します。ひとつの勝利組み合わせに複数の倍率Wildが含まれる場合、それぞれの倍率が一緒に適用されます。NetEntはx2とx3の組み合わせがx6になる例を示しています。
 
 各リールに少なくとも1つのSticky Wildを集めると、フリースピンが5回追加されます。倍率Wildは配当の判定前に変化するため、計算の流れを読む際に重要です。
 
@@ -77,6 +77,7 @@ Dead or Alive 2の特徴は、3種類のフリースピンから選べる点で�
 
 - [NetEnt：Dead or Alive 2 – Game Sheet、バージョン1.2（2020年9月29日）](https://cdn-sp.kertn.net/assets/cms/App_Data/20e8c524-e223-48de-9382-7401c87cd065/PDFs/GameRules/Netent/GamerulesEN/Dead_or_Alive_2_deadoralive2_not_mobile_Game_Sheet_default_en.pdf)
 - [NetEnt：Dead or Alive 2の発表（2019年4月24日）](https://www.netent.com/en/wp-content/uploads/sites/2/2019/04/netent-netent-heads-back-to-the-wild-west-with-dead-or-alive-2-the-sequel-to-one-its-most-iconic-games-190424.pdf)
+- [Danske Spil：Dead or Alive 2のヘルプ – 運営者版のフリースピン情報](https://help.danskespil.dk/en/casino-help/slots/netentdeadoralive2)
 
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件を見る</p>

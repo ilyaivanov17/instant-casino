@@ -259,3 +259,8 @@ https://github.com/ilyaivanov17/instant-casino/actions/runs/41447216328/artifact
 - PR открыт, не смержен.
 - Production-деплой не выполнялся.
 - Индексация Google не подтверждена и должна отслеживаться в Search Console.
+
+
+## Badge removal before publication
+
+The tools.cafe badge markup was removed completely from the shared footer at the user's request. The associated browser assertion was removed as well. No CSS hiding or crawler/user-specific rendering is used; the badge is absent from rendered HTML.

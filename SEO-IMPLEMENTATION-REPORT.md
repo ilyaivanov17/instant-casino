@@ -5,13 +5,13 @@
 Рабочая ветка: seo/fix-indexing-hreflang-2026-11  
 Целевая ветка: main  
 Pull Request: https://github.com/ilyaivanov17/instant-casino/pull/43  
-Последний кодовый commit, полностью проверенный CI перед обновлением отчёта: 71ca12f2cd2257a106f2caa1cef2954099caa96a
+Последний кодовый commit, полностью проверенный CI перед обновлением отчёта: 8214a52848627ca91476ff49d06d512cce5b221d
 
 ## Итог
 
 В проект внесены исправления подтверждённых технических проблем индексации и начата отдельная, основанная на источниках работа над игровыми профилями. Ошибка области видимости disableKinds исправлена; тонкие маршруты /categories/, /tags/ и внутренний /editorial/ исключены из sitemap и генерации. Добавлены проверки sitemap, canonical, robots, hreflang и x-default на реальном HTML после Hugo build.
 
-В рамках контентных итераций расширены **6 из 35 игровых профилей** во всех шести локалях — всего **36 локализованных страниц**. Для них сверены официальные страницы провайдеров, описаны конкретные механики и удалены отдельные неподтверждённые числовые характеристики. Карточки каталога синхронизированы с полными профилями; QA проверяет наличие ссылок на первичные источники.
+В рамках контентных итераций расширены **7 из 35 игровых профилей** во всех шести локалях — всего **42 локализованные страницы**. Для них сверены официальные страницы провайдеров, описаны конкретные механики и удалены отдельные неподтверждённые числовые характеристики. Карточки каталога синхронизированы с полными профилями; QA проверяет наличие ссылок на первичные источники.
 
 **Последний CI run для кодового commit 71ca12f завершился успешно:** Hugo production build, контентные и SEO-проверки, все шесть sitemap, rendered metadata, output-safety и Playwright mobile/browser smoke tests прошли. Артефакт production-сборки загружен.
 
@@ -23,7 +23,7 @@ PR остаётся открытым и не смержен в main. Депло�
 |---|---|---|
 | 0. Аудит | Выполнен в доступном объёме | Изучены hugo.toml, все шесть локализованных деревьев, каталог игр, шаблоны, SEO partials, QA scripts, GitHub Actions и опубликованные production-маршруты. Создан SEO-AUDIT-REPORT.md. |
 | 1. Техническая SEO-структура | Подтверждённая проблема исправлена | disableKinds перенесён в корневую TOML-область. /categories/, /tags/ и служебный /editorial/ исключены из вывода/sitemap. Добавлена проверка шести sitemap и итогового HTML. |
-| 2. Игровые профили | Частично выполнен — 6/35 | Расширены Starburst, Book of Dead, Bigger Bass Bonanza, Bonanza, Sweet Bonanza и Fruit Party во всех шести языках. Это 36 изменённых страниц из 210 исходных профилей. Остальные 29 групп ещё требуют такого же source-by-source прохода. |
+| 2. Игровые профили | Частично выполнен — 7/35 | Расширены Starburst, Book of Dead, Bigger Bass Bonanza, Bonanza, Sweet Bonanza, Fruit Party и The Dog House во всех шести языках. Это 42 изменённые страницы из 210 исходных профилей. Остальные 28 групп ещё требуют такого же source-by-source прохода. |
 | 3. Экспертные статьи | Аудит начат; полная редактура не выполнена | Проверены текущие editorial QA записи и выборочные материалы. Массовая перепись без проверяемых источников намеренно не проводилась. |
 | 4. Языковые версии | Структура проверена; редактура выборочная | Автоматически проверены 57 логических групп × 6 локалей без пропущенных файлов. В рамках новых пакетов переработаны немецкий, английский, польский, испанский, португальский и японский тексты. Это не заменяет финальную вычитку носителем языка. |
 | 5. Внутренняя перелинковка | Автоматические проверки пройдены | Существующий seo-audit.py проверяет relref-цели; существующие mobile tests проверяют каталоги и ссылки на 35 профилей во всех локалях. Полный post-deploy HTTP crawl ещё нужен. |
@@ -33,22 +33,22 @@ PR остаётся открытым и не смержен в main. Депло�
 
 ## 2. Изменённые файлы
 
-В PR на момент кодового commit 71ca12f изменено **55 файлов**:
+В PR на момент кодового commit 8214a52 изменено **62 файла**:
 
 | Группа | Количество | Файлы / назначение |
 |---|---:|---|
-| Локализованные игровые профили | 36 | content/{de,en,pl,es,pt,ja}/slot-profiles/{starburst,book-of-dead,bigger-bass-bonanza,bonanza,sweet-bonanza,fruit-party}.md |
+| Локализованные игровые профили | 36 | content/{de,en,pl,es,pt,ja}/slot-profiles/{starburst,book-of-dead,bigger-bass-bonanza,bonanza,sweet-bonanza,fruit-party,the-dog-house}.md |
 | Внутренние section records | 6 | content/{de,en,pl,es,pt,ja}/editorial/_index.md; скрывают служебный раздел, сохраняя editorial/settings.md |
-| Каталог | 1 | data/slot_catalog.yaml; синхронизированы краткие описания шести языков для каждой из шести игр |
+| Каталог | 1 | data/slot_catalog.yaml; синхронизированы краткие описания шести языков для каждой из семи игр |
 | Hugo config | 1 | hugo.toml; исправлена область disableKinds |
-| Layout | 1 | layouts/partials/slot-profile-expert-analysis.html; сокращён универсальный повторяющийся блок |
+| Layouts | 2 | layouts/partials/slot-profile-expert-analysis.html; сокращён общий повторяющийся блок. layouts/partials/footer.html; добавлен tools.cafe badge |
 | QA / build scripts | 5 | scripts/build-production.sh, scripts/check-all.sh, scripts/check-rendered-seo.py, scripts/check-sitemap.py, scripts/check-slot-profiles.py |
-| Browser tests | 1 | tests/mobile-smoke.cjs; проверка согласована с кратким expert note |
+| Browser tests | 1 | tests/mobile-smoke.cjs; сохранены проверки каталога и добавлена проверка tools.cafe badge (URL, target, rel, alt, размеры) |
 | CI workflow | 1 | .github/workflows/hugo-production.yml |
 | Отчёты | 3 | SEO-AUDIT-REPORT.md, SEO-IMPLEMENTATION-REPORT.md, CONTENT-ITERATION-REPORT.md |
-| **Всего** | **55** | |
+| **Всего** | **62** | |
 
-### Что именно изменено в шести игровых профилях
+### Что именно изменено в семи игровых профилях
 
 | Игра | Проверенные факты и редакционные изменения |
 |---|---|
@@ -58,8 +58,9 @@ PR остаётся открытым и не смержен в main. Депло�
 | **Bonanza (Big Time Gaming)** | Описаны Megaways до 117 649, Dual Reactions, GOLD из четырёх Scatter, 12 FS и +5 за каждый дополнительный Scatter, рост множителя при реакциях. Страница BTG указывает RTP 96,11%, hit frequency 37,94%, max payout 26 000× и stake range €0,20–€20. Структурное поле Volatility пустое; собственная категория не назначена. |
 | **Sweet Bonanza (оригинал)** | Описаны 7×7, 8–12+ совпадающих символов, Tumble, 4–6 Scatter → 10 FS, множители 2×–100×, сумма значений в конце Tumble sequence. Указано отличие от Sweet Bonanza 2500/1000/Super Scatter. Не добавлены неподтверждённые RTP/stake range. |
 | **Fruit Party (оригинал)** | Описаны 7×7 cluster pays, Tumble, случайные 2× multipliers в базовой игре, 3+ Scatter → 10 FS, 2×/4× символы в бонусе, retrigger от 3–7 дополнительных Scatter на 10–14 FS и комбинированный множитель до 256×. Указано отличие от Fruit Party 2. Удалены неподтверждённые 96,47% RTP и 0,2–100 EUR. |
+| **The Dog House (оригинал)** | Подтверждены 5×3, 20 линий, множители Wild на барабанах 2–4, три Bonus Paw → случайное число Free Spins и Sticky Wild во фриспинах. Значение до 6 750× приведено только как опубликованное в анонсе запуска 2019 года. Указано отличие от Megaways, Multihold, Muttley Crew и Dog or Alive. RTP и конкретные значения Wild не придуманы. |
 
-Все 36 страниц остаются с article_review_status: editorial-review-pending. Ни одна не заявляет о проведённой личной игровой сессии. Для параметров, которых нет в приведённых первичных источниках, читателю предлагается смотреть help/info panel фактически загруженной версии.
+Все 42 страницы остаются с article_review_status: editorial-review-pending. Ни одна не заявляет о проведённой личной игровой сессии. Для параметров, которых нет в приведённых первичных источниках, читателю предлагается смотреть help/info panel фактически загруженной версии.
 
 ## 3. Sitemap и индексируемые URL
 
@@ -106,14 +107,14 @@ PR остаётся открытым и не смержен в main. Депло�
 ## 4. Результаты автоматических проверок
 
 Последний успешный кодовый run:
-https://github.com/ilyaivanov17/instant-casino/actions/runs/41444419848
+https://github.com/ilyaivanov17/instant-casino/actions/runs/41447216328
 
 Версия: Hugo Extended 0.169.0-1da10fc44701c566b1669cdb2d12638f155138bd+extended.
 
 | Проверка | Результат |
 |---|---|
 | scripts/check-site.py | PASS — 57 логических страниц × 6 языков |
-| scripts/check-slot-profiles.py | PASS — 35 профилей × 6 локалей = 210 исходных страниц; проверяются источники для шести переработанных профилей |
+| scripts/check-slot-profiles.py | PASS — 35 профилей × 6 локалей = 210 исходных страниц; проверяются источники для семи переработанных профилей |
 | scripts/check-bonuses.py | PASS — 3 бонусные записи, status не выводится автоматически |
 | scripts/seo-audit.py | PASS — статический аудит |
 | scripts/language-coverage.py | PASS — 57 групп, пропущенных локализаций: 0, точных дублей немецкого body: 0 |
@@ -122,13 +123,13 @@ https://github.com/ilyaivanov17/instant-casino/actions/runs/41444419848
 | scripts/check-sitemap.py | PASS — 6 sitemap, 348 уникальных URL, по 58 на язык |
 | scripts/check-rendered-seo.py | PASS — 348 HTML проверено |
 | scripts/check-public-output.sh public | PASS |
-| Playwright mobile/browser smoke | PASS |
-| Artifact upload | PASS — instant-casino-public, 17 938 055 bytes |
+| Playwright mobile/browser smoke | PASS — toolsCafeBadge=true на главной, разделах и шести локализованных каталогах |
+| Artifact upload | PASS — instant-casino-public, 17 977 842 bytes |
 
-В браузерных тестах все шесть каталогов вернули 35 карточек, 35/35 изображений и 35/35 ссылок на профили. Проверены responsive header, поиск каталога, бонусный калькулятор и локализованные страницы; для en/pl/es/pt/ja подтверждены canonical, hreflang, авторские metadata, Article JSON-LD и содержимое профиля.
+В браузерных тестах все шесть каталогов вернули 35 карточек, 35/35 изображений и 35/35 ссылок на профили. На всех проверенных маршрутах дополнительно подтверждён tools.cafe badge с исходными href/src, target, rel, alt и размерами 180×54. Проверены responsive header, поиск каталога, бонусный калькулятор и локализованные страницы; для en/pl/es/pt/ja подтверждены canonical, hreflang, авторские metadata, Article JSON-LD и содержимое профиля.
 
 Артефакт текущей сборки:
-https://github.com/ilyaivanov17/instant-casino/actions/runs/41444419848/artifacts/13142430557
+https://github.com/ilyaivanov17/instant-casino/actions/runs/41447216328/artifacts/13141889152
 
 ## 5. Коммиты
 
@@ -217,10 +218,10 @@ https://github.com/ilyaivanov17/instant-casino/actions/runs/41444419848/artifact
 
 ## 6. Оставшиеся задачи и ограничения
 
-1. **Остальные 29 игровых профилей.** Source-based проход выполнен для 6 из 35 игр (36 из 210 локализованных профилей). Ещё 29 групп / 174 локализованные страницы нуждаются в проверке первичных источников, механики, RTP, volatility и stake limits.
+1. **Остальные 28 игровых профилей.** Source-based проход выполнен для 7 из 35 игр (42 из 210 локализованных профилей). Ещё 28 групп / 168 локализованных страниц нуждаются в проверке первичных источников, механики, RTP, volatility и stake limits.
 2. **Полноценная редакторская проверка всех игр.** Даже шесть переработанных профилей ожидают редакторского sign-off; источниковая сверка не является подтверждением личного тестирования.
 3. **Статьи и руководства.** Все 57 логических групп статей требуют отдельного анализа полноты, фактов, источников, актуальности и соответствия поисковому намерению.
-4. **Native-speaker QA.** Новые 36 страниц переписаны на шести языках, но полная вычитка всех страниц сайта носителями языка не проводилась.
+4. **Native-speaker QA.** Новые 42 страницы переписаны на шести языках, но полная вычитка всех страниц сайта носителями языка не проводилась.
 5. **Performance.** Нет PageSpeed/CrUX измерений LCP, INP, CLS; реальную производительность на полевом трафике объявлять проверенной нельзя.
 6. **Post-deploy HTTP crawl.** Полный статус-код/response headers crawl 348 URL нужно выполнить после фактического deployment.
 7. **Search Console.** Доступ к Indexing, Crawl Stats, URL Inspection и sitemap processing отсутствовал. Google indexing не подтверждён.
@@ -234,13 +235,27 @@ https://github.com/ilyaivanov17/instant-casino/actions/runs/41444419848/artifact
 5. Продолжить пакетами source-based работу по оставшимся 29 слотам и отдельную редактуру информационных статей.
 6. Измерить CWV по CrUX/PageSpeed и проверить мобильные LCP/INP/CLS на production.
 
+
+
+## 7A. tools.cafe listing badge
+
+В `layouts/partials/footer.html` добавлен предоставленный пользователем badge непосредственно перед нижней copyright/legal строкой. Поскольку partial включён в `layouts/_default/baseof.html`, он присутствует на всех публичных страницах и языковых версиях.
+
+Сохранены исходные значения:
+- href: `https://tools.cafe/p/instant-slot-reviews`
+- img src: `https://tools.cafe/b/light.svg`
+- `target="_blank"`, `rel="noopener"`
+- `alt="Listed on tools.cafe"`, width `180`, height `54`
+
+В `tests/mobile-smoke.cjs` добавлена регрессионная проверка badge на каждом проверяемом маршруте. В Playwright output для главной, разделов и всех шести локализованных каталогов зафиксировано `toolsCafeBadge=true`.
+
 ## 8. Статус PR и публикации
 
 - PR: https://github.com/ilyaivanov17/instant-casino/pull/43
 - Target: main
 - Branch: seo/fix-indexing-hreflang-2026-11
-- Последний проверенный code commit: 71ca12f2cd2257a106f2caa1cef2954099caa96a
-- Последний успешный GitHub Actions run: https://github.com/ilyaivanov17/instant-casino/actions/runs/41444419848 — **success**
+- Последний проверенный code commit: 8214a52848627ca91476ff49d06d512cce5b221d
+- Последний успешный GitHub Actions run: https://github.com/ilyaivanov17/instant-casino/actions/runs/41447216328 — **success**
 - PR открыт, не смержен.
 - Production-деплой не выполнялся.
 - Индексация Google не подтверждена и должна отслеживаться в Search Console.

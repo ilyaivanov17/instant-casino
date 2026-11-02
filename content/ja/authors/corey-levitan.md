@@ -7,7 +7,7 @@ slug: corey-levitan
 aliases:
 - /ja/authors/author-1/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-11-02'
 author_id: author-1
 role: ジャーナリスト・カジノライター
 photo: images/Corey_Levitan.jpg
@@ -52,3 +52,13 @@ Instant Casinoでは、このプロフィールはカジノ情報、ゲームの
 | 役割 | 専門分野 | 公開プロフィール | 担当領域 |
 | --- | --- | --- | --- |
 | ジャーナリスト・カジノライター | ラスベガス、ギャンブルニュース、エンターテインメント、カジノ報道 | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/) | ラスベガス、ギャンブルニュース、エンターテインメント、カジノ報道 |
+
+### 主な公開記事
+
+**[The “Buy Bonus” Button: Why Two RTP Numbers on Screen Are Not Marketing — They’re a Trap for Your Bankroll](https://corey-levitan-merklin.medium.com/the-buy-bonus-button-why-two-rtp-numbers-on-screen-are-not-marketing-theyre-a-trap-for-your-33fcb1c66dea?sharedUserId=corey-levitan-merklin)**
+
+*2026年11月2日にMediumで公開。*
+
+Coreyは、通常プレイとボーナス購入でRTPの数値が異なる理由を解説しています。ボーナス購入は高い変動性を持つ機能へ有料で直接入る仕組みであり、勝率を高める近道ではありません。記事では、購入時のRTPが通常時より高い例と低い例を比較し、1回の購入に伴う期待損失や、決定前にゲーム情報で確認すべき点を整理しています。
+
+[Mediumで原文を読む](https://corey-levitan-merklin.medium.com/the-buy-bonus-button-why-two-rtp-numbers-on-screen-are-not-marketing-theyre-a-trap-for-your-33fcb1c66dea?sharedUserId=corey-levitan-merklin)

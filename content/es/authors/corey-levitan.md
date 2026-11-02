@@ -8,7 +8,7 @@ slug: corey-levitan
 aliases:
 - /es/authors/author-1/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-11-02'
 author_id: author-1
 role: Periodista y redactor sobre casinos
 photo: images/Corey_Levitan.jpg
@@ -54,3 +54,13 @@ Al comparar juegos y ofertas de casino importan las condiciones completas, la ve
 | Puesto | Enfoque | Perfil público | Especialidad |
 | --- | --- | --- | --- |
 | Periodista y redactor sobre casinos | Las Vegas, noticias sobre juego, entretenimiento y periodismo de casinos | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/) | Las Vegas, noticias sobre juego, entretenimiento y periodismo de casinos |
+
+### Publicación seleccionada
+
+**[The “Buy Bonus” Button: Why Two RTP Numbers on Screen Are Not Marketing — They’re a Trap for Your Bankroll](https://corey-levitan-merklin.medium.com/the-buy-bonus-button-why-two-rtp-numbers-on-screen-are-not-marketing-theyre-a-trap-for-your-33fcb1c66dea?sharedUserId=corey-levitan-merklin)**
+
+*Publicada en Medium el 2 de noviembre de 2026.*
+
+Corey analiza por qué el RTP del juego base y el RTP de la compra de bonus pueden ser diferentes, y por qué comprar una función es una entrada de pago a una modalidad de alta volatilidad, no un atajo para obtener mejores probabilidades. El artículo compara ejemplos con RTP de compra superior e inferior al RTP base, explica la pérdida esperada por compra y señala qué datos conviene revisar antes de decidir.
+
+[Leer el artículo original en Medium](https://corey-levitan-merklin.medium.com/the-buy-bonus-button-why-two-rtp-numbers-on-screen-are-not-marketing-theyre-a-trap-for-your-33fcb1c66dea?sharedUserId=corey-levitan-merklin)

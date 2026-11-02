@@ -251,14 +251,13 @@ https://github.com/ilyaivanov17/instant-casino/actions/runs/41447216328/artifact
 
 ## 8. Статус PR и публикации
 
-- PR: https://github.com/ilyaivanov17/instant-casino/pull/43
-- Target: main
-- Branch: seo/fix-indexing-hreflang-2026-11
-- Последний проверенный code commit: 8214a52848627ca91476ff49d06d512cce5b221d
-- Последний успешный GitHub Actions run: https://github.com/ilyaivanov17/instant-casino/actions/runs/41447216328 — **success**
-- PR открыт, не смержен.
-- Production-деплой не выполнялся.
-- Индексация Google не подтверждена и должна отслеживаться в Search Console.
+- PR #43: https://github.com/ilyaivanov17/instant-casino/pull/43 — **merged** в `main`.
+- Merge commit: `459c9a32b6adac92662dcc4079fd2366c220b67d`.
+- Финальное обновление badge markup: `6edb7379623b1e74c8f21936340a894bf6c2bdeb`.
+- Browser regression test and rel-token fix: `f070503a7e258758e2cfa73e1b114eb9e25ec86c`, `8ff9767827fc48a39c14491b437a3859290e5500`.
+- Successful production build and full Playwright run: https://github.com/ilyaivanov17/instant-casino/actions/runs/41449687225 — **success**.
+- Live production footer was fetched and checked on all six homepages (DE, EN, PL, ES, PT, JA); each contains the badge link and image in the visible copyright row.
+- Google indexing is not confirmed and must still be monitored in Search Console.
 
 
 ## Final tools.cafe badge placement and publication status

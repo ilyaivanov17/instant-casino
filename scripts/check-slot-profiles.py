@@ -181,6 +181,31 @@ def main():
                         errors.append(f"{path.relative_to(ROOT)}: unsupported/unverified Bigger Bass Bonanza value remains: {unsupported_value}")
                 if meta.get("article_review_status") != "editorial-review-pending":
                     errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+            if slug == "bonanza":
+                source_url = "https://beta.bigtimegaming.com/games/bonanza"
+                if source_url not in body:
+                    errors.append(f"{path.relative_to(ROOT)}: missing official Big Time Gaming source link")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: Bonanza profile is missing its localized mechanics sections")
+                for unsupported_value in ("96.1 %", "0.1–50 EUR", "| Medium |"):
+                    if unsupported_value in body:
+                        errors.append(f"{path.relative_to(ROOT)}: stale Bonanza profile value remains: {unsupported_value}")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+            if slug == "sweet-bonanza":
+                required_sources = (
+                    "https://www.pragmaticplay.com/en/games/sweet-bonanza-slot/",
+                    "https://www.pragmaticplay.com/en/news/pragmatic-play-launches-sweet-bonanza/",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing primary source link {source_url}")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: Sweet Bonanza profile is missing its localized mechanics sections")
+                if "zufällige" in body:
+                    errors.append(f"{path.relative_to(ROOT)}: untranslated German template fragment remains")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
     expert_partial = ROOT / "layouts" / "partials" / "slot-profile-expert-analysis.html"
     if not expert_partial.exists():
         errors.append("Missing localized expert-analysis partial")

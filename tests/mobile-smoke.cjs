@@ -42,6 +42,23 @@ async function inspectPage(page, path, expectedCards = null) {
       width: document.documentElement.clientWidth,
       scrollWidth: document.documentElement.scrollWidth,
       title: document.title,
+      toolsCafeBadge: (() => {
+        const link = document.querySelector('footer a[href="https://tools.cafe/p/instant-slot-reviews"]');
+        const image = link?.querySelector('img[src="https://tools.cafe/b/light.svg"]');
+        const style = image ? getComputedStyle(image) : null;
+        const rect = image?.getBoundingClientRect();
+        return {
+          present: Boolean(link && image),
+          target: link?.getAttribute('target') || '',
+          rel: link?.getAttribute('rel') || '',
+          alt: image?.getAttribute('alt') || '',
+          width: image?.getAttribute('width') || '',
+          height: image?.getAttribute('height') || '',
+          visible: Boolean(style && rect && style.display !== 'none' &&
+            style.visibility !== 'hidden' && Number(style.opacity) > 0 &&
+            rect.width > 0 && rect.height > 0)
+        };
+      })(),
       cards: cards.length,
       images: images.map(image => ({
         alt: image.alt.trim(),
@@ -83,16 +100,23 @@ async function inspectPage(page, path, expectedCards = null) {
     result.profileStatuses.every(status => status === 200)
   );
   const tableStructureOk = expectedCards === null || result.tables.length === 0;
+  const badge = result.toolsCafeBadge;
+  const badgeOk = badge.present && badge.visible &&
+    badge.target === '_blank' &&
+    badge.rel.split(/\\s+/).includes('noopener') &&
+    badge.alt === 'Listed on tools.cafe' &&
+    badge.width === '180' && badge.height === '54';
   const ok = Boolean(response) &&
     response.status() === 200 &&
     result.title &&
     result.scrollWidth <= result.width + 1 &&
     errors.length === 0 &&
     galleryOk &&
-    tableStructureOk;
+    tableStructureOk &&
+    badgeOk;
 
-  if (!ok) console.log(`  diagnostics ${path}: title=${Boolean(result.title)} pageOverflow=${result.scrollWidth > result.width + 1} galleryOk=${galleryOk} tableStructureOk=${tableStructureOk} profileRoutes=${result.profileStatuses.filter(status => status === 200).length}/${result.profileStatuses.length} tableHeaders=${Math.max(0, ...result.tables.map(table => table.headers))} tableCells=${Math.max(0, ...result.tables.map(table => table.cells))} tableSample=${JSON.stringify(result.tables[0]?.sample || '')} tableWrappers=${result.tables.length} tablesWithContent=${result.tables.filter(table => table.headers > 0 && table.cells > 0).length}`);
-  console.log(`${ok ? 'OK' : 'FAIL'} ${path} status=${response?.status()} viewport=${result.width}/${result.scrollWidth} cards=${result.cards} images=${result.images.filter(image => image.loaded).length}/${result.images.length} profileLinks=${result.anchors.filter(Boolean).length}/${result.anchors.length} profileRoutes=${result.profileStatuses.filter(status => status === 200).length}/${result.profileStatuses.length} tables=${result.tables.length} tableScroll=${result.tables.filter(table => table.scrollWidth > table.clientWidth + 1).length} jsErrors=${errors.length}`);
+  if (!ok) console.log(`  diagnostics ${path}: title=${Boolean(result.title)} pageOverflow=${result.scrollWidth > result.width + 1} galleryOk=${galleryOk} tableStructureOk=${tableStructureOk} toolsCafeBadge=${badgeOk} profileRoutes=${result.profileStatuses.filter(status => status === 200).length}/${result.profileStatuses.length} tableHeaders=${Math.max(0, ...result.tables.map(table => table.headers))} tableCells=${Math.max(0, ...result.tables.map(table => table.cells))} tableSample=${JSON.stringify(result.tables[0]?.sample || '')} tableWrappers=${result.tables.length} tablesWithContent=${result.tables.filter(table => table.headers > 0 && table.cells > 0).length}`);
+  console.log(`${ok ? 'OK' : 'FAIL'} ${path} status=${response?.status()} viewport=${result.width}/${result.scrollWidth} cards=${result.cards} images=${result.images.filter(image => image.loaded).length}/${result.images.length} profileLinks=${result.anchors.filter(Boolean).length}/${result.anchors.length} profileRoutes=${result.profileStatuses.filter(status => status === 200).length}/${result.profileStatuses.length} tables=${result.tables.length} tableScroll=${result.tables.filter(table => table.scrollWidth > table.clientWidth + 1).length} toolsCafeBadge=${badgeOk} jsErrors=${errors.length}`);
   return { ok, result };
 }
 

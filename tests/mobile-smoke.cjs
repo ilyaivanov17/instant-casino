@@ -372,7 +372,9 @@ async function inspectPage(page, path, expectedCards = null) {
     const articleSchemaText = await page.locator('script[type="application/ld+json"]').allTextContents();
     const articleSchema = articleSchemaText.map(value => { try { return JSON.parse(value); } catch { return null; } }).find(value => value && value['@type'] === 'Article');
     const profileSummaryOk = profileDescription.includes('Dual Reactions') && profileDescription === metaDescription;
-    const editorialProfileOk = expertText.length > 1800 && /Bonanza/.test(expertText) &&
+    // The shared profile note is deliberately concise after removing repeated boilerplate.
+    // Keep the meaningful content/schema checks without requiring the former duplicated 1,800+ chars.
+    const editorialProfileOk = expertText.length >= 40 && expertText.length < 800 && /Bonanza/.test(expertText) &&
       authorText.includes('Jon Pill') && authorMeta === 'Jon Pill' && keywordMeta.includes('Bonanza') &&
       articleSchema?.author?.name === 'Jon Pill' && String(articleSchema?.author?.url || '').includes('/authors/jon-pill/');
     const profileOk = profileResponse?.status() === 200 && profileTableCount === 1 &&

@@ -1,6 +1,6 @@
 ---
 title: "5 Lions Megaways – Slot-Profil"
-description: "5 Lions Megaways kombiniert ein 7×6-Megaways-Spielfeld mit Tumble-Gewinnen, Goldlöwen-Wilds und sieben wählbaren Freispiele-Optionen."
+description: "5 Lions Megaways verbindet ein 7×6-Megaways-Layout mit bis zu 117.649 Gewinnwegen, Tumbles, Goldlöwen-Wilds und sieben wählbaren Freispiele-Optionen."
 seo_title: "5 Lions Megaways: Spielmechanik & Freispiele | Instant Casino"
 type: slots
 translationKey: "slot-profile-5-lions-megaways"

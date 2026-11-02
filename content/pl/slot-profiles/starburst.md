@@ -1,12 +1,12 @@
 ---
 title: "Starburst – profil gry"
-description: "Slot inspirowany motywem kosmos i kolorowe klejnoty, z funkcją: rozszerzające się symbole Wild i respiny."
+description: "Starburst łączy kosmiczną oprawę z kolorowymi klejnotami. Wild na środkowych bębnach może się rozszerzyć i uruchomić respiny."
 seo_title: "Starburst: mechanika i funkcje gry | Instant Casino"
 type: slots
 translationKey: "slot-profile-starburst"
 url: "/pl/slots/starburst/"
 ogImage: "/images/slots/catalog-starburst.webp"
-lastmod: "2026-11-01"
+lastmod: "2026-11-02"
 article_review_status: editorial-review-pending
 
 build:
@@ -16,18 +16,17 @@ build:
 
 ![Grafika gry Starburst przedstawiająca kosmos i kolorowe klejnoty.](/images/slots/catalog-starburst.webp)
 
-Slot inspirowany motywem kosmos i kolorowe klejnoty, z funkcją: rozszerzające się symbole Wild i respiny.
+Starburst łączy kosmiczną oprawę z kolorowymi klejnotami. Charakterystycznym elementem są symbole Wild, które na środkowych bębnach mogą się rozszerzać i uruchamiać respiny.
 
 | Dostawca | Zapisane funkcje |
 |---|---|
 | NetEnt | rozszerzające się symbole Wild, respiny |
 
-
-Rozszerzające się symbole Wild mogą zmieniać układ połączeń na bębnach. Zasady gry wyjaśniają dokładne warunki ich aktywacji i respinów.
+Symbole Wild mogą zmieniać układ symboli na bębnach. Dokładne warunki ich rozszerzania i uruchamiania respinów opisuje pomoc w aktualnie uruchomionej wersji gry.
 
 ### Nasza analiza
 
-Starburst opiera się na krótkiej sekwencji Wild i respinów, a nie na wieloetapowej rundzie bonusowej. Przejrzysty układ i łatwo rozpoznawalna funkcja definiują charakter tej gry.
+Starburst opiera się na krótkiej sekwencji związanej z rozszerzającymi się symbolami Wild i respinami, a nie na rozbudowanej, wieloetapowej rundzie bonusowej. Przejrzysty układ bębnów i łatwa do rozpoznania funkcja nadają grze charakterystyczny styl.
 
 <div class="slot-profile-bonus-cta">
   <p>Sprawdź warunki bonusów</p>

@@ -17,7 +17,7 @@ The six localized pages now contain a game-specific explanation of:
 
 The page avoids mixing the original Buffalo King with Buffalo King Megaways or the separate Buffalo King Untamed Megaways title. The historical 2021 launch announcement's 8×6 layout and 200,704 ways are presented as launch details, not a guarantee for every operator integration. The current product page describes six tumbling reels and more than 200,000 ways.
 
-Existing URLs, translation keys, author metadata, CTA, related links and catalogue navigation are preserved. `lastmod` reflects the content change; review status remains `editorial-review-pending`.
+Existing URLs, translation keys, author metadata, CTA, related links and catalogue navigation are preserved. The six localized catalogue descriptions are synchronized with the updated page summaries so rendered metadata and catalogue cards do not retain stale copy. `lastmod` reflects the content change; review status remains `editorial-review-pending`.
 
 No RTP, stake range, volatility value, maximum-win claim or personal test-session claim was added.
 

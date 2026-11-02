@@ -46,6 +46,7 @@ def main():
         "Wanted Dead or a Wild": ("DuelReels", "VS"),
         "Temple Tumble": ("Megaways", "6×6"),
         "Bigger Bass Bonanza": ("Fisherman Wild",),
+        "Fruit Party": ("7×7", "256"),
     }
     author_slugs = {
         "arthur-mustoe", "corey-levitan", "cristina-tudose", "dan-michalski",
@@ -204,6 +205,21 @@ def main():
                     errors.append(f"{path.relative_to(ROOT)}: Sweet Bonanza profile is missing its localized mechanics sections")
                 if "zufällige" in body:
                     errors.append(f"{path.relative_to(ROOT)}: untranslated German template fragment remains")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+            if slug == "fruit-party":
+                required_sources = (
+                    "https://www.pragmaticplay.com/en/games/fruit-party-slot/",
+                    "https://www.pragmaticplay.com/en/news/pragmatic-play-gets-summer-started-with-fruit-party/",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing primary source link {source_url}")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: Fruit Party profile is missing its localized mechanics sections")
+                for unsupported_value in ("96.47", "0.2–100 EUR"):
+                    if unsupported_value in body:
+                        errors.append(f"{path.relative_to(ROOT)}: unsupported/unverified Fruit Party value remains: {unsupported_value}")
                 if meta.get("article_review_status") != "editorial-review-pending":
                     errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
     expert_partial = ROOT / "layouts" / "partials" / "slot-profile-expert-analysis.html"

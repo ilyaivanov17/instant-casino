@@ -1,6 +1,6 @@
 ---
 title: "5 Lions Megaways – perfil del juego"
-description: "Descubre 5 Lions Megaways: diseño Megaways de 7×6, hasta 117.649 formas de ganar, cascadas, Wilds de león dorado y siete opciones de giros gratis."
+description: "5 Lions Megaways combina un diseño Megaways 7×6, hasta 117.649 formas de ganar, cascadas, Wilds de león dorado y siete opciones de giros gratis."
 seo_title: "5 Lions Megaways: mecánica y giros gratis | Instant Casino"
 type: slots
 translationKey: "slot-profile-5-lions-megaways"

@@ -1,6 +1,6 @@
 ---
 title: "5 Lions Megaways ：ゲームプロフィール"
-description: "5 Lions Megawaysの7×6 Megaways構成、最大117,649通りのウィンウェイズ、タンブル、ゴールデンライオンWild、7種類のフリースピンを解説。"
+description: "5 Lions Megawaysは7×6のMegaways構成、最大117,649通り、タンブル、ゴールデンライオンWild、7種類のフリースピンが特徴です。"
 seo_title: "5 Lions Megaways：ゲームの仕組みとフリースピン | Instant Casino"
 type: slots
 translationKey: "slot-profile-5-lions-megaways"

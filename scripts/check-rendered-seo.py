@@ -8,6 +8,7 @@ from urllib.parse import urlparse
 import sys
 import tomllib
 import xml.etree.ElementTree as ET
+import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 PUBLIC = ROOT / "public"
@@ -108,9 +109,30 @@ def sitemap_urls() -> tuple[list[str], dict[str, int]]:
     return all_urls, counts
 
 
+def slot_catalog_descriptions() -> dict[str, dict[str, str]]:
+    """Read the localized catalogue summaries used as slot-profile descriptions."""
+    catalog = yaml.safe_load((ROOT / "data" / "slot_catalog.yaml").read_text(encoding="utf-8")) or {}
+    return {
+        str(game.get("anchor", "")): game.get("description", {}) or {}
+        for game in catalog.get("games", [])
+        if game.get("anchor")
+    }
+
+
+def slot_route(path: str) -> tuple[str, str] | None:
+    """Return (locale, slug) for a standalone slot-profile URL."""
+    parts = path.strip("/").split("/")
+    if len(parts) >= 3 and parts[0] in LANGS[1:] and parts[1] == "slots":
+        return parts[0], parts[2]
+    if len(parts) >= 2 and parts[0] == "slots":
+        return "de", parts[1]
+    return None
+
+
 def main() -> int:
     urls, counts = sitemap_urls()
     url_set = set(urls)
+    descriptions_by_slug = slot_catalog_descriptions()
     errors: list[str] = []
     for url in urls:
         parsed = urlparse(url)
@@ -136,6 +158,14 @@ def main() -> int:
             errors.append(f"{label}: canonical {parser.canonicals[0]!r} does not match sitemap URL {url!r}")
         if len(parser.descriptions) != 1 or not parser.descriptions[0]:
             errors.append(f"{label}: expected one non-empty meta description")
+        profile_route = slot_route(path)
+        if profile_route:
+            locale, slug = profile_route
+            expected_description = descriptions_by_slug.get(slug, {}).get(locale)
+            if expected_description and parser.descriptions and parser.descriptions[0] != expected_description:
+                errors.append(
+                    f"{label}: rendered meta description does not match the {locale} catalogue summary"
+                )
         if len(parser.robots) != 1:
             errors.append(f"{label}: expected exactly one meta robots directive")
         elif "noindex" in parser.robots[0].casefold():

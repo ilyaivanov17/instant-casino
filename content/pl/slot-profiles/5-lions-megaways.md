@@ -1,6 +1,6 @@
 ---
 title: "5 Lions Megaways – profil gry"
-description: "Poznaj 5 Lions Megaways: układ 7×6, do 117 649 sposobów wygranej, kaskady, symbol Wild w formie złotego lwa i siedem opcji darmowych spinów."
+description: "5 Lions Megaways oferuje układ Megaways 7×6, do 117 649 sposobów wygranej, kaskady, złotego lwa Wild i siedem opcji darmowych spinów."
 seo_title: "5 Lions Megaways: mechanika i darmowe spiny | Instant Casino"
 type: slots
 translationKey: "slot-profile-5-lions-megaways"

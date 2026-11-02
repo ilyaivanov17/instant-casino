@@ -15,6 +15,8 @@ enableGitInfo = false
 disableKinds = ['taxonomy', 'term']
 
 [minify]
+  # Preserve literal HTML attribute order for external badge verifiers; keep CSS/JS/JSON/SVG minification enabled.
+  disableHTML = true
   minifyOutput = true
 
 [languages]

@@ -1,12 +1,12 @@
 ---
-title: "Bonanza – Slot profile"
-description: "A gold-mining theme with changing reel layouts and cascading symbols."
-seo_title: "Bonanza: Game mechanics & features | Instant Casino"
+title: "Bonanza – game profile, Megaways and Dual Reactions"
+description: "Bonanza by Big Time Gaming: up to 117,649 Megaways, two-way Dual Reactions cascades and Free Spins with a rising win multiplier."
+seo_title: "Bonanza: Megaways, Dual Reactions and Free Spins | Instant Casino"
 type: slots
 translationKey: "slot-profile-bonanza"
 url: "/en/slots/bonanza/"
 ogImage: "/images/slots/bonanza-cover.webp"
-lastmod: "2026-11-01"
+lastmod: "2026-11-02"
 article_review_status: editorial-review-pending
 aliases:
   - "/en/catalog/slots/bonanza/"
@@ -17,60 +17,76 @@ build:
 
 ![Bonanza game artwork with a red gemstone and gold lettering on a wooden sign](/images/slots/bonanza-cover.webp)
 
-Bonanza uses the Megaways system, with variable reel heights and cascading wins. Its free-spins round is a separate bonus phase. The site record lists Megaways, cascades and free spins. Check the loaded version's help for exact triggers and rules.
+**Bonanza** by Big Time Gaming combines the Megaways system with Dual Reactions. Reel height can change, while winning symbols react in two directions: new symbols cascade in from above and from the right. During Free Spins, each reaction also increases the win multiplier.
 
-### Game overview
+## Bonanza at a glance
 
-| Provider | RTP (theoretical) | Volatility | Stake range | Features |
-|---|---:|---|---|---|
-| Big Time Gaming | 96.1 % | Medium | 0.1–50 EUR | Megaways, Cascades, Free spins |
+| Detail | Figures on Big Time Gaming's official page |
+|---|---|
+| Provider | Big Time Gaming |
+| Grid | 6 reels × up to 7 symbols |
+| Maximum ways | 117,649 |
+| RTP | 96.11% |
+| Hit frequency | 37.94% |
+| Maximum payout | 26,000× bet |
+| Listed bet range | €0.20 to €20.00 |
+| Bonus Buy | Listed by BTG; 12 Free Spins for 90× bet |
+| Volatility | The structured Volatility field on BTG's page is blank |
 
-### What the figures do — and do not — tell you
+These are figures published on the official product page for its listed version. A casino may use a different configuration or make individual features unavailable in certain regions. Check the information panel in the game that actually loads. The blank Volatility field is not replaced here with an independent rating.
 
-RTP is a theoretical figure calculated over a very large number of rounds. It does not predict the result of a single spin or a short session. The listed volatility is not a forecast of whether you will win.
+## Megaways: variable reel height
 
-### What to check before playing
+Bonanza uses six reels with a changing number of symbol positions. This changes the number of possible ways to win from spin to spin. BTG lists up to 117,649 ways. That is the system's maximum, not a figure that applies to every spin.
 
-Open the paytable before playing. It explains symbol values, feature triggers and any rules for free spins or jackpots. Set a firm budget and only play where it is legal for you.
+Two details matter when reading the grid: the visible reel height can vary, and the number of possible combinations depends on the symbol layout for that spin. A layout with fewer symbol positions can therefore offer a different number of ways from one at maximum height.
 
----
+## Dual Reactions: cascades from two directions
 
-## Bonanza: In-depth editorial review
+Dual Reactions extends the cascade mechanic. When a winning combination appears, the relevant symbols disappear and new symbols arrive. Big Time Gaming says these reactions can come from above and from the right. Carts above reels 2 to 5 also move from right to left, adding further symbols below.
 
-This article is an editorial guide to Bonanza. It distinguishes game information from interpretation and does not predict outcomes.
+Bonanza should therefore not be described as a simple cluster slot. Its combinations are evaluated within the Megaways system; Dual Reactions can then bring in new symbols and allow further evaluations.
 
-Bonanza is listed with Big Time Gaming. The page profile lists Megaways, Cascades, Free spins, within a theme built around a compact, high-energy slot presentation. These details describe the site record; they do not replace checking the exact version that loads for a player. Before publication, verify the in-game help, paytable and stake limits directly.
+## Free Spins: spell GOLD and build the multiplier
 
-### Theme and first impressions
+Four Scatters spell **GOLD** and unlock twelve Free Spins, according to BTG. Each additional Scatter awards five more spins at the start.
 
-The artwork gives the game its identity, but a fair review needs to look beyond the theme. With Bonanza, the useful questions concern symbol values, win conditions, special rules and how clearly the help screen explains them. A colourful presentation cannot tell a reader how often a feature will trigger or how a session will end. Treat the first impression as context, not evidence of likely returns. A good review separates atmosphere from mechanics. Record which information is visible immediately and which requires opening the help menu. If rules are buried across several screens, that is a usability drawback; if they are easy to find, players can make a more informed choice. Clear explanations do not improve the mathematical odds, but they do improve understanding.
+During the bonus, every win triggers another reaction. The win multiplier increases by one with each reaction. Big Time Gaming describes this progression as unlimited, so the multiplier grows through the reactions in the Free Spins round rather than following a short fixed sequence.
 
-### Base game and win logic
+The official page also mentions extra spins from stacked Scatters above the reels: three stacked Free Spins Scatters can award five additional spins, while four stacked Scatters can award ten. Check these details in the active version's help, since bonus presentation and availability can depend on the operator.
 
-The base game is the starting point for every feature. Check which symbols count, which combinations are required, and whether wins follow paylines, clusters or another rule described in the current game. For Bonanza, take these details from its own paytable rather than promotional copy or a similarly named title. Small differences between versions can change both the rules and the way a feature works. Notice whether the interface explains a win in a way that can be checked. An animation highlights an event, but it is not the settlement record. A careful test notes the combination, the stake used and the amount actually credited. A handful of successful outcomes cannot establish that the game is favourable over the long run.
+## Bonus Buy and stake limits
 
-### Features and triggers
+Big Time Gaming lists a Bonus Buy option: twelve Free Spins can be purchased for 90 times the stake on its product page. This feature is not necessarily available in every market or at every operator. The listed purchase price describes the provider's option; it is not a recommendation.
 
-A feature description is useful only when its conditions are clear. Check which symbols or events start a special round, whether a minimum combination is required and which rules apply once the feature begins. For Bonanza, the in-game help is the authority; related titles may use different triggers, payouts or restrictions even when their names or artwork look alike. Separate three questions: what starts the feature, what changes during it, and how is the result calculated? This prevents a dramatic animation from being mistaken for a better chance of winning. If the help does not explain a trigger precisely, the article should not invent a symbol count or promise a particular sequence.
+The product page also lists a stake range of €0.20 to €20.00. Limits can differ with the currency or game configuration. Use the figures shown in the loaded version before starting a round.
 
-### Volatility and variance
+## What the figures do not tell you
 
-A volatility label is, at most, a broad guide when the provider explains what it means. It is not a promise of frequent small wins or rare large ones. Consider it alongside the actual rules and your own risk tolerance. A short personal sample cannot reliably reproduce the long-run distribution, and one unusual session should not be treated as proof of a general pattern. A useful review distinguishes observations from claims. “This session included a long stretch without a notable win” describes what happened in that sample. “The game rarely pays” is a much broader claim and cannot be supported by a small number of rounds. Precise wording helps readers avoid forming expectations that the evidence cannot justify.
+An RTP of 96.11% is a theoretical long-run figure, not a return expectation for an individual session. A hit frequency of 37.94% is not the probability of ending a single spin with a net profit. The 26,000× maximum payout is a published upper limit, not an expected or regular result.
 
-### Stake range and budget
+BTG leaves the structured Volatility field blank. This profile therefore does not assign Bonanza a fixed volatility category, even though the provider describes the feature as high-volatility in its explanatory copy.
 
----
+## What to check before playing
 
-### Our analysis
+Open the help and paytable for the version you are using and check:
 
-Bonanza pairs a changing Megaways grid with cascading wins and a multiplier that can build during free spins. Its defining detail is the way each cascade can affect the next multiplier step.
+- how many Megaways and possible ways are shown for each spin;
+- how Dual Reactions brings symbols in from above and from the right;
+- how four and additional Scatters affect the Free Spins award;
+- how cascades increase the Free Spins multiplier;
+- whether Bonus Buy is available and its price in your currency;
+- which RTP and stake limits apply to the active version.
 
+Check the full title: this profile covers **Bonanza** by Big Time Gaming. Similar names or later games that include “Bonanza” may use different mechanics and figures.
 
+## Sources and editorial scope
 
+The game rules and product figures were checked on 2 November 2026 against Big Time Gaming's official page: [Bonanza – Big Time Gaming](https://beta.bigtimegaming.com/games/bonanza). The page describes Megaways, Dual Reactions, Free Spins, Bonus Buy and the figures listed above. This profile does not claim a personal playtest and does not replace the help for the active casino version.
 
 <div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
+  <p>Compare bonus offers and their terms</p>
+  <a href="/en/slots/#affiliate-title">View bonus terms →</a>
 </div>
 
 ## More game profiles

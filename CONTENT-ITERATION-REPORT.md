@@ -93,3 +93,45 @@ The new profiles describe the 4×5 format, 3/4/5 Scatter triggers awarding 10/15
 The 4,000× value is explicitly described as a Money Symbol value, not as the overall maximum game payout. RTP, volatility and stake range were removed from all six pages because they are not listed on the official product pages consulted; no replacement values were invented. The text distinguishes Bigger Bass Bonanza from Bigger Bass Bonanza 1000 and Big Bass Football Bonanza to avoid mixing features from related titles.
 
 Each locale retains `editorial-review-pending`; the source-backed rewrite does not claim a personal playtest or final human sign-off. The six catalogue descriptions now reflect the verified bonus loop and remain within the existing 45–180-character requirement. Profile QA checks the two official sources, localized content length, absence of the old unsupported RTP/stake values and pending-review status.
+
+
+## Content batch 4: Bonanza (Big Time Gaming)
+
+Expanded all six localized pages:
+
+- `content/de/slot-profiles/bonanza.md`
+- `content/en/slot-profiles/bonanza.md`
+- `content/pl/slot-profiles/bonanza.md`
+- `content/es/slot-profiles/bonanza.md`
+- `content/pt/slot-profiles/bonanza.md`
+- `content/ja/slot-profiles/bonanza.md`
+
+Source: [Big Time Gaming — Bonanza](https://beta.bigtimegaming.com/games/bonanza), checked 2026-11-02.
+
+The source describes a 6×7 Megaways format with up to 117,649 ways, RTP 96.11%, hit frequency 37.94%, max payout 26,000× bet, and a listed stake range of €0.20–€20.00. It describes Dual Reactions as cascades from above and from the right. Four Scatters spell GOLD and unlock 12 Free Spins; each extra Scatter adds five. During Free Spins, each win triggers a reaction and increases the win multiplier by one. The page also lists Bonus Buy at 90× bet for 12 Free Spins.
+
+The structured Volatility field on the provider page is blank. The profile does not turn that missing field into an independent low/medium/high rating. It distinguishes the provider's narrative phrase from a structured volatility value and asks readers to check the active casino build. Product settings may vary by operator/region. The six pages remain `editorial-review-pending`.
+
+The source-backed page group replaces the older, unverified profile entries (including the former 96.1% RTP, “Medium” volatility and 0.1–50 EUR range). The catalog descriptions now include GOLD, the Free Spins award and Dual Reactions.
+
+## Content batch 5: Sweet Bonanza (original title)
+
+Expanded all six localized pages:
+
+- `content/de/slot-profiles/sweet-bonanza.md`
+- `content/en/slot-profiles/sweet-bonanza.md`
+- `content/pl/slot-profiles/sweet-bonanza.md`
+- `content/es/slot-profiles/sweet-bonanza.md`
+- `content/pt/slot-profiles/sweet-bonanza.md`
+- `content/ja/slot-profiles/sweet-bonanza.md`
+
+Sources checked on 2026-11-02:
+
+1. [Pragmatic Play — Sweet Bonanza product page](https://www.pragmaticplay.com/en/games/sweet-bonanza-slot/)
+2. [Pragmatic Play — original Sweet Bonanza launch article](https://www.pragmaticplay.com/en/news/pragmatic-play-launches-sweet-bonanza/)
+
+The current product page describes 8–12+ matching symbols anywhere on the grid, 4–6 Scatters triggering 10 Free Spins, multiplier symbols from 2× to 100× and addition of multiplier values at the end of the tumble sequence. It lists base-game and Scatter-related awards separately. The 2019 launch article describes the original game as 6×5 and explains that winning symbols disappear and are replaced by new symbols falling from above.
+
+The profile distinguishes the original Sweet Bonanza from Sweet Bonanza 2500, Sweet Bonanza 1000 and Sweet Bonanza Super Scatter. No RTP or stake range is invented where the current product page does not publish one. A 2019 launch statement described the title as high-volatility, but the article notes that a current casino version's own help is the relevant place to check such a label. All six pages keep `editorial-review-pending`.
+
+The localized Japanese profile has been expanded from a short stub; the former mixed-language fragments (including German `zufällige`) in Polish, Spanish, Portuguese and Japanese have been replaced with native-language copy. Catalogue descriptions now reflect the matching-symbol, Scatter and multiplier rules.

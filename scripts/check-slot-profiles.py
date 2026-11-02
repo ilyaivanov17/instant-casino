@@ -139,6 +139,18 @@ def main():
                 errors.append(f"content/{lang}/slots.md: missing legacy anchor {slug}")
             if f'relref "slot-profiles/{slug}"' not in hub:
                 errors.append(f"content/{lang}/slots.md: missing link to profile {slug}")
+            if slug == "starburst":
+                required_sources = (
+                    "https://netent.com/games/starburst",
+                    "https://games.evolution.com/slots/starburst/",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing primary source link {source_url}")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: Starburst profile is missing its detailed localized sections")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
     expert_partial = ROOT / "layouts" / "partials" / "slot-profile-expert-analysis.html"
     if not expert_partial.exists():
         errors.append("Missing localized expert-analysis partial")

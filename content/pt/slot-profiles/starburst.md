@@ -1,12 +1,12 @@
 ---
 title: "Starburst – perfil do jogo"
-description: "Um slot inspirado em o espaço e as gemas coloridas, com símbolos Wild expansivos e respins."
+description: "Starburst combina um tema espacial com pedras preciosas coloridas. Wilds nos rolos centrais podem expandir-se e ativar respins."
 seo_title: "Starburst: mecânicas e funcionalidades | Instant Casino"
 type: slots
 translationKey: "slot-profile-starburst"
 url: "/pt/slots/starburst/"
 ogImage: "/images/slots/catalog-starburst.webp"
-lastmod: "2026-11-01"
+lastmod: "2026-11-02"
 article_review_status: editorial-review-pending
 
 build:
@@ -16,27 +16,17 @@ build:
 
 ![Arte do jogo Starburst com o espaço e as gemas coloridas.](/images/slots/catalog-starburst.webp)
 
-Um slot inspirado em o espaço e as gemas coloridas, com símbolos Wild expansivos e respins.
+Starburst combina um tema espacial com pedras preciosas coloridas. A sua mecânica mais característica envolve símbolos Wild que podem expandir-se nos rolos centrais e ativar respins.
 
 | Fornecedor | Funcionalidades registadas |
 |---|---|
-| NetEnt | símbolos Wild expansivos, respins |
+| NetEnt | Wilds expansivos, respins |
 
-
-Os Wild expansivos podem alterar as ligações entre símbolos nos rolos. A ajuda do jogo explica os respetivos gatilhos e as condições dos respins.
+Os Wilds expansivos podem alterar as ligações entre os símbolos nos rolos. A ajuda da versão atualmente aberta explica as condições de expansão e de ativação dos respins.
 
 ### A nossa análise
 
-Starburst assenta num ciclo compacto de Wild e respins, em vez de um bónus longo com várias fases. A grelha simples e a funcionalidade facilmente reconhecível definem a identidade do jogo.
-
-
-
-
-
-
-
-
-
+Starburst centra-se num ciclo simples de Wilds expansivos e respins, em vez de uma ronda de bónus longa e dividida em várias etapas. O layout descomplicado e a funcionalidade fácil de identificar dão identidade ao jogo.
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>

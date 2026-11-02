@@ -23,12 +23,13 @@ build:
 | Element | Dane |
 |---|---|
 | Dostawca | Pragmatic Play |
+| RTP (wartość podana przez producenta) | 96,50% |
 | Układ | 7×6 w systemie Megaways |
 | Maksymalna liczba sposobów | do 117 649 |
 | Zapisane mechaniki | kaskady, symbole Wild w formie złotego lwa, darmowe spiny |
 | Darmowe spiny | siedem opcji do wyboru |
 
-Informacje o układzie i funkcjach pochodzą z materiałów producenta. RTP, limity stawek i dostępność regionalna nie są tu przedstawiane jako wartości uniwersalne. Sprawdź pomoc i tabelę wypłat wersji, która faktycznie uruchamia się u danego operatora.
+Informacje o układzie i funkcjach pochodzą z oficjalnych materiałów Pragmatic Play. Na stronie produktu producent podaje RTP 96,50% w podstawowych informacjach o grze. Jest to opublikowana wartość teoretyczna w długim okresie, a nie gwarancja wyniku pojedynczej sesji. Przed grą sprawdź RTP w pomocy faktycznie uruchomionej wersji. Limity stawek i dostępność regionalna nie są tu przedstawiane jako wartości uniwersalne.
 
 ## Co zmienia system Megaways
 

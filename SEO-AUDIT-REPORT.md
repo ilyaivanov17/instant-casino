@@ -23,7 +23,7 @@ This is a source and production crawl audit, not Google Search Console verificat
 
 **Resolution:** Move all root-level Hugo keys above `[minify]`, leaving only `minifyOutput` in the minify table. Retain the configured six languages and all content. Add a build-time sitemap assertion that taxonomy/term URLs never reappear.
 
-**Expected effect:** Remove the two unintended taxonomy endpoints per locale; no useful article, profile, or section page is deleted. Expected sitemap count after the fix is 59 URLs per locale (354 total), subject to the production build output and CI confirmation.
+**Expected effect:** Remove the two unintended taxonomy endpoints per locale; no useful article or profile is deleted. The separate internal `/editorial/` section route is also configured not to render or enter the sitemap while the localized `settings.md` records remain available to templates. Expected sitemap count after both changes is 58 URLs per locale (348 total), subject to production build output and CI confirmation.
 
 ### P1 — Repeated generic expert-analysis block on all slot pages
 
@@ -49,7 +49,7 @@ This is a source and production crawl audit, not Google Search Console verificat
 
 **Evidence:** The six-language sitemap index is correctly present and each language sitemap reports 61 URLs. Besides taxonomy stubs, the sitemap includes `/editorial/`, a rendered section page whose body is an internal “Site settings” listing, and `/slot-profiles/`, which is a navigable directory of the 35 profile pages. The latter has user value and should not be removed automatically; the editorial settings section is low-value and should be excluded deliberately after confirming the Hugo section behavior.
 
-**Resolution:** This change removes the proven taxonomy stubs. The `/editorial/` section route is recorded for follow-up; do not remove or rename the underlying localized settings records because templates read them through `site.GetPage`.
+**Resolution:** The six localized `editorial/_index.md` section records set `build.render = never`, `build.list = never` and `sitemap.disable = true`. The actual `editorial/settings.md` records are preserved because templates read them through `site.GetPage`. The `/slot-profiles/` directory remains because it is a user-facing list of the 35 profile pages.
 
 ### P2 — Multilingual canonical and hreflang
 
@@ -87,7 +87,7 @@ The 366 entries are unique locale-specific URLs in the live sitemap set as obser
 2. Add generated-output tests for sitemap contents, canonical links, localized hreflang, x-default, robots and URL uniqueness.
 3. Reduce the long repeated expert-analysis template; preserve the existing standalone profiles and all six language trees.
 4. Correct demonstrated Polish and Portuguese wording and continue the 210-page native-speaker/source audit as a separate editorial task.
-5. Review `/editorial/` section output and legacy route handling; retain useful directory and profile pages.
+5. Keep useful directory and profile pages; avoid adding redirects for unconfirmed legacy routes.
 6. Run production Hugo build, existing static checks, sitemap validation, browser/mobile CI, and production smoke checks. Use Search Console only when authorized access is available.
 
 ## Explicit limitations

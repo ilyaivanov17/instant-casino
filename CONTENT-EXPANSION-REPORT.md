@@ -17,7 +17,7 @@ The previous profile copies were very short and mostly repeated the same basic c
 - The Tumble sequence and what to observe after a win.
 - The Gold Lion Wild and the provider-stated base-game multiplier range.
 - The Yin-Yang Scatter trigger and the seven selectable free-spins options.
-- A practical checklist for reading the currently loaded version, including RTP and stake limits without inventing values.
+- The provider-listed RTP of 96.50%, explicitly attributed as a theoretical long-run figure rather than a promise about an individual session; stake limits remain version-specific.
 - An editorial note that the profile summarises provider material and does not claim a personal test session.
 - Links to the game provider's product page and dated launch announcement.
 
@@ -25,10 +25,10 @@ The catalogue description and localized image alt text were also refined where t
 
 ## Sources checked
 
-1. Pragmatic Play, [5 Lions Megaways product page](https://www.pragmaticplay.com/en/games/5-lions-megaways/). It currently describes base-game Wild multipliers from 1× to 40×, three Scatter symbols triggering the bonus, and seven free-spins options with up to 25 spins and Wild multipliers up to 40×.
+1. Pragmatic Play, [5 Lions Megaways product page](https://www.pragmaticplay.com/en/games/5-lions-megaways/). The page's Basic Game Info lists RTP 96.50%; it also describes base-game Wild multipliers from 1× to 40×, three Scatter symbols triggering the bonus, and seven free-spins options with up to 25 spins and Wild multipliers up to 40×.
 2. Pragmatic Play, [launch announcement dated 24 June 2021](https://www.pragmaticplay.com/en/news/pragmatic-play-recharges-asian-adventure-in-5-lions-megaways/). It describes the 7×6 Megaways layout, up to 117,649 ways, tumbling mechanic, Gold Lion Wild, and Yin-Yang Scatter design.
 
-No universal RTP, volatility value, stake range, max-win amount, or jurisdiction-specific availability was added. Such values must be checked against the exact version available through the operator.
+The provider-listed RTP of 96.50% is now attributed to Pragmatic Play and described as a theoretical long-run figure, not a guaranteed session result. No volatility value, stake range, max-win amount, or jurisdiction-specific availability was added. Readers are directed to check the RTP displayed in the loaded game version.
 
 ## Initial content scan
 

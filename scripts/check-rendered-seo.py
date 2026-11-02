@@ -13,6 +13,11 @@ ROOT = Path(__file__).resolve().parents[1]
 PUBLIC = ROOT / "public"
 LANGS = ("de", "en", "pl", "es", "pt", "ja")
 SM_NS = "http://www.sitemaps.org/schemas/sitemap/0.9"
+BADGE_MARKUP = (
+    '<a href="https://tools.cafe/p/instant-slot-reviews" target="_blank" rel="noopener">'
+    '<img src="https://tools.cafe/b/light.svg" alt="Listed on tools.cafe" width="180" height="54" />'
+    '</a>'
+)
 
 
 def fail(message: str) -> None:
@@ -121,12 +126,15 @@ def main() -> int:
             continue
         parser = HeadParser()
         try:
-            parser.feed(html_path.read_text(encoding="utf-8"))
+            rendered_html = html_path.read_text(encoding="utf-8")
+            parser.feed(rendered_html)
         except (OSError, UnicodeDecodeError) as exc:
             errors.append(f"Could not read {html_path.relative_to(ROOT)}: {exc}")
             continue
 
         label = html_path.relative_to(PUBLIC).as_posix()
+        if BADGE_MARKUP not in rendered_html:
+            errors.append(f"{label}: exact tools.cafe badge embed markup is missing or was rewritten during minification")
         if not parser.title:
             errors.append(f"{label}: missing <title>")
         if len(parser.canonicals) != 1:

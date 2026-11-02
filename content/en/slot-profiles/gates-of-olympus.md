@@ -1,6 +1,6 @@
 ---
 title: "Gates of Olympus – Slot profile"
-description: "Gates of Olympus combines pays-anywhere matches, tumbling reels and random multipliers up to 500x. Four Scatters trigger 15 free spins."
+description: "Gates of Olympus combines pays-anywhere wins with 8–30 matching symbols, six tumbling reels, multipliers up to 500x and 15 free spins from four Scatters."
 seo_title: "Gates of Olympus: mechanics & free spins | Instant Casino"
 type: slots
 translationKey: "slot-profile-gates-of-olympus"
@@ -23,13 +23,14 @@ Gates of Olympus by Pragmatic Play combines Greek mythology with a game board th
 | Feature | Details |
 |---|---|
 | Provider | Pragmatic Play |
+| RTP (provider listing) | 96.50% |
 | Win system | matching symbols pay anywhere on the screen |
 | Reels | six tumbling reels |
 | Provider-stated win condition | 8 to 30 matching symbols |
 | Multipliers | random values up to 500x |
 | Bonus | 4 or more Scatters, 15 free spins |
 
-These details refer to the original Gates of Olympus. Gates of Olympus 1000, Gates of Olympus 2500 and later special editions are separate games with different rules. Do not automatically transfer their multiplier limits, bonus modes or maximum-win claims to this profile.
+Pragmatic Play's official product page lists an RTP of 96.50% in its basic game information. This is a theoretical long-run return figure, not a guarantee for an individual session. Check the RTP shown in the help for the version that actually loads. These details refer to the original Gates of Olympus. Gates of Olympus 1000, Gates of Olympus 2500 and later special editions are separate games with different rules. Do not automatically transfer their multiplier limits, bonus modes or maximum-win claims to this profile.
 
 ## Wins without fixed paylines
 

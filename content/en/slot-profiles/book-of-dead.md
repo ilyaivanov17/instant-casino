@@ -1,12 +1,12 @@
 ---
-title: "Book of Dead – Slot profile"
-description: "An ancient-Egypt adventure with scatter symbols, free spins and expanding symbols."
-seo_title: "Book of Dead: Game mechanics & features | Instant Casino"
+title: "Book of Dead – game profile and bonus mechanics"
+description: "Book of Dead by Play'n GO: five reels, up to ten paylines, the Tomb as Wild and Scatter, free spins and a randomly selected expanding symbol."
+seo_title: "Book of Dead: Free Spins, Scatter and Expanding Symbol | Instant Casino"
 type: slots
 translationKey: "slot-profile-book-of-dead"
 url: "/en/slots/book-of-dead/"
 ogImage: "/images/slots/book-of-dead-cover.webp"
-lastmod: "2026-11-01"
+lastmod: "2026-11-02"
 article_review_status: editorial-review-pending
 aliases:
   - "/en/catalog/slots/book-of-dead/"
@@ -17,57 +17,68 @@ build:
 
 ![Book of Dead game artwork showing an explorer and a mysterious book in an ancient Egyptian setting](/images/slots/book-of-dead-cover.webp)
 
-Book of Dead uses an ancient-Egypt adventure theme built around its central book symbol. Scatters, free spins and an expanding symbol are key parts of the game’s familiar feature set. Before playing, check the paytable to see how the free-spin round starts and which symbol can expand.
+**Book of Dead** by Play'n GO follows explorer Rich Wilde into an ancient-Egypt setting. Three rules matter most to the game: the Tomb symbol can act as a Wild, three Tombs trigger Free Spins, and the game selects a random symbol to become the Expanding Symbol before the bonus sequence begins.
 
-### Game overview
+## Game layout and confirmed details
 
-| Provider | RTP (theoretical) | Volatility | Stake range | Features |
-|---|---:|---|---|---|
-| Play'n GO | 96.21 % | High | 0.1–50 EUR | Scatter symbols, Free spins, Expanding symbol |
+| Detail | Information in Play'n GO's game guides |
+|---|---|
+| Provider | Play'n GO |
+| Grid | 5 reels × 3 rows |
+| Paylines | Up to 10; players can select from 1 to 10 |
+| Tomb symbol | Wild function and Scatter trigger |
+| Free Spins | 10 awarded when three Tombs appear |
+| Expanding Symbol | A regular symbol selected at random before the Free Spins sequence |
+| RTP, volatility and stake limits | Not specified in the Play'n GO articles cited here |
 
-### What the figures do — and do not — tell you
+RTP, volatility and stake figures should not be copied from third-party summaries without checking the exact game version. The help and paytable in the loaded game are the more relevant source for those settings.
 
-RTP is a theoretical figure calculated over a very large number of rounds. It does not predict the result of a single spin or a short session. The listed volatility is not a forecast of whether you will win.
+## The Tomb symbol: Wild and Scatter
 
-### What to check before playing
+The Tomb symbol has two roles. Play'n GO explains that it can act as a Wild and substitute for other symbols in regular combinations. When three Tomb symbols appear, they serve as Scatters and start the Free Spins feature.
 
-Open the paytable before playing. It explains symbol values, feature triggers and any rules for free spins or jackpots. Set a firm budget and only play where it is legal for you.
+It is useful to keep these roles separate. The Wild function helps form regular winning combinations; the Scatter function triggers the Free Spins round. One Tomb symbol therefore does not automatically start the bonus.
 
----
+## Free Spins and the randomly selected Expanding Symbol
 
-## Book of Dead: In-depth editorial review
+Three Tomb symbols award an initial ten Free Spins. Before the feature begins, the game randomly selects an ordinary symbol. That symbol becomes the Special Expanding Symbol for the Free Spins sequence.
 
-This article is an editorial guide to Book of Dead. It distinguishes game information from interpretation and does not predict outcomes.
+After regular wins have been evaluated, the selected symbol may expand to cover all three positions on its reel. Play'n GO states a condition for this expansion: it happens only when it can create additional prizes on active paylines. The expanded symbols do not have to be immediately adjacent to one another to form a winning combination.
 
-Book of Dead is listed with Play'n GO. The page profile lists Scatter symbols, Free spins, Expanding symbol, within a theme built around an ancient-Egypt adventure theme. These details describe the site record; they do not replace checking the exact version that loads for a player. Before publication, verify the in-game help, paytable and stake limits directly.
+Four details help explain the feature:
 
-### Theme and first impressions
+1. **The selection is random:** the Expanding Symbol is chosen before the Free Spins begin; a previous round does not predict the next selection.
+2. **The selection applies during the feature:** the chosen symbol remains relevant throughout the Free Spins sequence.
+3. **Expansion has a condition:** it is used only when it can create additional wins on active lines.
+4. **Gaps can be relevant:** according to the provider, expanded symbols do not need to be next to each other to form a winning combination.
 
-The artwork gives the game its identity, but a fair review needs to look beyond the theme. With Book of Dead, the useful questions concern symbol values, win conditions, special rules and how clearly the help screen explains them. A colourful presentation cannot tell a reader how often a feature will trigger or how a session will end. Treat the first impression as context, not evidence of likely returns. A good review separates atmosphere from mechanics. Record which information is visible immediately and which requires opening the help menu. If rules are buried across several screens, that is a usability drawback; if they are easy to find, players can make a more informed choice. Clear explanations do not improve the mathematical odds, but they do improve understanding.
+If three Tomb symbols appear again during Free Spins, Play'n GO says another ten spins are awarded. Check the active game help to confirm how this rule is implemented in the version you are using.
 
-### Base game and win logic
+## What the features do not tell you
 
-The base game is the starting point for every feature. Check which symbols count, which combinations are required, and whether wins follow paylines, clusters or another rule described in the current game. For Book of Dead, take these details from its own paytable rather than promotional copy or a similarly named title. Small differences between versions can change both the rules and the way a feature works. Notice whether the interface explains a win in a way that can be checked. An animation highlights an event, but it is not the settlement record. A careful test notes the combination, the stake used and the amount actually credited. A handful of successful outcomes cannot establish that the game is favourable over the long run.
+A Free Spins trigger or an expanding symbol does not reveal how much a round will pay. The feature changes the symbol layout and may create additional combinations on active paylines, but it does not guarantee a particular payout or a profitable session.
 
-### Features and triggers
+The official guides used for this profile do not state a specific RTP, volatility category or stake range for an individual casino build. Those figures are therefore not repeated here as fixed properties. When a casino displays them in the information panel for the loaded version, check the value together with the currency and version details.
 
-A feature description is useful only when its conditions are clear. Check which symbols or events start a special round, whether a minimum combination is required and which rules apply once the feature begins. For Book of Dead, the in-game help is the authority; related titles may use different triggers, payouts or restrictions even when their names or artwork look alike. Separate three questions: what starts the feature, what changes during it, and how is the result calculated? This prevents a dramatic animation from being mistaken for a better chance of winning. If the help does not explain a trigger precisely, the article should not invent a symbol count or promise a particular sequence.
+## What to check before playing
 
-### Volatility and variance
+Open the help and paytable for the actual game version and check:
 
-A volatility label is, at most, a broad guide when the provider explains what it means. It is not a promise of frequent small wins or rare large ones. Consider it alongside the actual rules and your own risk tolerance. A short personal sample cannot reliably reproduce the long-run distribution, and one unusual session should not be treated as proof of a general pattern. A useful review distinguishes observations from claims. “This session included a long stretch without a notable win” describes what happened in that sample. “The game rarely pays” is a much broader claim and cannot be supported by a small number of rounds. Precise wording helps readers avoid forming expectations that the evidence cannot justify.
+- how many of the up to ten paylines are active;
+- how the Tomb symbol works as both Wild and Scatter;
+- how the ten Free Spins are triggered and retriggered;
+- when the randomly selected Expanding Symbol can cover an entire reel;
+- which RTP and stake limits are displayed for that version and your currency.
 
-### Stake range and budget
+This helps separate the game's documented core rules from settings that can depend on the version. Related titles in the Rich Wilde or Dead series may have different bonus rules; do not assume that their features also apply to Book of Dead.
 
----
+## Sources and editorial scope
 
-### Our analysis
-
-Book of Dead keeps its bonus structure focused on one expanding symbol selected for free spins. That clear, single-mechanic format makes it a useful reference point for comparing other Egyptian book-style slots.
+The mechanics were checked on 2 November 2026 against two official Play'n GO articles: [How to play Rich Wilde and the Book of Dead walkthrough](https://www.playngo.com/post/book-of-dead-walkthrough) and [A complete guide on how to play Book of Dead](https://www.playngo.com/post/a-complete-guide-on-how-to-play-book-of-dead). These articles explain the layout and feature sequence but do not publish RTP, volatility or stake figures for a specific casino configuration. This profile does not claim a personal playtest and does not replace the help for the active game version.
 
 <div class="slot-profile-bonus-cta">
-  <p>Explore bonus terms</p>
-  <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>
+  <p>Compare bonus offers and their terms</p>
+  <a href="/en/slots/#affiliate-title">View bonus terms →</a>
 </div>
 
 ## More game profiles

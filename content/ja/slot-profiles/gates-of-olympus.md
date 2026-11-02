@@ -1,6 +1,6 @@
 ---
 title: "Gates of Olympus ：ゲームプロフィール"
-description: "Gates of Olympusは、画面内の任意位置での配当、カスケード、最大500倍のランダム倍率が特徴。Scatter4個以上で15回のフリースピンが始まります。"
+description: "Gates of Olympusは、8～30個の同一シンボルによる配当、6本のカスケードリール、最大500倍の倍率、Scatter4個以上で始まる15回のフリースピンが特徴です。"
 seo_title: "Gates of Olympus：ゲームの仕組みとフリースピン | Instant Casino"
 type: slots
 translationKey: "slot-profile-gates-of-olympus"
@@ -23,13 +23,14 @@ Pragmatic Playの「Gates of Olympus」は、固定ペイラインに依存し�
 | 項目 | 内容 |
 |---|---|
 | プロバイダー | Pragmatic Play |
+| RTP（プロバイダー公表値） | 96.50% |
 | 配当方式 | 同じシンボルが画面内の任意の位置で配当 |
 | リール | 6本のカスケードリール |
 | プロバイダーが示す配当条件 | 同じシンボルが8～30個 |
 | 倍率 | 最大500倍のランダム値 |
 | ボーナス | Scatter4個以上、フリースピン15回 |
 
-ここに記載しているのはオリジナル版のGates of Olympusです。Gates of Olympus 1000、Gates of Olympus 2500、後発の特別版は別のゲームであり、ルールも異なります。別バージョンの倍率上限、ボーナス方式、最大配当をこのページにそのまま当てはめないでください。
+Pragmatic Playの公式製品ページでは、基本ゲーム情報としてRTP 96.50%が掲載されています。これは長期的な理論値であり、個々のプレイ結果を保証するものではありません。プレイ前に、実際に起動したバージョンのヘルプに表示されるRTPを確認してください。ここに記載しているのはオリジナル版のGates of Olympusです。Gates of Olympus 1000、Gates of Olympus 2500、後発の特別版は別のゲームであり、ルールも異なります。別バージョンの倍率上限、ボーナス方式、最大配当をこのページにそのまま当てはめないでください。
 
 ## 固定ペイラインなしの配当
 

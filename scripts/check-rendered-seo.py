@@ -149,10 +149,10 @@ def main() -> int:
             errors.append(f"{label}: missing hreflang values {sorted(missing)}")
         if alternates.get("x-default") is None:
             errors.append(f"{label}: missing x-default hreflang")
-        if alternates.get(parsed.path.split("/")[1] if parsed.path.startswith(tuple(f"/{l}/" for l in LANGS[1:])) else "de") != url:
-            # The explicit self check below is path-independent and catches the active locale.
-            if url not in [target for key, target in alternates.items() if key in LANGS]:
-                errors.append(f"{label}: no self-referential hreflang entry")
+        if url not in [alternates.get(language, "") for language in LANGS]:
+            errors.append(f"{label}: no self-referential hreflang entry")
+        if alternates.get("x-default") != alternates.get("de"):
+            errors.append(f"{label}: x-default must point to the German equivalent")
         for language, target in alternates.items():
             if target not in url_set:
                 errors.append(f"{label}: hreflang={language} points outside the sitemap set: {target}")

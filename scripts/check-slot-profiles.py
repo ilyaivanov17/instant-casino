@@ -233,10 +233,8 @@ def main():
                 if len(body) < 2400:
                     errors.append(f"{path.relative_to(ROOT)}: The Dog House profile is missing its localized mechanics sections")
                 for other_edition in ("The Dog House Megaways", "The Dog House Multihold", "The Dog House Muttley Crew", "The Dog House – Dog or Alive"):
-                    if other_edition in body and other_edition != "The Dog House":
-                        # References are allowed only in the explicit edition-distinction section.
-                        if other_edition not in body[body.find("## What to check"):]:
-                            errors.append(f"{path.relative_to(ROOT)}: edition distinction is missing for {other_edition}")
+                    if other_edition not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing distinction from related edition {other_edition}")
                 if meta.get("article_review_status") != "editorial-review-pending":
                     errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
     expert_partial = ROOT / "layouts" / "partials" / "slot-profile-expert-analysis.html"

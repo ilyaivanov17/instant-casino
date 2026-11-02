@@ -1,7 +1,7 @@
 ---
 title: "Book of Dead – profil gry i mechanika bonusu"
 description: "Book of Dead od Play'n GO: pięć bębnów, do dziesięciu linii, Tomb jako Wild i Scatter, darmowe spiny oraz losowy symbol rozszerzający."
-seo_title: "Book of Dead: darmowe spiny, Scatter i symbol rozszerzający | Instant Casino"
+seo_title: "Book of Dead: darmowe spiny i symbol rozszerzający | Instant Casino"
 type: slots
 translationKey: "slot-profile-book-of-dead"
 url: "/pl/slots/book-of-dead/"

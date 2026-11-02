@@ -89,7 +89,7 @@ async function inspectPage(page, path, expectedCards = null) {
     result.scrollWidth <= result.width + 1 &&
     errors.length === 0 &&
     galleryOk &&
-    tableStructureOk &&;
+    tableStructureOk;
 
   if (!ok) console.log(`  diagnostics ${path}: title=${Boolean(result.title)} pageOverflow=${result.scrollWidth > result.width + 1} galleryOk=${galleryOk} tableStructureOk=${tableStructureOk}  profileRoutes=${result.profileStatuses.filter(status => status === 200).length}/${result.profileStatuses.length} tableHeaders=${Math.max(0, ...result.tables.map(table => table.headers))} tableCells=${Math.max(0, ...result.tables.map(table => table.cells))} tableSample=${JSON.stringify(result.tables[0]?.sample || '')} tableWrappers=${result.tables.length} tablesWithContent=${result.tables.filter(table => table.headers > 0 && table.cells > 0).length}`);
   console.log(`${ok ? 'OK' : 'FAIL'} ${path} status=${response?.status()} viewport=${result.width}/${result.scrollWidth} cards=${result.cards} images=${result.images.filter(image => image.loaded).length}/${result.images.length} profileLinks=${result.anchors.filter(Boolean).length}/${result.anchors.length} profileRoutes=${result.profileStatuses.filter(status => status === 200).length}/${result.profileStatuses.length} tables=${result.tables.length} tableScroll=${result.tables.filter(table => table.scrollWidth > table.clientWidth + 1).length}  jsErrors=${errors.length}`);

@@ -23,12 +23,13 @@ build:
 | Característica | Dados |
 |---|---|
 | Fornecedor | Pragmatic Play |
+| RTP (valor indicado pelo fornecedor) | 96,50% |
 | Grelha | formato Megaways 7×6 |
 | Máximo de formas de ganhar | até 117 649 |
 | Mecânicas registadas | cascatas, Wilds do Leão Dourado, rodadas grátis |
 | Rodadas grátis | sete opções selecionáveis |
 
-Os dados sobre a grelha e as funcionalidades provêm da informação publicada pelo fornecedor. O RTP, os limites de aposta e a disponibilidade regional não são apresentados como valores universais: consulta a ajuda e a tabela de pagamentos da versão que estiver efetivamente aberta.
+Os dados sobre a grelha e as funcionalidades provêm da informação oficial da Pragmatic Play. A página do fornecedor indica um RTP de 96,50% na informação básica do jogo. Este é um valor teórico publicado a longo prazo, não uma garantia para uma sessão individual. Antes de jogar, confirma o RTP apresentado na ajuda da versão que estiver efetivamente aberta. Os limites de aposta e a disponibilidade regional não são apresentados aqui como valores universais.
 
 ## O que muda com Megaways
 

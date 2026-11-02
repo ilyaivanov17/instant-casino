@@ -261,6 +261,8 @@ https://github.com/ilyaivanov17/instant-casino/actions/runs/41447216328/artifact
 - Индексация Google не подтверждена и должна отслеживаться в Search Console.
 
 
-## Badge removal before publication
+## Final tools.cafe badge placement and publication status
 
-The tools.cafe badge markup was removed completely from the shared footer at the user's request. The associated browser assertion was removed as well. No CSS hiding or crawler/user-specific rendering is used; the badge is absent from rendered HTML.
+The badge has been restored in the bottom copyright/legal row of the shared footer as a compact, ordinarily visible link. It is not hidden behind another image or presented differently to crawlers and visitors. The existing HTML attributes match the supplied embed code. The Playwright smoke test verifies the badge's presence and non-hidden layout on the checked public routes, including mobile viewports.
+
+The badge update is being published through a push to `main`. Final production verification should confirm the badge is present on the live homepage and all language versions after the Pages deployment completes.

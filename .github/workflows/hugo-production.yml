@@ -46,6 +46,9 @@ jobs:
       - name: Validate generated sitemap
         run: python scripts/check-sitemap.py
 
+      - name: Validate rendered canonical and hreflang metadata
+        run: python scripts/check-rendered-seo.py
+
       - name: Check public output for leaked files
         run: ./scripts/check-public-output.sh public
 

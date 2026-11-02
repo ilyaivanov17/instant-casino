@@ -1,12 +1,12 @@
 ---
-title: "Bonanza – perfil de juego"
-description: "Una temática minera con configuraciones variables de carretes y símbolos en cascada."
-seo_title: "Bonanza: mecánicas y funciones | Instant Casino"
+title: "Bonanza – perfil del juego, Megaways y Dual Reactions"
+description: "Bonanza de Big Time Gaming: hasta 117.649 formas Megaways, cascadas Dual Reactions en dos direcciones y giros gratis con multiplicador creciente."
+seo_title: "Bonanza: Megaways, Dual Reactions y giros gratis | Instant Casino"
 type: slots
 translationKey: "slot-profile-bonanza"
 url: "/es/slots/bonanza/"
 ogImage: "/images/slots/bonanza-cover.webp"
-lastmod: "2026-11-01"
+lastmod: "2026-11-02"
 article_review_status: editorial-review-pending
 aliases:
   - "/es/catalog/slots/bonanza/"
@@ -17,61 +17,76 @@ build:
 
 ![Arte de Bonanza con una gema roja y letras doradas sobre un letrero de madera](/images/slots/bonanza-cover.webp)
 
-Bonanza utiliza el sistema Megaways, con altura variable de los rodillos y premios en cascada. La ronda de giros gratis constituye una fase de bonus independiente. Consulta la ayuda y la tabla de pagos para comprobar las reglas y los límites de la versión disponible.
+**Bonanza**, de Big Time Gaming, combina el sistema Megaways con la mecánica Dual Reactions. La altura de los rodillos puede cambiar y los símbolos ganadores reaccionan en dos direcciones: aparecen símbolos nuevos desde arriba y desde la derecha. Durante los giros gratis, cada reacción también aumenta el multiplicador de premio.
 
-### Ficha del juego
+## Bonanza de un vistazo
 
-| Proveedor | RTP (teórico) | Volatilidad | Intervalo de apuesta | Funciones |
-|---|---:|---|---|---|
-| Big Time Gaming | 96.1 % | Media | 0.1–50 EUR | Megaways, cascadas, giros gratis |
+| Dato | Información de la página oficial de Big Time Gaming |
+|---|---|
+| Proveedor | Big Time Gaming |
+| Tablero | 6 rodillos × hasta 7 símbolos |
+| Formas máximas | 117.649 |
+| RTP | 96,11 % |
+| Frecuencia de aciertos | 37,94 % |
+| Premio máximo | 26.000× apuesta |
+| Rango de apuesta indicado | 0,20 € a 20,00 € |
+| Bonus Buy | La página de BTG ofrece 12 giros gratis por 90× apuesta |
+| Volatilidad | El campo estructurado Volatility de BTG aparece vacío |
 
-### Qué significan los datos
+Son cifras publicadas en la página oficial del producto para la versión que figura allí. Un casino puede utilizar otra configuración o no ofrecer determinadas funciones en algunos territorios. Comprueba el panel informativo del juego que se carga realmente. El campo Volatility vacío no se sustituye aquí por una clasificación propia.
 
-El RTP es un valor teórico calculado a lo largo de muchísimas rondas. No predice el resultado de un giro ni de una sesión breve. La volatilidad indicada tampoco permite saber si ganarás.
+## Megaways: altura variable de los rodillos
 
-### Qué conviene comprobar antes de jugar
+Bonanza utiliza seis rodillos con un número variable de posiciones de símbolos. Por ello, la cantidad de formas posibles de ganar cambia de un giro a otro. BTG indica hasta 117.649 formas. Es el máximo del sistema, no una cifra que se aplique a cada giro.
 
-Abre la tabla de pagos antes de jugar. Allí se explican los valores de los símbolos, la activación de funciones y las condiciones de giros gratis o jackpots. Fija un presupuesto y juega solo donde sea legal.
+Al leer el tablero conviene separar dos aspectos: la altura visible de los rodillos puede variar y el número de combinaciones depende de la disposición de símbolos de cada giro. Una disposición con menos posiciones puede ofrecer un número distinto de formas que la configuración máxima.
 
----
+## Dual Reactions: cascadas desde dos direcciones
 
-## Bonanza: Análisis editorial en profundidad
-Bonanza figura asociado a Big Time Gaming. La ficha enumera Megaways, cascadas y giros gratis y un tema centrado en una presentación compacta y dinámica. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
+Dual Reactions amplía la mecánica de cascada. Cuando aparece una combinación ganadora, los símbolos correspondientes desaparecen y entran símbolos nuevos. Big Time Gaming indica que estas reacciones pueden llegar desde arriba y desde la derecha. Además, los carros situados sobre los rodillos 2 a 5 se desplazan de derecha a izquierda y añaden más símbolos por la parte inferior.
 
-### Tema y primera impresión
+Por tanto, Bonanza no debe describirse como una tragamonedas de grupos de símbolos convencional. Las combinaciones se evalúan dentro del sistema Megaways; después, Dual Reactions puede introducir símbolos nuevos y permitir evaluaciones adicionales.
 
-La presentación visual da identidad a Bonanza, pero una reseña rigurosa debe ir más allá del tema. Lo importante son los valores de los símbolos, las condiciones de premio, las reglas especiales y la claridad de la ayuda del juego. La estética no permite predecir la frecuencia de una función ni el resultado de una sesión. Enfoque analítico: presenta una regla como rasgo distintivo solo si la ayuda actual lo confirma con claridad. Una observación concreta es útil; una afirmación sobre resultados futuros no lo es. El artículo debe explicar la mecánica, no decidir por el lector.
+## Giros gratis: formar GOLD y aumentar el multiplicador
 
-### Ronda base y lógica de premios
+Según BTG, cuatro símbolos Scatter forman la palabra **GOLD** y desbloquean doce giros gratis. Cada Scatter adicional añade cinco giros más al inicio.
 
-La ronda base es el punto de partida para entender las funciones. Comprueba qué símbolos cuentan, qué combinaciones se exigen y si los premios dependen de líneas, grupos u otra regla descrita en la versión actual. Los detalles deben proceder de la tabla de pagos del propio juego, no de textos promocionales ni de títulos con nombres parecidos. Enfoque de usabilidad: el lector debe encontrar la apuesta, el saldo, las reglas y los controles para detenerse sin recorrer muchos menús. Describe lo que muestra realmente la interfaz. La comodidad, el ritmo y las animaciones son criterios válidos, pero no equivalen a la probabilidad de ganar.
+Durante el bonus, cada premio activa otra reacción. El multiplicador de premio aumenta en uno con cada reacción. Big Time Gaming describe esta progresión como ilimitada: el multiplicador crece a medida que se producen reacciones durante los giros gratis, en lugar de seguir una secuencia corta y fija.
 
-### Funciones y activadores
+La página oficial también menciona giros adicionales por Scatter apilados sobre los rodillos: tres Scatter apilados de Free Spins pueden conceder cinco giros extra y cuatro Scatter, diez. Comprueba estos detalles en la ayuda de la versión activa, ya que la presentación y disponibilidad del bonus pueden depender del operador.
 
-La descripción de una función solo sirve si explica claramente sus condiciones. Comprueba qué símbolos o eventos inician una ronda especial y qué reglas se aplican después. Para Bonanza, la fuente principal es la ayuda integrada; incluso títulos relacionados pueden tener activadores, pagos o restricciones diferentes. Enfoque matemático: los resultados aleatorios no forman una secuencia que la paciencia o las apuestas más altas vayan a corregir. Los giros anteriores no determinan el siguiente resultado. Un texto responsable explica ese límite y evita prometer una recuperación segura de las pérdidas.
+## Bonus Buy y límites de apuesta
 
-### Volatilidad y variación
+Big Time Gaming indica una opción Bonus Buy: en su página de producto se pueden comprar doce giros gratis por 90 veces la apuesta. La función no tiene por qué estar disponible en todos los mercados o casinos. El precio indicado describe la opción del proveedor; no es una recomendación.
 
-La etiqueta de volatilidad es, como mucho, una orientación general si el proveedor explica su significado. No promete premios pequeños frecuentes ni grandes premios poco frecuentes. Una muestra breve no reproduce de forma fiable la distribución a largo plazo, por lo que una sesión aislada no demuestra una regla general. Enfoque de usabilidad: el lector debe encontrar la apuesta, el saldo, las reglas y los controles para detenerse sin recorrer muchos menús. Describe lo que muestra realmente la interfaz. La comodidad, el ritmo y las animaciones son criterios válidos, pero no equivalen a la probabilidad de ganar.
+La página del producto también muestra un rango de apuesta de 0,20 € a 20,00 €. Los límites pueden variar según la moneda y la configuración del juego. Antes de empezar, utiliza los valores mostrados en la versión cargada.
 
-### Rango de apuestas y presupuesto
+## Lo que no dicen las cifras
 
-El rango de apuestas de la página debe compararse con la interfaz actual. Los límites pueden variar según la moneda, el operador, el dispositivo o la configuración. Fija un presupuesto y un límite de pérdidas antes de empezar. No aumentes la apuesta para recuperar pérdidas anteriores; al alcanzar el límite, termina la sesión. Enfoque matemático: los resultados aleatorios no forman una secuencia que la paciencia o las apuestas más altas vayan a corregir. Los giros anteriores no determinan el siguiente resultado. Un texto responsable explica ese límite y evita prometer una recuperación segura de las pérdidas.
+Un RTP del 96,11 % es una medida teórica a largo plazo, no una expectativa de devolución en una sesión concreta. Una frecuencia de aciertos del 37,94 % no equivale a la probabilidad de terminar un giro con beneficio neto. El premio máximo de 26.000× es un límite superior publicado, no un resultado esperado ni habitual.
 
-### Ritmo y usabilidad
+BTG deja vacío el campo estructurado Volatility. Por eso, este perfil no asigna a Bonanza una categoría fija de volatilidad, aunque el proveedor describe la dinámica en su texto como de alta volatilidad.
 
----
+## Qué comprobar antes de jugar
 
-### Nuestro análisis
+Abre la ayuda y la tabla de pagos de la versión concreta y comprueba:
 
-Bonanza combina una cuadrícula Megaways cambiante con cascadas y un multiplicador que puede aumentar durante los giros gratis. Su rasgo distintivo es cómo cada cascada puede influir en el siguiente nivel del multiplicador.
+- cuántas Megaways y formas posibles se muestran en cada giro;
+- cómo Dual Reactions introduce símbolos desde arriba y desde la derecha;
+- cómo cuatro Scatter y los Scatter adicionales afectan a los giros gratis;
+- cómo las cascadas aumentan el multiplicador durante el bonus;
+- si Bonus Buy está disponible y cuál es su precio en tu moneda;
+- qué RTP y rango de apuestas se aplican a la versión activa.
 
+Comprueba el título completo: este perfil trata de **Bonanza** de Big Time Gaming. Otros juegos con nombres similares o lanzamientos posteriores que incluyan «Bonanza» pueden utilizar mecánicas y cifras diferentes.
 
+## Fuentes y alcance editorial
 
+Las reglas y los datos del producto se comprobaron el 2 de noviembre de 2026 en la página oficial de Big Time Gaming: [Bonanza – Big Time Gaming](https://beta.bigtimegaming.com/games/bonanza). La página describe Megaways, Dual Reactions, los giros gratis, Bonus Buy y las cifras indicadas arriba. Este perfil no afirma que se haya realizado una sesión personal de prueba y no sustituye la ayuda de la versión activa del casino.
 
 <div class="slot-profile-bonus-cta">
-  <p>Ver condiciones de bonos</p>
-  <a href="/es/slots/#affiliate-title">Ver condiciones de bonos →</a>
+  <p>Compara las ofertas de bonos y sus condiciones</p>
+  <a href="/es/slots/#affiliate-title">Consultar condiciones de bonos →</a>
 </div>
 
 ## Más perfiles de juegos

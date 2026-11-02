@@ -1,12 +1,12 @@
 ---
-title: "Book of Dead – perfil do jogo"
-description: "Uma aventura no antigo Egito com símbolos scatter, rodadas grátis e símbolos expansíveis."
-seo_title: "Book of Dead: mecânicas e funcionalidades | Instant Casino"
+title: "Book of Dead – perfil do jogo e mecânicas do bónus"
+description: "Book of Dead da Play'n GO: cinco rolos, até dez linhas, Tomb como Wild e Scatter, rodadas grátis e um símbolo expansivo escolhido ao acaso."
+seo_title: "Book of Dead: rodadas grátis, Scatter e símbolo expansivo | Instant Casino"
 type: slots
 translationKey: "slot-profile-book-of-dead"
 url: "/pt/slots/book-of-dead/"
 ogImage: "/images/slots/book-of-dead-cover.webp"
-lastmod: "2026-11-01"
+lastmod: "2026-11-02"
 article_review_status: editorial-review-pending
 aliases:
   - "/pt/catalog/slots/book-of-dead/"
@@ -17,71 +17,68 @@ build:
 
 ![Arte de Book of Dead com um explorador e um livro misterioso num cenário do antigo Egito](/images/slots/book-of-dead-cover.webp)
 
-Book of Dead passa-se num cenário de aventura inspirado no antigo Egito, com o livro como símbolo central. Scatters, rodadas grátis e um símbolo expansivo fazem parte das suas funcionalidades conhecidas. Consulte a tabela de pagamentos antes de jogar para perceber como começa a ronda grátis.
+**Book of Dead**, da Play'n GO, acompanha o explorador Rich Wilde numa aventura inspirada no antigo Egito. Três regras definem a sua mecânica: o símbolo Tomb pode funcionar como Wild, três Tomb ativam as rodadas grátis e, antes da ronda especial, o jogo escolhe aleatoriamente um símbolo expansivo.
 
-### Dados do jogo
+## Estrutura do jogo e dados confirmados
 
-| Fornecedor | RTP teórico | Volatilidade | Intervalo de aposta | Funcionalidades |
-|---|---:|---|---|---|
-| Play'n GO | 96.21 % | Alta | 0.1–50 EUR | símbolos Scatter, rodadas grátis, símbolo expansivo |
+| Característica | Informação dos guias da Play'n GO |
+|---|---|
+| Fornecedor | Play'n GO |
+| Grelha | 5 rolos × 3 linhas |
+| Linhas de pagamento | Até 10; é possível selecionar de 1 a 10 |
+| Símbolo Tomb | Função Wild e ativador Scatter |
+| Rodadas grátis | 10 quando aparecem três Tomb |
+| Símbolo expansivo | Um símbolo normal escolhido ao acaso antes das rodadas grátis |
+| RTP, volatilidade e limites de aposta | Não indicados nos artigos da Play'n GO citados aqui |
 
-### Como interpretar os valores
+Não é aconselhável copiar valores de RTP, volatilidade ou limites de aposta de resumos externos sem confirmar a versão concreta. Para esses parâmetros, consulta a ajuda e a tabela de pagamentos do jogo que está efetivamente aberto.
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+## O símbolo Tomb: Wild e Scatter
 
-### O que verificar antes de jogar
+O símbolo Tomb tem duas funções. Segundo a Play'n GO, pode atuar como Wild e substituir outros símbolos em combinações normais. Quando aparecem três símbolos Tomb, funcionam como Scatter e iniciam as rodadas grátis.
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
+É importante separar estas funções. O Wild ajuda a formar combinações normais; o Scatter desencadeia a ronda de rodadas grátis. Por isso, um único Tomb não inicia automaticamente o bónus.
 
----
+## Rodadas grátis e símbolo expansivo escolhido ao acaso
 
-## Book of Dead: Análise editorial aprofundada
-Book of Dead está associado a Play'n GO. A ficha enumera símbolos Scatter, rodadas grátis, símbolo expansivo e um tema centrado em an ancient-Egypt adventure theme. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+Três símbolos Tomb atribuem inicialmente dez rodadas grátis. Antes de a funcionalidade começar, o jogo escolhe aleatoriamente um símbolo normal. Esse símbolo passa a ser o Special Expanding Symbol durante toda a sequência de rodadas grátis.
 
-### Tema e primeira impressão
+Depois de serem avaliados os prémios normais, o símbolo escolhido pode expandir-se e ocupar as três posições do seu rolo. A Play'n GO indica uma condição para a expansão: só acontece quando pode criar prémios adicionais em linhas ativas. Os símbolos expandidos não precisam de ficar imediatamente lado a lado para formar uma combinação vencedora.
 
-A apresentação visual dá identidade a Book of Dead, mas uma análise rigorosa tem de ir além do tema. Importam os valores dos símbolos, as condições de prémio, as regras especiais e a clareza da ajuda do jogo. A estética não permite prever a frequência de uma funcionalidade nem o resultado de uma sessão. Perspetiva analítica: chama a uma regra característica distintiva apenas quando a ajuda atual a confirma claramente. Uma observação concreta é útil; uma afirmação sobre resultados futuros não é. O artigo deve explicar a mecânica, não decidir pelo leitor.
+Há quatro pontos importantes a compreender:
 
-### Jogo base e lógica de prémios
+1. **A escolha é aleatória:** o símbolo expansivo é escolhido antes das rodadas grátis; uma ronda anterior não permite prever a escolha seguinte.
+2. **A escolha aplica-se à ronda:** o símbolo selecionado mantém-se relevante durante a sequência de rodadas grátis.
+3. **A expansão tem uma condição:** só é aplicada quando pode criar prémios adicionais em linhas ativas.
+4. **Pode haver espaços entre símbolos:** segundo o fornecedor, os símbolos expandidos não precisam de estar adjacentes para formar uma combinação vencedora.
 
-A ronda base é o ponto de partida para compreender as funcionalidades. Confirma quais os símbolos relevantes, que combinações são exigidas e se os prémios dependem de linhas, grupos ou outra regra descrita na versão atual. Os detalhes devem vir da tabela de pagamentos do próprio jogo, não de publicidade ou de títulos com nomes semelhantes. Perspetiva de usabilidade: o leitor deve encontrar facilmente a aposta, o saldo, as regras e os controlos para parar. Descreve o que a interface mostra realmente. Conforto, ritmo e animações são critérios válidos, mas não devem ser confundidos com a probabilidade de ganhar.
+Se voltarem a aparecer três símbolos Tomb durante as rodadas grátis, a Play'n GO indica que são atribuídas mais dez rodadas. Confirma como esta regra é aplicada na ajuda da versão que estás a utilizar.
 
-### Funcionalidades e gatilhos
+## O que não se pode concluir a partir das funcionalidades
 
-A descrição de uma funcionalidade só é útil se explicar claramente as condições. Confirma que símbolos ou eventos iniciam uma ronda especial e que regras se aplicam depois. Para Book of Dead, a fonte principal é a ajuda integrada; títulos relacionados podem ter gatilhos, pagamentos ou restrições diferentes. Perspetiva matemática: resultados aleatórios não formam uma sequência que a paciência ou apostas maiores venham corrigir. Os giros anteriores não determinam o próximo resultado. Um texto responsável explica esse limite e não promete recuperar perdas de forma segura.
+O início das rodadas grátis ou a aparição de um símbolo expansivo não revela o valor que será pago. A funcionalidade altera a disposição dos símbolos e pode criar combinações adicionais nas linhas ativas, mas não garante um prémio específico nem um resultado positivo na sessão.
 
-### Volatilidade e variação
+Os guias oficiais usados neste perfil não indicam um RTP, uma categoria de volatilidade ou um intervalo de apostas para cada versão de casino. Por isso, esses valores não são repetidos aqui como características fixas. Se o casino os apresentar no painel de informação da versão carregada, confirma também a moeda e os detalhes da versão.
 
-A indicação de volatilidade é, no máximo, uma orientação geral quando o fornecedor explica o seu significado. Não promete prémios pequenos frequentes nem grandes prémios raros. Uma amostra curta não reproduz de forma fiável a distribuição a longo prazo, pelo que uma sessão isolada não prova uma regra geral. Perspetiva de usabilidade: o leitor deve encontrar facilmente a aposta, o saldo, as regras e os controlos para parar. Descreve o que a interface mostra realmente. Conforto, ritmo e animações são critérios válidos, mas não devem ser confundidos com a probabilidade de ganhar.
+## O que verificar antes de jogar
 
-### Intervalo de apostas e orçamento
+Abre a ajuda e a tabela de pagamentos da versão concreta e verifica:
 
-O intervalo de apostas indicado na página deve ser comparado com a interface atual. Os limites podem variar com a moeda, o operador, o dispositivo ou a configuração. Define um orçamento e um limite de perdas antes de começar. Não aumentes a aposta para recuperar perdas; quando atingires o limite, termina a sessão. Perspetiva matemática: resultados aleatórios não formam uma sequência que a paciência ou apostas maiores venham corrigir. Os giros anteriores não determinam o próximo resultado. Um texto responsável explica esse limite e não promete recuperar perdas de forma segura.
+- quantas das até dez linhas estão ativas;
+- como funciona o Tomb como Wild e como Scatter;
+- como são iniciadas e repetidas as rodadas grátis;
+- quando o símbolo expansivo escolhido ao acaso pode ocupar um rolo inteiro;
+- que RTP e limites de aposta são apresentados para essa versão e para a tua moeda.
 
-### Ritmo e usabilidade
+Assim podes separar as regras principais documentadas das definições que dependem da versão. Outros títulos das séries Rich Wilde ou Dead podem ter funcionalidades diferentes; não assumas que as respetivas regras também se aplicam a Book of Dead.
 
-O ritmo depende das animações, pausas, transições automáticas e facilidade de compreender as funcionalidades. Testa Book of Dead num ecrã pequeno e num computador quando ambas as versões estiverem disponíveis. Os controlos de aposta, o saldo e as explicações devem ser fáceis de encontrar e não ficar escondidos pelos efeitos visuais. Perspetiva analítica: chama a uma regra característica distintiva apenas quando a ajuda atual a confirma claramente. Uma observação concreta é útil; uma afirmação sobre resultados futuros não é. O artigo deve explicar a mecânica, não decidir pelo leitor.
+## Fontes e âmbito editorial
 
-### O que uma sessão de teste mostra
-
----
-
-### A nossa análise
-
-Book of Dead concentra o bónus num único símbolo expansivo escolhido para as rodadas grátis. Esta mecânica clara torna o jogo uma referência útil para comparar outros slots egípcios do tipo Book.
-
-
-
-
-
-
-
-
-
+A mecânica foi verificada em 2 de novembro de 2026 com dois artigos oficiais da Play'n GO: [How to play Rich Wilde and the Book of Dead walkthrough (em inglês)](https://www.playngo.com/post/book-of-dead-walkthrough) e [A complete guide on how to play Book of Dead (em inglês)](https://www.playngo.com/post/a-complete-guide-on-how-to-play-book-of-dead). Estes artigos explicam a estrutura e a sequência das funcionalidades, mas não publicam RTP, volatilidade ou limites de aposta para uma configuração de casino específica. Este perfil não afirma que tenha sido realizada uma sessão pessoal de teste e não substitui a ajuda da versão ativa.
 
 <div class="slot-profile-bonus-cta">
-  <p>Ver condições dos bónus</p>
-  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
+  <p>Compara as ofertas de bónus e as respetivas condições</p>
+  <a href="/pt/slots/#affiliate-title">Consultar condições dos bónus →</a>
 </div>
 
 ## Mais perfis de jogos

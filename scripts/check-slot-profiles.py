@@ -46,6 +46,7 @@ def main():
         "Wanted Dead or a Wild": ("DuelReels", "VS"),
         "Temple Tumble": ("Megaways", "6×6"),
         "Bigger Bass Bonanza": ("Fisherman Wild",),
+        "Fruit Party": ("7×7", "256"),
     }
     author_slugs = {
         "arthur-mustoe", "corey-levitan", "cristina-tudose", "dan-michalski",
@@ -139,6 +140,103 @@ def main():
                 errors.append(f"content/{lang}/slots.md: missing legacy anchor {slug}")
             if f'relref "slot-profiles/{slug}"' not in hub:
                 errors.append(f"content/{lang}/slots.md: missing link to profile {slug}")
+            if slug == "starburst":
+                required_sources = (
+                    "https://netent.com/games/starburst",
+                    "https://games.evolution.com/slots/starburst/",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing primary source link {source_url}")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: Starburst profile is missing its detailed localized sections")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+            if slug == "book-of-dead":
+                required_sources = (
+                    "https://www.playngo.com/post/book-of-dead-walkthrough",
+                    "https://www.playngo.com/post/a-complete-guide-on-how-to-play-book-of-dead",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing primary source link {source_url}")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: Book of Dead profile is missing its localized mechanics sections")
+                for unsupported_value in ("96.21", "0.1–50 EUR"):
+                    if unsupported_value in body:
+                        errors.append(f"{path.relative_to(ROOT)}: unsupported/unverified Book of Dead value remains: {unsupported_value}")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+            if slug == "bigger-bass-bonanza":
+                required_sources = (
+                    "https://www.pragmaticplay.com/en/games/bigger-bass-bonanza/",
+                    "https://www.pragmaticplay.com/de/spiele/bigger-bass-bonanza/",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing primary source link {source_url}")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: Bigger Bass Bonanza profile is missing its localized mechanics sections")
+                for unsupported_value in ("96.71", "0.2–125 EUR"):
+                    if unsupported_value in body:
+                        errors.append(f"{path.relative_to(ROOT)}: unsupported/unverified Bigger Bass Bonanza value remains: {unsupported_value}")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+            if slug == "bonanza":
+                source_url = "https://beta.bigtimegaming.com/games/bonanza"
+                if source_url not in body:
+                    errors.append(f"{path.relative_to(ROOT)}: missing official Big Time Gaming source link")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: Bonanza profile is missing its localized mechanics sections")
+                for unsupported_value in ("96.1 %", "0.1–50 EUR", "| Medium |"):
+                    if unsupported_value in body:
+                        errors.append(f"{path.relative_to(ROOT)}: stale Bonanza profile value remains: {unsupported_value}")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+            if slug == "sweet-bonanza":
+                required_sources = (
+                    "https://www.pragmaticplay.com/en/games/sweet-bonanza-slot/",
+                    "https://www.pragmaticplay.com/en/news/pragmatic-play-launches-sweet-bonanza/",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing primary source link {source_url}")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: Sweet Bonanza profile is missing its localized mechanics sections")
+                if "zufällige" in body:
+                    errors.append(f"{path.relative_to(ROOT)}: untranslated German template fragment remains")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+            if slug == "fruit-party":
+                required_sources = (
+                    "https://www.pragmaticplay.com/en/games/fruit-party-slot/",
+                    "https://www.pragmaticplay.com/en/news/pragmatic-play-gets-summer-started-with-fruit-party/",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing primary source link {source_url}")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: Fruit Party profile is missing its localized mechanics sections")
+                for unsupported_value in ("96.47", "0.2–100 EUR"):
+                    if unsupported_value in body:
+                        errors.append(f"{path.relative_to(ROOT)}: unsupported/unverified Fruit Party value remains: {unsupported_value}")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+            if slug == "the-dog-house":
+                required_sources = (
+                    "https://www.pragmaticplay.com/en/games/the-dog-house-slot/",
+                    "https://www.pragmaticplay.com/en/news/pragmatic-play-launches-the-dog-house/",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing primary source link {source_url}")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: The Dog House profile is missing its localized mechanics sections")
+                for other_edition in ("The Dog House Megaways", "The Dog House Multihold", "The Dog House Muttley Crew", "The Dog House – Dog or Alive"):
+                    if other_edition not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing distinction from related edition {other_edition}")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
     expert_partial = ROOT / "layouts" / "partials" / "slot-profile-expert-analysis.html"
     if not expert_partial.exists():
         errors.append("Missing localized expert-analysis partial")

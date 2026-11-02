@@ -19,5 +19,6 @@ python3 scripts/check-locales.py
 # Build into the same public/ directory Cloudflare Pages publishes.
 hugo --cleanDestinationDir --minify --environment production --printPathWarnings
 python3 scripts/check-sitemap.py
+python3 scripts/check-rendered-seo.py
 ./scripts/check-public-output.sh public
 printf '\nOK: all checks passed and the production output is ready in ./public/\n'

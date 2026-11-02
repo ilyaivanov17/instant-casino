@@ -66,3 +66,30 @@ The prior German profile listed 96.21% RTP, high volatility and a 0.1–50 EUR s
 The Polish and Portuguese profiles no longer contain the English template fragment that appeared in their previous editorial copy. The Japanese version now has the same substantive mechanics explanation and source references as the other locales. All six pages remain `editorial-review-pending`; this pass is source-backed editing, not an assertion of a personal playtest or final human editorial approval.
 
 The profile QA now checks the two official Play'n GO source links, the expanded localized content, absence of the unsupported RTP/stake figure, and the pending-review status.
+
+
+## Content batch 3: Bigger Bass Bonanza
+
+Expanded all six localized profiles:
+
+- `content/de/slot-profiles/bigger-bass-bonanza.md`
+- `content/en/slot-profiles/bigger-bass-bonanza.md`
+- `content/pl/slot-profiles/bigger-bass-bonanza.md`
+- `content/es/slot-profiles/bigger-bass-bonanza.md`
+- `content/pt/slot-profiles/bigger-bass-bonanza.md`
+- `content/ja/slot-profiles/bigger-bass-bonanza.md`
+
+Updated the catalogue teaser in `data/slot_catalog.yaml` to match the full profile.
+
+### Source verification
+
+Checked on 2026-11-02 against the official Pragmatic Play pages:
+
+1. [Bigger Bass Bonanza — English](https://www.pragmaticplay.com/en/games/bigger-bass-bonanza/)
+2. [Bigger Bass Bonanza — German](https://www.pragmaticplay.com/de/spiele/bigger-bass-bonanza/)
+
+The new profiles describe the 4×5 format, 3/4/5 Scatter triggers awarding 10/15/20 Free Spins, Fisherman Wild collecting all visible Money Symbols, Money Symbol values up to 4,000× bet in the bonus, every fourth Wild retriggering 10 additional Free Spins, and the 2× / 3× / 10× multiplier progression.
+
+The 4,000× value is explicitly described as a Money Symbol value, not as the overall maximum game payout. RTP, volatility and stake range were removed from all six pages because they are not listed on the official product pages consulted; no replacement values were invented. The text distinguishes Bigger Bass Bonanza from Bigger Bass Bonanza 1000 and Big Bass Football Bonanza to avoid mixing features from related titles.
+
+Each locale retains `editorial-review-pending`; the source-backed rewrite does not claim a personal playtest or final human sign-off. The six catalogue descriptions now reflect the verified bonus loop and remain within the existing 45–180-character requirement. Profile QA checks the two official sources, localized content length, absence of the old unsupported RTP/stake values and pending-review status.

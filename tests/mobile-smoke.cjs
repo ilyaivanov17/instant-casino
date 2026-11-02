@@ -226,8 +226,8 @@ async function inspectPage(page, path, expectedCards = null) {
   await search.fill('Biger Bass Bonanza');
   const typoMatches = await searchPage.locator('.slot-game-card:visible').count();
   const typoFirstTitle = await searchPage.locator('.slot-game-card:visible h3').first().textContent();
-  // Search metadata written in another locale.
-  await search.fill('frutas de colores');
+  // Search metadata written in another locale (Fruit Party 2 Spanish catalogue description).
+  await search.fill('Wilds acumulables');
   const crossLanguageMatches = await searchPage.locator('.slot-game-card:visible').count();
   // Search a phrase that appears in the game description, not the title/provider.
   await search.fill('Dual Reactions');

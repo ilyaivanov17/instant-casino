@@ -135,3 +135,26 @@ The current product page describes 8–12+ matching symbols anywhere on the grid
 The profile distinguishes the original Sweet Bonanza from Sweet Bonanza 2500, Sweet Bonanza 1000 and Sweet Bonanza Super Scatter. No RTP or stake range is invented where the current product page does not publish one. A 2019 launch statement described the title as high-volatility, but the article notes that a current casino version's own help is the relevant place to check such a label. All six pages keep `editorial-review-pending`.
 
 The localized Japanese profile has been expanded from a short stub; the former mixed-language fragments (including German `zufällige`) in Polish, Spanish, Portuguese and Japanese have been replaced with native-language copy. Catalogue descriptions now reflect the matching-symbol, Scatter and multiplier rules.
+
+
+## Content batch 6: Fruit Party (original title)
+
+Expanded all six localized profiles:
+
+- `content/de/slot-profiles/fruit-party.md`
+- `content/en/slot-profiles/fruit-party.md`
+- `content/pl/slot-profiles/fruit-party.md`
+- `content/es/slot-profiles/fruit-party.md`
+- `content/pt/slot-profiles/fruit-party.md`
+- `content/ja/slot-profiles/fruit-party.md`
+
+Sources checked on 2026-11-02:
+
+1. [Pragmatic Play — Fruit Party product page](https://www.pragmaticplay.com/en/games/fruit-party-slot/)
+2. [Pragmatic Play — original Fruit Party launch article](https://www.pragmaticplay.com/en/news/pragmatic-play-gets-summer-started-with-fruit-party/)
+
+The current product page describes a 7×7 cluster-pays game. In the base game, each symbol in a winning block can randomly carry 2×; symbol multipliers multiply together up to 256×. Three or more Scatters trigger 10 Free Spins. During the feature, winning symbols can carry 2× or 4× multipliers; additional groups of 3–7 Scatters can retrigger with 10–14 Free Spins. The launch article confirms the original 7×7 layout and tumble mechanic.
+
+The prior RTP value of 96.47% and stake range of 0.2–100 EUR were removed from all six profiles because the current official product page consulted does not publish those settings. No substitute figures were invented. The article notes that the 2019 launch announcement described the original game as high-volatility, but directs readers to check the active version's own help for current configuration.
+
+The profiles explicitly distinguish original Fruit Party from Fruit Party 2. The Japanese source page has been expanded from a short stub, and the Polish, Spanish and Portuguese pages have been rewritten to remove template-like language. The catalogue summaries now include cluster count, 2× multiplier behaviour, Scatter trigger and the 256× combined multiplier cap. Profile QA checks both official sources, content depth, absence of the old unsupported figures, and pending editorial status.

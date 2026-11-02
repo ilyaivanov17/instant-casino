@@ -1,12 +1,12 @@
 ---
-title: "Fruit Party – perfil do jogo"
-description: "Um jogo de clusters 7×7 colorido, com multiplicadores nos símbolos e uma ronda de rodadas grátis."
-seo_title: "Fruit Party: mecânicas e funcionalidades | Instant Casino"
+title: "Fruit Party – perfil do jogo e multiplicadores de clusters"
+description: "Fruit Party da Pragmatic Play: grelha 7×7, multiplicadores aleatórios de 2× no jogo base e rodadas grátis com símbolos 2×/4× até 256×."
+seo_title: "Fruit Party: clusters, rodadas grátis e multiplicadores | Instant Casino"
 type: slots
 translationKey: "slot-profile-fruit-party"
 url: "/pt/slots/fruit-party/"
 ogImage: "/images/slots/fruit-party-cover.webp"
-lastmod: "2026-11-01"
+lastmod: "2026-11-02"
 article_review_status: editorial-review-pending
 aliases:
   - "/pt/catalog/slots/fruit-party/"
@@ -17,69 +17,68 @@ build:
 
 ![Arte de Fruit Party com frutas coloridas e o título multicolorido do jogo](/images/slots/fruit-party-cover.webp)
 
-Fruit Party tem um tema e funcionalidades próprios que vale a pena conhecer antes de jogar. A ficha inclui mecânica Tumble, multiplicadores de prémios, rodadas grátis. Consulte a ajuda e a tabela de pagamentos para confirmar as condições e os limites da versão disponível.
+**Fruit Party**, da Pragmatic Play, é uma slot com prémios por clusters numa grelha 7×7. Não utiliza linhas de pagamento fixas tradicionais: grupos de símbolos correspondentes formam prémios e ativam cascatas. Os símbolos que fazem parte de um grupo vencedor podem ter multiplicadores, que funcionam de forma diferente no jogo base e nas rodadas grátis.
 
-### Dados do jogo
+## Fruit Party em resumo
 
-| Fornecedor | RTP teórico | Volatilidade | Intervalo de aposta | Funcionalidades |
-|---|---:|---|---|---|
-| Pragmatic Play | 96.47 % | Alta | 0.2–100 EUR | Tumble, multiplicadores de prémios, rodadas grátis |
+| Característica | Informação da página atual do produto |
+|---|---|
+| Fornecedor | Pragmatic Play |
+| Grelha | 7×7 |
+| Mecânica de prémio | Prémios por clusters |
+| Multiplicadores no jogo base | Os símbolos de um grupo vencedor podem receber aleatoriamente 2× |
+| Limite combinado de multiplicadores | Os multiplicadores podem combinar-se até 256× |
+| Rodadas grátis | 3 ou mais Scatters ativam 10 rodadas grátis |
+| Multiplicadores nas rodadas grátis | Os símbolos vencedores podem ter 2× ou 4× |
+| Reativação | 3–7 Scatters adicionais reativam a função com 10–14 rodadas grátis |
+| RTP e limites de aposta | Não indicados na página atual citada |
 
-### Como interpretar os valores
+A página do produto descreve 256× como o limite dos multiplicadores combinados. Não é um prémio garantido nem habitual. Não acrescentamos RTP nem limites de aposta a partir de tabelas de terceiros; consulta a ajuda da versão efetivamente carregada.
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+## Jogo base: clusters em vez de linhas
 
-### O que verificar antes de jogar
+Fruit Party utiliza uma grelha 7×7. Uma combinação vencedora é formada por um grupo de símbolos correspondentes, não por uma linha fixa. Após um prémio, os símbolos envolvidos desaparecem e outros novos caem para ocupar os espaços vazios. Se surgir outro grupo vencedor, é avaliado e a cascata continua.
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
+Assim, podem ocorrer vários prémios sucessivos numa única jogada paga. As cascatas fazem parte da mesma ronda e não são jogadas adicionais automáticas.
 
----
+## Multiplicadores no jogo base
 
-## Fruit Party: Análise editorial aprofundada
-Fruit Party está associado a Pragmatic Play. A ficha enumera mecânica Tumble, multiplicadores de prémios, rodadas grátis e um tema centrado em imagens de frutas coloridas e uma estética arcade leve. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+A página atual da Pragmatic Play indica que cada símbolo que participa num grupo vencedor pode receber aleatoriamente um multiplicador de 2×. Se vários símbolos da mesma combinação tiverem multiplicadores, os seus valores são multiplicados entre si. O efeito combinado pode atingir o limite de 256× indicado pelo fornecedor.
 
-### Tema e primeira impressão
+Isto é diferente de uma soma: os multiplicadores não são simplesmente adicionados como 2+2+2, mas multiplicam-se de acordo com a mecânica descrita. A versão ativa mostra como uma ronda específica é calculada.
 
-A apresentação visual dá identidade a Fruit Party, mas uma análise rigorosa tem de ir além do tema. Importam os valores dos símbolos, as condições de prémio, as regras especiais e a clareza da ajuda do jogo. A estética não permite prever a frequência de uma funcionalidade nem o resultado de uma sessão. Perspetiva analítica: chama a uma regra característica distintiva apenas quando a ajuda atual a confirma claramente. Uma observação concreta é útil; uma afirmação sobre resultados futuros não é. O artigo deve explicar a mecânica, não decidir pelo leitor.
+## Rodadas grátis e Golden Fruit Scatter
 
-### Jogo base e lógica de prémios
+Três ou mais Scatters ativam a funcionalidade de rodadas grátis. A Pragmatic Play indica dez rodadas grátis como prémio inicial. Durante o bónus, os símbolos vencedores podem ter multiplicadores de 2× ou 4×. Quando vários símbolos de um grupo vencedor têm multiplicadores, o seu efeito combinado pode atingir o limite de 256× indicado pelo fornecedor.
 
-A ronda base é o ponto de partida para compreender as funcionalidades. Confirma quais os símbolos relevantes, que combinações são exigidas e se os prémios dependem de linhas, grupos ou outra regra descrita na versão atual. Os detalhes devem vir da tabela de pagamentos do próprio jogo, não de publicidade ou de títulos com nomes semelhantes. Perspetiva de usabilidade: o leitor deve encontrar facilmente a aposta, o saldo, as regras e os controlos para parar. Descreve o que a interface mostra realmente. Conforto, ritmo e animações são critérios válidos, mas não devem ser confundidos com a probabilidade de ganhar.
+Golden Fruit Scatter tem, por isso, um papel diferente dos símbolos normais de prémio: ativa o bónus e determina quando as rodadas grátis podem ser novamente atribuídas. A página alemã do produto indica que mais 3 a 7 Scatters podem reativar a função com 10 a 14 rodadas grátis adicionais.
 
-### Funcionalidades e gatilhos
+## O que os multiplicadores não garantem
 
-A descrição de uma funcionalidade só é útil se explicar claramente as condições. Confirma que símbolos ou eventos iniciam uma ronda especial e que regras se aplicam depois. Para Fruit Party, a fonte principal é a ajuda integrada; títulos relacionados podem ter gatilhos, pagamentos ou restrições diferentes. Perspetiva matemática: resultados aleatórios não formam uma sequência que a paciência ou apostas maiores venham corrigir. Os giros anteriores não determinam o próximo resultado. Um texto responsável explica esse limite e não promete recuperar perdas de forma segura.
+Um símbolo de 2× ou 4× não significa automaticamente que a aposta seja duplicada. O multiplicador aplica-se ao grupo vencedor ou ao cálculo da combinação. O resultado depende dos símbolos que fazem parte de uma vitória válida e da forma como a versão ativa calcula o pagamento.
 
-### Volatilidade e variação
+Várias cascatas ou uma reativação também não garantem um prémio total específico. Os multiplicadores descrevem uma regra de cálculo, não a probabilidade de um resultado determinado.
 
-A indicação de volatilidade é, no máximo, uma orientação geral quando o fornecedor explica o seu significado. Não promete prémios pequenos frequentes nem grandes prémios raros. Uma amostra curta não reproduz de forma fiável a distribuição a longo prazo, pelo que uma sessão isolada não prova uma regra geral. Perspetiva de usabilidade: o leitor deve encontrar facilmente a aposta, o saldo, as regras e os controlos para parar. Descreve o que a interface mostra realmente. Conforto, ritmo e animações são critérios válidos, mas não devem ser confundidos com a probabilidade de ganhar.
+## O que verificar antes de jogar
 
-### Intervalo de apostas e orçamento
+Abre a ajuda e a tabela de pagamentos da versão carregada e confirma:
 
-O intervalo de apostas indicado na página deve ser comparado com a interface atual. Os limites podem variar com a moeda, o operador, o dispositivo ou a configuração. Define um orçamento e um limite de perdas antes de começar. Não aumentes a aposta para recuperar perdas; quando atingires o limite, termina a sessão. Perspetiva matemática: resultados aleatórios não formam uma sequência que a paciência ou apostas maiores venham corrigir. Os giros anteriores não determinam o próximo resultado. Um texto responsável explica esse limite e não promete recuperar perdas de forma segura.
+- como são formados os grupos vencedores na grelha 7×7;
+- como funcionam os símbolos com multiplicador de 2× no jogo base;
+- como vários multiplicadores são combinados até ao limite de 256×;
+- como três ou mais Scatters ativam as dez rodadas grátis;
+- como 3–7 Scatters adicionais reativam a função com 10–14 rodadas;
+- que RTP e limites de aposta se aplicam à tua versão.
 
-### Ritmo e usabilidade
+Confirma o nome completo: **Fruit Party**. **Fruit Party 2** é outro jogo, com regras próprias para Wild, multiplicadores e rodadas grátis. Não atribuas ao original as funcionalidades da sequela.
 
-O ritmo depende das animações, pausas, transições automáticas e facilidade de compreender as funcionalidades. Testa Fruit Party num ecrã pequeno e num computador quando ambas as versões estiverem disponíveis. Os controlos de aposta, o saldo e as explicações devem ser fáceis de encontrar e não ficar escondidos pelos efeitos visuais. Perspetiva analítica: chama a uma regra característica distintiva apenas quando a ajuda atual a confirma claramente. Uma observação concreta é útil; uma afirmação sobre resultados futuros não é. O artigo deve explicar a mecânica, não decidir pelo leitor.
+## Fontes e âmbito editorial
 
-### O que uma sessão de teste mostra
-
-### A nossa análise
-
-Fruit Party utiliza uma grelha 7×7 com grupos de símbolos: uma combinação vencedora pode ativar uma cascata e criar uma nova disposição. Os multiplicadores são importantes porque podem influenciar vitórias consecutivas na mesma jogada.
-
-
-
-
-
-
-
-
-
+A mecânica foi verificada em 2 de novembro de 2026 na página oficial do produto e no artigo de lançamento da Pragmatic Play: [Fruit Party – página do produto](https://www.pragmaticplay.com/en/games/fruit-party-slot/) e [Pragmatic Play gets summer started with Fruit Party](https://www.pragmaticplay.com/en/news/pragmatic-play-gets-summer-started-with-fruit-party/). A página atual descreve clusters, multiplicadores, Scatters e reativações; o artigo de lançamento explica a grelha 7×7 e as cascatas. Este perfil não afirma que tenha sido realizada uma sessão pessoal de teste e não substitui a ajuda da versão ativa.
 
 <div class="slot-profile-bonus-cta">
-  <p>Ver condições dos bónus</p>
-  <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>
+  <p>Compara as ofertas de bónus e as respetivas condições</p>
+  <a href="/pt/slots/#affiliate-title">Consultar condições dos bónus →</a>
 </div>
 
 ## Mais perfis de jogos

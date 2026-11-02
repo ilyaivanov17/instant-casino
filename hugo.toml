@@ -5,14 +5,17 @@ defaultContentLanguage = 'de'
 defaultContentLanguageInSubdir = false
 # Each language's Markdown lives in its own folder. German remains the root URL language.
 enableRobotsTXT = true
-[minify]
-  minifyOutput = true
+# These are top-level Hugo build settings. Keep them before any TOML table header.
 buildDrafts = false
 buildFuture = false
 buildExpired = false
 canonifyURLs = false
 enableGitInfo = false
+# Taxonomy and term archives are not part of the site's content model.
 disableKinds = ['taxonomy', 'term']
+
+[minify]
+  minifyOutput = true
 
 [languages]
   [languages.de]
@@ -85,7 +88,7 @@ disableKinds = ['taxonomy', 'term']
   about = '/images/guides/live-casino.webp'
   legal = '/images/guides/privacy-documents.webp'
   slot-features = '/images/slots/gates-of-olympus.jpg'
-  slot-strategy = '/images/slots/book-of-dead.webp'
+  slot-strategy = '/images/slots/book-of-dead.jpg'
   mega-fortune-progressive-jackpot = '/images/mega-fortune-editorial.webp'
 [imaging]
   resampleFilter = 'Lanczos'

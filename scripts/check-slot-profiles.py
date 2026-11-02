@@ -151,6 +151,21 @@ def main():
                     errors.append(f"{path.relative_to(ROOT)}: Starburst profile is missing its detailed localized sections")
                 if meta.get("article_review_status") != "editorial-review-pending":
                     errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+            if slug == "book-of-dead":
+                required_sources = (
+                    "https://www.playngo.com/post/book-of-dead-walkthrough",
+                    "https://www.playngo.com/post/a-complete-guide-on-how-to-play-book-of-dead",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing primary source link {source_url}")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: Book of Dead profile is missing its localized mechanics sections")
+                for unsupported_value in ("96.21", "0.1–50 EUR"):
+                    if unsupported_value in body:
+                        errors.append(f"{path.relative_to(ROOT)}: unsupported/unverified Book of Dead value remains: {unsupported_value}")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
     expert_partial = ROOT / "layouts" / "partials" / "slot-profile-expert-analysis.html"
     if not expert_partial.exists():
         errors.append("Missing localized expert-analysis partial")

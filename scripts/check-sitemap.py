@@ -62,6 +62,8 @@ def main():
             u=urlparse(url)
             if any(part.casefold() in {'categories','tags'} for part in u.path.strip('/').split('/')):
                 fail(f'Taxonomy archive URL must not be published in the sitemap: {url}')
+            if 'editorial' in {part.casefold() for part in u.path.strip('/').split('/')}:
+                fail(f'Internal editorial settings section must not be published in the sitemap: {url}')
             if u.scheme!='https' or u.netloc.lower()!=baseurl.netloc.lower(): fail(f'Off-domain or non-HTTPS URL in sitemap: {url}')
             if url in all_pages: fail(f'Duplicate URL across child sitemaps: {url}')
             all_pages.add(url); total+=1

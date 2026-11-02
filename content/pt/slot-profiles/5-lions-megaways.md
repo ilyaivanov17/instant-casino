@@ -1,6 +1,6 @@
 ---
 title: "5 Lions Megaways – perfil do jogo"
-description: "5 Lions Megaways combina uma grelha Megaways 7×6, até 117 649 formas de ganhar, cascatas, Wilds do Leão Dourado e sete opções de rondas grátis."
+description: "5 Lions Megaways combina uma grelha Megaways 7×6, até 117 649 formas de ganhar, cascatas, Wilds do Leão Dourado e sete opções de rodadas grátis."
 seo_title: "5 Lions Megaways: mecânicas e rodadas grátis | Instant Casino"
 type: slots
 translationKey: "slot-profile-5-lions-megaways"

@@ -158,3 +158,36 @@ The current product page describes a 7×7 cluster-pays game. In the base game, e
 The prior RTP value of 96.47% and stake range of 0.2–100 EUR were removed from all six profiles because the current official product page consulted does not publish those settings. No substitute figures were invented. The article notes that the 2019 launch announcement described the original game as high-volatility, but directs readers to check the active version's own help for current configuration.
 
 The profiles explicitly distinguish original Fruit Party from Fruit Party 2. The Japanese source page has been expanded from a short stub, and the Polish, Spanish and Portuguese pages have been rewritten to remove template-like language. The catalogue summaries now include cluster count, 2× multiplier behaviour, Scatter trigger and the 256× combined multiplier cap. Profile QA checks both official sources, content depth, absence of the old unsupported figures, and pending editorial status.
+
+
+## Content batch 7: The Dog House (original title)
+
+Expanded all six localized profiles:
+
+- `content/de/slot-profiles/the-dog-house.md`
+- `content/en/slot-profiles/the-dog-house.md`
+- `content/pl/slot-profiles/the-dog-house.md`
+- `content/es/slot-profiles/the-dog-house.md`
+- `content/pt/slot-profiles/the-dog-house.md`
+- `content/ja/slot-profiles/the-dog-house.md`
+
+Sources checked on 2026-11-02:
+
+1. [Pragmatic Play — The Dog House product page](https://www.pragmaticplay.com/en/games/the-dog-house-slot/): 5×3, 20 paylines, multiplier Wilds on reels 2, 3 and 4, Sticky Wilds during Free Spins.
+2. [Pragmatic Play — original launch announcement](https://www.pragmaticplay.com/en/news/pragmatic-play-launches-the-dog-house/), dated 2019-05-09: three Bonus Paw symbols activate Free Spins, the number of spins is randomly allocated, and the launch announcement mentioned wins of up to 6,750× the original stake.
+
+The page does not publish a current RTP, stake range or exact Wild multiplier values. None were invented. The 6,750× value is explicitly attributed to the 2019 launch announcement and is not presented as a typical result or guaranteed configuration. The profile distinguishes the original game from The Dog House Megaways, The Dog House Multihold, The Dog House Muttley Crew and The Dog House – Dog or Alive. All six pages retain `editorial-review-pending`.
+
+The catalogue card now includes the 5×3 / 20-line layout, randomly allocated Free Spins from three Bonus Paws and multiplier Wilds on reels 2–4. Profile QA checks both provider URLs, minimum localized content depth, the four edition distinctions and the pending editorial state.
+
+## Site-wide tools.cafe listing badge
+
+Added the exact supplied badge markup to `layouts/partials/footer.html`, above the footer copyright/legal row. Since this partial is shared by the base layout, the badge appears across the site's public page routes and all six languages.
+
+The URL, image source, target, rel value, alt text and dimensions are preserved exactly:
+- `https://tools.cafe/p/instant-slot-reviews`
+- `https://tools.cafe/b/light.svg`
+- `target="_blank"`, `rel="noopener"`
+- `alt="Listed on tools.cafe"`, `width="180"`, `height="54"`
+
+`tests/mobile-smoke.cjs` now checks that the link and image exist in the footer on inspected routes and that target, rel, alt and dimensions match the supplied markup. The check runs for home, section and localized catalogue routes at mobile viewport widths as part of the regular Playwright smoke test.

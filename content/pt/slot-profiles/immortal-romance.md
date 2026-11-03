@@ -72,6 +72,12 @@ Immortal Romance combina três camadas que devem ser separadas: o jogo base de 2
 - Games Global – anúncio de Immortal Romance II de 2024, utilizado para distinguir o original da sequela.
 - Consultado em 3 de novembro de 2026. RTP e valores de aposta não são generalizados porque as ajudas dos operadores indicam definições diferentes.
 
+### Source references
+
+- [Danske Spil – Immortal Romance classic Microgaming game help](https://help.danskespil.dk/en/casino-help/slots/mgsimmortalromancehtml)
+- [Mecca Games – Immortal Romance game rules and feature descriptions](https://www.meccagames.com/games/immortal-romance)
+- [Games Global – Immortal Romance II announcement (4 March 2024)](https://www.gamesglobal.com/Media/games_global_and_stormcraft_studios_reveal_the_highly_anticipated_release_of_Immortal_Romance_II)
+
 <div class="slot-profile-bonus-cta">
   <p>Compare condições de bónus e perfis de jogos</p>
   <a href="/pt/slots/#affiliate-title">Ver condições dos bónus →</a>

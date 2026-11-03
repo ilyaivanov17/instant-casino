@@ -140,7 +140,7 @@ En la cuadrícula 7×7, los grupos ganadores provocan cascadas. Los multiplicado
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-Chamber of Spins es el centro de Immortal Romance: sus personajes vampiros se asocian a distintos modos de giros gratis, cada uno con reglas propias.
+243 formas de ganar y Wild multiplicador; Wild Desire convierte hasta cinco rodillos en Wild. Chamber of Spins ofrece cuatro modos con 10, 15, 20 o 25 giros gratis.
 
 [Leer el perfil completo]({{< relref "slot-profiles/immortal-romance" >}})
 
@@ -212,7 +212,7 @@ Tres Scatter activan cinco giros gratis y los rodillos 2–4 forman un símbolo 
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-Cuatro niveles de jackpot progresivo acompañan al juego habitual de rodillos. Los giros gratis añaden una función de multiplicadores independiente.
+Cinco rodillos y 25 líneas: el Wild León duplica combinaciones completadas. Tres Scatter Mono dan 15 giros gratis con premios 3×; la ruleta ofrece cuatro jackpots.
 
 [Leer el perfil completo]({{< relref "slot-profiles/mega-moolah" >}})
 

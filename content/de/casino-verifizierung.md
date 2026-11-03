@@ -10,10 +10,12 @@ build:
   list: always
 slug: casino-verifizierung
 page_faq:
-  - q: Muss ich vor der ersten Auszahlung KYC abschließen?
-    a: Das hängt vom Anbieter und den geltenden Regeln ab. Eine Prüfung kann vor oder während der Bearbeitung verlangt werden.
-  - q: Sind Auszahlungen in wenigen Minuten garantiert?
-    a: Nein. Bearbeitung durch den Anbieter und anschließende Zahlungsabwicklung sind getrennte Schritte.
+  - q: "Muss jedes Casino dieselben Dokumente verlangen?"
+    a: "Nein. Umfang und Zeitpunkt der Prüfung unterscheiden sich je nach Anbieter, geltender Rechtslage und Einzelfall."
+  - q: "Ist KYC dasselbe wie ein Zahlungsnachweis?"
+    a: "Nicht unbedingt. Identität, Anschrift und die Berechtigung zur Nutzung eines Zahlungsmittels sind unterschiedliche Prüfpunkte."
+  - q: "Was kann ich tun, wenn die Prüfung zu lange dauert?"
+    a: "Bitte den offiziellen Support um den aktuellen Status, noch fehlende Angaben und eine Vorgangsreferenz. Sende Dokumente nicht wiederholt über unsichere Kanäle."
 ---
 
 KYC steht für „Know Your Customer“. Gemeint sind Prüfungen, mit denen ein Anbieter Identität, Alter oder bestimmte Zahlungsangaben nachvollziehen kann. Welche Prüfungen zulässig und erforderlich sind, hängt vom Land, dem Angebot und der konkreten Situation ab. Dieser Leitfaden ist eine allgemeine Orientierung und keine Rechtsberatung. Instant Casino führt selbst keine Spielerkonten oder Identitätsprüfungen.

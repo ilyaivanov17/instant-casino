@@ -140,7 +140,7 @@ Twin SpinのTwin Reel機能は複数のリールを連動させ、配置を変�
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-Immortal Romanceの中心はChamber of Spins。吸血鬼の登場人物に結びついた複数のフリースピンモードがあり、それぞれ異なるルールで進行します。
+243通りの配当と倍率Wildを搭載。Wild Desireで最大5リールがWildに。Chamber of Spinsには10、15、20、25回の4つのフリースピンモード。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/immortal-romance" >}})
 
@@ -212,7 +212,7 @@ Scatter3個で5回のフリースピンが始まり、2～4リールが巨大シ
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-通常のリールゲームとは別に4段階のプログレッシブジャックポットを搭載。フリースピンには独立した倍率機能もあります。
+5リール・25ペイライン。ライオンWildは完成した配当を2倍に。Monkey Scatter3個で3倍配当のフリースピン15回、別のホイールで4段階のジャックポットを抽選。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/mega-moolah" >}})
 

@@ -130,6 +130,30 @@ def main():
             "pt": ("Tomb", "Scatter", "Special Expanding Symbol"),
             "ja": ("Tomb", "Scatter", "Special Expanding Symbol"),
         },
+        "Buffalo King Megaways": {
+            "de": ("4/5/6", "12/17/22", "5×/20×/100×"),
+            "en": ("4/5/6", "12/17/22", "5×/20×/100×"),
+            "pl": ("4/5/6", "12/17/22", "5×/20×/100×"),
+            "es": ("4/5/6", "12/17/22", "5×/20×/100×"),
+            "pt": ("4/5/6", "12/17/22", "5×/20×/100×"),
+            "ja": ("4/5/6", "12/17/22", "5倍/20倍/100倍"),
+        },
+        "Dead or Alive 2": {
+            "de": ("Old Saloon", "High Noon", "Train Heist", "Sticky Wilds"),
+            "en": ("Old Saloon", "High Noon", "Train Heist", "Sticky Wilds"),
+            "pl": ("Old Saloon", "High Noon", "Train Heist", "Sticky Wilds"),
+            "es": ("Old Saloon", "High Noon", "Train Heist", "Sticky Wilds"),
+            "pt": ("Old Saloon", "High Noon", "Train Heist", "Sticky Wilds"),
+            "ja": ("Old Saloon", "High Noon", "Train Heist", "Sticky Wilds"),
+        },
+        "Hand of Anubis": {
+            "de": ("5×6", "Cluster Pays", "Soul Orbs"),
+            "en": ("5×6", "Cluster Pays", "Soul Orbs"),
+            "pl": ("5×6", "Cluster Pays", "Soul Orbs"),
+            "es": ("5×6", "Cluster Pays", "Soul Orbs"),
+            "pt": ("5×6", "Cluster Pays", "Soul Orbs"),
+            "ja": ("5×6", "Cluster Pays", "Soul Orbs"),
+        },
     }
     # Prevent accidental reuse of one card teaser for multiple games in any locale.
     seen_descriptions: dict[str, dict[str, str]] = {lang: {} for lang in LANGS}

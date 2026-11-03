@@ -13,7 +13,7 @@ build:
   list: always
 ---
 
-![Grafika Fire in the Hole 3 przedstawiająca krasnoluda, dynamit i zamarzniętą kopalnię](/images/slots/catalog-fire-in-the-hole-3.webp)
+![Grafika Fire in the Hole 3 przedstawiająca krasnoluda, dynamit i zamarzniętą kopalnię](https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png)
 
 Fire in the Hole 3 od Nolimit City rozgrywa się w skutej lodem kopalni. Pole gry może rozszerzać się w trakcie rundy: na początku aktywne są trzy rzędy, a kolejne zapadnięcia mogą otworzyć ich maksymalnie sześć. Nie jest to zwykła kaskada symboli. Wygrane, eksplozje xBomb, Wild Mining i xHole mogą uruchamiać następne zapadnięcia, a lód może skrywać dodatkowe funkcje ujawniane w trakcie gry.
 

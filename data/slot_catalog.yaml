@@ -1568,6 +1568,13 @@ games:
       es: "Money Cart · Shapeshifter · Absorber · Tommy Gun"
       pt: "Money Cart · Shapeshifter · Absorber · Tommy Gun"
       ja: "Money Cart · Shapeshifter · Absorber · Tommy Gun"
+    expert_insight:
+      de: "Shapeshifter wechselt seine Funktion, Absorber sammelt Multiplikatoren und Tommy Gun erhöht gezielt einen Symbolwert. Money Cart startet mit 3+ Bonus-Symbolen; Respins folgen dagegen auf einen Spin ohne Gewinn."
+      en: "Shapeshifter changes its feature role, Absorber gathers multipliers, and Tommy Gun boosts a targeted symbol value. Money Cart needs 3+ bonus symbols; Respins instead follow a spin with no win."
+      pl: "Shapeshifter zmienia funkcję, Absorber zbiera mnożniki, a Tommy Gun podnosi wartość wybranego rodzaju symbolu. Money Cart wymaga 3+ symboli bonusowych; Respins pojawiają się po spinie bez wygranej."
+      es: "Shapeshifter cambia de función, Absorber reúne multiplicadores y Tommy Gun aumenta el valor de un tipo de símbolo. Money Cart requiere 3+ símbolos bonus; Respins, en cambio, puede llegar tras un giro sin premio."
+      pt: "Shapeshifter muda de função, Absorber reúne multiplicadores e Tommy Gun aumenta o valor de um tipo de símbolo. Money Cart exige 3+ símbolos de bónus; os Respins podem surgir após uma jogada sem prémio."
+      ja: "Shapeshifterは機能を変え、Absorberは倍率を集約し、Tommy Gunは特定シンボルの価値を高めます。Money Cartはボーナスシンボル3個以上、Respinsは当たりなしのスピン後に発生します。"
     description:
       de: "Money Train 3 kombiniert die Money Cart Bonus Round mit Persistent Shapeshifter, Absorber und Tommy Gun. Respins können nach einem Spin ohne Gewinn starten."
       en: "Money Train 3 combines the Money Cart Bonus Round with Persistent Shapeshifter, Absorber and Tommy Gun. Respins can start after a spin with no win."
@@ -1638,6 +1645,13 @@ games:
       es: "Scatter Pays · Money Cart · símbolos especiales"
       pt: "Scatter Pays · Money Cart · símbolos especiais"
       ja: "Scatter Pays · Money Cart · 特殊シンボル"
+    expert_insight:
+      de: "Money Train 4 trennt Scatter Pays, Basis-Respins und den Money-Cart-Bonus. Arms Dealer wandelt Symbole um, Unlocker öffnet Reihen, Upgrader macht Symbole persistent und Reset füllt den Spin-Zähler auf."
+      en: "Money Train 4 separates Scatter Pays, base-game Respins and the Money Cart bonus. Arms Dealer converts symbols, Unlocker opens rows, Upgrader makes symbols persistent, and Reset refills the spin counter."
+      pl: "Money Train 4 rozdziela Scatter Pays, Respins w grze podstawowej i bonus Money Cart. Arms Dealer zmienia symbole, Unlocker otwiera rzędy, Upgrader utrwala symbole, a Reset odnawia licznik spinów."
+      es: "Money Train 4 separa Scatter Pays, Respins del juego base y el bonus Money Cart. Arms Dealer convierte símbolos, Unlocker abre filas, Upgrader los vuelve persistentes y Reset repone el contador de giros."
+      pt: "Money Train 4 separa Scatter Pays, Respins do jogo base e o bónus Money Cart. Arms Dealer converte símbolos, Unlocker abre linhas, Upgrader torna símbolos persistentes e Reset repõe o contador de jogadas."
+      ja: "Money Train 4はScatter Pays、基本ゲームのRespins、Money Cartボーナスを区別します。Arms Dealerはシンボルを変換し、Unlockerは列を開き、Upgraderはシンボルを固定化、Resetはスピン数を補充します。"
     description:
       de: "Scatter Pays und eine separate Respin-Funktion führen zur Money Cart Bonus Round. Arms Dealer, Unlocker, Upgrader und Reset verändern Symbole, Reihen und Spin-Zähler."
       en: "Scatter Pays and a separate Respin feature lead to Money Cart. Arms Dealer, Unlocker, Upgrader and Reset change feature symbols, rows or the spin counter."
@@ -1778,6 +1792,13 @@ games:
       es: "Clústeres · Cascadas · Multiplicadores Wild"
       pt: "Clusters · Cascatas · Multiplicadores Wild"
       ja: "クラスター · カスケード · Wild倍率"
+    expert_insight:
+      de: "Die 256×-Angabe betrifft addierte Wild-Multiplikatoren in Gewinnclustern des Basisspiels; bis zu 729× beschreibt dagegen ein einzelnes Wild in den Freispielen. Die Werte gehören zu unterschiedlichen Spielphasen."
+      en: "The 256× figure refers to Wild multipliers added across winning clusters in the base game; up to 729× describes an individual Wild in Free Spins. They apply to different game phases."
+      pl: "Wartość 256× dotyczy sumy mnożników Wild w wygrywających klastrach gry podstawowej; do 729× odnosi się natomiast do pojedynczego Wild w darmowych spinach. To różne fazy gry."
+      es: "La cifra de 256× suma multiplicadores Wild en clústeres ganadores del juego base; hasta 729× se refiere a un Wild individual en los giros gratis. Son reglas de fases distintas."
+      pt: "O valor de 256× soma multiplicadores Wild em clusters vencedores do jogo base; até 729× refere-se a um Wild individual nas rodadas grátis. São regras de fases diferentes."
+      ja: "256倍は基本ゲームの当たりクラスターでWild倍率を合算した値です。一方、729倍はフリースピン中の個別Wildの上限で、異なるゲーム段階のルールです。"
     description:
       de: "Fruit Party 2 verbindet Cluster-Gewinne und Kaskaden mit addierbaren Wild-Multiplikatoren bis 256×. Drei Scatter starten Freispiele mit eigenen Wild-Werten bis 729×."
       en: "Fruit Party 2 combines cluster wins and tumbles with base-game Wild multipliers that add up to 256x, plus free spins with individual Wilds up to 729x."
@@ -1848,6 +1869,13 @@ games:
       es: "Zeus y un magnífico templo en el Olimpo"
       pt: "Zeus e um magnífico templo no Olimpo"
       ja: "ゼウスとオリンポスの壮大な神殿"
+    expert_insight:
+      de: "Gewinne entstehen über 8–30 gleiche Symbole irgendwo im Feld, nicht auf festen Linien. Tumbles setzen den Spin fort; im Freispiele-Bonus wächst ein laufender Multiplikator nur, wenn ein Multiplikator-Symbol auf einem Gewinn-Spin landet."
+      en: "Wins come from 8–30 matching symbols anywhere, not fixed paylines. Tumbles extend a spin; in Free Spins, the running multiplier grows when a multiplier symbol lands on a winning spin."
+      pl: "Wygrane tworzy 8–30 takich samych symboli w dowolnym miejscu pola, bez stałych linii. Tumble kontynuują spin; w darmowych spinach mnożnik rośnie, gdy symbol mnożnika pojawi się przy wygranej."
+      es: "Se gana con 8–30 símbolos iguales en cualquier posición, sin líneas fijas. Los Tumbles prolongan el giro; en los giros gratis, el multiplicador acumulado aumenta cuando aparece en un giro con premio."
+      pt: "As vitórias surgem com 8–30 símbolos iguais em qualquer posição, sem linhas fixas. Os Tumbles prolongam a jogada; nas rodadas grátis, o multiplicador acumulado aumenta quando surge numa jogada vencedora."
+      ja: "固定ラインではなく、画面内の同一シンボル8～30個で勝利します。Tumbleが連続し、フリースピンでは倍率シンボルが当たりスピンに出た時だけ累積倍率が増えます。"
     description:
       de: "Gates of Olympus kombiniert Gewinne mit 8–30 Symbolen an beliebigen Positionen, sechs Kaskadenwalzen, Multiplikatoren bis 500× und 15 Freispielen ab vier Scattern."
       en: "Gates of Olympus combines pays-anywhere wins with 8–30 matching symbols, six tumbling reels, multipliers up to 500x and 15 free spins from four Scatters."

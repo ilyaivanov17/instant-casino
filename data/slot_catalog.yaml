@@ -433,6 +433,13 @@ games:
       es: "10 líneas · Wild expansivo · ambos sentidos"
       pt: "10 linhas · Wild expansivo · dois sentidos"
       ja: "10ライン · 拡張Wild · 両方向判定"
+    expert_insight:
+      de: "Die zehn Linien werden in beide Richtungen ausgewertet; „Win Both Ways“ sind keine zwanzig separaten Linien. Das sternförmige Expanding Wild füllt eine Walze und löst einen Respin aus, garantiert aber keinen Treffer."
+      en: "The ten paylines are evaluated in both directions; “Win Both Ways” does not mean twenty separate lines. The star-shaped Expanding Wild fills a reel and triggers a Respin, but neither guarantees a win."
+      pl: "Dziesięć linii jest rozliczanych w obu kierunkach; „Win Both Ways” nie oznacza dwudziestu osobnych linii. Gwiazdowy Expanding Wild wypełnia bęben i uruchamia Respin, ale nie gwarantuje wygranej."
+      es: "Las diez líneas se evalúan en ambas direcciones; «Win Both Ways» no significa veinte líneas distintas. El Expanding Wild en forma de estrella ocupa un rodillo y activa un Respin, pero no garantiza premio."
+      pt: "As dez linhas são avaliadas nos dois sentidos; «Win Both Ways» não significa vinte linhas diferentes. O Expanding Wild em forma de estrela ocupa um rolo e ativa um Respin, mas não garante prémio."
+      ja: "10本のペイラインは両方向で評価されます。「Win Both Ways」は20本の別ラインという意味ではありません。星形のExpanding Wildはリール全体に広がりRespinを発動しますが、当たりを保証しません。"
     description:
       de: "Starburst verbindet fünf Walzen und zehn Gewinnlinien mit einer Auswertung in beide Richtungen. Das expandierende Wild füllt eine Walze und löst einen Respin aus."
       en: "Starburst combines five reels and ten paylines evaluated in both directions. Its expanding Wild covers a reel and triggers a Respin."
@@ -503,6 +510,13 @@ games:
       es: "20 líneas · Wild con multiplicadores · Sticky Wild"
       pt: "20 linhas · Wild com multiplicadores · Sticky Wild"
       ja: "20ライン · 倍率Wild · Sticky Wild"
+    expert_insight:
+      de: "Multiplikator-Wilds erscheinen nur auf Walze 2–4. Drei Bonus Paws starten Freispiele mit zufällig vergebener Anzahl; Sticky Wilds bleiben während der Bonusrunde auf ihren Positionen."
+      en: "Multiplier Wilds appear only on reels 2–4. Three Bonus Paws trigger a randomly allocated number of Free Spins, and Sticky Wilds stay in place during the bonus round."
+      pl: "Wildy z mnożnikiem pojawiają się tylko na bębnach 2–4. Trzy symbole Bonus Paw uruchamiają losową liczbę darmowych spinów, a Sticky Wilds pozostają na miejscu w trakcie bonusu."
+      es: "Los Wild con multiplicador aparecen solo en los rodillos 2–4. Tres Bonus Paw activan una cantidad aleatoria de giros gratis y los Sticky Wilds permanecen en su posición durante el bonus."
+      pt: "Os Wild com multiplicador surgem apenas nos rolos 2–4. Três Bonus Paw ativam uma quantidade aleatória de rodadas grátis, e os Sticky Wilds mantêm a posição durante o bónus."
+      ja: "倍率付きWildは2～4リールにのみ出現します。Bonus Pawが3個で回数がランダムなフリースピンを開始し、ボーナス中はSticky Wildsが位置に残ります。"
     description:
       de: "5×3 mit 20 Linien. Drei Bonus-Pfoten starten eine zufällige Zahl an Freispielen; Wilds tragen Multiplikatoren auf Walzen 2–4 und bleiben im Bonus haften."
       en: "5×3 with 20 paylines. Three Bonus Paws start a random number of Free Spins; multiplier Wilds land on reels 2–4 and stay sticky in the bonus."
@@ -573,6 +587,13 @@ games:
       es: "Tomb Wild/Scatter · giros gratis · símbolos expansivos"
       pt: "Tomb Wild/Scatter · rodadas grátis · símbolos expansíveis"
       ja: "TombのWild／Scatter · フリースピン · 拡張シンボル"
+    expert_insight:
+      de: "Das Tomb-Symbol ist zugleich Wild und Scatter: Es hilft bei Gewinnkombinationen und löst ab drei Symbolen Freispiele aus. Das geprüfte Regel-PDF ergänzt ein zufällig gewähltes Special Expanding Symbol; Spin-Zahlen gelten nur für diese Version."
+      en: "The Tomb is both Wild and Scatter: it helps complete wins and triggers Free Spins from three symbols. The reviewed rules PDF adds a randomly selected Special Expanding Symbol; its spin counts apply only to that version."
+      pl: "Tomb pełni rolę Wild i Scatter: pomaga tworzyć wygrane, a od trzech symboli uruchamia darmowe spiny. Sprawdzony PDF zasad opisuje losowy Special Expanding Symbol; liczby spinów dotyczą tylko tej wersji."
+      es: "Tomb actúa como Wild y Scatter: ayuda a completar premios y activa giros gratis con tres símbolos. El PDF de reglas consultado añade un Special Expanding Symbol aleatorio; sus cantidades de giros solo corresponden a esa versión."
+      pt: "Tomb funciona como Wild e Scatter: ajuda a completar prémios e ativa rodadas grátis a partir de três símbolos. O PDF de regras consultado acrescenta um Special Expanding Symbol aleatório; as quantidades de rodadas aplicam-se apenas a essa versão."
+      ja: "TombはWildとScatterを兼ね、配当の補完と3個以上でのフリースピン開始を担います。確認したルールPDFではSpecial Expanding Symbolがランダム選択されますが、スピン数はその版に限られます。"
     description:
       de: "Tomb ist Wild und Scatter zugleich: Drei oder mehr Symbole starten Freispiele; Retrigger fügen weitere zufällige Expanding Symbols hinzu."
       en: "The Tomb is both Wild and Scatter: three or more trigger Free Spins, and retriggers add further randomly selected Expanding Symbols."

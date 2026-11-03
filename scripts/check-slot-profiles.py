@@ -374,8 +374,8 @@ def main():
             ),
             1900,
             {
-                "de": ("5 Walzen", "25 Gewinnlinien", "15 Freispiele", "verdreifacht", "Mini, Minor, Major und Mega"),
-                "en": ("five reels", "25 paylines", "15 Free Spins", "tripled", "Mini, Minor, Major and Mega"),
+                "de": ("Fünf Walzen", "25 Gewinnlinien", "15 Freispiele", "verdreifacht", "Mini, Minor, Major und Mega"),
+                "en": ("Five reels", "25 paylines", "15 Free Spins", "tripled", "Mini, Minor, Major and Mega"),
                 "pl": ("Pięć bębnów", "25 liniami", "15 spinów", "potrajane", "Mini, Minor, Major i Mega"),
                 "es": ("Cinco rodillos", "25 líneas", "15 giros", "triplican", "Mini, Minor, Major y Mega"),
                 "pt": ("Cinco rolos", "25 linhas", "15 rodadas", "triplicados", "Mini, Minor, Major e Mega"),
@@ -392,7 +392,7 @@ def main():
             {
                 "de": ("243 Gewinnwege", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
                 "en": ("243 ways", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
-                "pl": ("243 sposobów", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
+                "pl": ("243 stale aktywne sposoby", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
                 "es": ("243 formas", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
                 "pt": ("243 formas", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
                 "ja": ("243通り", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5倍", "6倍"),

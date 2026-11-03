@@ -445,3 +445,16 @@ Sources used and recorded in the source list:
 7. [Hacksaw Gaming — Wanted Dead or a Wild](https://www.hacksawgaming.com/games/wanted-dead-or-a-wild).
 
 The insight deliberately does not carry operator-specific RTP/stake figures into the cards. Existing URLs, art, authorship and pending editorial review are preserved.
+
+## Expert card batch 6: Thunderstruck II
+
+Completed the final catalogue entry with localized expert insight in all six languages.
+
+The card explains the Great Hall of Spins progression: Valkyrie is available on the first entry, Loki unlocks after five activations, Odin after ten and Thor after fifteen. It emphasizes that each chamber changes the bonus mechanic, not only the number of spins: x5 wins, Wild Magic, Wild Ravens and Rolling Reels.
+
+Sources checked:
+
+1. [Mecca Games — Thunderstruck II game rules](https://www.meccagames.com/games/thunderstruck-ii): 243 ways, Wild and Scatter rules, Wild Storm, Great Hall of Spins, chamber unlocks and each mode's feature.
+2. [Danske Spil — Thunderstruck II game help](https://help.danskespil.dk/en/casino-help/slots/mgsthunderstruck2html): confirms the five-reel/243-ways structure and gives detailed rules for Valkyrie, Loki, Odin and Thor.
+
+The profile remains editorial-review-pending. Version-specific bet configuration and the operator-specific RTP are not generalized into the expert card.

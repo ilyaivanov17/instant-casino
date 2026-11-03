@@ -6,7 +6,7 @@ type: slots
 translationKey: "slot-profile-buffalo-king-megaways"
 url: "/pt/slots/buffalo-king-megaways/"
 ogImage: "/images/slots/catalog-buffalo-king-megaways.webp"
-lastmod: "2026-11-02"
+lastmod: "2026-11-03"
 article_review_status: editorial-review-pending
 
 build:
@@ -26,6 +26,7 @@ Buffalo King Megaways, da Pragmatic Play, leva o tema da vida selvagem para um j
 | Rolos | seis rolos em cascata |
 | Sistema de prémios | Megaways |
 | Ativação do bónus | 4 a 6 símbolos de bónus |
+| Prémio conforme os símbolos | 4/5/6 símbolos: 12/17/22 rodadas grátis e 5x/20x/100x a aposta total |
 | Rodadas grátis indicadas pelo fornecedor | 12 a 22 |
 | Multiplicadores Wild durante a funcionalidade | 2x, 3x ou 5x |
 | Rodadas grátis adicionais | 3 ou mais símbolos de bónus durante a funcionalidade |
@@ -44,11 +45,15 @@ De acordo com a página atual do fornecedor, a saída de quatro a seis símbolos
 
 Durante as rodadas grátis, os símbolos Wild incluem multiplicadores de 2x, 3x ou 5x. A saída de três ou mais símbolos de bónus adicionais durante a funcionalidade pode atribuir mais cinco rodadas grátis. A página oficial descreve reativações repetidas sem um limite fixo. Consulta a ajuda do jogo aberto para confirmar se estas regras estão disponíveis na integração concreta do casino.
 
+O prémio exato depende do número de símbolos: quatro símbolos de bónus atribuem 12 rodadas grátis e 5x a aposta total; cinco, 17 rodadas e 20x; seis, 22 rodadas e 100x.
+
 ## Como interpretar os multiplicadores Wild
 
 Um símbolo Wild pode substituir símbolos normais e participar numa combinação vencedora. O seu multiplicador altera o valor de um prémio elegível de acordo com as regras da fase de jogo. O anúncio histórico do lançamento também descreve a acumulação dos valores dos multiplicadores em cascatas individuais. No ecrã do jogo, confirma quais os Wilds que participam numa combinação e que regra se aplica nessa etapa.
 
 A presença de um multiplicador visível não cria, por si só, um prémio. O valor de 5x também não indica a frequência com que aparece nem prevê o resultado de uma jogada futura.
+
+Durante as rodadas grátis, o multiplicador de cada Wild que participa numa combinação vencedora é acumulado no indicador de multiplicador da cascata. Quando surgem vários Wilds elegíveis na mesma sequência, os respetivos multiplicadores são multiplicados entre si, em vez de serem somados. No final da sequência, o multiplicador combinado é aplicado ao prémio total dessa cascata.
 
 ## O que deves verificar antes de jogar
 
@@ -69,6 +74,8 @@ Este perfil resume informação publicada pelo fornecedor e não afirma que tenh
 
 - [Pragmatic Play: Buffalo King Megaways – página do jogo](https://www.pragmaticplay.com/en/games/buffalo-king-megaways/)
 - [Pragmatic Play: anúncio de 29 de abril de 2021](https://www.pragmaticplay.com/en/news/pragmatic-play-revamps-a-classic-in-buffalo-king-megaways/)
+
+- [theScore Bet: Buffalo King Megaways – regras do jogo](https://thescorebethelp.zendesk.com/hc/en-us/articles/13873576906509-Buffalo-King-Megaways) (ajuda complementar de um operador para esclarecer o cálculo do multiplicador em cada cascata; não adotamos valores específicos de RTP ou apostas publicados pelo operador).
 
 <div class="slot-profile-bonus-cta">
   <p>Ver condições dos bónus</p>

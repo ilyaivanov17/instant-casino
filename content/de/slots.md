@@ -179,7 +179,7 @@ In der Hold-and-Respin-Runde zeigen Outlaw-Symbole verschiedene Rollen: Sie samm
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-Die erweiterte Hold-and-Respin-Runde setzt auf ein größeres Arsenal an Funktionssymbolen, die Werte sammeln, Symbole aufwerten und Multiplikatoren auslösen.
+Money Train 4 nutzt Scatter Pays und eine eigene Respin-Funktion. In der Money Cart Bonus Round stehen drei Spins und 20 mögliche Sonderzeichen im Mittelpunkt; Arms Dealer, Unlocker, Upgrader und Reset verändern den Ablauf.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/money-train-4" >}})
 
@@ -215,7 +215,7 @@ Süßigkeiten und Früchte zahlen als Symbolgruppen an beliebigen Rasterposition
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-Wolf Gold kombiniert klassische Gewinnlinien mit übergroßen Symbolen in Freispielen; eine separate Jackpot-Respin-Funktion folgt eigenen Regeln.
+Drei Scatter starten fünf Freispiele mit einem Riesensymbol auf Walzen 2–4. Sechs Money Symbols lösen Money Respins aus; wenn alle 15 Felder gefüllt sind, wird der Mega-Jackpot von 1.000× vergeben.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/wolf-gold" >}})
 

@@ -32,10 +32,6 @@
           <p class="author-card-bio">{{ .Params.bio }}</p>
           <div class="author-card-footer">
             <a class="author-profile-btn" href="{{ .RelPermalink }}">{{ partial "t.html" "author_profile" }} <span>→</span></a>
-            <div class="author-social-mini">
-              {{ with .Params.social.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="{{ partial "t.html" "social_linkedin" }}">in</a>{{ end }}
-              {{ with .Params.social.website }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="{{ partial "t.html" "social_website" }}">↗</a>{{ end }}
-            </div>
           </div>
         </div>
       </article>

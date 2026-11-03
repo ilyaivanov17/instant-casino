@@ -24,12 +24,6 @@
             <div class="author-focus-box"><strong>{{ partial "t.html" "editorial_focus" }}</strong><span>{{ $author.label }}</span><span>{{ partial "t.html" "author_focus_games" }}</span><span>{{ partial "t.html" "author_focus_bonuses" }}</span></div>
           </div>
           <aside class="author-contact-card author-contact-beautiful">
-            <div class="author-section-label">{{ partial "t.html" "public_profiles" }}</div>
-            <p class="text-slate-400 text-sm mt-2">{{ partial "t.html" "follow_author" }}</p>
-            <div class="social-row author-social-large">
-              {{ with $author.social.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="social-button"><span>in</span> {{ partial "t.html" "social_linkedin" }}</a>{{ end }}
-              {{ with $author.social.website }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="social-button"><span>↗</span> {{ partial "t.html" "social_website" }}</a>{{ end }}
-            </div>
             {{ $settings := (site.GetPage "/editorial/settings").Params }}<a href="{{ $settings.affiliate_link }}" target="_blank" rel="nofollow sponsored noopener" class="author-cta">{{ $settings.affiliate_cta }} <span>→</span></a>
           </aside>
         </div>

@@ -1,9 +1,7 @@
 (function () {
   'use strict';
 
-  // Keep editorial citations and ordinary outbound links pointed at their stated sources.
-  // Affiliate links must be marked explicitly in the page content/templates; never rewrite every
-  // external HTTP(S) URL to the bonus destination.
+  // Site policy: public navigation stays on this domain; the only outbound route is /go/bonus.
 
   var menuBtn = document.getElementById('mobile-menu-btn');
   var mobileMenu = document.getElementById('mobile-menu');

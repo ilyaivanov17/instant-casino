@@ -72,6 +72,12 @@ Immortal Romance łączy trzy elementy, które należy rozpatrywać osobno: grę
 - Games Global – zapowiedź Immortal Romance II z 2024 r., wykorzystana do odróżnienia oryginału od kontynuacji.
 - Sprawdzono 3 listopada 2026 r. RTP i stawki nie są uogólniane, ponieważ instrukcje operatorów podają różne ustawienia.
 
+### Source references
+
+- [Danske Spil – Immortal Romance classic Microgaming game help](https://help.danskespil.dk/en/casino-help/slots/mgsimmortalromancehtml)
+- [Mecca Games – Immortal Romance game rules and feature descriptions](https://www.meccagames.com/games/immortal-romance)
+- [Games Global – Immortal Romance II announcement (4 March 2024)](https://www.gamesglobal.com/Media/games_global_and_stormcraft_studios_reveal_the_highly_anticipated_release_of_Immortal_Romance_II)
+
 <div class="slot-profile-bonus-cta">
   <p>Porównaj warunki bonusów i profile gier</p>
   <a href="/pl/slots/#affiliate-title">Sprawdź warunki bonusów →</a>

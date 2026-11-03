@@ -49,6 +49,8 @@ def main():
         "Fruit Party": ("7×7", "256"),
         "Dead or Alive 2": ("Old Saloon", "High Noon Saloon", "Train Heist"),
         "Legacy of Dead": ("Tomb", "Wild", "Scatter"),
+        "Wolf Gold": ("Money Respin", "Scatter"),
+        "Money Train 4": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader"),
     }
     author_slugs = {
         "arthur-mustoe", "corey-levitan", "cristina-tudose", "dan-michalski",
@@ -334,6 +336,58 @@ def main():
                     errors.append(f"{path.relative_to(ROOT)}: unsupported RTP figure remains in Legacy of Dead profile")
                 if meta.get("article_review_status") != "editorial-review-pending":
                     errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+
+    # Keep the two newly expanded profiles tied to their primary provider sources and verified feature descriptions.
+    source_backed_profiles = {
+        "wolf-gold": (
+            ("https://www.pragmaticplay.com/en/games/wolf-gold-slot/",),
+            1800,
+            {
+                "de": ("Money Respin", "Mega-Jackpot", "1.000×", "15 Positionen"),
+                "en": ("Money Respin", "Mega Jackpot", "1,000×", "15 positions"),
+                "pl": ("Money Respin", "Mega Jackpot", "1000×", "15 pozycji"),
+                "es": ("Money Respin", "Mega Jackpot", "1.000×", "15 posiciones"),
+                "pt": ("Money Respin", "Mega Jackpot", "1.000×", "15 posições"),
+                "ja": ("Money Respin", "Mega Jackpot", "1,000倍", "15マス"),
+            },
+        ),
+        "money-train-4": (
+            (
+                "https://www.relax-gaming.com/products/casino/moneytrain4",
+                "https://www.relax-gaming.com/news/2023/09/relax-gamings-legendary-bandits-depart-the-station-for-their-last-stand-in-money-train-4",
+            ),
+            1800,
+            {
+                "de": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset", "150.000×"),
+                "en": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset", "150,000×"),
+                "pl": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset", "150 000×"),
+                "es": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset", "150.000×"),
+                "pt": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset", "150.000×"),
+                "ja": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset", "150,000倍"),
+            },
+        ),
+    }
+    for profile_slug, (required_sources, minimum_length, localized_terms) in source_backed_profiles.items():
+        for lang in LANGS:
+            path = ROOT / "content" / lang / "slot-profiles" / f"{profile_slug}.md"
+            if not path.exists():
+                errors.append(f"Missing source-backed profile {lang}/{profile_slug}")
+                continue
+            try:
+                meta, body = read_page(path)
+            except Exception as exc:
+                errors.append(str(exc))
+                continue
+            for source_url in required_sources:
+                if source_url not in body:
+                    errors.append(f"{path.relative_to(ROOT)}: missing official source {source_url}")
+            if len(body) < minimum_length:
+                errors.append(f"{path.relative_to(ROOT)}: source-backed profile is too short ({len(body)} < {minimum_length})")
+            for term in localized_terms[lang]:
+                if term not in body:
+                    errors.append(f"{path.relative_to(ROOT)}: missing checked feature/value {term!r}")
+            if meta.get("article_review_status") != "editorial-review-pending":
+                errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
 
     expert_partial = ROOT / "layouts" / "partials" / "slot-profile-expert-analysis.html"
     if not expert_partial.exists():

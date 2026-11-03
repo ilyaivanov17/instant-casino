@@ -61,6 +61,13 @@ The classic game has three distinct layers: the regular payline game with the do
 - Mecca Games – “Mega Moolah”: help text for the classic five-reel/25-payline game and jackpot wheel.
 - Checked 3 November 2026. Rules and settings may vary by operator integration.
 
+
+### Source references
+
+- [Games Global – Products and progressive jackpot portfolio](https://www.gamesglobal.com/Products)
+- [Mega Moolah – key symbols and classic Free Spins rules](https://www.megamoolah.com/news/what-are-the-key-symbols-i-need-to-know-on-the-mega-moolah-slot-539)
+- [Mecca Games – Mega Moolah classic game help](https://www.meccagames.com/games/mega-moolah)
+
 <div class="slot-profile-bonus-cta">
   <p>Compare bonus terms and game profiles</p>
   <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>

@@ -15,8 +15,10 @@
     {{ end }}
   {{ end }}
 {{ end }}
+{{ $authorPage := false }}
+{{ with $authorSlug }}{{ $authorPage = site.GetPage (printf "/authors/%s" .) }}{{ end }}
 {{ $authorURL := "" }}
-{{ with $authorSlug }}{{ $authorURL = printf "%sauthors/%s/" $.Site.LanguagePrefix . }}{{ end }}
+{{ with $authorPage }}{{ $authorURL = .RelPermalink }}{{ end }}
 {{ $byline := "Written by:" }}
 {{ if eq .Site.Language.Lang "de" }}{{ $byline = "Verfasst von:" }}
 {{ else if eq .Site.Language.Lang "es" }}{{ $byline = "Escrito por:" }}

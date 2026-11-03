@@ -61,6 +61,13 @@ RTP、ベット上限、現在のジャックポット金額は、すべての�
 - Mecca Games – “Mega Moolah”：クラシック版の5リール・25ラインとジャックポットホイールのゲームヘルプ。
 - 2026年11月3日確認。ルールや設定は運営会社のゲーム提供方式によって異なる場合があります。
 
+
+### Source references
+
+- [Games Global – Products and progressive jackpot portfolio](https://www.gamesglobal.com/Products)
+- [Mega Moolah – key symbols and classic Free Spins rules](https://www.megamoolah.com/news/what-are-the-key-symbols-i-need-to-know-on-the-mega-moolah-slot-539)
+- [Mecca Games – Mega Moolah classic game help](https://www.meccagames.com/games/mega-moolah)
+
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件とゲームプロフィールを比較</p>
   <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>

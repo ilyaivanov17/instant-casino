@@ -13,7 +13,7 @@ build:
   list: always
 ---
 
-![Fire in the Hole 3 mit einem Zwerg, Dynamit und einer vereisten Mine](/images/slots/catalog-fire-in-the-hole-3.webp)
+![Fire in the Hole 3 mit einem Zwerg, Dynamit und einer vereisten Mine](https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png)
 
 Fire in the Hole 3 von Nolimit City spielt in einer gefrorenen Mine. Das Spielfeld wächst im Verlauf einer Runde: Es beginnt mit drei aktiven Reihen und kann sich durch aufeinanderfolgende Einstürze auf sechs Reihen erweitern. Die Mechanik ist mehr als eine gewöhnliche Symbolkaskade. Gewinne, xBomb-Explosionen, Wild Mining und xHole können weitere Einstürze auslösen; zugleich werden zuvor verdeckte Funktionen im Eis freigelegt.
 

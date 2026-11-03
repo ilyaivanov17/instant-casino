@@ -43,7 +43,7 @@ Zasady gry wymieniają cztery zdarzenia, które mogą uruchomić kolejne zapadni
 
 xBomb Wild zastępuje zwykłe symbole, ale nie symbole Bonus. Podczas eksplozji usuwa sąsiednie symbole – z wyjątkiem Bonus – i zwiększa mnożnik wygranej dla następnego zapadnięcia o swoją wartość. Według dostawcy widoczne xBomb Wild eksplodują przed kolejnym zapadnięciem, chyba że zamiast tego uruchomi się Wild Mining.
 
-Wild Mining może aktywować się w grze podstawowej, gdy trzy do sześciu identycznych symboli ułoży się poziomo lub pionowo, ale nie utworzy wygrywającej kombinacji. Symbole wywołujące funkcję są usuwane, a na środkowych pozycjach układu pojawiają się symbole Wild. Trzy symbole tworzą jednego Wilda, cztery – dwa, pięć – trzy, a sześć – cztery Wildy. Funkcja może następnie spowodować kolejne zapadnięcie.
+Wild Mining może aktywować się w grze podstawowej, gdy trzy do sześciu identycznych symboli ułoży się poziomo lub pionowo, ale nie utworzy wygrywającej kombinacji. Jednocześnie nie może być aktywny symbol xHole ani xBomb Wild. Symbole wywołujące funkcję są usuwane, a na środkowych pozycjach układu pojawiają się symbole Wild. Trzy symbole tworzą jednego Wilda, cztery – dwa, pięć – trzy, a sześć – cztery Wildy. Funkcja może następnie spowodować kolejne zapadnięcie.
 
 ## xSplit, xHole i funkcje ukryte w lodzie
 

@@ -226,3 +226,26 @@ No personal playtest, operator-specific settings or guaranteed outcome is claime
 ### Automated safeguards
 
 The slot-profile validator now checks both official source links in all six Fire in the Hole 3 profiles, a minimum localized content depth, the presence of all seven named mechanics, and the pending editorial status. Existing catalogue validation continues to enforce unique localized card descriptions, SEO keyword coverage, author links and 45–180 character card summaries.
+
+
+
+## Content batch 9: Dead or Alive 2
+
+Reviewed and expanded all six localized profiles:
+
+- `content/de/slot-profiles/dead-or-alive-2.md`
+- `content/en/slot-profiles/dead-or-alive-2.md`
+- `content/pl/slot-profiles/dead-or-alive-2.md`
+- `content/es/slot-profiles/dead-or-alive-2.md`
+- `content/pt/slot-profiles/dead-or-alive-2.md`
+- `content/ja/slot-profiles/dead-or-alive-2.md`
+
+Sources checked on 2026-11-03:
+
+1. [NetEnt Game Sheet v1.2, dated 29 September 2020](https://cdn-sp.kertn.net/assets/cms/App_Data/20e8c524-e223-48de-9382-7401c87cd065/PDFs/GameRules/Netent/GamerulesEN/Dead_or_Alive_2_deadoralive2_not_mobile_Game_Sheet_default_en.pdf): five reels, three rows, nine fixed paylines; Scatter wins independent of paylines; the three Free Spins modes; Sticky Wild behaviour; High Noon x2/x3 multiplier combination; Train Heist meter and extra-spin rules. Pages 3–4 were visually checked.
+2. [NetEnt launch announcement, 24 April 2019](https://news.cision.com/netent/r/netent-heads-back-to-the-wild-west-with-dead-or-alive-2---the-sequel-to-one-its-most-iconic-games,c2795155): original volatility wording and three separate Free Spins modes.
+3. [Evolution product page](https://games.evolution.com/slots/dead-or-alive-2/): RTP 96.80%, High volatility classification, 2/3/4/5 Scatter instant prizes of 2x/4x/25x/2,500x, 12 initial Free Spins after the Scatter trigger, mode summaries and up to 100,000x potential in Train Heist.
+
+The Evolution page and the NetEnt Game Sheet differ in how they describe the Old Saloon +5 Free Spins trigger. That discrepancy is explicitly disclosed in each localized profile rather than collapsed into a single universal rule. Evolution labels volatility "High", while NetEnt's 2019 launch announcement uses "extreme volatility"; both source labels are retained with attribution.
+
+All six catalogue labels/descriptions now identify game mechanics rather than using image-scene wording. The Japanese profile receives additional Scatter payout, mode-choice, RTP/volatility and maximum-win explanations. Existing URLs, translation keys, imagery, Dominic Field byline assignment and `editorial-review-pending` status are preserved. Profile QA now checks primary sources, localized provider figures, mode coverage and Japanese content depth.

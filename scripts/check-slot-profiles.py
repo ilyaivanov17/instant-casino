@@ -47,6 +47,7 @@ def main():
         "Temple Tumble": ("Megaways", "6×6"),
         "Bigger Bass Bonanza": ("Fisherman Wild",),
         "Fruit Party": ("7×7", "256"),
+        "Dead or Alive 2": ("Old Saloon", "High Noon Saloon", "Train Heist"),
     }
     author_slugs = {
         "arthur-mustoe", "corey-levitan", "cristina-tudose", "dan-michalski",
@@ -277,6 +278,36 @@ def main():
                         errors.append(f"{path.relative_to(ROOT)}: missing checked Fire in the Hole 3 mechanic {mechanic!r}")
                 if meta.get("article_review_status") != "editorial-review-pending":
                     errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+            if slug == "dead-or-alive-2":
+                required_sources = (
+                    "https://cdn-sp.kertn.net/assets/cms/App_Data/20e8c524-e223-48de-9382-7401c87cd065/PDFs/GameRules/Netent/GamerulesEN/Dead_or_Alive_2_deadoralive2_not_mobile_Game_Sheet_default_en.pdf",
+                    "https://news.cision.com/netent/r/netent-heads-back-to-the-wild-west-with-dead-or-alive-2---the-sequel-to-one-its-most-iconic-games,c2795155",
+                    "https://games.evolution.com/slots/dead-or-alive-2/",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing Dead or Alive 2 primary source {source_url}")
+                minimum_lengths = {"de": 6800, "en": 6800, "pl": 6800, "es": 6800, "pt": 6800, "ja": 4700}
+                minimum_length = minimum_lengths[lang]
+                if len(body) < minimum_length:
+                    errors.append(f"{path.relative_to(ROOT)}: Dead or Alive 2 profile is too short ({len(body)} < {minimum_length})")
+                for feature in ("Old Saloon", "High Noon Saloon", "Train Heist"):
+                    if feature not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing Free Spins mode {feature}")
+                localized_values = {
+                    "de": ("96,80", "100.000", "2.500"),
+                    "en": ("96.80", "100,000", "2,500"),
+                    "pl": ("96,80", "100 000", "2500"),
+                    "es": ("96,80", "100.000", "2.500"),
+                    "pt": ("96,80", "100.000", "2.500"),
+                    "ja": ("96.80", "100,000", "2,500"),
+                }
+                for marker in localized_values[lang]:
+                    if marker not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing localized Dead or Alive 2 value {marker!r}")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+
     expert_partial = ROOT / "layouts" / "partials" / "slot-profile-expert-analysis.html"
     if not expert_partial.exists():
         errors.append("Missing localized expert-analysis partial")

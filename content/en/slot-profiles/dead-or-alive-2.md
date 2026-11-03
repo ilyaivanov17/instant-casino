@@ -1,12 +1,12 @@
 ---
 title: "Dead or Alive 2 – Slot profile"
-description: "Dead or Alive 2 offers three Wild West free-spins modes with Sticky Wilds, x2 wins and a rising multiplier meter."
+description: "Dead or Alive 2 pairs Scatter instant wins with three free-spins modes: Old Saloon, High Noon Saloon and Train Heist."
 seo_title: "Dead or Alive 2: the three free-spins modes explained | Instant Casino"
 type: slots
 translationKey: "slot-profile-dead-or-alive-2"
 url: "/en/slots/dead-or-alive-2/"
 ogImage: "/images/slots/catalog-dead-or-alive-2.webp"
-lastmod: "2026-11-02"
+lastmod: "2026-11-03"
 article_review_status: editorial-review-pending
 
 build:
@@ -30,7 +30,7 @@ Dead or Alive 2 by NetEnt is a Wild West slot with five reels, three rows and ni
 | Free spins | Old Saloon, High Noon Saloon or Train Heist |
 | Core mechanics | Sticky Wilds, x2 wins and a multiplier meter |
 
-The reel, line and Wild details come from NetEnt's Game Sheet, version 1.2 dated 29 September 2020. That document describes a specific game variant and does not guarantee that every operator integration uses the same settings. One operator help page lists twelve initial free spins for each mode in its version; check the version you have actually loaded.
+The reel, line and Wild details come from NetEnt's Game Sheet, version 1.2 dated 29 September 2020. That document describes a specific game variant and does not guarantee that every operator integration uses the same settings. Evolution's product page lists twelve initial Free Spins for its version; check this against the version you have actually loaded.
 
 ## Base game: paylines, Wilds and Scatters
 
@@ -38,13 +38,26 @@ The base game uses nine fixed paylines on a five-reel, three-row grid. Regular c
 
 Scatter wins are paid independently of paylines. A Scatter result therefore does not depend on also completing an active line. Check the symbol values in the paytable for the version you have opened, because the exact evaluation depends on its configuration.
 
+## Scatter instant wins and the Free Spins trigger
+
+Evolution describes Scatter prizes as instant wins paid independently of paylines. At least two Scatters award an instant prize. Three or more also activate the Free Spins feature: players choose one of three modes and receive 12 initial spins.
+
+| Scatters | Instant win listed by Evolution | Additional feature |
+|---|---:|---|
+| 2 | 2x the bet | — |
+| 3 | 4x the bet | Choice of three modes, 12 Free Spins |
+| 4 | 25x the bet | Choice of three modes, 12 Free Spins |
+| 5 | 2,500x the bet | Choice of three modes, 12 Free Spins |
+
+These figures are published on the linked Evolution product page. Check the paytable for the version actually loaded, as operator integrations and jurisdictions can differ.
+
 ## Three free-spins modes with different rules
 
 NetEnt describes three free-spins games to choose from: Old Saloon, High Noon Saloon and Train Heist. Their main difference is how Wilds remain on the reels and how multipliers are applied.
 
 ### Old Saloon: all wins are x2
 
-In Old Saloon, all wins during free spins are doubled. Wild symbols turn into Sticky Wilds and stay in their positions until the feature ends. Collecting at least one Sticky Wild on every reel awards five extra free spins. The central mechanic is the combination of held Wilds and a consistent x2 multiplier on wins.
+In Old Saloon, all wins during free spins are doubled. Wild symbols turn into Sticky Wilds and stay in their positions until the feature ends. NetEnt's Game Sheet v1.2 (29 September 2020) says five extra free spins are awarded after at least one Sticky Wild has been collected on every reel. Evolution's product page describes the trigger instead as two Sticky Wild symbols appearing on the reels. The descriptions are not identical, so check the exact threshold in the help for the version actually loaded. The core mechanic remains the combination of held Wilds and a consistent x2 multiplier on wins.
 
 ### High Noon Saloon: double and triple multiplier Wilds
 
@@ -54,7 +67,7 @@ Five extra free spins can be awarded after at least one Sticky Wild has been col
 
 ### Train Heist: a rising multiplier meter
 
-Train Heist uses a multiplier meter. Each Wild that lands anywhere on the reels increases the meter by one and awards an additional free spin. The meter starts at x1. When it reaches x16, five more free spins are awarded in addition to the spin already granted by the Wild. Further Wilds after x16 continue to increase the meter and award one extra spin each.
+Train Heist uses a multiplier meter. Each Wild that lands anywhere on the reels increases the meter by one and awards an additional free spin. Each Wild increases the multiplier meter by one step and awards an additional free spin. When the meter reaches x16, five more free spins are awarded in addition to the spin already granted by that Wild. Further Wilds after x16 continue to increase the meter and award one extra spin each. Further Wilds after x16 continue to increase the meter and award one extra spin each.
 
 Unlike Old Saloon and High Noon, the focus here is not on Sticky Wilds but on the running meter and the extra spins it can generate.
 
@@ -67,6 +80,12 @@ Unlike Old Saloon and High Noon, the focus here is not on Sticky Wilds but on th
 - **Scatters and Wilds:** Check the distinction between Scatter wins and paylines, plus the substitution rules for Wilds.
 - **Game version:** RTP, minimum and maximum stakes, and any changed bonus rules must come from the help for the version actually loaded. Figures from the 2020 Game Sheet are not automatically valid for every integration.
 
+## RTP, volatility and maximum-win context
+
+NetEnt's Game Sheet v1.2 and Evolution's product page both list an RTP of 96.80%. Evolution classifies the game as “High” volatility, while NetEnt's original 2019 announcement used the stronger phrase “extreme volatility”. The providers use different labels, so this profile does not assign its own volatility category.
+
+Evolution lists potential wins of up to 100,000x the original bet and associates that potential specifically with Train Heist. This is a published maximum, not a typical payout or a guarantee. RTP, available stakes and bonus rules can vary by game version, operator and jurisdiction.
+
 ## Assessment
 
 Dead or Alive 2 stands out because players can choose between three free-spins modes. Old Saloon makes wins easier to follow with an x2 multiplier, High Noon combines Sticky Wilds with multiple multiplier levels, and Train Heist builds a meter that awards additional spins. The useful point of comparison is therefore not just the number of free spins, but how each mode uses Wild symbols and multipliers.
@@ -76,8 +95,8 @@ This profile summarises information from NetEnt's Game Sheet version 1.2 and its
 ## Official information
 
 - [NetEnt: Dead or Alive 2 – Game Sheet, version 1.2 dated 29 September 2020](https://cdn-sp.kertn.net/assets/cms/App_Data/20e8c524-e223-48de-9382-7401c87cd065/PDFs/GameRules/Netent/GamerulesEN/Dead_or_Alive_2_deadoralive2_not_mobile_Game_Sheet_default_en.pdf)
-- [NetEnt: Dead or Alive 2 announcement, 24 April 2019](https://www.netent.com/en/wp-content/uploads/sites/2/2019/04/netent-netent-heads-back-to-the-wild-west-with-dead-or-alive-2-the-sequel-to-one-its-most-iconic-games-190424.pdf)
-- [Danske Spil: Dead or Alive 2 help – operator-specific free-spins information](https://help.danskespil.dk/en/casino-help/slots/netentdeadoralive2)
+- [NetEnt: Dead or Alive 2 launch announcement, 24 April 2019](https://news.cision.com/netent/r/netent-heads-back-to-the-wild-west-with-dead-or-alive-2---the-sequel-to-one-its-most-iconic-games,c2795155)
+- [Evolution: Dead or Alive 2 – product page with RTP, Scatter prizes and Free Spins modes](https://games.evolution.com/slots/dead-or-alive-2/)
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>

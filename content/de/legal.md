@@ -30,7 +30,7 @@ Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige R
 
 Instant Casino ist ein Informations- und Vergleichsportal zu Online-Casino-Themen. Diese Datenschutzhinweise beschreiben die typischen Datenverarbeitungen, die bei einem Besuch dieser Website und bei einer Nachricht an die Redaktion entstehen können. Die tatsächlichen technischen Abläufe hängen auch von der eingesetzten Hosting- und E-Mail-Infrastruktur ab.
 
-Für Datenschutzanfragen erreichst du die Instant Casino Redaktion unter [info@instant.com](mailto:info@instant.com) oder telefonisch unter [+49 10 111 0253](tel:+49101110253). Bitte übermittle nur die Informationen, die zur Bearbeitung deiner Anfrage erforderlich sind.
+Für Datenschutzanfragen erreichst du die Instant Casino Redaktion unter [info@instant.com](mailto:info@instant.com) oder telefonisch unter +49 10 111 0253. Bitte übermittle nur die Informationen, die zur Bearbeitung deiner Anfrage erforderlich sind.
 
 ## 2. Technische Zugriffsdaten
 
@@ -42,7 +42,7 @@ Wenn du per E-Mail Kontakt aufnimmst, werden deine Absenderadresse, der Nachrich
 
 ## 4. Cookie-Auswahl und lokale Speicherung
 
-Die Website enthält ein Einwilligungs-Banner. Die Auswahl wird im Browser unter dem lokalen Speicherschlüssel `cookie_preferences` gespeichert, damit die Auswahl bei späteren Besuchen berücksichtigt werden kann. In der Projektkonfiguration sind keine Google-Analytics-Skripte aktiviert. Der tatsächliche Live-Betrieb muss mit der veröffentlichten Cookie-Seite und der eingesetzten Serverkonfiguration übereinstimmen. Weitere Informationen stehen unter [Cookies](../cookies/).
+Die Website enthält ein Einwilligungs-Banner. Die Auswahl wird im Browser unter dem lokalen Speicherschlüssel `cookie_preferences` gespeichert, damit die Auswahl bei späteren Besuchen berücksichtigt werden kann. In der Projektkonfiguration sind keine Google-Analytics-Skripte aktiviert. Der tatsächliche Live-Betrieb muss mit der veröffentlichten Cookie-Seite und der eingesetzten Serverkonfiguration übereinstimmen. Weitere Informationen stehen unter [Cookies](#consent-and-cookies).
 
 ## 5. Externe Links und Affiliate-Verweise
 
@@ -72,6 +72,7 @@ Diese Hinweise können aktualisiert werden, wenn sich die Website, ihre Funktion
 
 ---
 
+<span id="consent-and-cookies"></span>
 ## Cookie-Hinweise — Instant Casino
 
 ## Notwendige Technologien
@@ -116,7 +117,7 @@ Du kannst Cookies meist im Browser löschen oder blockieren; dadurch funktionier
 **Instant Casino Redaktion**
 
 - E-Mail: [info@instant.com](mailto:info@instant.com)
-- Telefon: [+49 10 111 0253](tel:+49101110253)
+- Telefon: +49 10 111 0253
 
 Diese Seite gehört zu einem Informations- und Vergleichsportal über Online-Casino-Themen. Die genannten Kontaktdaten dienen redaktionellen Anliegen, Korrekturen, Quellenhinweisen und allgemeinen Anfragen.
 

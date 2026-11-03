@@ -56,12 +56,46 @@ def main():
         "arthur-mustoe", "corey-levitan", "cristina-tudose", "dan-michalski",
         "dominic-field", "jon-pill", "marco-ibarra",
     }
+    # Expert card copy is separate from the short mechanic labels and must exist in every locale.
+    expert_insight_terms = {
+        "5 Lions Megaways": {
+            "de": ("117.649", "sieben"),
+            "en": ("117,649", "seven"),
+            "pl": ("117 649", "siedem"),
+            "es": ("117.649", "siete"),
+            "pt": ("117 649", "sete"),
+            "ja": ("117,649", "7種類"),
+        },
+        "Le Bandit": {
+            "de": ("Golden Squares", "Rainbow", "fünf FS"),
+            "en": ("Golden Squares", "Rainbow", "five-FS"),
+            "pl": ("Golden Squares", "Rainbow", "5 symbolami FS"),
+            "es": ("Golden Squares", "Rainbow", "5 símbolos FS"),
+            "pt": ("Golden Squares", "Rainbow", "5 símbolos FS"),
+            "ja": ("Golden Squares", "Rainbow", "FSが5個"),
+        },
+    }
     # Prevent accidental reuse of one card teaser for multiple games in any locale.
     seen_descriptions: dict[str, dict[str, str]] = {lang: {} for lang in LANGS}
     for game in games:
         game_name = str(game.get("name", "")).strip()
         localized = game.get("description", {}) or {}
+        expert_insight = game.get("expert_insight", {}) or {}
         author = str(game.get("author", "")).strip()
+        if game_name in expert_insight_terms:
+            localized_labels = game.get("label", {}) or {}
+            for lang in LANGS:
+                insight = str(expert_insight.get(lang, "")).strip()
+                label = str(localized_labels.get(lang, "")).strip()
+                if len(insight) < 70 or len(insight) > 260:
+                    errors.append(f"{game_name}/{lang}: expert insight length must be 70–260 characters")
+                if not insight:
+                    errors.append(f"{game_name}/{lang}: missing expert insight")
+                if insight.casefold() == label.casefold():
+                    errors.append(f"{game_name}/{lang}: expert insight duplicates the feature label")
+                for term in expert_insight_terms[game_name][lang]:
+                    if term.casefold() not in insight.casefold():
+                        errors.append(f"{game_name}/{lang}: expert insight is missing {term!r}")
         if author not in author_slugs:
             errors.append(f"{game_name}: missing or unknown confirmed author {author!r}")
         keywords = game.get("keywords", {}) or {}
@@ -442,6 +476,10 @@ def main():
         errors.append("Head partial does not render localized SEO keywords")
     if "slot-game-card-author" not in card_layout:
         errors.append("Slot cards do not display author bylines")
+    if "expert_insight" not in card_layout or "slot-game-card-insight--expert" not in card_layout:
+        errors.append("Slot catalogue cards do not render localized expert insights")
+    if "expert_insight" not in expert_text or "slot-expert-analysis--expert" not in expert_text:
+        errors.append("Slot profile pages do not render source-based expert insight cards")
     if errors:
         print("ERROR: standalone slot-profile checks failed:")
         print("\n".join(f" - {item}" for item in errors))

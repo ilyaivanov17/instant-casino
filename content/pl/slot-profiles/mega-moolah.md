@@ -61,6 +61,13 @@ Klasyczna wersja ma trzy odrębne elementy: zwykłą grę liniową z Wildem Lwem
 - Mecca Games – „Mega Moolah”: instrukcja klasycznej wersji z pięcioma bębnami, 25 liniami i kołem jackpotowym.
 - Sprawdzono 3 listopada 2026 r. Zasady i ustawienia mogą się różnić w zależności od integracji operatora.
 
+
+### Source references
+
+- [Games Global – Products and progressive jackpot portfolio](https://www.gamesglobal.com/Products)
+- [Mega Moolah – key symbols and classic Free Spins rules](https://www.megamoolah.com/news/what-are-the-key-symbols-i-need-to-know-on-the-mega-moolah-slot-539)
+- [Mecca Games – Mega Moolah classic game help](https://www.meccagames.com/games/mega-moolah)
+
 <div class="slot-profile-bonus-cta">
   <p>Porównaj warunki bonusów i profile gier</p>
   <a href="/pl/slots/#affiliate-title">Sprawdź warunki bonusów →</a>

@@ -149,7 +149,7 @@ Auf dem 7×7-Raster lösen Gewinn-Cluster Kaskaden aus. Multiplikatoren sitzen a
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-Die Chamber of Spins ist das Herzstück von Immortal Romance: Mehrere Figuren stehen für unterschiedliche Freispiele-Modi. Jeder Modus bringt eigene Regeln in die Bonusrunde.
+243 Gewinnwege mit Wild-Multiplikator; Wild Desire verwandelt bis zu fünf Walzen. Chamber of Spins bietet vier Figuren-Modi mit 10, 15, 20 oder 25 Freispielen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/immortal-romance" >}})
 
@@ -221,7 +221,7 @@ Drei Scatter starten fünf Freispiele mit einem Riesensymbol auf Walzen 2–4. S
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-Vier progressive Jackpot-Stufen stehen neben dem regulären Walzenspiel. Freispiele bringen zusätzlich eine eigene Multiplikator-Funktion ins Spiel.
+Fünf Walzen, 25 Linien und ein 2×-Löwen-Wild. Drei Affen-Scatter starten 15 Freispiele mit 3×-Gewinnen; das Jackpot-Rad bietet vier progressive Stufen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/mega-moolah" >}})
 

@@ -114,6 +114,33 @@ async function inspectPage(page, path, expectedCards = null) {
     await page.close();
   }
 
+  // Editorial bylines must resolve to localized author profiles, never relative nested paths.
+  const bylineRoutes = [
+    ['/slots/starburst/', '/authors/arthur-mustoe/'],
+    ['/en/slots/starburst/', '/en/authors/arthur-mustoe/'],
+    ['/pl/slots/starburst/', '/pl/authors/arthur-mustoe/'],
+    ['/es/slots/starburst/', '/es/authors/arthur-mustoe/'],
+    ['/pt/slots/starburst/', '/pt/authors/arthur-mustoe/'],
+    ['/ja/slots/starburst/', '/ja/authors/arthur-mustoe/']
+  ];
+  for (const [path, expectedHref] of bylineRoutes) {
+    const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    const response = await page.goto(`http://127.0.0.1:4173${path}`, { waitUntil: 'networkidle' });
+    const href = await page.locator('.editorial-meta a[rel="author"]').getAttribute('href').catch(() => null);
+    const ok = response?.status() === 200 && href === expectedHref;
+    console.log(`${ok ? 'OK' : 'FAIL'} localized author byline ${path} href=${href} expected=${expectedHref}`);
+    if (!ok) failed = true;
+    await page.close();
+  }
+
+  const aboutPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+  await aboutPage.goto('http://127.0.0.1:4173/about/', { waitUntil: 'networkidle' });
+  const authorDirectoryHref = await aboutPage.getByRole('link', { name: 'Autorenverzeichnis' }).getAttribute('href').catch(() => null);
+  const aboutLinkOk = authorDirectoryHref === '/authors/' && !aboutPage.locator('a[href*="ZgotmplZ"]').count();
+  console.log(`${aboutLinkOk ? 'OK' : 'FAIL'} German author directory link href=${authorDirectoryHref}`);
+  if (!aboutLinkOk) failed = true;
+  await aboutPage.close();
+
   // Header direction behavior: verify the real on-screen position, not only its CSS class.
   async function readHeaderVisibility(page) {
     return page.locator('.lobby-header').evaluate(el => {

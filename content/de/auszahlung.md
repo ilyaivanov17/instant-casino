@@ -133,3 +133,11 @@ Glücksspiel ist keine Einnahmequelle und Auszahlungen sind kein sicherer oder p
 
 - [GGL: Amtliche Whitelist erlaubter Glücksspielanbieter](https://www.gluecksspiel-behoerde.de/de/fuer-spielende/uebersicht-erlaubter-anbieter-whitelist/) – Primärquelle zur Prüfung der Erlaubnis für den deutschen Markt.
 - Anbieterbedingungen und der eingeloggte Kassenbereich sind für konkrete Auszahlungsmethoden, Gebühren, Limits und Bearbeitungszeiten maßgeblich. Diese Angaben müssen vor einer Transaktion direkt beim jeweiligen Anbieter geprüft werden.
+
+## Weitere Ratgeber zu Auszahlungen
+
+Wenn du vor allem die erste Auszahlung planst, Dokumente einreichen musst oder eine Ablehnung erhalten hast, helfen diese spezialisierten Leitfäden weiter:
+
+- [Erste Auszahlung]({{< relref "erste-auszahlung" >}})
+- [KYC und Verifizierung]({{< relref "casino-verifizierung" >}})
+- [Abgelehnte Auszahlung]({{< relref "auszahlung-abgelehnt" >}})

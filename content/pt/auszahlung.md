@@ -103,3 +103,11 @@ O jogo não é uma fonte de rendimento e nenhum pagamento é garantido. Utilize 
 - [Depósitos e métodos de pagamento]({{< relref "payments" >}})
 - [Conta e verificação]({{< relref "account-help" >}})
 - [Condições dos bónus]({{< relref "bonuses" >}})
+
+## Mais guias sobre levantamentos
+
+Para questões específicas sobre o primeiro levantamento, a verificação de documentos ou um pedido recusado, consulta estes guias:
+
+- [Primeiro levantamento]({{< relref "erste-auszahlung" >}})
+- [KYC e verificação]({{< relref "casino-verifizierung" >}})
+- [Levantamentos recusados]({{< relref "auszahlung-abgelehnt" >}})

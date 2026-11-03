@@ -401,3 +401,23 @@ Sources already recorded in the corresponding source-based profiles:
 3. [Play'n GO — Legacy of Dead](https://www.playngo.com/games/legacy-of-dead) and [the specific PA/USD rules PDF](https://cms.rationalcdn.com/v3/assets/blteecf9626d9a38b03/blt898cf269cdcf0f68/6669ae43664d450e1620e1a6/Legacy_of_Dead.pdf).
 
 The card copy does not generalize the reviewed PDF's spin counts to every operator version and does not introduce unsupported volatility, universal RTP or stake claims. Existing URL, artwork, author attribution and pending editorial status are preserved.
+
+## Expert card batch 4: Immortal Romance, Sweet Bonanza, Wolf Gold, Mega Moolah and Gonzo's Quest
+
+Added five more localized expert takeaways in all six configured languages.
+
+- **Immortal Romance:** separates random base-game Wild Desire from the Scatter-triggered Chamber of Spins and notes that the Amber/Troy/Michael/Sarah modes unlock through the 1/5/10/15 entry progression.
+- **Sweet Bonanza:** clarifies that 8–12+ matching symbols can win anywhere on the 6×5 grid and that Free Spins multipliers from 2× to 100× are summed at the end of the full tumble sequence.
+- **Wolf Gold:** distinguishes the 3-Scatter/5-Free-Spins giant-symbol route from the six-Money-Symbol Money Respin route, including the respin reset and 15-position completion condition.
+- **Mega Moolah:** separates the Lion Wild's 2× line-win effect and 15 Free Spins with 3× wins from the independent progressive jackpot wheel and its four tiers.
+- **Gonzo's Quest:** explains that Avalanche chains belong to one paid spin, the base multiplier grows to x5 and resets when the chain ends, while Free Falls use a higher multiplier scale up to x15.
+
+Sources are linked from the corresponding existing English profiles:
+
+1. [Danske Spil — Immortal Romance game help](https://help.danskespil.dk/en/casino-help/slots/mgsimmortalromancehtml), [Mecca Games — Immortal Romance](https://www.meccagames.com/games/immortal-romance).
+2. [Pragmatic Play — Sweet Bonanza product page](https://www.pragmaticplay.com/en/games/sweet-bonanza-slot/) and [launch article](https://www.pragmaticplay.com/en/news/pragmatic-play-launches-sweet-bonanza/).
+3. [Pragmatic Play — Wolf Gold](https://www.pragmaticplay.com/en/games/wolf-gold-slot/).
+4. [Games Global — progressive jackpot portfolio](https://www.gamesglobal.com/Products), [Mega Moolah feature guide](https://www.megamoolah.com/news/what-are-the-key-symbols-i-need-to-know-on-the-mega-moolah-slot-539), and [Mecca Games — classic rules](https://www.meccagames.com/games/mega-moolah).
+5. [NetEnt — Gonzo's Quest](https://netent.com/games/gonzos-quest) and [Danske Spil — Gonzo's Quest game help](https://help.danskespil.dk/en/casino-help/slots/netentgonzosquesthtml).
+
+No universal RTP, volatility or stake claims are added to the expert cards. Operator-specific rules remain identified as version-dependent in the associated profiles.

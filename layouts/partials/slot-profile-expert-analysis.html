@@ -9,7 +9,8 @@
   {{- $name := .name -}}
   {{- $provider := .provider | default "the listed provider" -}}
   {{- $label := index .label $lang | default (index .label "en") -}}
-  {{- $expertInsight := index .expert_insight $lang | default "" -}}
+  {{- $expertInsight := "" -}}
+  {{- with .expert_insight -}}{{- $expertInsight = index . $lang | default "" -}}{{- end -}}
   {{- if $expertInsight -}}
 <section class="slot-expert-analysis slot-expert-analysis--expert mt-8" data-slot-expert-analysis aria-labelledby="slot-expert-analysis-title">
   <span class="slot-expert-analysis-kicker">{{ if eq $lang "de" }}EXPERTEN-EINORDNUNG{{ else if eq $lang "en" }}EXPERT TAKEAWAY{{ else if eq $lang "pl" }}WNIOSKI EKSPERCKIE{{ else if eq $lang "es" }}CLAVE EXPERTA{{ else if eq $lang "pt" }}LEITURA ESPECIALIZADA{{ else }}専門的な見方{{ end }}</span>

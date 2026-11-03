@@ -140,7 +140,7 @@ Na grelha 7×7, os clusters vencedores desencadeiam cascatas. Os multiplicadores
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-A Chamber of Spins é o centro de Immortal Romance: as personagens vampíricas estão ligadas a diferentes modos de rodadas grátis, cada um com regras próprias.
+243 formas de ganhar e Wild multiplicador; Wild Desire transforma até cinco rolos em Wild. Chamber of Spins oferece quatro modos com 10, 15, 20 ou 25 rodadas grátis.
 
 [Ler o perfil completo]({{< relref "slot-profiles/immortal-romance" >}})
 
@@ -212,7 +212,7 @@ Três Scatters iniciam cinco rodadas grátis e os rolos 2–4 formam um símbolo
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-Quatro níveis de jackpot progressivo coexistem com o jogo normal de rolos. As rodadas grátis acrescentam uma função de multiplicadores independente.
+Cinco rolos e 25 linhas: o Wild Leão duplica combinações completas. Três Scatters Macaco dão 15 rodadas grátis com prémios 3×; a roda inclui quatro jackpots.
 
 [Ler o perfil completo]({{< relref "slot-profiles/mega-moolah" >}})
 

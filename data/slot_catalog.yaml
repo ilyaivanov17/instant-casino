@@ -874,6 +874,13 @@ games:
       es: "Cascadas · Giros gratis · Multiplicadores Wild"
       pt: "Cascatas · Rodadas grátis · Multiplicadores Wild"
       ja: "カスケード · フリースピン · Wild倍率"
+    expert_insight:
+      de: "Die Bonus-Symbolzahl bestimmt das Paket: 4/5/6 Symbole geben 12/17/22 Freispiele und 5×/20×/100× Einsatz. In den Freispielen werden beitragende 2×-, 3×- und 5×-Wilds innerhalb einer Tumble-Sequenz miteinander multipliziert."
+      en: "The Bonus-symbol count sets the award: 4/5/6 symbols give 12/17/22 Free Spins and 5×/20×/100× the bet. In Free Spins, contributing 2×, 3× and 5× Wilds multiply together within a tumble sequence."
+      pl: "Liczba symboli bonusowych określa nagrodę: 4/5/6 symboli daje 12/17/22 darmowe spiny i 5×/20×/100× stawki. W bonusie mnożniki Wild 2×, 3× i 5× mnożą się w obrębie sekwencji kaskad."
+      es: "La cantidad de símbolos bonus determina el premio: 4/5/6 símbolos dan 12/17/22 giros gratis y 5×/20×/100× la apuesta. En el bonus, los Wild de 2×, 3× y 5× que participan se multiplican dentro de una secuencia de cascadas."
+      pt: "A quantidade de símbolos de bónus define o prémio: 4/5/6 símbolos dão 12/17/22 rodadas grátis e 5×/20×/100× a aposta. Nas rodadas grátis, os Wild de 2×, 3× e 5× que contribuem multiplicam-se numa sequência de cascatas."
+      ja: "ボーナスシンボル4/5/6個で12/17/22回のフリースピンと賭け額の5倍/20倍/100倍を獲得します。フリースピン中、配当に関与する2倍・3倍・5倍Wildはタンブル連鎖内で乗算されます。"
     description:
       de: "Sechs Kaskadenwalzen; 4/5/6 Bonus-Symbole vergeben 12/17/22 Freispiele plus 5×/20×/100× Einsatz. Wild-Multiplikatoren werden je Kaskade multipliziert."
       en: "Six tumbling reels; 4/5/6 Bonus symbols award 12/17/22 free spins plus 5x/20x/100x the stake. Wild multipliers combine within each tumble."
@@ -1014,6 +1021,13 @@ games:
       es: "9 líneas · 3 modos de giros gratis · multiplicadores Wild"
       pt: "9 linhas · 3 modos de rodadas grátis · multiplicadores Wild"
       ja: "9ライン · 3種フリースピン · Wild倍率"
+    expert_insight:
+      de: "Die drei Freispiele-Modi verändern die Wild-Regeln: Old Saloon verdoppelt Gewinne mit Sticky Wilds, High Noon bildet x2/x3-Multiplikator-Wilds auf einer Walze, Train Heist steigert einen Zähler durch jedes Wild."
+      en: "The three Free Spins modes change how Wilds work: Old Saloon doubles wins with Sticky Wilds, High Noon forms x2/x3 multiplier Wilds on one reel, and Train Heist advances a meter with each Wild."
+      pl: "Trzy tryby darmowych spinów zmieniają działanie Wild: Old Saloon podwaja wygrane dzięki Sticky Wilds, High Noon tworzy Wildy x2/x3 na jednym bębnie, a Train Heist zwiększa licznik za każdy Wild."
+      es: "Los tres modos de giros gratis cambian el papel de los Wild: Old Saloon duplica premios con Sticky Wilds, High Noon crea Wild multiplicadores x2/x3 en un rodillo y Train Heist hace avanzar un contador con cada Wild."
+      pt: "Os três modos de rodadas grátis mudam a função dos Wild: Old Saloon duplica prémios com Sticky Wilds, High Noon cria Wild multiplicadores x2/x3 no mesmo rolo e Train Heist avança um contador com cada Wild."
+      ja: "3種類のフリースピンはWildのルールが異なります。Old SaloonはSticky Wildで配当2倍、High Noonは同一リールにx2/x3倍率Wildを形成し、Train HeistはWildごとにメーターを進めます。"
     description:
       de: "9 feste Linien, Scatter-Sofortgewinne und drei Freispiele-Modi: Old Saloon, High Noon Saloon und Train Heist."
       en: "Nine fixed paylines, Scatter instant wins and three Free Spins modes: Old Saloon, High Noon Saloon and Train Heist."
@@ -1154,6 +1168,13 @@ games:
       es: "Cluster Pays 5×6 · Cascadas · Soul Orbs"
       pt: "Cluster Pays 5×6 · Cascatas · Soul Orbs"
       ja: "5×6 Cluster Pays · カスケード · Soul Orbs"
+    expert_insight:
+      de: "Hand of Anubis kombiniert 5×6-Cluster-Gewinne und Kaskaden mit Soul Orbs, die Multiplikatoren im Basis- und Bonusspiel aufbauen. Die genaue Sammel- und Auszahlungsfolge ist nicht vollständig veröffentlicht und muss in der geladenen Version geprüft werden."
+      en: "Hand of Anubis combines 5×6 Cluster Pays and cascades with Soul Orbs that build multipliers in both the base game and bonus. The full collection and payout sequence is not published; check the loaded version's help."
+      pl: "Hand of Anubis łączy układ 5×6, Cluster Pays i kaskady z Soul Orbs budującymi mnożniki w grze podstawowej i bonusie. Pełna kolejność zbierania i wypłaty nie została opisana; sprawdź pomoc uruchomionej wersji."
+      es: "Hand of Anubis combina una cuadrícula 5×6, Cluster Pays y cascadas con Soul Orbs que construyen multiplicadores en el juego base y el bonus. La secuencia completa de recogida y pago no está publicada; consulta la ayuda de la versión cargada."
+      pt: "Hand of Anubis combina uma grelha 5×6, Cluster Pays e cascatas com Soul Orbs que constroem multiplicadores no jogo base e no bónus. A sequência completa de recolha e pagamento não está publicada; consulte a ajuda da versão aberta."
+      ja: "Hand of Anubisは5×6のCluster Paysとカスケードに、基本ゲームとボーナスの両方で倍率を築くSoul Orbsを組み合わせます。収集・配当の詳細な手順は公開情報にないため、起動版のヘルプで確認してください。"
     description:
       de: "Hand of Anubis kombiniert Cluster Pays auf einem 5×6-Feld mit Kaskaden. Soul Orbs bauen laut Anbieter im Grundspiel und in der Bonusfunktion Multiplikatoren auf."
       en: "Hand of Anubis pairs a 5×6 Cluster Pays grid with cascades. According to the provider, Soul Orbs build multipliers in both the classic game and Bonus Feature."

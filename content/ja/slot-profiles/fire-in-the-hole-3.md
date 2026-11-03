@@ -13,7 +13,7 @@ build:
   list: always
 ---
 
-![ドワーフ、ダイナマイト、凍った鉱山を描いたFire in the Hole 3のゲームアート](/images/slots/catalog-fire-in-the-hole-3.webp)
+![ドワーフ、ダイナマイト、凍った鉱山を描いたFire in the Hole 3のゲームアート](https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png)
 
 Nolimit CityのFire in the Hole 3は、氷に閉ざされた鉱山が舞台のスロットです。ゲーム中にフィールドが広がる点が大きな特徴です。6本のリールは最初からすべての段が有効なわけではなく、開始時は3段が有効です。崩落が続くと段が追加され、最大6段まで拡張します。通常のカスケードとは異なり、配当の成立だけでなく、xBombの爆発、Wild Mining、xHoleも次の崩落につながることがあります。氷の中には、後から明らかになる機能も隠されています。
 

@@ -72,6 +72,12 @@ Immortal Romanceには、ロゴWildが配当を2倍にする243通りの基本�
 - Games Global – 2024年のImmortal Romance II発表。オリジナル版と続編を区別するために参照。
 - 2026年11月3日確認。運営会社のヘルプには異なる設定があるため、RTPや賭け金の数値は共通値として掲載していません。
 
+### Source references
+
+- [Danske Spil – Immortal Romance classic Microgaming game help](https://help.danskespil.dk/en/casino-help/slots/mgsimmortalromancehtml)
+- [Mecca Games – Immortal Romance game rules and feature descriptions](https://www.meccagames.com/games/immortal-romance)
+- [Games Global – Immortal Romance II announcement (4 March 2024)](https://www.gamesglobal.com/Media/games_global_and_stormcraft_studios_reveal_the_highly_anticipated_release_of_Immortal_Romance_II)
+
 <div class="slot-profile-bonus-cta">
   <p>ボーナス条件とゲームプロフィールを比較</p>
   <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>

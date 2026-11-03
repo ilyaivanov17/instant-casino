@@ -106,6 +106,30 @@ def main():
             "pt": ("8–30", "Tumbles", "rodadas grátis"),
             "ja": ("8～30", "Tumble", "フリースピン"),
         },
+        "Starburst": {
+            "de": ("Win Both Ways", "Expanding Wild", "Respin"),
+            "en": ("Win Both Ways", "Expanding Wild", "Respin"),
+            "pl": ("Win Both Ways", "Expanding Wild", "Respin"),
+            "es": ("Win Both Ways", "Expanding Wild", "Respin"),
+            "pt": ("Win Both Ways", "Expanding Wild", "Respin"),
+            "ja": ("Win Both Ways", "Expanding Wild", "Respin"),
+        },
+        "The Dog House": {
+            "de": ("Bonus Paws", "Sticky Wilds"),
+            "en": ("Bonus Paws", "Sticky Wilds"),
+            "pl": ("Bonus Paw", "Sticky Wilds"),
+            "es": ("Bonus Paw", "Sticky Wilds"),
+            "pt": ("Bonus Paw", "Sticky Wilds"),
+            "ja": ("Bonus Paw", "Sticky Wilds"),
+        },
+        "Legacy of Dead": {
+            "de": ("Tomb", "Scatter", "Special Expanding Symbol"),
+            "en": ("Tomb", "Scatter", "Special Expanding Symbol"),
+            "pl": ("Tomb", "Scatter", "Special Expanding Symbol"),
+            "es": ("Tomb", "Scatter", "Special Expanding Symbol"),
+            "pt": ("Tomb", "Scatter", "Special Expanding Symbol"),
+            "ja": ("Tomb", "Scatter", "Special Expanding Symbol"),
+        },
     }
     # Prevent accidental reuse of one card teaser for multiple games in any locale.
     seen_descriptions: dict[str, dict[str, str]] = {lang: {} for lang in LANGS}

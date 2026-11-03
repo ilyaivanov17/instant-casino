@@ -18,6 +18,7 @@ screenshots:
 screenshots_alt: 'Laptop mit Diagrammen neben gedruckten Unterlagen auf einem Bürotisch als Symbolbild zu Recht und Datenschutz'
 screenshots_caption: 'Symbolbild: Laptop mit Diagrammen und gedruckten Unterlagen; kein offizielles Dokument von Instant Casino.'
 screenshots_note: 'Redaktionelles Symbolbild zu Recht und Datenschutz; keine offiziellen Unterlagen oder Registerauszüge.'
+editor: dan-michalski
 ---
 ## Rechtliche Hinweise und Datenschutz
 

@@ -13,6 +13,7 @@ slug: responsible-gaming
 screenshots:
 - /images/guides/responsible-gaming.svg
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
+editor: dominic-field
 ---
 
 ## Glücksspiel: Grenzen setzen, Warnsignale erkennen, Hilfe finden

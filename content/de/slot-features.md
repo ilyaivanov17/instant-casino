@@ -19,6 +19,7 @@ slug: slot-features
 screenshots:
 - /images/guides/slot-features.svg
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
+editor: jon-pill
 ---
 ## Slot-Leitfaden: Themen, Volatilität und Vergleich
 

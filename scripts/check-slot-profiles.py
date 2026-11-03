@@ -61,13 +61,13 @@ def main():
         "5 Lions Megaways": {
             "de": ("117.649", "sieben"),
             "en": ("117,649", "seven"),
-            "pl": ("117 649", "siedem"),
+            "pl": ("117 649", "siedmiu"),
             "es": ("117.649", "siete"),
             "pt": ("117 649", "sete"),
             "ja": ("117,649", "7種類"),
         },
         "Le Bandit": {
-            "de": ("Golden Squares", "Rainbow", "fünf FS"),
+            "de": ("Golden Squares", "Rainbow", "Fünf-FS"),
             "en": ("Golden Squares", "Rainbow", "five-FS"),
             "pl": ("Golden Squares", "Rainbow", "5 symbolach FS"),
             "es": ("Golden Squares", "Rainbow", "5 símbolos FS"),

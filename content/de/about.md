@@ -59,7 +59,7 @@ Instant Casino ist nicht der Betreiber der auf externen Websites angebotenen Gl�
 **Instant Casino Redaktion**
 
 - E-Mail: [info@instant.com](mailto:info@instant.com)
-- Telefon: [+49 10 111 0253](tel:+49101110253)
+- Telefon: +49 10 111 0253
 
 Nutze diese Kontaktwege für redaktionelle Korrekturen, Hinweise auf fehlerhafte Links, Fragen zu Quellen und geschäftliche Anfragen. Nenne möglichst die betroffene URL, die konkrete Textstelle und – wenn vorhanden – eine belastbare Quelle.
 

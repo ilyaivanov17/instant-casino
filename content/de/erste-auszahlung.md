@@ -10,10 +10,12 @@ build:
   list: always
 slug: erste-auszahlung
 page_faq:
-  - q: Muss ich vor der ersten Auszahlung KYC abschließen?
-    a: Das hängt vom Anbieter und den geltenden Regeln ab. Eine Prüfung kann vor oder während der Bearbeitung verlangt werden.
-  - q: Sind Auszahlungen in wenigen Minuten garantiert?
-    a: Nein. Bearbeitung durch den Anbieter und anschließende Zahlungsabwicklung sind getrennte Schritte.
+  - q: "Muss ich vor der ersten Auszahlung KYC abschließen?"
+    a: "Das hängt vom Anbieter und den geltenden Regeln ab. Eine Identitätsprüfung kann vor oder während der Bearbeitung verlangt werden."
+  - q: "Ist die erste Auszahlung immer langsamer?"
+    a: "Nein. Es gibt keine allgemeingültige Dauer. Die Prüfung durch den Anbieter und die anschließende Bank- oder Zahlungsabwicklung sind getrennte Schritte."
+  - q: "Kann ich eine andere Zahlungsmethode als bei der Einzahlung wählen?"
+    a: "Das hängt von den Bedingungen des Anbieters und den verfügbaren Optionen in deinem Konto ab."
 ---
 
 Die erste Auszahlung ist oft der Moment, in dem Kontodaten, Identität und Zahlungsweg erstmals gemeinsam geprüft werden. Das bedeutet nicht, dass jede erste Auszahlung verzögert wird oder dass überall dieselben Dokumente nötig sind. Die Anforderungen hängen vom Anbieter, dem Land, dem Zahlungsmittel und dem Einzelfall ab. Instant Casino ist ein Informationsangebot und verwaltet keine Spielerkonten oder Zahlungen.

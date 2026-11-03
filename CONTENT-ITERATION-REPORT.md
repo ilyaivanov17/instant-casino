@@ -277,3 +277,33 @@ The pages preserve existing URLs, translation keys, image paths, Dominic Field a
 
 The profile validator now checks the two source links, minimum localized depth, source-specific Free Spins details, disclosure of the differing payout units, absence of the unsupported 96.58% RTP figure and pending editorial status.
 
+
+
+## Content batch 11: Wolf Gold
+
+Expanded the existing Wolf Gold profile in all six locales and aligned the catalogue summaries:
+
+- `content/{de,en,pl,es,pt,ja}/slot-profiles/wolf-gold.md`
+- `data/slot_catalog.yaml`
+
+Official source checked on 2026-11-03:
+
+1. [Pragmatic Play — Wolf Gold](https://www.pragmaticplay.com/en/games/wolf-gold-slot/): three Scatter symbols trigger five Free Spins; reels 2–4 combine into one giant symbol; three more Scatters award three additional spins with no stated overall retrigger limit. Six or more Money Symbols trigger Money Respin with three respins; new Money Symbols reset the counter to three; all visible values are collected at the end. Filling all 15 positions awards the 1,000× Mega Jackpot. Money Respin can also be triggered during Free Spins.
+
+The six localized profiles distinguish the Free Spins route from Money Respin, explain the 15-position completion condition, and avoid adding unsupported RTP or stake-range values. The provider's 100× Money Symbol value and jackpot descriptions are attributed to its product page; no extra jackpot tiers or operator settings are inferred. Existing URLs, artwork, author attribution and `editorial-review-pending` status are preserved.
+
+## Content batch 12: Money Train 4
+
+Expanded the existing Money Train 4 profile in all six locales and updated the catalogue descriptions:
+
+- `content/{de,en,pl,es,pt,ja}/slot-profiles/money-train-4.md`
+- `data/slot_catalog.yaml`
+
+Official Relax Gaming sources checked on 2026-11-03:
+
+1. [Relax Gaming — Money Train 4 product page](https://www.relax-gaming.com/products/casino/moneytrain4): identifies the game as a Scatter Pays video slot, lists 20+ features and a provider-published maximum win of 150,000×, and describes Arms Dealer, Upgrader, Unlocker and Reset.
+2. [Relax Gaming — Money Train 4 launch announcement, 20 September 2023](https://www.relax-gaming.com/news/2023/09/relax-gamings-legendary-bandits-depart-the-station-for-their-last-stand-in-money-train-4): describes the base-game Respin feature, sticky symbols and possible multipliers, the separate Money Cart Bonus Round with three spins and 20 possible special symbols, and the Arms Dealer, Unlocker and Upgrader roles. It also notes that direct bonus access is market-dependent and starts with one guaranteed persistent symbol where available.
+
+The rewrite corrects the earlier broad Hold-and-Respin description by distinguishing the Scatter Pays game, base-game Respin and separate Money Cart bonus. The 150,000× figure is clearly attributed as a provider-published cap, not a typical outcome. No universal RTP or stake range is invented. Existing URLs, artwork, Jon Pill attribution and `editorial-review-pending` status are preserved.
+
+Both batches include source checks in `scripts/check-slot-profiles.py`; the validator now enforces the provider source references, localized mechanics, profile depth and pending editorial status.

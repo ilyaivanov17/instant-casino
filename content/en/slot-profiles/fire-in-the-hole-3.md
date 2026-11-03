@@ -13,7 +13,7 @@ build:
   list: always
 ---
 
-![Fire in the Hole 3 artwork with a dwarf, dynamite and a frozen mine](/images/slots/catalog-fire-in-the-hole-3.webp)
+![Fire in the Hole 3 artwork with a dwarf, dynamite and a frozen mine](https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png)
 
 Fire in the Hole 3 by Nolimit City is set in a frozen mine. Its playfield expands during a round: it begins with three active rows and can open up to six rows through successive collapses. This is more than a conventional symbol cascade. Wins, xBomb explosions, Wild Mining and xHole can trigger further collapses, while features buried in ice may be revealed as the round develops.
 

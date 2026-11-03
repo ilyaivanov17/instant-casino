@@ -10,10 +10,12 @@ build:
   list: always
 slug: casino-withdrawal-declined
 page_faq:
-  - q: Must KYC be completed before the first withdrawal?
-    a: It depends on the operator and applicable rules. Verification may be requested before or during processing.
-  - q: Are withdrawals guaranteed within minutes?
-    a: No. Operator review and subsequent payment processing are separate stages.
+  - q: "Does “declined” mean the balance is lost?"
+    a: "Not automatically. The status and consequences depend on the account terms. Ask for a written explanation of what happens to the amount."
+  - q: "Can I submit a new request immediately?"
+    a: "Only after support confirms that the original request is closed and explains the conditions for a new one."
+  - q: "What if the operator does not respond?"
+    a: "Keep records of the communication and check the relevant regulator or complaint body in your jurisdiction. First verify whether the operator is authorized there."
 ---
 
 A declined withdrawal can have several possible causes. These may include incomplete account details, an unsupported payment method, outstanding verification, limits or bonus conditions. The exact reason and appropriate next steps depend on the operator and applicable rules. Instant Casino is an information website; it does not manage player accounts or process payments.

@@ -10,10 +10,12 @@ build:
   list: always
 slug: odrzucona-wyplata-z-kasyna
 page_faq:
-  - q: Czy przed pierwszą wypłatą trzeba przejść KYC?
-    a: Zależy to od operatora i obowiązujących zasad. Weryfikacja może być wymagana przed wypłatą lub w trakcie obsługi.
-  - q: Czy wypłata w kilka minut jest gwarantowana?
-    a: Nie. Kontrola operatora i późniejsze przetwarzanie płatności to osobne etapy.
+  - q: "Czy status „odrzucona” oznacza utratę salda?"
+    a: "Nie automatycznie. Status i skutki zależą od warunków konta. Poproś o pisemne wyjaśnienie, co dzieje się z kwotą."
+  - q: "Czy mogę od razu złożyć nowy wniosek?"
+    a: "Dopiero gdy pomoc potwierdzi zamknięcie poprzedniego i wyjaśni zasady nowego wniosku."
+  - q: "Co zrobić, jeśli operator nie odpowiada?"
+    a: "Zachowaj historię kontaktu i sprawdź właściwy organ nadzoru lub instytucję skargową w swoim kraju. Najpierw zweryfikuj, czy operator ma tam zezwolenie."
 ---
 
 Odrzucenie wypłaty może mieć różne przyczyny. Może chodzić o niepełne dane, nieobsługiwaną metodę płatności, niewykonaną weryfikację, limity lub warunki bonusu. Dokładne uzasadnienie i dalsze kroki zależą od operatora oraz obowiązujących zasad. Instant Casino jest serwisem informacyjnym i nie obsługuje kont graczy ani płatności.

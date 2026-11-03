@@ -10,10 +10,12 @@ build:
   list: always
 slug: first-casino-withdrawal
 page_faq:
-  - q: Must KYC be completed before the first withdrawal?
-    a: It depends on the operator and applicable rules. Verification may be requested before or during processing.
-  - q: Are withdrawals guaranteed within minutes?
-    a: No. Operator review and subsequent payment processing are separate stages.
+  - q: "Must KYC be completed before the first withdrawal?"
+    a: "That depends on the operator and applicable rules. Verification may be requested before or during processing."
+  - q: "Is the first withdrawal always slower?"
+    a: "No universal timeframe applies. Operator review and subsequent bank or payment processing are separate stages."
+  - q: "Can I use a different method from the one used for deposit?"
+    a: "That depends on the operator's terms and the options available in your account."
 ---
 
 A first withdrawal may be the first time an operator checks account details, identity information and the payment route together. This does not mean every first payout is delayed or that every operator asks for the same documents. Requirements depend on the operator, jurisdiction, payment method and individual circumstances. Instant Casino is an information website; it does not hold player accounts or process payments.

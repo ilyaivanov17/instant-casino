@@ -10,10 +10,12 @@ build:
   list: always
 slug: pierwsza-wyplata-z-kasyna
 page_faq:
-  - q: Czy przed pierwszą wypłatą trzeba przejść KYC?
-    a: Zależy to od operatora i obowiązujących zasad. Weryfikacja może być wymagana przed wypłatą lub w trakcie obsługi.
-  - q: Czy wypłata w kilka minut jest gwarantowana?
-    a: Nie. Kontrola operatora i późniejsze przetwarzanie płatności to osobne etapy.
+  - q: "Czy przed pierwszą wypłatą trzeba przejść KYC?"
+    a: "Zależy to od operatora i obowiązujących zasad. Weryfikacja może być wymagana przed wypłatą lub w trakcie jej obsługi."
+  - q: "Czy pierwsza wypłata zawsze trwa dłużej?"
+    a: "Nie. Nie ma jednego terminu dla wszystkich. Kontrola operatora i późniejsze przetwarzanie przez bank lub dostawcę płatności to osobne etapy."
+  - q: "Czy mogę wybrać inną metodę niż przy wpłacie?"
+    a: "Zależy to od regulaminu i opcji dostępnych na koncie."
 ---
 
 Pierwsza wypłata może być momentem, w którym operator po raz pierwszy sprawdza łącznie dane konta, tożsamość i sposób płatności. Nie oznacza to, że każda pierwsza wypłata będzie opóźniona ani że wszyscy operatorzy wymagają tych samych dokumentów. Wymagania zależą od operatora, kraju, metody płatności i konkretnej sytuacji. Instant Casino jest serwisem informacyjnym i nie prowadzi kont graczy ani nie realizuje płatności.

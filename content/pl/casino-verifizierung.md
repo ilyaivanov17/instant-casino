@@ -10,10 +10,12 @@ build:
   list: always
 slug: weryfikacja-kyc-kasyno
 page_faq:
-  - q: Czy przed pierwszą wypłatą trzeba przejść KYC?
-    a: Zależy to od operatora i obowiązujących zasad. Weryfikacja może być wymagana przed wypłatą lub w trakcie obsługi.
-  - q: Czy wypłata w kilka minut jest gwarantowana?
-    a: Nie. Kontrola operatora i późniejsze przetwarzanie płatności to osobne etapy.
+  - q: "Czy każde kasyno wymaga tych samych dokumentów?"
+    a: "Nie. Zakres i termin zależą od operatora, lokalnych przepisów i sytuacji."
+  - q: "Czy KYC oznacza to samo co potwierdzenie płatności?"
+    a: "Nie zawsze. Tożsamość, adres i prawo do korzystania z metody płatności to odrębne kwestie."
+  - q: "Co zrobić, gdy weryfikacja trwa zbyt długo?"
+    a: "Poproś oficjalne wsparcie o status, brakujące informacje i numer sprawy. Nie przesyłaj dokumentów wielokrotnie przez niezabezpieczone kanały."
 ---
 
 KYC to skrót od „Know Your Customer”. Oznacza procedury, które operator może stosować w celu potwierdzenia tożsamości, wieku lub wybranych danych płatniczych. Zakres wymaganych kontroli zależy od kraju, usługi i konkretnej sytuacji. Ten poradnik ma charakter ogólny i nie stanowi porady prawnej. Instant Casino nie prowadzi kont graczy ani nie przeprowadza weryfikacji tożsamości.

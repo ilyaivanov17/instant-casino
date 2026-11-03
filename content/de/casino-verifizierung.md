@@ -11,11 +11,11 @@ build:
 slug: casino-verifizierung
 page_faq:
   - q: "Muss jedes Casino dieselben Dokumente verlangen?"
-    a: "Nein. Umfang und Zeitpunkt der Prüfung unterscheiden sich je nach Anbieter, geltender Rechtslage und Einzelfall."
+    a: "Nein. Umfang und Zeitpunkt unterscheiden sich nach Anbieter, Rechtslage und Einzelfall."
   - q: "Ist KYC dasselbe wie ein Zahlungsnachweis?"
-    a: "Nicht unbedingt. Identität, Anschrift und die Berechtigung zur Nutzung eines Zahlungsmittels sind unterschiedliche Prüfpunkte."
-  - q: "Was kann ich tun, wenn die Prüfung zu lange dauert?"
-    a: "Bitte den offiziellen Support um den aktuellen Status, noch fehlende Angaben und eine Vorgangsreferenz. Sende Dokumente nicht wiederholt über unsichere Kanäle."
+    a: "Nicht unbedingt. Identität, Anschrift und Berechtigung zur Nutzung eines Zahlungsmittels sind unterschiedliche Prüfpunkte."
+  - q: "Was tun, wenn die Prüfung ungewöhnlich lange dauert?"
+    a: "Bitte den offiziellen Support um den Status, fehlende Angaben und eine Referenz. Sende Dokumente nicht mehrfach über unsichere Kanäle."
 ---
 
 KYC steht für „Know Your Customer“. Gemeint sind Prüfungen, mit denen ein Anbieter Identität, Alter oder bestimmte Zahlungsangaben nachvollziehen kann. Welche Prüfungen zulässig und erforderlich sind, hängt vom Land, dem Angebot und der konkreten Situation ab. Dieser Leitfaden ist eine allgemeine Orientierung und keine Rechtsberatung. Instant Casino führt selbst keine Spielerkonten oder Identitätsprüfungen.

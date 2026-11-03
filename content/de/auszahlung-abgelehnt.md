@@ -10,10 +10,12 @@ build:
   list: always
 slug: auszahlung-abgelehnt
 page_faq:
-  - q: Muss ich vor der ersten Auszahlung KYC abschließen?
-    a: Das hängt vom Anbieter und den geltenden Regeln ab. Eine Prüfung kann vor oder während der Bearbeitung verlangt werden.
-  - q: Sind Auszahlungen in wenigen Minuten garantiert?
-    a: Nein. Bearbeitung durch den Anbieter und anschließende Zahlungsabwicklung sind getrennte Schritte.
+  - q: "Bedeutet „abgelehnt“, dass das Guthaben verloren ist?"
+    a: "Nicht automatisch. Der Status und die Folgen richten sich nach den Kontobedingungen. Lass dir schriftlich erklären, was mit dem Betrag passiert."
+  - q: "Kann ich sofort einen neuen Antrag stellen?"
+    a: "Erst nachdem der Support bestätigt hat, dass der ursprüngliche Antrag geschlossen ist und welche Bedingungen für einen neuen Antrag gelten."
+  - q: "Was, wenn der Anbieter nicht antwortet?"
+    a: "Dokumentiere die Kommunikation und informiere dich über die zuständige Aufsichts- oder Beschwerdestelle in deinem Land. Prüfe vorher, ob der konkrete Anbieter dort zugelassen ist."
 ---
 
 Eine abgelehnte Auszahlung kann unterschiedliche Ursachen haben. Möglich sind unvollständige Angaben, eine nicht unterstützte Zahlungsmethode, offene Verifizierungsanforderungen, Limits oder Bonusbedingungen. Die genaue Begründung und die zulässigen nächsten Schritte hängen vom Anbieter und den geltenden Regeln ab. Instant Casino ist ein Informationsangebot und bearbeitet keine Spielerkonten oder Zahlungen.

@@ -10,10 +10,12 @@ build:
   list: always
 slug: levantamento-casino-recusado
 page_faq:
-  - q: Tenho de concluir o KYC antes do primeiro levantamento?
-    a: Depende do operador e das regras aplicáveis. A verificação pode ser pedida antes ou durante o processamento.
-  - q: Os levantamentos em poucos minutos são garantidos?
-    a: Não. A análise do operador e o processamento posterior são fases distintas.
+  - q: "“Recusado” significa que perdi o saldo?"
+    a: "Não necessariamente. O estado e as consequências dependem das condições da conta. Pede uma explicação escrita sobre o montante."
+  - q: "Posso apresentar imediatamente um novo pedido?"
+    a: "Só depois de o apoio confirmar que o pedido original está encerrado e explicar as condições para um novo."
+  - q: "E se o operador não responder?"
+    a: "Guarda o histórico de contacto e consulta o regulador ou organismo de reclamações competente. Confirma primeiro se o operador está autorizado na tua jurisdição."
 ---
 
 Um levantamento recusado pode ter várias causas. Entre elas estão dados incompletos, um método de pagamento não aceite, verificações pendentes, limites ou condições de bónus. O motivo exato e os passos adequados dependem do operador e das regras aplicáveis. A Instant Casino é um site informativo: não gere contas de jogadores nem processa pagamentos.

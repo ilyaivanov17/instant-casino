@@ -10,10 +10,12 @@ build:
   list: always
 slug: primer-retiro-casino
 page_faq:
-  - q: ¿Tengo que completar el KYC antes del primer retiro?
-    a: Depende del operador y de las normas aplicables. La verificación puede solicitarse antes o durante la tramitación.
-  - q: ¿Se garantizan los retiros en pocos minutos?
-    a: No. La revisión del operador y el procesamiento posterior son fases distintas.
+  - q: "¿Tengo que completar el KYC antes del primer retiro?"
+    a: "Depende del operador y de las normas aplicables. La verificación puede solicitarse antes o durante la tramitación."
+  - q: "¿El primer retiro siempre tarda más?"
+    a: "No existe un plazo universal. La revisión del operador y el procesamiento posterior del banco o proveedor son fases distintas."
+  - q: "¿Puedo usar un método distinto al del depósito?"
+    a: "Depende de las condiciones del operador y de las opciones disponibles en tu cuenta."
 ---
 
 El primer retiro puede ser la primera ocasión en que el operador comprueba conjuntamente los datos de la cuenta, la identidad y el método de pago. Esto no significa que todos los primeros retiros sufran retrasos ni que todos los operadores pidan los mismos documentos. Los requisitos dependen del operador, el país, el método de pago y las circunstancias. Instant Casino es un sitio informativo: no gestiona cuentas de jugadores ni procesa pagos.

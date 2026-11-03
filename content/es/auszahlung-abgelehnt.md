@@ -10,10 +10,12 @@ build:
   list: always
 slug: retiro-casino-rechazado
 page_faq:
-  - q: ¿Tengo que completar el KYC antes del primer retiro?
-    a: Depende del operador y de las normas aplicables. La verificación puede solicitarse antes o durante la tramitación.
-  - q: ¿Se garantizan los retiros en pocos minutos?
-    a: No. La revisión del operador y el procesamiento posterior son fases distintas.
+  - q: "¿«Rechazado» significa que pierdo el saldo?"
+    a: "No necesariamente. El estado y sus consecuencias dependen de las condiciones de la cuenta. Pide una explicación por escrito sobre el importe."
+  - q: "¿Puedo presentar otra solicitud inmediatamente?"
+    a: "Solo después de que soporte confirme que la solicitud original está cerrada y explique las condiciones para una nueva."
+  - q: "¿Y si el operador no responde?"
+    a: "Conserva el historial de comunicaciones y consulta al regulador u organismo de reclamaciones de tu jurisdicción. Comprueba primero si el operador está autorizado allí."
 ---
 
 Un retiro rechazado puede tener varias causas. Entre ellas, datos incompletos, un método de pago no admitido, verificaciones pendientes, límites o condiciones de bonos. El motivo exacto y los pasos adecuados dependen del operador y de las normas aplicables. Instant Casino es un sitio informativo; no gestiona cuentas de jugadores ni procesa pagos.

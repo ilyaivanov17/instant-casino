@@ -10,10 +10,12 @@ build:
   list: always
 slug: verificacao-kyc-casino
 page_faq:
-  - q: Tenho de concluir o KYC antes do primeiro levantamento?
-    a: Depende do operador e das regras aplicáveis. A verificação pode ser pedida antes ou durante o processamento.
-  - q: Os levantamentos em poucos minutos são garantidos?
-    a: Não. A análise do operador e o processamento posterior são fases distintas.
+  - q: "Todos os casinos pedem os mesmos documentos?"
+    a: "Não. O âmbito e o momento variam consoante o operador, as regras locais e a situação."
+  - q: "KYC é o mesmo que comprovativo de pagamento?"
+    a: "Não necessariamente. Identidade, morada e direito de utilizar um método de pagamento são verificações diferentes."
+  - q: "O que fazer se a verificação demorar demasiado?"
+    a: "Pede ao apoio oficial o estado, a informação em falta e uma referência. Não envies documentos repetidamente por canais inseguros."
 ---
 
 KYC significa “Know Your Customer”. Refere-se às verificações que um operador pode utilizar para confirmar a identidade, a idade ou determinados dados de pagamento. As verificações exigidas ou permitidas dependem do país, do serviço e das circunstâncias. Este guia é informação geral, não aconselhamento jurídico. A Instant Casino não gere contas de jogadores nem realiza verificações de identidade.

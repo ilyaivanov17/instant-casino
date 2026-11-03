@@ -10,10 +10,12 @@ build:
   list: always
 slug: primeiro-levantamento-casino
 page_faq:
-  - q: Tenho de concluir o KYC antes do primeiro levantamento?
-    a: Depende do operador e das regras aplicáveis. A verificação pode ser pedida antes ou durante o processamento.
-  - q: Os levantamentos em poucos minutos são garantidos?
-    a: Não. A análise do operador e o processamento posterior são fases distintas.
+  - q: "Tenho de concluir o KYC antes do primeiro levantamento?"
+    a: "Depende do operador e das regras aplicáveis. A verificação pode ser pedida antes ou durante o processamento."
+  - q: "O primeiro levantamento demora sempre mais?"
+    a: "Não existe um prazo universal. A análise do operador e o processamento posterior pelo banco ou fornecedor são fases diferentes."
+  - q: "Posso usar um método diferente do depósito?"
+    a: "Depende dos termos do operador e das opções disponíveis na tua conta."
 ---
 
 O primeiro levantamento pode ser a primeira ocasião em que o operador verifica em conjunto os dados da conta, a identidade e o método de pagamento. Isto não significa que todos os primeiros levantamentos sofram atrasos ou que todos os operadores peçam os mesmos documentos. Os requisitos dependem do operador, do país, do método de pagamento e das circunstâncias. A Instant Casino é um site informativo: não gere contas de jogadores nem processa pagamentos.

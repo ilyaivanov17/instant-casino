@@ -10,10 +10,12 @@ build:
   list: always
 slug: casino-kyc-verification
 page_faq:
-  - q: Must KYC be completed before the first withdrawal?
-    a: It depends on the operator and applicable rules. Verification may be requested before or during processing.
-  - q: Are withdrawals guaranteed within minutes?
-    a: No. Operator review and subsequent payment processing are separate stages.
+  - q: "Does every casino request the same documents?"
+    a: "No. The scope and timing vary by operator, local rules and individual circumstances."
+  - q: "Is KYC the same as proof of payment?"
+    a: "Not necessarily. Identity, address and entitlement to use a payment method are separate checks."
+  - q: "What if verification takes unusually long?"
+    a: "Ask official support for the status, any missing information and a reference. Do not repeatedly send documents through insecure channels."
 ---
 
 KYC means “Know Your Customer”. It refers to checks an operator may use to establish identity, age or certain payment details. Which checks are required or permitted depends on the jurisdiction, the service and the individual circumstances. This guide is general information, not legal advice. Instant Casino does not operate player accounts or perform identity checks.

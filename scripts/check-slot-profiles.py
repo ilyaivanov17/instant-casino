@@ -250,6 +250,14 @@ def main():
             "pt": ("DuelReels", "VS", "Great Train Robbery"),
             "ja": ("DuelReels", "VS", "Great Train Robbery"),
         },
+        "Thunderstruck II": {
+            "de": ("Great Hall of Spins", "Valkyrie", "Loki", "Odin", "Thor", "Rolling Reels"),
+            "en": ("Great Hall of Spins", "Valkyrie", "Loki", "Odin", "Thor", "Rolling Reels"),
+            "pl": ("Great Hall of Spins", "Valkyrie", "Loki", "Odin", "Thor", "Rolling Reels"),
+            "es": ("Great Hall of Spins", "Valkyrie", "Loki", "Odin", "Thor", "Rolling Reels"),
+            "pt": ("Great Hall of Spins", "Valkyrie", "Loki", "Odin", "Thor", "Rolling Reels"),
+            "ja": ("Great Hall of Spins", "Valkyrie", "Loki", "Odin", "Thor", "Rolling Reels"),
+        },
     }
     # Prevent accidental reuse of one card teaser for multiple games in any locale.
     seen_descriptions: dict[str, dict[str, str]] = {lang: {} for lang in LANGS}

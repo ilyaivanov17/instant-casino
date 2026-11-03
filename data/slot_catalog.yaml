@@ -1315,6 +1315,13 @@ games:
       es: "243 formas · Wild Desire · Chamber of Spins"
       pt: "243 formas · Wild Desire · Chamber of Spins"
       ja: "243通り · Wild Desire · Chamber of Spins"
+    expert_insight:
+      de: "Wild Desire ist ein zufälliges Grundspiel-Feature; die Chamber of Spins startet dagegen über Scatter. Ihre vier Modi werden nach 1/5/10/15 Eintritten freigeschaltet und unterscheiden sich in Spin-Zahl und Zusatzfunktion."
+      en: "Wild Desire is a random base-game feature; the Scatter-triggered Chamber of Spins is separate. Its four modes unlock after 1/5/10/15 entries and differ in spin count and character feature."
+      pl: "Wild Desire to losowa funkcja gry podstawowej, a Chamber of Spins uruchamiają Scatter. Cztery tryby odblokowują się po 1/5/10/15 wejściach i różnią liczbą spinów oraz funkcją postaci."
+      es: "Wild Desire es una función aleatoria del juego base; Chamber of Spins se activa por Scatter. Sus cuatro modos se desbloquean tras 1/5/10/15 entradas y cambian la cantidad de giros y la función del personaje."
+      pt: "Wild Desire é uma função aleatória do jogo base; a Chamber of Spins é ativada por Scatter. Os quatro modos desbloqueiam-se após 1/5/10/15 entradas e diferem no número de rodadas e na função da personagem."
+      ja: "Wild Desireは基本ゲーム中のランダム機能で、Scatterで始まるChamber of Spinsとは別です。4つのモードは入室1/5/10/15回で解放され、回数とキャラクター機能が異なります。"
     description:
       de: "243 Gewinnwege mit Wild-Multiplikator; Wild Desire verwandelt bis zu fünf Walzen. Chamber of Spins bietet vier Figuren-Modi mit 10, 15, 20 oder 25 Freispielen."
       en: "243 ways to win with a Wild multiplier; Wild Desire turns up to five reels Wild. Chamber of Spins offers four character modes with 10, 15, 20 or 25 Free Spins."
@@ -1988,6 +1995,13 @@ games:
       es: "un explorador en busca de El Dorado"
       pt: "um explorador à procura de El Dorado"
       ja: "エルドラドを探す冒険家"
+    expert_insight:
+      de: "Avalanche-Ketten gehören zum selben bezahlten Spin: Jeder weitere Gewinn erhöht den Multiplikator bis x5, danach endet die Kette und der Zähler setzt zurück. Free Falls starten mit 10 Spins und reichen bis x15."
+      en: "Avalanche chains belong to the same paid spin: each further win raises the multiplier up to x5, then the chain ends and the meter resets. Free Falls start with 10 spins and reach up to x15."
+      pl: "Łańcuchy Avalanche należą do tego samego opłaconego spinu: każda kolejna wygrana zwiększa mnożnik do x5, po czym łańcuch się kończy i licznik resetuje. Free Falls dają 10 spinów i mnożnik do x15."
+      es: "Las cadenas Avalanche forman parte del mismo giro pagado: cada premio consecutivo aumenta el multiplicador hasta x5; después la cadena termina y el contador se reinicia. Free Falls otorga 10 giros y llega hasta x15."
+      pt: "As cadeias Avalanche fazem parte da mesma jogada paga: cada vitória consecutiva aumenta o multiplicador até x5; depois a cadeia termina e o contador reinicia. Free Falls atribui 10 rodadas e chega até x15."
+      ja: "Avalancheの連鎖は同じ有料スピン内で続き、連続当選で倍率が最大x5まで上がります。連鎖終了でリセット。Free Fallsは10回から始まり、最大x15の倍率です。"
     description:
       de: "Gonzo's Quest nutzt Avalanche: Gewinnsymbole fallen weg und neue rücken nach. Jede weitere Avalanche im Spin erhöht den Multiplikator bis x5; Free Falls starten mit 10 Spins."
       en: "Gonzo's Quest uses Avalanche: winning symbols disappear and replacements fall into place. Consecutive Avalanches raise the multiplier; Free Falls add 10 bonus spins."
@@ -2058,6 +2072,13 @@ games:
       es: "símbolos iguales · cascadas · giros gratis"
       pt: "símbolos iguais · cascatas · rodadas grátis"
       ja: "一致シンボル · カスケード · フリースピン"
+    expert_insight:
+      de: "8–12 oder mehr gleiche Symbole können überall im 6×5-Feld gewinnen. In Freispielen werden Multiplikatoren von 2× bis 100× erst am Ende einer gesamten Tumble-Sequenz addiert."
+      en: "Wins can form with 8–12 or more matching symbols anywhere on the 6×5 grid. In Free Spins, 2×–100× multipliers are added at the end of the full tumble sequence."
+      pl: "Wygrana może powstać z 8–12 lub większej liczby takich samych symboli w dowolnym miejscu pola 6×5. W darmowych spinach mnożniki 2×–100× są sumowane na końcu całej sekwencji kaskad."
+      es: "Se puede ganar con 8–12 o más símbolos iguales en cualquier parte de la cuadrícula 6×5. En los giros gratis, los multiplicadores de 2×–100× se suman al final de toda la secuencia de cascadas."
+      pt: "É possível ganhar com 8–12 ou mais símbolos iguais em qualquer posição da grelha 6×5. Nas rodadas grátis, os multiplicadores de 2×–100× são somados no fim de toda a sequência de cascatas."
+      ja: "6×5の盤面では同じシンボル8～12個以上がどこにあっても配当対象です。フリースピン中の2～100倍の倍率は、タンブル連鎖全体の最後に合算されます。"
     description:
       de: "8–12+ gleiche Symbole zahlen überall im Raster. 4–6 Scatter starten 10 Freispiele; Multiplikatoren von 2×–100× werden je Tumble-Sequenz addiert."
       en: "8–12+ matching symbols pay anywhere on the grid. 4–6 Scatters start 10 Free Spins; 2×–100× multipliers are added at the end of each tumble sequence."
@@ -2128,6 +2149,13 @@ games:
       es: "giros gratis · Money Respin · Mega Jackpot"
       pt: "rodadas grátis · Money Respin · Mega Jackpot"
       ja: "フリースピン · Money Respin · Mega Jackpot"
+    expert_insight:
+      de: "Wolf Gold hat zwei getrennte Bonuswege: 3 Scatter starten 5 Freispiele mit einem Riesensymbol auf Walze 2–4; 6 Money Symbols starten Money Respin. Neue Geldsymbole setzen den Zähler zurück, 15 gefüllte Felder bringen 1.000×."
+      en: "Wolf Gold has two separate bonus routes: 3 Scatters start 5 Free Spins with a giant symbol across reels 2–4; 6 Money Symbols start Money Respin. New Money Symbols reset the counter, and filling all 15 spots awards 1,000×."
+      pl: "Wolf Gold ma dwie osobne ścieżki bonusowe: 3 Scatter dają 5 darmowych spinów z wielkim symbolem na bębnach 2–4; 6 Money Symbols uruchamia Money Respin. Nowe symbole resetują licznik, a zapełnienie 15 pól daje 1 000×."
+      es: "Wolf Gold tiene dos rutas distintas: 3 Scatter dan 5 giros gratis con un símbolo gigante en los rodillos 2–4; 6 Money Symbols activan Money Respin. Cada nuevo símbolo reinicia el contador y llenar las 15 casillas otorga 1.000×."
+      pt: "Wolf Gold tem duas rotas distintas: 3 Scatter dão 5 rodadas grátis com um símbolo gigante nos rolos 2–4; 6 Money Symbols ativam Money Respin. Cada novo símbolo reinicia o contador e preencher as 15 posições atribui 1.000×."
+      ja: "Wolf Goldには2つのボーナスがあります。Scatter3個で2～4リールが巨大シンボルになる5回のフリースピン、Money Symbols6個でMoney Respinです。新しいMoney Symbolで残り回数が3に戻り、15マス完成で1,000倍を獲得します。"
     description:
       de: "Drei Scatter starten fünf Freispiele mit Riesensymbol auf Walzen 2–4. Sechs Money Symbols starten Money Respin; 15 belegte Felder bringen den 1.000×-Mega-Jackpot."
       en: "Three Scatters start five Free Spins with a giant symbol on reels 2–4. Six Money Symbols trigger Money Respin; filling all 15 positions awards the 1,000× Mega Jackpot."
@@ -2198,6 +2226,13 @@ games:
       es: "Wild León · giros gratis · ruleta jackpot"
       pt: "Wild Leão · rodadas grátis · roda jackpot"
       ja: "ライオンWild · フリースピン · ジャックポットホイール"
+    expert_insight:
+      de: "Der Lion Wild verdoppelt passende Liniengewinne; drei Monkey Scatter starten 15 Freispiele mit dreifachen Gewinnen. Das progressive Jackpot-Rad ist ein separates Zufallsfeature mit Mini-, Minor-, Major- und Mega-Stufe."
+      en: "The Lion Wild doubles qualifying line wins; three Monkey Scatters start 15 Free Spins with wins tripled. The progressive jackpot wheel is a separate random feature with Mini, Minor, Major and Mega tiers."
+      pl: "Lion Wild podwaja wygrane kombinacje na liniach, a trzy Monkey Scatter uruchamiają 15 darmowych spinów z potrójnymi wygranymi. Koło progresywnego jackpota to osobna funkcja losowa z poziomami Mini, Minor, Major i Mega."
+      es: "Lion Wild duplica las combinaciones ganadoras en líneas; tres Monkey Scatter activan 15 giros gratis con premios triplicados. La ruleta progresiva es una función aleatoria independiente con niveles Mini, Minor, Major y Mega."
+      pt: "Lion Wild duplica combinações vencedoras nas linhas; três Monkey Scatter ativam 15 rodadas grátis com prémios triplicados. A roda de jackpot progressivo é uma função aleatória separada com níveis Mini, Minor, Major e Mega."
+      ja: "Lion Wildはライン配当を2倍にし、Monkey Scatter3個で勝利が3倍になる15回のフリースピンが始まります。プログレッシブジャックポットのホイールは別のランダム機能で、Mini/Minor/Major/Megaの4段階です。"
     description:
       de: "Fünf Walzen und 25 Linien: Das Löwen-Wild verdoppelt vervollständigte Gewinne. Drei Affen-Scatter starten 15 Freispiele mit 3×-Gewinnen; das Jackpot-Rad bietet vier Stufen."
       en: "Five reels and 25 paylines: the Lion Wild doubles completed wins. Three Monkey Scatters start 15 Free Spins with 3× wins; the jackpot wheel has four tiers."

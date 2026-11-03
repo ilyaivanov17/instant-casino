@@ -16,6 +16,7 @@ slug: about
 screenshots:
 - /images/guides/casino-editorial.webp
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
+editor: marco-ibarra
 ---
 
 ## Redaktionelle Methodik

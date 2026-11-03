@@ -18,6 +18,7 @@ slug: slot-strategy
 screenshots:
 - /images/guides/slot-strategy.svg
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
+editor: dominic-field
 ---
 ## Slot-Leitfaden: Funktionen und Spielmechanik
 

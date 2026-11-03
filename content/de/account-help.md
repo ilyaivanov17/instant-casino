@@ -25,6 +25,7 @@ slug: account-help
 screenshots:
 - /images/guides/casino-account.webp
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
+editor: dan-michalski
 ---
 
 ## Konto, Registrierung und sichere Anmeldung

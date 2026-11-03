@@ -8,6 +8,7 @@ article_review_status: editorial-review-pending
 build:
   render: always
   list: always
+editor: marco-ibarra
 ---
 
 ## Wie Instant Casino Informationen recherchiert und erklärt

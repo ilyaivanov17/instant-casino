@@ -120,6 +120,7 @@
   "mainEntityOfPage":{"@type":"WebPage","@id":{{ .Permalink | jsonify | safeJS }}},
   "author":{{ if and $authorSlug $authorName }}{"@type":"Person","@id":{{ printf "%s%s/authors/%s/#person" (strings.TrimSuffix "/" site.BaseURL) $.Site.LanguagePrefix $authorSlug | jsonify | safeJS }},"name":{{ $authorName | jsonify | safeJS }},"url":{{ printf "%s%s/authors/%s/" (strings.TrimSuffix "/" site.BaseURL) $.Site.LanguagePrefix $authorSlug | jsonify | safeJS }}}{{ else }}{"@type":"Organization","name":{{ $settings.author | jsonify | safeJS }}}{{ end }},
   "publisher":{"@type":"Organization","name":{{ $brand | jsonify | safeJS }},"url":{{ .Site.BaseURL | jsonify | safeJS }}}
+  {{- with $.Params.editor }}{{ $editorPage := site.GetPage (printf "/authors/%s" .) }}{{ with $editorPage }}, "editor":{"@type":"Person","@id":{{ printf "%s#person" .Permalink | jsonify | safeJS }},"name":{{ .Title | jsonify | safeJS }},"url":{{ .Permalink | jsonify | safeJS }}}{{ end }}{{ end }}
   {{- with .Date }},"datePublished":{{ .Format "2006-01-02" | jsonify | safeJS }}{{ end }}
   {{- with .Lastmod }},"dateModified":{{ .Format "2006-01-02" | jsonify | safeJS }}{{ end }}
 }

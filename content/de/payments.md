@@ -23,6 +23,7 @@ slug: payments
 screenshots:
 - /images/guides/casino-payments.webp
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
+editor: corey-levitan
 ---
 
 ## Einzahlungen und Auszahlungen: Was du wirklich vergleichen solltest

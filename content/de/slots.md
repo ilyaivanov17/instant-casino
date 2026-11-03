@@ -11,6 +11,7 @@ build:
 aliases:
 - /catalog/slots/
 slug: slots
+editor: arthur-mustoe
 ---
 Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
 

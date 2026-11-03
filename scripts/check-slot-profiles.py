@@ -83,7 +83,7 @@ def main():
             "ja": ("Shapeshifter", "Absorber", "Tommy Gun", "Money Cart", "Respins"),
         },
         "Money Train 4": {
-            "de": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
+            "de": ("Scatter Pays", "Money-Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
             "en": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
             "pl": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
             "es": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),

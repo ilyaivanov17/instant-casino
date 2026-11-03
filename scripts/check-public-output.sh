@@ -40,4 +40,51 @@ if [ -n "$LEAKS" ]; then
   exit 1
 fi
 
+# Fail the deployment build if any rendered anchor points to another website.
+python3 - "$OUT_DIR" <<'PY'
+from html.parser import HTMLParser
+from pathlib import Path
+from urllib.parse import urlsplit
+import sys
+
+root = Path(sys.argv[1])
+allowed_host = "instant.slot-reviews.com"
+violations = []
+
+class AnchorAudit(HTMLParser):
+    def __init__(self, page):
+        super().__init__(convert_charrefs=True)
+        self.page = page
+
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() != "a":
+            return
+        href = dict(attrs).get("href")
+        if not href:
+            return
+        value = href.strip()
+        parsed = urlsplit(value)
+        is_web_url = parsed.scheme.lower() in {"http", "https"} or value.startswith("//")
+        host = (parsed.hostname or "").lower()
+        if is_web_url and host and host != allowed_host:
+            violations.append((self.page, value))
+
+for page in root.rglob("*.html"):
+    try:
+        parser = AnchorAudit(page.relative_to(root))
+        parser.feed(page.read_text(encoding="utf-8"))
+        parser.close()
+    except (OSError, UnicodeError) as exc:
+        print(f"ERROR: could not inspect {page}: {exc}", file=sys.stderr)
+        raise SystemExit(1)
+
+if violations:
+    print("ERROR: rendered pages contain links to external websites; only same-site links and /go/bonus are allowed:", file=sys.stderr)
+    for page, href in violations:
+        print(f"  {page}: {href}", file=sys.stderr)
+    raise SystemExit(1)
+
+print("OK: rendered anchors do not link to external websites (the /go/bonus redirect remains same-site).")
+PY
+
 echo "OK: '$OUT_DIR' contains a site index, Cloudflare Pages security files, and no checked source/secret artifacts."

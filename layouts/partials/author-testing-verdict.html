@@ -5,8 +5,6 @@
 {{- $authorRole := $page.Params.author_role | default "iGaming-Autor und Redakteur" -}}
 {{- $profileURL := printf "%sauthors/%s/" site.BaseURL $authorSlug -}}
 {{- $photo := $page.Params.author_photo  -}}
-{{- $mediumURL := $page.Params.author_medium  -}}
-{{- $linkedinURL := $page.Params.author_linkedin | default "" -}}
 {{- $checked := $page.Params.review_checked_at -}}
 {{- $test := $page.Params.test | default dict -}}
 {{- $testVerified := $test.verified | default false -}}
@@ -21,8 +19,6 @@
   {{- $authorRole = .Params.role | default $authorRole -}}
   {{- $profileURL = .Permalink -}}
   {{- $photo = .Params.photo | default $photo -}}
-  {{- $mediumURL = .Params.medium | default $mediumURL -}}
-  {{- $linkedinURL = .Params.social.linkedin | default $linkedinURL -}}
 {{- end -}}
 <section class="author-test" aria-labelledby="author-test-heading">
   <header class="author-test__header">
@@ -69,9 +65,5 @@
   <p class="author-test__notice">Glücksspiel ist mit finanziellen Risiken verbunden. Setze nur Geld ein, dessen Verlust du dir leisten kannst, und beachte die örtlichen gesetzlichen Vorgaben.</p>
   <nav class="author-test__profiles" aria-label="Autorenprofile">
     {{ with $profileURL }}<a class="author-test__profile" href="{{ . }}" rel="author">Autorenprofil</a>{{ end }}
-    {{ with $mediumURL }}<a class="author-test__profile" href="{{ . }}" target="_blank" rel="author noopener noreferrer" aria-label="Medium-Profil von {{ $authorName }}"><span class="author-test__icon" aria-hidden="true">M</span> Medium</a>{{ end }}
-    {{- with $linkedinURL }}
-      <a class="author-test__profile" href="{{ . }}" target="_blank" rel="author noopener noreferrer" aria-label="LinkedIn-Profil von {{ $authorName }}"><span class="author-test__icon" aria-hidden="true">in</span> LinkedIn</a>
-    {{- end }}
   </nav>
 </section>

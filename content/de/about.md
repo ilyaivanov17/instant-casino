@@ -46,7 +46,7 @@ Wir behaupten keine persönlichen Tests, Spielrunden, Auszahlungen oder eigenen 
 
 Die Beiträge werden unter den im Projekt veröffentlichten Autorenprofilen geführt. Die Profile beschreiben berufliche Schwerpunkte und verlinken auf öffentliche Berufsprofile oder veröffentlichte Arbeiten. Ein Autorenprofil allein beweist nicht, dass die betreffende Person jede einzelne Seite persönlich getestet, geprüft oder freigegeben hat.
 
-Die Namen, Fachgebiete und Links sind im [Autorenverzeichnis]({{< relref "authors" >}}) zusammengefasst. Bei Spiel- und Bonusinformationen unterscheiden wir zwischen dokumentierten Fakten, Angaben des Anbieters und redaktioneller Einordnung.
+Die Namen, Fachgebiete und Links sind im [Autorenverzeichnis]({{< relref "authors/_index.md" >}}) zusammengefasst. Bei Spiel- und Bonusinformationen unterscheiden wir zwischen dokumentierten Fakten, Angaben des Anbieters und redaktioneller Einordnung.
 
 ## Affiliate-Transparenz
 

@@ -29,7 +29,7 @@ This guide groups existing information by topic so rules and limitations are eas
 
 Instant Casino is an information and comparison website about online-casino topics. This notice describes the types of processing that may occur when you visit the site or contact the editorial team. The precise technical details also depend on the hosting and email services actually used.
 
-For privacy-related enquiries, contact the Instant Casino Editorial Team at [info@instant.com](mailto:info@instant.com) or by phone at [+49 10 111 0253](tel:+49101110253). Please provide only the information needed to handle your request.
+For privacy-related enquiries, contact the Instant Casino Editorial Team at [info@instant.com](mailto:info@instant.com) or by phone at +49 10 111 0253. Please provide only the information needed to handle your request.
 
 ## 2. Technical access data
 
@@ -41,7 +41,7 @@ If you contact us by email, the sender address, message and any information you 
 
 ## 4. Cookie choice and local storage
 
-The website includes a consent banner. The selected preference is stored in the browser's local storage under `cookie_preferences` so the choice can be remembered on later visits. Google Analytics scripts are not enabled in the project configuration. The live deployment should match the published cookie notice and the actual server setup. See the [Cookies page](../cookies/) for more information.
+The website includes a consent banner. The selected preference is stored in the browser's local storage under `cookie_preferences` so the choice can be remembered on later visits. Google Analytics scripts are not enabled in the project configuration. The live deployment should match the published cookie notice and the actual server setup. See the [Cookies page](#consent-and-cookies) for more information.
 
 ## 5. External links and affiliate referrals
 
@@ -73,6 +73,7 @@ This notice may be updated if the website, its features or legal requirements ch
 
 ## Cookie notice
 
+<span id="consent-and-cookies"></span>
 ## Cookie notice
 
 Cookies and similar technologies can keep essential features working, remember preferences or measure site usage. The exact notice must reflect the technologies actually active on this website.
@@ -107,7 +108,7 @@ Use the consent controls shown on the website where available. Clearing browser 
 **Instant Casino Editorial Team**
 
 - Email: [info@instant.com](mailto:info@instant.com)
-- Phone: [+49 10 111 0253](tel:+49101110253)
+- Phone: +49 10 111 0253
 
 This page concerns an information and comparison website about online-casino topics. The contact details above are for editorial matters, corrections, source notes and general enquiries.
 

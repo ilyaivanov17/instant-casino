@@ -140,7 +140,7 @@ Na grelha 7×7, os clusters vencedores desencadeiam cascatas. Os multiplicadores
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-A Chamber of Spins é o centro de Immortal Romance: as personagens vampíricas estão ligadas a diferentes modos de rodadas grátis, cada um com regras próprias.
+243 formas de ganhar e Wild multiplicador; Wild Desire transforma até cinco rolos em Wild. Chamber of Spins oferece quatro modos com 10, 15, 20 ou 25 rodadas grátis.
 
 [Ler o perfil completo]({{< relref "slot-profiles/immortal-romance" >}})
 
@@ -170,7 +170,7 @@ Na ronda Hold and Respin, os símbolos dos foras da lei têm funções próprias
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-A ronda Hold and Respin alargada reúne mais símbolos especiais, com efeitos de recolha, melhoria e multiplicação que mudam cada resultado.
+Money Train 4 utiliza Scatter Pays e uma funcionalidade Respin separada. Money Cart começa com três rodadas e pode revelar 20 símbolos especiais; Arms Dealer, Unlocker, Upgrader e Reset alteram a ronda.
 
 [Ler o perfil completo]({{< relref "slot-profiles/money-train-4" >}})
 
@@ -206,13 +206,13 @@ Doces e frutas pagam em grupos em qualquer zona da grelha. Após um prémio, cae
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-Wolf Gold combina linhas de pagamento clássicas com símbolos de grandes dimensões nas rodadas grátis; a função separada de jackpot respin tem regras próprias.
+Três Scatters iniciam cinco rodadas grátis e os rolos 2–4 formam um símbolo gigante. Seis Money Symbols ativam Money Respins; preencher as 15 posições atribui o Mega Jackpot de 1.000×.
 
 [Ler o perfil completo]({{< relref "slot-profiles/wolf-gold" >}})
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-Quatro níveis de jackpot progressivo coexistem com o jogo normal de rolos. As rodadas grátis acrescentam uma função de multiplicadores independente.
+Cinco rolos e 25 linhas: o Wild Leão duplica combinações completas. Três Scatters Macaco dão 15 rodadas grátis com prémios 3×; a roda inclui quatro jackpots.
 
 [Ler o perfil completo]({{< relref "slot-profiles/mega-moolah" >}})
 

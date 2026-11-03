@@ -49,6 +49,8 @@ def main():
         "Fruit Party": ("7×7", "256"),
         "Dead or Alive 2": ("Old Saloon", "High Noon Saloon", "Train Heist"),
         "Legacy of Dead": ("Tomb", "Wild", "Scatter"),
+        "Wolf Gold": ("Money Respin", "Scatter"),
+        "Money Train 4": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader"),
     }
     author_slugs = {
         "arthur-mustoe", "corey-levitan", "cristina-tudose", "dan-michalski",
@@ -334,6 +336,90 @@ def main():
                     errors.append(f"{path.relative_to(ROOT)}: unsupported RTP figure remains in Legacy of Dead profile")
                 if meta.get("article_review_status") != "editorial-review-pending":
                     errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+
+    # Keep the two newly expanded profiles tied to their primary provider sources and verified feature descriptions.
+    source_backed_profiles = {
+        "wolf-gold": (
+            ("https://www.pragmaticplay.com/en/games/wolf-gold-slot/",),
+            1800,
+            {
+                "de": ("Money Respin", "Mega-Jackpot", "1.000×", "15 Positionen"),
+                "en": ("Money Respin", "Mega Jackpot", "1,000×", "15 positions"),
+                "pl": ("Money Respin", "Mega Jackpot", "1000×", "15 pozycji"),
+                "es": ("Money Respin", "Mega Jackpot", "1.000×", "15 posiciones"),
+                "pt": ("Money Respin", "Mega Jackpot", "1.000×", "15 posições"),
+                "ja": ("Money Respin", "Mega Jackpot", "1,000倍", "15マス"),
+            },
+        ),
+        "money-train-4": (
+            (
+                "https://www.relax-gaming.com/products/casino/moneytrain4",
+                "https://www.relax-gaming.com/news/2023/09/relax-gamings-legendary-bandits-depart-the-station-for-their-last-stand-in-money-train-4",
+            ),
+            1800,
+            {
+                "de": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset", "150.000×"),
+                "en": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset", "150,000×"),
+                "pl": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset", "150 000×"),
+                "es": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset", "150.000×"),
+                "pt": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset", "150.000×"),
+                "ja": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset", "150,000倍"),
+            },
+        ),
+        "mega-moolah": (
+            (
+                "https://www.gamesglobal.com/Products",
+                "https://www.megamoolah.com/news/what-are-the-key-symbols-i-need-to-know-on-the-mega-moolah-slot-539",
+                "https://www.meccagames.com/games/mega-moolah",
+            ),
+            1900,
+            {
+                "de": ("Fünf Walzen", "25 Gewinnlinien", "15 Freispiele", "verdreifacht", "Mini, Minor, Major und Mega"),
+                "en": ("Five reels", "25 paylines", "15 Free Spins", "tripled", "Mini, Minor, Major and Mega"),
+                "pl": ("Pięć bębnów", "25 liniami", "15 spinów", "potrajane", "Mini, Minor, Major i Mega"),
+                "es": ("Cinco rodillos", "25 líneas", "15 giros", "triplican", "Mini, Minor, Major y Mega"),
+                "pt": ("Cinco rolos", "25 linhas", "15 rodadas", "triplicados", "Mini, Minor, Major e Mega"),
+                "ja": ("5リール", "25ペイライン", "15回", "3倍", "Mini、Minor、Major、Mega"),
+            },
+        ),
+        "immortal-romance": (
+            (
+                "https://help.danskespil.dk/en/casino-help/slots/mgsimmortalromancehtml",
+                "https://www.meccagames.com/games/immortal-romance",
+                "https://www.gamesglobal.com/Media/games_global_and_stormcraft_studios_reveal_the_highly_anticipated_release_of_Immortal_Romance_II",
+            ),
+            1900,
+            {
+                "de": ("243 Gewinnwege", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
+                "en": ("243 ways", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
+                "pl": ("243 stale aktywne sposoby", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
+                "es": ("243 formas", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
+                "pt": ("243 formas", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
+                "ja": ("243通り", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5倍", "6倍"),
+            },
+        ),
+    }
+    for profile_slug, (required_sources, minimum_length, localized_terms) in source_backed_profiles.items():
+        for lang in LANGS:
+            path = ROOT / "content" / lang / "slot-profiles" / f"{profile_slug}.md"
+            if not path.exists():
+                errors.append(f"Missing source-backed profile {lang}/{profile_slug}")
+                continue
+            try:
+                meta, body = read_page(path)
+            except Exception as exc:
+                errors.append(str(exc))
+                continue
+            for source_url in required_sources:
+                if source_url not in body:
+                    errors.append(f"{path.relative_to(ROOT)}: missing official source {source_url}")
+            if len(body) < minimum_length:
+                errors.append(f"{path.relative_to(ROOT)}: source-backed profile is too short ({len(body)} < {minimum_length})")
+            for term in localized_terms[lang]:
+                if term not in body:
+                    errors.append(f"{path.relative_to(ROOT)}: missing checked feature/value {term!r}")
+            if meta.get("article_review_status") != "editorial-review-pending":
+                errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
 
     expert_partial = ROOT / "layouts" / "partials" / "slot-profile-expert-analysis.html"
     if not expert_partial.exists():

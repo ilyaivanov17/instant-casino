@@ -140,7 +140,7 @@ Twin SpinのTwin Reel機能は複数のリールを連動させ、配置を変�
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-Immortal Romanceの中心はChamber of Spins。吸血鬼の登場人物に結びついた複数のフリースピンモードがあり、それぞれ異なるルールで進行します。
+243通りの配当と倍率Wildを搭載。Wild Desireで最大5リールがWildに。Chamber of Spinsには10、15、20、25回の4つのフリースピンモード。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/immortal-romance" >}})
 
@@ -170,7 +170,7 @@ Hold and Respin中はアウトローの特殊シンボルが役割を発揮。�
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-拡張されたHold and Respinでは多彩な特殊シンボルが登場。値の収集、シンボルの強化、倍率効果が結果を左右します。
+Money Train 4はScatter Pays方式で、基本ゲームに独立したRespin機能を搭載。Money Cartは3回のスピンで始まり、20種類の特殊シンボルが登場します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/money-train-4" >}})
 
@@ -206,13 +206,13 @@ Avalancheでは勝利シンボルが消えて新しいシンボルが落下。�
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-Wolf Goldは従来型のペイラインに加え、フリースピンで大型シンボルを採用。別枠のジャックポットリスピンには独自のルールがあります。
+Scatter3個で5回のフリースピンが始まり、2～4リールが巨大シンボルに。Money Symbols6個でMoney Respin、15マスを埋めると1,000倍のMega Jackpot。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/wolf-gold" >}})
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-通常のリールゲームとは別に4段階のプログレッシブジャックポットを搭載。フリースピンには独立した倍率機能もあります。
+5リール・25ペイライン。ライオンWildは完成した配当を2倍に。Monkey Scatter3個で3倍配当のフリースピン15回、別のホイールで4段階のジャックポットを抽選。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/mega-moolah" >}})
 

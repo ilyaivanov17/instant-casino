@@ -149,7 +149,7 @@ Auf dem 7×7-Raster lösen Gewinn-Cluster Kaskaden aus. Multiplikatoren sitzen a
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-Die Chamber of Spins ist das Herzstück von Immortal Romance: Mehrere Figuren stehen für unterschiedliche Freispiele-Modi. Jeder Modus bringt eigene Regeln in die Bonusrunde.
+243 Gewinnwege mit Wild-Multiplikator; Wild Desire verwandelt bis zu fünf Walzen. Chamber of Spins bietet vier Figuren-Modi mit 10, 15, 20 oder 25 Freispielen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/immortal-romance" >}})
 
@@ -179,7 +179,7 @@ In der Hold-and-Respin-Runde zeigen Outlaw-Symbole verschiedene Rollen: Sie samm
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-Die erweiterte Hold-and-Respin-Runde setzt auf ein größeres Arsenal an Funktionssymbolen, die Werte sammeln, Symbole aufwerten und Multiplikatoren auslösen.
+Money Train 4 nutzt Scatter Pays und eine eigene Respin-Funktion. In der Money Cart Bonus Round stehen drei Spins und 20 mögliche Sonderzeichen im Mittelpunkt; Arms Dealer, Unlocker, Upgrader und Reset verändern den Ablauf.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/money-train-4" >}})
 
@@ -215,13 +215,13 @@ Süßigkeiten und Früchte zahlen als Symbolgruppen an beliebigen Rasterposition
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-Wolf Gold kombiniert klassische Gewinnlinien mit übergroßen Symbolen in Freispielen; eine separate Jackpot-Respin-Funktion folgt eigenen Regeln.
+Drei Scatter starten fünf Freispiele mit einem Riesensymbol auf Walzen 2–4. Sechs Money Symbols lösen Money Respins aus; wenn alle 15 Felder gefüllt sind, wird der Mega-Jackpot von 1.000× vergeben.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/wolf-gold" >}})
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-Vier progressive Jackpot-Stufen stehen neben dem regulären Walzenspiel. Freispiele bringen zusätzlich eine eigene Multiplikator-Funktion ins Spiel.
+Fünf Walzen, 25 Linien und ein 2×-Löwen-Wild. Drei Affen-Scatter starten 15 Freispiele mit 3×-Gewinnen; das Jackpot-Rad bietet vier progressive Stufen.
 
 [Vollständiges Profil lesen]({{< relref "slot-profiles/mega-moolah" >}})
 

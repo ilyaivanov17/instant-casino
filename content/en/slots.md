@@ -140,7 +140,7 @@ On Sugar Rush’s 7×7 grid, winning clusters trigger tumbles. Multipliers sit o
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-The Chamber of Spins is central to Immortal Romance: its vampire characters are tied to different free-spins modes, each with its own bonus-round rules.
+243 ways to win with a Wild multiplier; Wild Desire turns up to five reels Wild. Chamber of Spins offers four character modes with 10, 15, 20 or 25 Free Spins.
 
 [Read the full game profile]({{< relref "slot-profiles/immortal-romance" >}})
 
@@ -170,7 +170,7 @@ Money Train 3 gives its outlaw symbols distinct jobs in Hold and Respin: some co
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-Its expanded Hold and Respin round adds a broader cast of feature symbols, with collection, upgrade and multiplier effects shaping each result.
+Money Train 4 uses Scatter Pays and a separate Respin feature. Its Money Cart Bonus Round starts with three spins and can introduce 20 special symbols; Arms Dealer, Unlocker, Upgrader and Reset change how it develops.
 
 [Read the full game profile]({{< relref "slot-profiles/money-train-4" >}})
 
@@ -206,13 +206,13 @@ Candy and fruit pay in matching groups anywhere on the grid. After a win, fresh 
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-Wolf Gold pairs a classic payline layout with oversized symbols in free spins; its separate jackpot-respin feature follows its own rules.
+Three Scatters start five Free Spins with a giant symbol on reels 2–4. Six Money Symbols trigger Money Respins; filling all 15 positions awards the 1,000× Mega Jackpot.
 
 [Read the full game profile]({{< relref "slot-profiles/wolf-gold" >}})
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-Four progressive jackpot tiers sit alongside the regular reel game. Free spins add a separate multiplier feature, distinct from the jackpot system.
+Five reels and 25 paylines: the Lion Wild doubles completed wins. Three Monkey Scatters start 15 Free Spins with 3× wins; the jackpot wheel has four progressive tiers.
 
 [Read the full game profile]({{< relref "slot-profiles/mega-moolah" >}})
 

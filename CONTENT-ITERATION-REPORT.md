@@ -277,3 +277,68 @@ The pages preserve existing URLs, translation keys, image paths, Dominic Field a
 
 The profile validator now checks the two source links, minimum localized depth, source-specific Free Spins details, disclosure of the differing payout units, absence of the unsupported 96.58% RTP figure and pending editorial status.
 
+
+
+## Content batch 11: Wolf Gold
+
+Expanded the existing Wolf Gold profile in all six locales and aligned the catalogue summaries:
+
+- `content/{de,en,pl,es,pt,ja}/slot-profiles/wolf-gold.md`
+- `data/slot_catalog.yaml`
+
+Official source checked on 2026-11-03:
+
+1. [Pragmatic Play — Wolf Gold](https://www.pragmaticplay.com/en/games/wolf-gold-slot/): three Scatter symbols trigger five Free Spins; reels 2–4 combine into one giant symbol; three more Scatters award three additional spins with no stated overall retrigger limit. Six or more Money Symbols trigger Money Respin with three respins; new Money Symbols reset the counter to three; all visible values are collected at the end. Filling all 15 positions awards the 1,000× Mega Jackpot. Money Respin can also be triggered during Free Spins.
+
+The six localized profiles distinguish the Free Spins route from Money Respin, explain the 15-position completion condition, and avoid adding unsupported RTP or stake-range values. The provider's 100× Money Symbol value and jackpot descriptions are attributed to its product page; no extra jackpot tiers or operator settings are inferred. Existing URLs, artwork, author attribution and `editorial-review-pending` status are preserved.
+
+## Content batch 12: Money Train 4
+
+Expanded the existing Money Train 4 profile in all six locales and updated the catalogue descriptions:
+
+- `content/{de,en,pl,es,pt,ja}/slot-profiles/money-train-4.md`
+- `data/slot_catalog.yaml`
+
+Official Relax Gaming sources checked on 2026-11-03:
+
+1. [Relax Gaming — Money Train 4 product page](https://www.relax-gaming.com/products/casino/moneytrain4): identifies the game as a Scatter Pays video slot, lists 20+ features and a provider-published maximum win of 150,000×, and describes Arms Dealer, Upgrader, Unlocker and Reset.
+2. [Relax Gaming — Money Train 4 launch announcement, 20 September 2023](https://www.relax-gaming.com/news/2023/09/relax-gamings-legendary-bandits-depart-the-station-for-their-last-stand-in-money-train-4): describes the base-game Respin feature, sticky symbols and possible multipliers, the separate Money Cart Bonus Round with three spins and 20 possible special symbols, and the Arms Dealer, Unlocker and Upgrader roles. It also notes that direct bonus access is market-dependent and starts with one guaranteed persistent symbol where available.
+
+The rewrite corrects the earlier broad Hold-and-Respin description by distinguishing the Scatter Pays game, base-game Respin and separate Money Cart bonus. The 150,000× figure is clearly attributed as a provider-published cap, not a typical outcome. No universal RTP or stake range is invented. Existing URLs, artwork, Jon Pill attribution and `editorial-review-pending` status are preserved.
+
+Both batches include source checks in `scripts/check-slot-profiles.py`; the validator now enforces the provider source references, localized mechanics, profile depth and pending editorial status.
+
+
+## Content batch 13: Mega Moolah (classic version)
+
+Expanded all six localized profiles and aligned the catalogue card and six slot-hub summaries:
+
+- `content/{de,en,pl,es,pt,ja}/slot-profiles/mega-moolah.md`
+- `data/slot_catalog.yaml`
+- `content/{de,en,pl,es,pt,ja}/slots.md`
+
+Sources checked on 2026-11-03:
+
+1. [Games Global — Products](https://www.gamesglobal.com/Products): current product portfolio and progressive jackpot network.
+2. [Mega Moolah — What are the key symbols I need to know on the Mega Moolah slot?](https://www.megamoolah.com/news/what-are-the-key-symbols-i-need-to-know-on-the-mega-moolah-slot-539): Lion Wild, Monkey Scatter, 15 Free Spins and 3× feature description.
+3. [Mecca Games — Mega Moolah](https://www.meccagames.com/games/mega-moolah): classic five-reel, 25-payline game rules, Lion Wild, Monkey Scatter, retriggers and randomly activated four-tier jackpot wheel.
+
+The six profiles distinguish the classic 5-reel/25-payline Mega Moolah from later branded variants, separate Free Spins from the progressive jackpot wheel, and name the Mini, Minor, Major and Mega tiers. No fixed jackpot cash amounts, universal RTP or universal stake range are added. Existing URLs, artwork, author attribution and `editorial-review-pending` status are preserved.
+
+## Content batch 14: Immortal Romance (original version)
+
+Expanded all six localized profiles and aligned the catalogue card and six slot-hub summaries:
+
+- `content/{de,en,pl,es,pt,ja}/slot-profiles/immortal-romance.md`
+- `data/slot_catalog.yaml`
+- `content/{de,en,pl,es,pt,ja}/slots.md`
+
+Sources checked on 2026-11-03:
+
+1. [Danske Spil — Immortal Romance game help](https://help.danskespil.dk/en/casino-help/slots/mgsimmortalromancehtml): original Microgaming rules for 243 ways, Wild multiplier, random Wild Desire and the four Chamber of Spins modes.
+2. [Mecca Games — Immortal Romance](https://www.meccagames.com/games/immortal-romance): detailed mode rules, spin awards, unlock sequence, Vampire Bats, Rolling Reels and Wild Vine.
+3. [Games Global — Immortal Romance II announcement](https://www.gamesglobal.com/Media/games_global_and_stormcraft_studios_reveal_the_highly_anticipated_release_of_Immortal_Romance_II): used to distinguish the original from its sequel.
+
+The profiles explicitly identify the original game, not Immortal Romance II, Remastered or Immortal Romance Mega Moolah. They separate base-game Wild Desire from the Scatter-triggered Chamber of Spins, explain Amber/Troy/Michael/Sarah individually, and avoid a universal RTP or stake-range claim because operator help pages show different configurations. Existing URLs, artwork, Corey Levitan attribution and `editorial-review-pending` status are preserved.
+
+The slot-profile validator now checks the exact source records, localized mechanics, profile depth and pending editorial status for both batches.

@@ -237,6 +237,21 @@ def main():
                         errors.append(f"{path.relative_to(ROOT)}: missing distinction from related edition {other_edition}")
                 if meta.get("article_review_status") != "editorial-review-pending":
                     errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+            if slug == "fire-in-the-hole-3":
+                required_sources = (
+                    "https://nolimitcity.com/games/fire-in-the-hole-3",
+                    "https://nolimitcity.com/posts/fire-in-the-hole-3-now-live",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing official Nolimit City source link {source_url}")
+                if len(body) < 2400:
+                    errors.append(f"{path.relative_to(ROOT)}: Fire in the Hole 3 profile is missing detailed localized mechanics sections")
+                for mechanic in ("Collapsing Mine", "xBomb", "Wild Mining", "xSplit", "xHole", "Lucky Wagon Spins", "xGod"):
+                    if mechanic not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing checked Fire in the Hole 3 mechanic {mechanic!r}")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
     expert_partial = ROOT / "layouts" / "partials" / "slot-profile-expert-analysis.html"
     if not expert_partial.exists():
         errors.append("Missing localized expert-analysis partial")

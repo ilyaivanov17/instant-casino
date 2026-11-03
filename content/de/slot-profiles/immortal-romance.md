@@ -1,12 +1,12 @@
 ---
 title: "Immortal Romance – Slot-Profil"
-description: "Ein Gothic-Slot mit mehreren charakterbezogenen Freispiele-Modi."
-seo_title: "Immortal Romance: Spielmechanik & Funktionen | Instant Casino"
+description: "243 Gewinnwege, zufälliges Wild Desire und Chamber of Spins mit vier Figuren-Modi: Amber, Troy, Michael und Sarah unterscheiden sich bei Freispielen und Sonderfunktionen."
+seo_title: "Immortal Romance: Wild Desire & Chamber of Spins | Instant Casino"
 type: slots
 translationKey: "slot-profile-immortal-romance"
 url: "/slots/immortal-romance/"
 ogImage: "/images/slots/catalog-immortal-romance.webp"
-lastmod: "2026-11-01"
+lastmod: "2026-11-03"
 article_review_status: editorial-review-pending
 
 build:
@@ -14,34 +14,67 @@ build:
   list: always
 ---
 
-![Immortal Romance Spielgrafik mit vampirische Figuren und eine gotische Liebesgeschichte.](/images/slots/catalog-immortal-romance.webp)
+![Immortal Romance Spielgrafik mit Vampirfiguren und einer gotischen Liebesgeschichte.](/images/slots/catalog-immortal-romance.webp)
 
-### Kurz erklärt
+### Spielprofil im Überblick
 
-Immortal Romance ist ein Gothic-Slot mit Vampir- und Figurenmotiven. Das Profilmerkmal sind mehrere charakterbezogene Freispiele-Modi.
+Dieses Profil behandelt das ursprüngliche Immortal Romance von Microgaming. Die klassische Version arbeitet mit fünf Walzen und 243 dauerhaft aktiven Gewinnwegen. Ihr Bonusaufbau besteht aus zwei getrennten Funktionen: dem zufällig ausgelösten Wild Desire im Grundspiel und der Chamber of Spins, die über Scatter gestartet wird und vier Figuren-Modi freischaltet. Immortal Romance II, Remastered und Immortal Romance Mega Moolah sind andere Ausgaben und werden hier nicht gleichgesetzt.
 
-### Spielprofil
-
-| Anbieter | Hinterlegte Funktionen |
+| Merkmal | Regeln der klassischen Version |
 |---|---|
-| Microgaming | Charakterbezogene Freispiele-Modi |
+| Spielfeld | Fünf Walzen, 243 Gewinnwege |
+| Wild-Multiplikator | Das Logo ersetzt reguläre Symbole und verdoppelt die Auszahlung einer Kombination, die es vervollständigt |
+| Scatter | Der Scatter Knocker zählt unabhängig von Gewinnwegen |
+| Wild Desire | Zufällige Grundspiel-Funktion, die bis zu fünf Walzen in Wild-Walzen verwandelt |
+| Chamber of Spins | Drei oder mehr Scatter starten einen von vier Figuren-Boni |
+| Freispiel-Modi | Amber: 10, Troy: 15, Michael: 20 und Sarah: 25 Freispiele |
 
-### Was du vor dem Start wissen solltest
+### Grundspiel und Wild-Multiplikator
 
-Öffne die Hilfe und Auszahlungstabelle der tatsächlich geladenen Spielversion. Prüfe dort Auslöser, Ablauf und Grenzen der genannten Funktionen sowie gegebenenfalls RTP-Einstellung und Einsatzbereich. Diese Angaben können je nach Version und Betreiber abweichen; nicht dokumentierte Werte werden hier nicht ergänzt.
+Alle 243 Gewinnwege sind in der beschriebenen Originalversion dauerhaft aktiv. Reguläre Kombinationen müssen von links nach rechts beginnen und aneinandergrenzende Walzen belegen. Der Immortal-Romance-Logo-Symbol ist ein Wild-Multiplikator: Es kann reguläre Symbole ersetzen und verdoppelt die Auszahlung einer Kombination, die es auf diese Weise vervollständigt. Es ersetzt keinen Scatter. Erzeugt das Wild-Symbol eine eigene Gewinnkombination, wird diese eigene Auszahlung nicht zusätzlich verdoppelt.
 
-### Mechanik im Fokus
+### Wild Desire: zufällige Wild-Walzen
 
-Die einzelnen Modi sollten nicht pauschal gleichgesetzt werden. Prüfe, wie sie ausgelöst werden, worin sich ihre Abläufe unterscheiden und welche Regeln für die jeweilige Bonusrunde gelten.
+Wild Desire ist eine eigenständige Zufallsfunktion im regulären Spiel. Wird sie aktiviert, verwandelt sie bis zu fünf Walzen in Wild-Walzen. Während dieser Funktion erscheinen weder das normale Wild-Multiplikator-Symbol noch Scatter-Symbole. Deshalb ist Wild Desire nicht mit der Chamber of Spins zu verwechseln: Die Funktion verändert einen regulären Spielablauf, während die Chamber durch Scatter ausgelöst wird und anschließend eine Freispiele-Auswahl bietet.
 
+### Chamber of Spins: vier Figuren, vier Bonusregeln
 
----
+Drei oder mehr Scatter Knocker starten die Chamber of Spins. In der klassischen Regelversion ist Amber von Beginn an verfügbar. Weitere Figuren-Modi werden mit wiederholten Aktivierungen freigeschaltet: Troy nach fünf Chamber-Eintritten, Michael nach zehn und Sarah nach fünfzehn. Jeder Modus hat eine eigene Zahl an Freispielen und einen eigenen Zusatzmechanismus.
 
+#### Amber: zehn Freispiele mit 5×-Multiplikator
 
+Amber vergibt zehn Freispiele. Während dieser Runde werden alle Gewinne mit 5× multipliziert. Die Funktion kann erneut ausgelöst werden; zusätzliche Freispiele werden dem verbleibenden Zähler hinzugefügt. Amber ist der erste verfügbare Modus der Chamber of Spins.
+
+#### Troy: Vampire Bats und Multiplikator-Wilds
+
+Troy vergibt 15 Freispiele. Bei einem Gewinn können Vampire Bats zufällige Symbole in Wild-Multiplikator-Symbole verwandeln. Die Symbole können den Gewinn mit einem Multiplikator von bis zu 6× beeinflussen. Dieser Modus kann laut Spielhilfe während der Freispiele nicht erneut ausgelöst werden.
+
+#### Michael: Rolling Reels bis 5×
+
+Michael vergibt 20 Freispiele und aktiviert Rolling Reels. Nach einem Gewinn werden die Gewinnsymbole entfernt; die darüberliegenden Symbole fallen in die freien Positionen. Entsteht dadurch ein weiterer Gewinn, wird er erneut ausgewertet und der Multiplikator steigt um eins, höchstens bis 5×. Wenn die nächste Verschiebung keinen Gewinn bildet, fällt der Multiplikator auf 1× zurück. Scatter-Kombinationen lösen diese Kaskadenfunktion nicht aus; der Modus kann während der Freispiele nicht retriggern.
+
+#### Sarah: Wild Vine und zusätzliche Freispiele
+
+Sarah vergibt 25 Freispiele. Erscheint das Wild-Vine-Symbol auf Walze drei, kann es weitere reguläre Symbole in Wild-Symbole verwandeln. Zusätzlich können Scatter während dieser Freispiele weitere Runden vergeben: Zwei, drei, vier oder fünf Scatter bringen entsprechend ein, zwei, drei oder vier zusätzliche Freispiele. Die zusätzlichen Runden werden dem verbleibenden Zähler hinzugefügt.
+
+### Fortschritt und versionsabhängige Angaben
+
+Die Freischaltung der Figuren-Modi ist Teil des klassischen Chamber-of-Spins-Systems. Die genaue Darstellung des Fortschritts und einzelne Einstellungen können jedoch von der bereitgestellten Spielversion abhängen. Auch die RTP-Angabe wird hier nicht als universeller Wert wiederholt: Betreiber-Hilfeseiten können unterschiedliche Konfigurationen ausweisen. Maßgeblich sind die Informationsseite und die Auszahlungstabelle der tatsächlich geladenen Version.
+
+### Unsere Einordnung
+
+Immortal Romance kombiniert drei Ebenen, die getrennt betrachtet werden sollten: das 243-Wege-Grundspiel mit dem verdoppelnden Logo-Wild, das zufällige Wild Desire mit bis zu fünf Wild-Walzen und die Scatter-gesteuerte Chamber of Spins. Der wichtigste Unterschied innerhalb der Chamber liegt nicht nur in der Zahl der Freispiele: Amber multipliziert Gewinne, Troy bringt Vampire-Bat-Wilds, Michael verkettet Gewinne über Rolling Reels und Sarah ergänzt Wild-Vine- sowie Scatter-Retrigger-Regeln.
+
+### Quellen und Abgrenzung
+
+- Danske Spil – „Immortal Romance“: Spielhilfe zur klassischen Microgaming-Version mit 243 Wegen, Wild Desire und den vier Chamber-of-Spins-Modi.
+- Mecca Games – „Immortal Romance“: Spielregeln und Bonusbeschreibungen zu Amber, Troy, Michael und Sarah.
+- Games Global – Meldung zur Veröffentlichung von Immortal Romance II (2024), zur Abgrenzung des Originals von der Fortsetzung.
+- Geprüft am 3. November 2026. RTP und Einsatzwerte werden nicht vereinheitlicht, da betreiberspezifische Hilfeseiten unterschiedliche Einstellungen nennen.
 
 <div class="slot-profile-bonus-cta">
-  <p>Bonusangebote ansehen</p>
-  <a href="/slots/#de-affiliate-title">Bonusangebote ansehen →</a>
+  <p>Bonusbedingungen und Spielprofile vergleichen</p>
+  <a href="/slots/#de-affiliate-title">Bonusbedingungen ansehen →</a>
 </div>
 
 ## Weitere Spielprofile

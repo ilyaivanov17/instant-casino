@@ -342,3 +342,22 @@ Sources checked on 2026-11-03:
 The profiles explicitly identify the original game, not Immortal Romance II, Remastered or Immortal Romance Mega Moolah. They separate base-game Wild Desire from the Scatter-triggered Chamber of Spins, explain Amber/Troy/Michael/Sarah individually, and avoid a universal RTP or stake-range claim because operator help pages show different configurations. Existing URLs, artwork, Corey Levitan attribution and `editorial-review-pending` status are preserved.
 
 The slot-profile validator now checks the exact source records, localized mechanics, profile depth and pending editorial status for both batches.
+
+## Expert card batch 1: 5 Lions Megaways and Le Bandit
+
+Introduced a separate localized `expert_insight` field for the catalogue cards of 5 Lions Megaways and Le Bandit, in German, English, Polish, Spanish, Portuguese and Japanese.
+
+The new card copy is an interpretation of the mechanics rather than a repeat of the feature label:
+
+- **5 Lions Megaways:** clarifies that 117,649 is the ceiling of the variable 7×6 layout, not a fixed count on every spin; highlights the seven Free Spins configurations and the trade-off between spin counts and Wild-multiplier ranges.
+- **Le Bandit:** explains that Super Cascades preserve winning positions as Golden Squares, which Rainbow activates later; distinguishes the five-FS mode by its persistent highlighted squares and guaranteed Rainbow on each spin.
+
+Sources checked on 2026-11-03:
+
+1. [Pragmatic Play — 5 Lions Megaways](https://www.pragmaticplay.com/en/games/5-lions-megaways/): three or more bonus symbols trigger the feature; seven Free Spins options combine up to 25 spins with Wild multipliers up to 40×.
+2. [Pragmatic Play — 5 Lions Megaways launch announcement, 24 June 2021](https://www.pragmaticplay.com/en/news/pragmatic-play-recharges-asian-adventure-in-5-lions-megaways/): 7×6 layout, up to 117,649 ways, Tumbles, Gold Lion Wild and Yin-Yang Scatter.
+3. [Hacksaw Gaming — Le Bandit](https://www.hacksawgaming.com/games/le-bandit): Super Cascades, Golden Squares and Rainbow activation, coin and special-symbol sequence, and the three bonus modes.
+
+The catalogue cards and their corresponding game-profile pages now render the same localized expert takeaway. Other catalogue entries retain the existing editorial-insight fallback until their own source-backed analysis is prepared. The card label field remains unchanged. Existing game URLs, images, author attribution and `editorial-review-pending` status are preserved; no claim of a personal playtest or human editorial sign-off is made.
+
+Automated validation now checks that both expert insight fields exist in all six locales, contain the expected game-specific mechanics, stay within the approved card-length range and render in both catalogue and profile templates.

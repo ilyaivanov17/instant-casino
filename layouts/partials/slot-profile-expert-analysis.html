@@ -9,6 +9,15 @@
   {{- $name := .name -}}
   {{- $provider := .provider | default "the listed provider" -}}
   {{- $label := index .label $lang | default (index .label "en") -}}
+  {{- $expertInsight := index .expert_insight $lang | default "" -}}
+  {{- if $expertInsight -}}
+<section class="slot-expert-analysis slot-expert-analysis--expert mt-8" data-slot-expert-analysis aria-labelledby="slot-expert-analysis-title">
+  <span class="slot-expert-analysis-kicker">{{ if eq $lang "de" }}EXPERTEN-EINORDNUNG{{ else if eq $lang "en" }}EXPERT TAKEAWAY{{ else if eq $lang "pl" }}WNIOSKI EKSPERCKIE{{ else if eq $lang "es" }}CLAVE EXPERTA{{ else if eq $lang "pt" }}LEITURA ESPECIALIZADA{{ else }}専門的な見方{{ end }}</span>
+  <h2 id="slot-expert-analysis-title">{{ $name }}{{ if eq $lang "ja" }}：専門的な見方{{ else if eq $lang "de" }}: fachliche Einordnung{{ else if eq $lang "pl" }}: analiza mechaniki{{ else if eq $lang "es" }}: lectura de las mecánicas{{ else if eq $lang "pt" }}: leitura das mecânicas{{ else }}: expert view{{ end }}</h2>
+  <p class="slot-expert-analysis-copy">{{ $expertInsight }}</p>
+  <p class="slot-expert-analysis-note">{{ if eq $lang "de" }}Quellenbasierte Einordnung veröffentlichter Spielregeln, kein persönlicher Spieltest. Versionsabhängige Einstellungen bitte in der geladenen Spielhilfe prüfen.{{ else if eq $lang "en" }}A source-based reading of published game rules, not a personal playtest. Check version-specific settings in the loaded game's help.{{ else if eq $lang "pl" }}To analiza oparta na opublikowanych zasadach, a nie relacja z osobistego testu. Ustawienia konkretnej wersji sprawdź w pomocy uruchomionej gry.{{ else if eq $lang "es" }}Esta lectura se basa en reglas publicadas, no en una prueba personal. Comprueba los ajustes de la versión cargada en la ayuda del juego.{{ else if eq $lang "pt" }}Esta análise baseia-se nas regras publicadas, não num teste pessoal. Confirme as definições da versão carregada na ajuda do jogo.{{ else }}公開されたゲームルールに基づく解説であり、個人プレイの検証ではありません。実際に起動した版の設定はゲーム内ヘルプで確認してください。{{ end }}</p>
+</section>
+  {{- else -}}
 <section class="slot-expert-analysis prose prose-invert max-w-none mt-8" data-slot-expert-analysis aria-labelledby="slot-expert-analysis-title">
   {{ if eq $lang "de" }}
     <h2 id="slot-expert-analysis-title">{{ $name }}: Katalogangaben</h2>
@@ -30,4 +39,5 @@
     <p>カタログでは、提供元を{{ $provider }}、主な特徴を「{{ $label }}」として記載しています。発動条件、配当、バージョンごとの数値は、実際に起動したゲーム内ヘルプと配当表で確認してください。</p>
   {{ end }}
 </section>
+  {{- end -}}
 {{- end -}}

@@ -43,7 +43,7 @@ Ein neuer Einsturz kann laut Spielbeschreibung durch vier Ereignisse entstehen: 
 
 Ein xBomb Wild ersetzt reguläre Symbole, aber keine Bonus-Symbole. Bei einer Explosion entfernt es benachbarte Symbole – Bonus-Symbole bleiben ausgenommen – und erhöht den Gewinnmultiplikator für den nächsten Einsturz um seinen Wert. Laut Anbieter explodieren sichtbare xBomb Wilds vor dem nächsten Einsturz, außer wenn stattdessen Wild Mining ausgelöst wird.
 
-Wild Mining kann im Basisspiel aktiv werden, wenn drei bis sechs gleiche Symbole horizontal oder vertikal ausgerichtet sind, ohne eine Gewinnkombination zu bilden. Die auslösenden Symbole werden entfernt und durch Wild-Symbole in den mittleren Positionen der Reihe oder Spalte ersetzt. Drei ausgerichtete Symbole erzeugen ein Wild, vier zwei, fünf drei und sechs vier Wilds. Die Funktion kann anschließend ebenfalls einen Einsturz auslösen.
+Wild Mining kann im Basisspiel aktiv werden, wenn drei bis sechs gleiche Symbole horizontal oder vertikal ausgerichtet sind, ohne eine Gewinnkombination zu bilden. Außerdem darf dabei weder ein xHole noch ein xBomb Wild aktiv sein. Die auslösenden Symbole werden entfernt und durch Wild-Symbole in den mittleren Positionen der Reihe oder Spalte ersetzt. Drei ausgerichtete Symbole erzeugen ein Wild, vier zwei, fünf drei und sechs vier Wilds. Die Funktion kann anschließend ebenfalls einen Einsturz auslösen.
 
 ## xSplit, xHole und verborgene Eis-Funktionen
 

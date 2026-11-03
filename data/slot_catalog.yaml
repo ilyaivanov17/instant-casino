@@ -433,6 +433,13 @@ games:
       es: "10 líneas · Wild expansivo · ambos sentidos"
       pt: "10 linhas · Wild expansivo · dois sentidos"
       ja: "10ライン · 拡張Wild · 両方向判定"
+    expert_insight:
+      de: "Die zehn Linien werden in beide Richtungen ausgewertet; „Win Both Ways“ sind keine zwanzig separaten Linien. Das sternförmige Expanding Wild füllt eine Walze und löst einen Respin aus, garantiert aber keinen Treffer."
+      en: "The ten paylines are evaluated in both directions; “Win Both Ways” does not mean twenty separate lines. The star-shaped Expanding Wild fills a reel and triggers a Respin, but neither guarantees a win."
+      pl: "Dziesięć linii jest rozliczanych w obu kierunkach; „Win Both Ways” nie oznacza dwudziestu osobnych linii. Gwiazdowy Expanding Wild wypełnia bęben i uruchamia Respin, ale nie gwarantuje wygranej."
+      es: "Las diez líneas se evalúan en ambas direcciones; «Win Both Ways» no significa veinte líneas distintas. El Expanding Wild en forma de estrella ocupa un rodillo y activa un Respin, pero no garantiza premio."
+      pt: "As dez linhas são avaliadas nos dois sentidos; «Win Both Ways» não significa vinte linhas diferentes. O Expanding Wild em forma de estrela ocupa um rolo e ativa um Respin, mas não garante prémio."
+      ja: "10本のペイラインは両方向で評価されます。「Win Both Ways」は20本の別ラインという意味ではありません。星形のExpanding Wildはリール全体に広がりRespinを発動しますが、当たりを保証しません。"
     description:
       de: "Starburst verbindet fünf Walzen und zehn Gewinnlinien mit einer Auswertung in beide Richtungen. Das expandierende Wild füllt eine Walze und löst einen Respin aus."
       en: "Starburst combines five reels and ten paylines evaluated in both directions. Its expanding Wild covers a reel and triggers a Respin."
@@ -503,6 +510,13 @@ games:
       es: "20 líneas · Wild con multiplicadores · Sticky Wild"
       pt: "20 linhas · Wild com multiplicadores · Sticky Wild"
       ja: "20ライン · 倍率Wild · Sticky Wild"
+    expert_insight:
+      de: "Multiplikator-Wilds erscheinen nur auf Walze 2–4. Drei Bonus Paws starten Freispiele mit zufällig vergebener Anzahl; Sticky Wilds bleiben während der Bonusrunde auf ihren Positionen."
+      en: "Multiplier Wilds appear only on reels 2–4. Three Bonus Paws trigger a randomly allocated number of Free Spins, and Sticky Wilds stay in place during the bonus round."
+      pl: "Wildy z mnożnikiem pojawiają się tylko na bębnach 2–4. Trzy symbole Bonus Paw uruchamiają losową liczbę darmowych spinów, a Sticky Wilds pozostają na miejscu w trakcie bonusu."
+      es: "Los Wild con multiplicador aparecen solo en los rodillos 2–4. Tres Bonus Paw activan una cantidad aleatoria de giros gratis y los Sticky Wilds permanecen en su posición durante el bonus."
+      pt: "Os Wild com multiplicador surgem apenas nos rolos 2–4. Três Bonus Paw ativam uma quantidade aleatória de rodadas grátis, e os Sticky Wilds mantêm a posição durante o bónus."
+      ja: "倍率付きWildは2～4リールにのみ出現します。Bonus Pawが3個で回数がランダムなフリースピンを開始し、ボーナス中はSticky Wildsが位置に残ります。"
     description:
       de: "5×3 mit 20 Linien. Drei Bonus-Pfoten starten eine zufällige Zahl an Freispielen; Wilds tragen Multiplikatoren auf Walzen 2–4 und bleiben im Bonus haften."
       en: "5×3 with 20 paylines. Three Bonus Paws start a random number of Free Spins; multiplier Wilds land on reels 2–4 and stay sticky in the bonus."
@@ -573,6 +587,13 @@ games:
       es: "Tomb Wild/Scatter · giros gratis · símbolos expansivos"
       pt: "Tomb Wild/Scatter · rodadas grátis · símbolos expansíveis"
       ja: "TombのWild／Scatter · フリースピン · 拡張シンボル"
+    expert_insight:
+      de: "Das Tomb-Symbol ist zugleich Wild und Scatter: Es hilft bei Gewinnkombinationen und löst ab drei Symbolen Freispiele aus. Das geprüfte Regel-PDF ergänzt ein zufällig gewähltes Special Expanding Symbol; Spin-Zahlen gelten nur für diese Version."
+      en: "The Tomb is both Wild and Scatter: it helps complete wins and triggers Free Spins from three symbols. The reviewed rules PDF adds a randomly selected Special Expanding Symbol; its spin counts apply only to that version."
+      pl: "Tomb pełni rolę Wild i Scatter: pomaga tworzyć wygrane, a od trzech symboli uruchamia darmowe spiny. Sprawdzony PDF zasad opisuje losowy Special Expanding Symbol; liczby spinów dotyczą tylko tej wersji."
+      es: "Tomb actúa como Wild y Scatter: ayuda a completar premios y activa giros gratis con tres símbolos. El PDF de reglas consultado añade un Special Expanding Symbol aleatorio; sus cantidades de giros solo corresponden a esa versión."
+      pt: "Tomb funciona como Wild e Scatter: ajuda a completar prémios e ativa rodadas grátis a partir de três símbolos. O PDF de regras consultado acrescenta um Special Expanding Symbol aleatório; as quantidades de rodadas aplicam-se apenas a essa versão."
+      ja: "TombはWildとScatterを兼ね、配当の補完と3個以上でのフリースピン開始を担います。確認したルールPDFではSpecial Expanding Symbolがランダム選択されますが、スピン数はその版に限られます。"
     description:
       de: "Tomb ist Wild und Scatter zugleich: Drei oder mehr Symbole starten Freispiele; Retrigger fügen weitere zufällige Expanding Symbols hinzu."
       en: "The Tomb is both Wild and Scatter: three or more trigger Free Spins, and retriggers add further randomly selected Expanding Symbols."
@@ -643,6 +664,13 @@ games:
       es: "alienígenas de colores en un entorno espacial"
       pt: "alienígenas coloridos num cenário espacial"
       ja: "宇宙を舞台にしたカラフルなエイリアン"
+    expert_insight:
+      de: "Gewinne entstehen durch Cluster aus mindestens fünf gleichen Aliens auf dem 7×7-Feld. Treffer verschwinden und laden Gargantoon auf; bei voller Energie löst Quantum Leap eine Kette von bis zu fünf Features aus."
+      en: "Wins start with clusters of at least five matching aliens on the 7×7 grid. Winning aliens disappear and charge Gargantoon; once full, Quantum Leap releases a chain of up to five features."
+      pl: "Wygrane tworzą klastry co najmniej pięciu takich samych obcych na polu 7×7. Trafione symbole znikają i ładują Gargantoon; po pełnym naładowaniu Quantum Leap uruchamia łańcuch do pięciu funkcji."
+      es: "Se gana con grupos de al menos cinco alienígenas iguales en la cuadrícula 7×7. Los ganadores desaparecen y cargan a Gargantoon; al llenarse, Quantum Leap activa una cadena de hasta cinco funciones."
+      pt: "As vitórias surgem em grupos de pelo menos cinco aliens iguais na grelha 7×7. Os símbolos vencedores desaparecem e carregam Gargantoon; quando está cheio, Quantum Leap ativa uma cadeia de até cinco funções."
+      ja: "7×7の盤面で同じエイリアン5個以上のクラスターが勝利になります。勝利シンボルが消えてGargantoonを充電し、満タンになるとQuantum Leapが最大5つの機能を連鎖発動します。"
     description:
       de: "Auf dem 7×7-Raster bilden gleiche Symbole Cluster. Treffer laden Gargantoon auf; ist die Anzeige voll, startet Quantum Leap eine Abfolge zusätzlicher Funktionen."
       en: "Matching symbols form clusters on Reactoonz’s 7×7 grid. Wins charge Gargantoon; when it is full, Quantum Leap sets off a sequence of extra features."
@@ -713,6 +741,13 @@ games:
       es: "vaqueros y oro del Salvaje Oeste"
       pt: "cowboys e ouro do Oeste Selvagem"
       ja: "西部開拓時代のカウボーイと金"
+    expert_insight:
+      de: "Wilds auf Walze 2–4 tragen 2×/3×/5×. Drei Sunset Scatter starten acht Freispiele; dort bleiben Multiplikator-Wilds kleben. Weitere 2–5 Scatter können vier bis 20 Freispiele ergänzen."
+      en: "Wilds on reels 2–4 carry 2×/3×/5× multipliers. Three Sunset Scatters start eight Free Spins with Sticky Wilds; 2–5 more Scatters during the feature can add four to 20 spins."
+      pl: "Wildy na bębnach 2–4 mają mnożniki 2×/3×/5×. Trzy Sunset Scatter uruchamiają osiem darmowych spinów ze Sticky Wilds; kolejne 2–5 Scatter mogą dodać od czterech do 20 spinów."
+      es: "Los Wild de los rodillos 2–4 llevan multiplicadores de 2×/3×/5×. Tres Sunset Scatter activan ocho giros gratis con Sticky Wilds; otros 2–5 Scatter pueden añadir de cuatro a 20 giros."
+      pt: "Os Wild dos rolos 2–4 têm multiplicadores de 2×/3×/5×. Três Sunset Scatter ativam oito rodadas grátis com Sticky Wilds; mais 2–5 Scatter podem acrescentar quatro a 20 rodadas."
+      ja: "2～4リールのWildは2倍・3倍・5倍の倍率付きです。Sunset Scatter3個で8回のフリースピンが始まり、Sticky Wildsが残ります。追加のScatter2～5個で4～20回を加算できます。"
     description:
       de: "Wild West Gold verbindet das Western-Thema mit Sticky Wilds und Respins. Während der Funktion können Wild-Symbole auf den Walzen bleiben und spätere Kombinationen ergänzen."
       en: "Wild West Gold brings Sticky Wilds and respins to its Western setting. Wild symbols can stay on the reels during the feature and contribute to later combinations."
@@ -783,6 +818,13 @@ games:
       es: "una princesa mágica en un mundo fantástico"
       pt: "uma princesa mágica num mundo de fantasia"
       ja: "幻想的な世界の魔法のプリンセス"
+    expert_insight:
+      de: "8–30 gleiche Symbole gewinnen überall im Feld. Multiplikatoren von 2× bis 500× werden am Ende einer Tumble-Sequenz addiert; im Freispiele-Bonus wächst daraus ein laufender Multiplikator."
+      en: "8–30 matching symbols can win anywhere. Multipliers from 2× to 500× are added at the end of a tumble sequence; in Free Spins, winning multipliers build a running total."
+      pl: "8–30 takich samych symboli może wygrać w dowolnym miejscu. Mnożniki 2×–500× sumują się na końcu kaskady; w darmowych spinach mnożniki z wygrywających obrotów budują łączny wynik."
+      es: "De 8 a 30 símbolos iguales pueden ganar en cualquier posición. Los multiplicadores de 2× a 500× se suman al final de una cascada; en los giros gratis, los multiplicadores ganadores forman un total acumulado."
+      pt: "De 8 a 30 símbolos iguais podem ganhar em qualquer posição. Os multiplicadores de 2× a 500× são somados no fim de uma cascata; nas rodadas grátis, os multiplicadores vencedores formam um total acumulado."
+      ja: "同じシンボル8～30個がどこにあっても配当対象です。2～500倍の倍率はタンブル終了時に合算され、フリースピンでは当たり時の倍率が累積していきます。"
     description:
       de: "Starlight Princess zahlt gleiche Symbole überall auf dem Raster. Zufällige Multiplikatoren addieren sich; Freispiele bauen einen Gesamtmultiplikator auf."
       en: "Starlight Princess pays for matching symbols anywhere on the grid. Random multipliers can add together, while free spins build a running total multiplier."
@@ -853,6 +895,13 @@ games:
       es: "Cascadas · Giros gratis · Multiplicadores Wild"
       pt: "Cascatas · Rodadas grátis · Multiplicadores Wild"
       ja: "カスケード · フリースピン · Wild倍率"
+    expert_insight:
+      de: "Die Bonus-Symbolzahl bestimmt das Paket: 4/5/6 Symbole geben 12/17/22 Freispiele und 5×/20×/100× Einsatz. In den Freispielen werden beitragende 2×-, 3×- und 5×-Wilds innerhalb einer Tumble-Sequenz miteinander multipliziert."
+      en: "The Bonus-symbol count sets the award: 4/5/6 symbols give 12/17/22 Free Spins and 5×/20×/100× the bet. In Free Spins, contributing 2×, 3× and 5× Wilds multiply together within a tumble sequence."
+      pl: "Liczba symboli bonusowych określa nagrodę: 4/5/6 symboli daje 12/17/22 darmowe spiny i 5×/20×/100× stawki. W bonusie mnożniki Wild 2×, 3× i 5× mnożą się w obrębie sekwencji kaskad."
+      es: "La cantidad de símbolos bonus determina el premio: 4/5/6 símbolos dan 12/17/22 giros gratis y 5×/20×/100× la apuesta. En el bonus, los Wild de 2×, 3× y 5× que participan se multiplican dentro de una secuencia de cascadas."
+      pt: "A quantidade de símbolos de bónus define o prémio: 4/5/6 símbolos dão 12/17/22 rodadas grátis e 5×/20×/100× a aposta. Nas rodadas grátis, os Wild de 2×, 3× e 5× que contribuem multiplicam-se numa sequência de cascatas."
+      ja: "ボーナスシンボル4/5/6個で12/17/22回のフリースピンと賭け額の5倍/20倍/100倍を獲得します。フリースピン中、配当に関与する2倍・3倍・5倍Wildはタンブル連鎖内で乗算されます。"
     description:
       de: "Sechs Kaskadenwalzen; 4/5/6 Bonus-Symbole vergeben 12/17/22 Freispiele plus 5×/20×/100× Einsatz. Wild-Multiplikatoren werden je Kaskade multipliziert."
       en: "Six tumbling reels; 4/5/6 Bonus symbols award 12/17/22 free spins plus 5x/20x/100x the stake. Wild multipliers combine within each tumble."
@@ -923,6 +972,13 @@ games:
       es: "Lujo · Jackpot"
       pt: "Luxo · Jackpot"
       ja: "ラグジュアリー · ジャックポット"
+    expert_insight:
+      de: "Ein gültiger Linien-Wild kann den Gewinn mit x5 multiplizieren; dieser Effekt gilt nicht für Bonusspiele oder zusätzliche Freispiele. Drei Bonus-Symbole auf einer aktiven Linie starten separat das Drei-Rad-Jackpotspiel."
+      en: "A valid line win using a Wild is multiplied by x5; this does not apply to Bonus Game wins or extra Free Spins. Three Bonus symbols on an active line separately trigger the three-wheel jackpot game."
+      pl: "Wild w wygrywającej kombinacji na linii mnoży wypłatę przez x5; efekt nie dotyczy wygranych w Bonus Game ani dodatkowych darmowych spinów. Trzy symbole Bonus na aktywnej linii uruchamiają osobną grę z trzema kołami jackpota."
+      es: "Un Wild válido en una línea ganadora multiplica el premio por x5; no se aplica a premios del Bonus Game ni a giros gratis adicionales. Tres símbolos Bonus en una línea activa inician el juego separado de tres ruletas jackpot."
+      pt: "Um Wild numa linha vencedora multiplica o prémio por x5; o efeito não se aplica a prémios do Bonus Game nem a rodadas grátis adicionais. Três símbolos Bonus numa linha ativa iniciam o jogo separado das três rodas de jackpot."
+      ja: "有効なライン勝利にWildが使われると配当はx5になりますが、Bonus Gameや追加フリースピンの配当には適用されません。有効ライン上のBonusシンボル3個で3つのホイールによるジャックポットゲームが始まります。"
     description:
       de: "Mega Fortune verbindet Yachten und Luxus mit Freispielen und progressiven Jackpots. Jede Jackpot-Stufe hat eigene Teilnahmebedingungen und Regeln."
       en: "Mega Fortune pairs a yacht-and-luxury theme with free spins and progressive jackpots. Each jackpot tier has its own eligibility rules and is separate from regular symbol wins."
@@ -993,6 +1049,13 @@ games:
       es: "9 líneas · 3 modos de giros gratis · multiplicadores Wild"
       pt: "9 linhas · 3 modos de rodadas grátis · multiplicadores Wild"
       ja: "9ライン · 3種フリースピン · Wild倍率"
+    expert_insight:
+      de: "Die drei Freispiele-Modi verändern die Wild-Regeln: Old Saloon verdoppelt Gewinne mit Sticky Wilds, High Noon bildet x2/x3-Multiplikator-Wilds auf einer Walze, Train Heist steigert einen Zähler durch jedes Wild."
+      en: "The three Free Spins modes change how Wilds work: Old Saloon doubles wins with Sticky Wilds, High Noon forms x2/x3 multiplier Wilds on one reel, and Train Heist advances a meter with each Wild."
+      pl: "Trzy tryby darmowych spinów zmieniają działanie Wild: Old Saloon podwaja wygrane dzięki Sticky Wilds, High Noon tworzy Wildy x2/x3 na jednym bębnie, a Train Heist zwiększa licznik za każdy Wild."
+      es: "Los tres modos de giros gratis cambian el papel de los Wild: Old Saloon duplica premios con Sticky Wilds, High Noon crea Wild multiplicadores x2/x3 en un rodillo y Train Heist hace avanzar un contador con cada Wild."
+      pt: "Os três modos de rodadas grátis mudam a função dos Wild: Old Saloon duplica prémios com Sticky Wilds, High Noon cria Wild multiplicadores x2/x3 no mesmo rolo e Train Heist avança um contador com cada Wild."
+      ja: "3種類のフリースピンはWildのルールが異なります。Old SaloonはSticky Wildで配当2倍、High Noonは同一リールにx2/x3倍率Wildを形成し、Train HeistはWildごとにメーターを進めます。"
     description:
       de: "9 feste Linien, Scatter-Sofortgewinne und drei Freispiele-Modi: Old Saloon, High Noon Saloon und Train Heist."
       en: "Nine fixed paylines, Scatter instant wins and three Free Spins modes: Old Saloon, High Noon Saloon and Train Heist."
@@ -1063,6 +1126,13 @@ games:
       es: "símbolos clásicos de tragaperras y rodillos enlazados"
       pt: "símbolos clássicos de slots e rolos ligados"
       ja: "クラシックなスロットシンボルと連動リール"
+    expert_insight:
+      de: "Jeder Spin startet mit mindestens zwei benachbarten, synchronisierten Walzen. Die Twin-Reel-Funktion kann sich zufällig auf drei, vier oder alle fünf Walzen ausweiten; gewertet wird über 243 Ways statt fester Linien."
+      en: "Every spin starts with at least two adjacent linked reels. The Twin Reel feature can randomly expand to three, four or all five reels; wins use 243 ways rather than fixed paylines."
+      pl: "Każdy spin zaczyna się od co najmniej dwóch sąsiednich, połączonych bębnów. Funkcja Twin Reel może losowo rozszerzyć się na trzy, cztery lub wszystkie pięć bębnów; wygrane są liczone na 243 sposoby, bez stałych linii."
+      es: "Cada giro comienza con al menos dos rodillos adyacentes enlazados. Twin Reel puede ampliarse aleatoriamente a tres, cuatro o los cinco rodillos; las ganancias usan 243 formas, no líneas fijas."
+      pt: "Cada jogada começa com pelo menos dois rolos adjacentes ligados. Twin Reel pode expandir-se aleatoriamente para três, quatro ou os cinco rolos; os prémios usam 243 formas, não linhas fixas."
+      ja: "毎スピン、隣接する少なくとも2リールが連動して始まります。Twin Reelはランダムに3・4・5リールへ拡大し、固定ラインではなく243通りで配当を判定します。"
     description:
       de: "Twin Spins Twin-Reel-Funktion koppelt Walzen, die sich synchron bewegen und das Walzenbild verändern können. Fruchtsymbole und klassisches Slot-Layout bilden den Rahmen."
       en: "Twin Spin’s Twin Reel feature links reels so they can move together and change the layout. Fruit symbols and a familiar slot format frame the game."
@@ -1133,6 +1203,13 @@ games:
       es: "Cluster Pays 5×6 · Cascadas · Soul Orbs"
       pt: "Cluster Pays 5×6 · Cascatas · Soul Orbs"
       ja: "5×6 Cluster Pays · カスケード · Soul Orbs"
+    expert_insight:
+      de: "Hand of Anubis kombiniert 5×6-Cluster-Gewinne und Kaskaden mit Soul Orbs, die Multiplikatoren im Basis- und Bonusspiel aufbauen. Die genaue Sammel- und Auszahlungsfolge ist nicht vollständig veröffentlicht und muss in der geladenen Version geprüft werden."
+      en: "Hand of Anubis combines 5×6 Cluster Pays and cascades with Soul Orbs that build multipliers in both the base game and bonus. The full collection and payout sequence is not published; check the loaded version's help."
+      pl: "Hand of Anubis łączy układ 5×6, Cluster Pays i kaskady z Soul Orbs budującymi mnożniki w grze podstawowej i bonusie. Pełna kolejność zbierania i wypłaty nie została opisana; sprawdź pomoc uruchomionej wersji."
+      es: "Hand of Anubis combina una cuadrícula 5×6, Cluster Pays y cascadas con Soul Orbs que construyen multiplicadores en el juego base y el bonus. La secuencia completa de recogida y pago no está publicada; consulta la ayuda de la versión cargada."
+      pt: "Hand of Anubis combina uma grelha 5×6, Cluster Pays e cascatas com Soul Orbs que constroem multiplicadores no jogo base e no bónus. A sequência completa de recolha e pagamento não está publicada; consulte a ajuda da versão aberta."
+      ja: "Hand of Anubisは5×6のCluster Paysとカスケードに、基本ゲームとボーナスの両方で倍率を築くSoul Orbsを組み合わせます。収集・配当の詳細な手順は公開情報にないため、起動版のヘルプで確認してください。"
     description:
       de: "Hand of Anubis kombiniert Cluster Pays auf einem 5×6-Feld mit Kaskaden. Soul Orbs bauen laut Anbieter im Grundspiel und in der Bonusfunktion Multiplikatoren auf."
       en: "Hand of Anubis pairs a 5×6 Cluster Pays grid with cascades. According to the provider, Soul Orbs build multipliers in both the classic game and Bonus Feature."
@@ -1203,6 +1280,13 @@ games:
       es: "dulces y un mundo fantástico lleno de color"
       pt: "doces e um mundo de fantasia colorido"
       ja: "お菓子とカラフルなファンタジーの世界"
+    expert_insight:
+      de: "Gewinncluster markieren ihre Positionen. Treffen im selben Spin weitere Gewinnsymbole auf diese Felder, wächst der Multiplikator von 2× bis 128×; in Freispielen bleiben Markierungen und Werte über die gesamte Runde erhalten."
+      en: "Winning clusters mark their grid positions. If later winning symbols land on those spots in the same spin, the multiplier grows from 2× to 128×; in Free Spins, marks and values persist for the whole round."
+      pl: "Wygrywające klastry zaznaczają swoje pola. Gdy w tym samym spinie kolejne symbole trafią w te miejsca, mnożnik rośnie od 2× do 128×; w darmowych spinach pola i wartości pozostają przez całą rundę."
+      es: "Los clústeres ganadores marcan sus posiciones. Si otros símbolos ganadores caen allí durante el mismo giro, el multiplicador crece de 2× a 128×; en los giros gratis, las marcas y valores duran toda la ronda."
+      pt: "Os clusters vencedores marcam as suas posições. Se novos símbolos vencedores caírem nesses locais na mesma jogada, o multiplicador cresce de 2× a 128×; nas rodadas grátis, marcas e valores persistem durante toda a ronda."
+      ja: "当たりクラスターは位置をマークします。同じスピン中に同じ場所へ再び当たりシンボルが落ちると倍率は2～128倍へ上昇。フリースピンではマークと倍率がラウンド中維持されます。"
     description:
       de: "Auf dem 7×7-Raster lösen Gewinn-Cluster Kaskaden aus. Multiplikatoren sitzen auf markierten Feldern und behalten ihre Positionen während der Freispiele."
       en: "On Sugar Rush’s 7×7 grid, winning clusters trigger tumbles. Multipliers sit on marked positions, which retain their values throughout free spins."
@@ -1273,6 +1357,13 @@ games:
       es: "243 formas · Wild Desire · Chamber of Spins"
       pt: "243 formas · Wild Desire · Chamber of Spins"
       ja: "243通り · Wild Desire · Chamber of Spins"
+    expert_insight:
+      de: "Wild Desire ist ein zufälliges Grundspiel-Feature; die Chamber of Spins startet dagegen über Scatter. Ihre vier Modi werden nach 1/5/10/15 Eintritten freigeschaltet und unterscheiden sich in Spin-Zahl und Zusatzfunktion."
+      en: "Wild Desire is a random base-game feature; the Scatter-triggered Chamber of Spins is separate. Its four modes unlock after 1/5/10/15 entries and differ in spin count and character feature."
+      pl: "Wild Desire to losowa funkcja gry podstawowej, a Chamber of Spins uruchamiają Scatter. Cztery tryby odblokowują się po 1/5/10/15 wejściach i różnią liczbą spinów oraz funkcją postaci."
+      es: "Wild Desire es una función aleatoria del juego base; Chamber of Spins se activa por Scatter. Sus cuatro modos se desbloquean tras 1/5/10/15 entradas y cambian la cantidad de giros y la función del personaje."
+      pt: "Wild Desire é uma função aleatória do jogo base; a Chamber of Spins é ativada por Scatter. Os quatro modos desbloqueiam-se após 1/5/10/15 entradas e diferem no número de rodadas e na função da personagem."
+      ja: "Wild Desireは基本ゲーム中のランダム機能で、Scatterで始まるChamber of Spinsとは別です。4つのモードは入室1/5/10/15回で解放され、回数とキャラクター機能が異なります。"
     description:
       de: "243 Gewinnwege mit Wild-Multiplikator; Wild Desire verwandelt bis zu fünf Walzen. Chamber of Spins bietet vier Figuren-Modi mit 10, 15, 20 oder 25 Freispielen."
       en: "243 ways to win with a Wild multiplier; Wild Desire turns up to five reels Wild. Chamber of Spins offers four character modes with 10, 15, 20 or 25 Free Spins."
@@ -1344,6 +1435,13 @@ games:
       es: "cinco leones dorados en un entorno de templos inspirado en Asia"
       pt: "cinco leões dourados num cenário de templos inspirado na Ásia"
       ja: "アジア風の寺院を舞台にした5頭の黄金の獅子"
+    expert_insight:
+      de: "117.649 ist die Obergrenze des variablen 7×6-Layouts, nicht der feste Ways-Wert je Spin. Vor den Freispielen wählt man aus sieben Kombinationen von Spin-Zahl und Wild-Multiplikatoren."
+      en: "117,649 is the 7×6 layout's ceiling, not a fixed count per spin. Before Free Spins, players choose among seven pairings of spin count and Wild-multiplier range."
+      pl: "117 649 to maksimum układu 7×6, nie stała liczba sposobów w każdym spinie. Przed darmowymi spinami wybiera się jedną z siedmiu opcji łączących liczbę spinów i zakres mnożników Wild."
+      es: "117.649 es el máximo del diseño 7×6, no una cifra fija en cada giro. Antes de los giros gratis se elige entre siete combinaciones de cantidad de giros y rangos de multiplicador Wild."
+      pt: "117 649 é o máximo do formato 7×6, não um valor fixo por jogada. Antes das rodadas grátis, escolhe-se entre sete combinações de quantidade de rodadas e intervalo de multiplicadores Wild."
+      ja: "117,649通りは可変7×6構成の最大値で、毎回固定ではありません。フリースピン前に、回数とWild倍率の範囲が異なる7種類のオプションから選びます。"
     description:
       de: "5 Lions Megaways verbindet ein 7×6-Megaways-Layout mit bis zu 117.649 Gewinnwegen, Tumbles, Goldlöwen-Wilds und sieben wählbaren Freispiele-Optionen."
       en: "5 Lions Megaways combines a 7×6 Megaways layout with up to 117,649 ways, Tumbles, Gold Lion Wilds and seven selectable free-spins options."
@@ -1414,6 +1512,13 @@ games:
       es: "Super Cascades · Golden Squares · 3 modos de bonus"
       pt: "Super Cascades · Golden Squares · 3 modos de bónus"
       ja: "Super Cascades · Golden Squares · 3種類のボーナス"
+    expert_insight:
+      de: "Super Cascades speichern Gewinnpositionen als Golden Squares; Rainbow aktiviert sie. Im Fünf-FS-Modus bleiben alle Felder markiert und Rainbow erscheint in jedem Spin."
+      en: "Super Cascades preserve cleared win positions as Golden Squares; Rainbow activates them. In the five-FS mode, the squares persist and a Rainbow is guaranteed on every spin."
+      pl: "Super Cascades zachowują wygrane pozycje jako Golden Squares, które aktywuje Rainbow. W trybie 5 symbolach FS pola pozostają podświetlone, a Rainbow pojawia się w każdym spinie."
+      es: "Super Cascades conservan las posiciones ganadoras como Golden Squares, que activa Rainbow. En el modo de 5 símbolos FS, todas siguen iluminadas y Rainbow aparece en cada giro."
+      pt: "Super Cascades guardam posições vencedoras como Golden Squares, ativadas por Rainbow. No modo de 5 símbolos FS, todas permanecem iluminadas e Rainbow surge em cada jogada."
+      ja: "Super Cascadesは当たり位置をGolden Squaresとして残し、Rainbowがそれらを起動します。FSが5個のモードでは全マスが残り、毎スピンRainbowが保証されます。"
     description:
       de: "Le Bandit kombiniert Cluster Pays auf sechs Walzen und fünf Reihen mit Super Cascades. Rainbow aktiviert Golden Squares; 3, 4 oder 5 FS-Symbole starten Bonusmodi."
       en: "Le Bandit combines six-reel, five-row Cluster Pays with Super Cascades. Rainbow activates Golden Squares, while 3, 4 or 5 FS symbols lead to different bonus modes."
@@ -1484,6 +1589,13 @@ games:
       es: "pistoleros enmascarados en el Salvaje Oeste"
       pt: "pistoleiros mascarados no Oeste Selvagem"
       ja: "西部開拓時代の覆面ガンマン"
+    expert_insight:
+      de: "DuelReels starten durch VS-Symbole: Gewinnt die Expansion, wird die Walze zum Wild und der Duell-Multiplikator gilt für ihre Gewinne. Great Train Robbery hält Wilds fest; Dead Man’s Hand sammelt Wilds und Multiplikatoren für den Showdown."
+      en: "VS symbols trigger DuelReels: when the expansion forms a win, the reel becomes Wild and its duellist's multiplier applies to wins through it. Great Train Robbery holds Wilds in place; Dead Man's Hand collects Wilds and multipliers for Showdown."
+      pl: "Symbole VS uruchamiają DuelReels: jeśli po rozszerzeniu powstanie wygrana, bęben staje się Wild, a mnożnik pojedynku obejmuje wygrane przez niego. Great Train Robbery utrwala Wildy; Dead Man’s Hand zbiera Wildy i mnożniki do Showdown."
+      es: "Los símbolos VS activan DuelReels: si la expansión forma una victoria, el rodillo se vuelve Wild y aplica el multiplicador del duelo. Great Train Robbery fija los Wild; Dead Man’s Hand los reúne con multiplicadores para Showdown."
+      pt: "Os símbolos VS ativam DuelReels: se a expansão formar uma vitória, o rolo torna-se Wild e aplica o multiplicador do duelo. Great Train Robbery mantém Wilds fixos; Dead Man’s Hand reúne Wilds e multiplicadores para o Showdown."
+      ja: "VSシンボルでDuelReelsが発動し、拡張後に当たりを作るとリールがWild化して決闘倍率が適用されます。Great Train RobberyはWildを固定し、Dead Man's HandはShowdown用にWildと倍率を集めます。"
     description:
       de: "DuelReels prägt diesen Western-Slot: VS-Symbole können sich zu Wild-Walzen ausdehnen und Gewinne auf diesen Walzen mit Multiplikatoren versehen. Mehrere Bonusmodi stehen bereit."
       en: "DuelReels defines this Wild West slot: VS symbols can expand into Wild reels and apply multipliers to wins passing through them. Several bonus modes are available."
@@ -1554,6 +1666,13 @@ games:
       es: "Money Cart · Shapeshifter · Absorber · Tommy Gun"
       pt: "Money Cart · Shapeshifter · Absorber · Tommy Gun"
       ja: "Money Cart · Shapeshifter · Absorber · Tommy Gun"
+    expert_insight:
+      de: "Shapeshifter wechselt seine Funktion, Absorber sammelt Multiplikatoren und Tommy Gun erhöht gezielt einen Symbolwert. Money Cart startet mit 3+ Bonus-Symbolen; Respins folgen dagegen auf einen Spin ohne Gewinn."
+      en: "Shapeshifter changes its feature role, Absorber gathers multipliers, and Tommy Gun boosts a targeted symbol value. Money Cart needs 3+ bonus symbols; Respins instead follow a spin with no win."
+      pl: "Shapeshifter zmienia funkcję, Absorber zbiera mnożniki, a Tommy Gun podnosi wartość wybranego rodzaju symbolu. Money Cart wymaga 3+ symboli bonusowych; Respins pojawiają się po spinie bez wygranej."
+      es: "Shapeshifter cambia de función, Absorber reúne multiplicadores y Tommy Gun aumenta el valor de un tipo de símbolo. Money Cart requiere 3+ símbolos bonus; Respins, en cambio, puede llegar tras un giro sin premio."
+      pt: "Shapeshifter muda de função, Absorber reúne multiplicadores e Tommy Gun aumenta o valor de um tipo de símbolo. Money Cart exige 3+ símbolos de bónus; os Respins podem surgir após uma jogada sem prémio."
+      ja: "Shapeshifterは機能を変え、Absorberは倍率を集約し、Tommy Gunは特定シンボルの価値を高めます。Money Cartはボーナスシンボル3個以上、Respinsは当たりなしのスピン後に発生します。"
     description:
       de: "Money Train 3 kombiniert die Money Cart Bonus Round mit Persistent Shapeshifter, Absorber und Tommy Gun. Respins können nach einem Spin ohne Gewinn starten."
       en: "Money Train 3 combines the Money Cart Bonus Round with Persistent Shapeshifter, Absorber and Tommy Gun. Respins can start after a spin with no win."
@@ -1624,6 +1743,13 @@ games:
       es: "Scatter Pays · Money Cart · símbolos especiales"
       pt: "Scatter Pays · Money Cart · símbolos especiais"
       ja: "Scatter Pays · Money Cart · 特殊シンボル"
+    expert_insight:
+      de: "Money Train 4 trennt Scatter Pays, Basis-Respins und den Money-Cart-Bonus. Arms Dealer wandelt Symbole um, Unlocker öffnet Reihen, Upgrader macht Symbole persistent und Reset füllt den Spin-Zähler auf."
+      en: "Money Train 4 separates Scatter Pays, base-game Respins and the Money Cart bonus. Arms Dealer converts symbols, Unlocker opens rows, Upgrader makes symbols persistent, and Reset refills the spin counter."
+      pl: "Money Train 4 rozdziela Scatter Pays, Respins w grze podstawowej i bonus Money Cart. Arms Dealer zmienia symbole, Unlocker otwiera rzędy, Upgrader utrwala symbole, a Reset odnawia licznik spinów."
+      es: "Money Train 4 separa Scatter Pays, Respins del juego base y el bonus Money Cart. Arms Dealer convierte símbolos, Unlocker abre filas, Upgrader los vuelve persistentes y Reset repone el contador de giros."
+      pt: "Money Train 4 separa Scatter Pays, Respins do jogo base e o bónus Money Cart. Arms Dealer converte símbolos, Unlocker abre linhas, Upgrader torna símbolos persistentes e Reset repõe o contador de jogadas."
+      ja: "Money Train 4はScatter Pays、基本ゲームのRespins、Money Cartボーナスを区別します。Arms Dealerはシンボルを変換し、Unlockerは列を開き、Upgraderはシンボルを固定化、Resetはスピン数を補充します。"
     description:
       de: "Scatter Pays und eine separate Respin-Funktion führen zur Money Cart Bonus Round. Arms Dealer, Unlocker, Upgrader und Reset verändern Symbole, Reihen und Spin-Zähler."
       en: "Scatter Pays and a separate Respin feature lead to Money Cart. Arms Dealer, Unlocker, Upgrader and Reset change feature symbols, rows or the spin counter."
@@ -1694,6 +1820,13 @@ games:
       es: "dioses nórdicos y el mundo vikingo"
       pt: "deuses nórdicos e o mundo dos vikings"
       ja: "北欧の神々とヴァイキングの世界"
+    expert_insight:
+      de: "Great Hall of Spins schaltet vier Modi stufenweise frei: Valkyrie zuerst, Loki nach 5, Odin nach 10 und Thor nach 15 Auslösungen. Die Mechanik wechselt zwischen x5-Gewinnen, Wild Magic, Wild Ravens und Rolling Reels."
+      en: "Great Hall of Spins unlocks four modes in sequence: Valkyrie on the first entry, Loki after 5, Odin after 10 and Thor after 15 triggers. Each changes the feature, not just the spin count: x5 wins, Wild Magic, Wild Ravens or Rolling Reels."
+      pl: "Great Hall of Spins odblokowuje cztery tryby kolejno: Valkyrie przy pierwszym wejściu, Loki po 5, Odin po 10 i Thor po 15 aktywacjach. Zmieniają one nie tylko liczbę spinów, lecz także mechanikę: wygrane x5, Wild Magic, Wild Ravens lub Rolling Reels."
+      es: "Great Hall of Spins desbloquea cuatro modos por orden: Valkyrie en la primera entrada, Loki tras 5, Odin tras 10 y Thor tras 15 activaciones. Cada uno cambia la mecánica, no solo los giros: premios x5, Wild Magic, Wild Ravens o Rolling Reels."
+      pt: "Great Hall of Spins desbloqueia quatro modos por ordem: Valkyrie na primeira entrada, Loki após 5, Odin após 10 e Thor após 15 ativações. Cada um altera a mecânica, não apenas as rodadas: prémios x5, Wild Magic, Wild Ravens ou Rolling Reels."
+      ja: "Great Hall of Spinsは4つのモードを順番に解放します。初回はValkyrie、5回目でLoki、10回目でOdin、15回目でThorです。回数だけでなく、x5配当、Wild Magic、Wild Ravens、Rolling Reelsと機能も変わります。"
     description:
       de: "Vier Figuren öffnen eigene Freispiel-Kammern mit unterschiedlichen Modifikatoren. Der Fortschritt durch diese Modi prägt den Bonus von Thunderstruck II."
       en: "Four characters unlock their own free-spins chambers, each with a different modifier. Progress through these modes defines the Thunderstruck II bonus."
@@ -1764,6 +1897,13 @@ games:
       es: "Clústeres · Cascadas · Multiplicadores Wild"
       pt: "Clusters · Cascatas · Multiplicadores Wild"
       ja: "クラスター · カスケード · Wild倍率"
+    expert_insight:
+      de: "Die 256×-Angabe betrifft addierte Wild-Multiplikatoren in Gewinnclustern des Basisspiels; bis zu 729× beschreibt dagegen ein einzelnes Wild in den Freispielen. Die Werte gehören zu unterschiedlichen Spielphasen."
+      en: "The 256× figure refers to Wild multipliers added across winning clusters in the base game; up to 729× describes an individual Wild in Free Spins. They apply to different game phases."
+      pl: "Wartość 256× dotyczy sumy mnożników Wild w wygrywających klastrach gry podstawowej; do 729× odnosi się natomiast do pojedynczego Wild w darmowych spinach. To różne fazy gry."
+      es: "La cifra de 256× suma multiplicadores Wild en clústeres ganadores del juego base; hasta 729× se refiere a un Wild individual en los giros gratis. Son reglas de fases distintas."
+      pt: "O valor de 256× soma multiplicadores Wild em clusters vencedores do jogo base; até 729× refere-se a um Wild individual nas rodadas grátis. São regras de fases diferentes."
+      ja: "256倍は基本ゲームの当たりクラスターでWild倍率を合算した値です。一方、729倍はフリースピン中の個別Wildの上限で、異なるゲーム段階のルールです。"
     description:
       de: "Fruit Party 2 verbindet Cluster-Gewinne und Kaskaden mit addierbaren Wild-Multiplikatoren bis 256×. Drei Scatter starten Freispiele mit eigenen Wild-Werten bis 729×."
       en: "Fruit Party 2 combines cluster wins and tumbles with base-game Wild multipliers that add up to 256x, plus free spins with individual Wilds up to 729x."
@@ -1834,6 +1974,13 @@ games:
       es: "Zeus y un magnífico templo en el Olimpo"
       pt: "Zeus e um magnífico templo no Olimpo"
       ja: "ゼウスとオリンポスの壮大な神殿"
+    expert_insight:
+      de: "Gewinne entstehen über 8–30 gleiche Symbole irgendwo im Feld, nicht auf festen Linien. Tumbles setzen den Spin fort; im Freispiele-Bonus wächst ein laufender Multiplikator nur, wenn ein Multiplikator-Symbol auf einem Gewinn-Spin landet."
+      en: "Wins come from 8–30 matching symbols anywhere, not fixed paylines. Tumbles extend a spin; in Free Spins, the running multiplier grows when a multiplier symbol lands on a winning spin."
+      pl: "Wygrane tworzy 8–30 takich samych symboli w dowolnym miejscu pola, bez stałych linii. Tumble kontynuują spin; w darmowych spinach mnożnik rośnie, gdy symbol mnożnika pojawi się przy wygranej."
+      es: "Se gana con 8–30 símbolos iguales en cualquier posición, sin líneas fijas. Los Tumbles prolongan el giro; en los giros gratis, el multiplicador acumulado aumenta cuando aparece en un giro con premio."
+      pt: "As vitórias surgem com 8–30 símbolos iguais em qualquer posição, sem linhas fixas. Os Tumbles prolongam a jogada; nas rodadas grátis, o multiplicador acumulado aumenta quando surge numa jogada vencedora."
+      ja: "固定ラインではなく、画面内の同一シンボル8～30個で勝利します。Tumbleが連続し、フリースピンでは倍率シンボルが当たりスピンに出た時だけ累積倍率が増えます。"
     description:
       de: "Gates of Olympus kombiniert Gewinne mit 8–30 Symbolen an beliebigen Positionen, sechs Kaskadenwalzen, Multiplikatoren bis 500× und 15 Freispielen ab vier Scattern."
       en: "Gates of Olympus combines pays-anywhere wins with 8–30 matching symbols, six tumbling reels, multipliers up to 500x and 15 free spins from four Scatters."
@@ -1904,6 +2051,13 @@ games:
       es: "un explorador en busca de El Dorado"
       pt: "um explorador à procura de El Dorado"
       ja: "エルドラドを探す冒険家"
+    expert_insight:
+      de: "Avalanche-Ketten gehören zum selben bezahlten Spin: Jeder weitere Gewinn erhöht den Multiplikator bis x5, danach endet die Kette und der Zähler setzt zurück. Free Falls starten mit 10 Spins und reichen bis x15."
+      en: "Avalanche chains belong to the same paid spin: each further win raises the multiplier up to x5, then the chain ends and the meter resets. Free Falls start with 10 spins and reach up to x15."
+      pl: "Łańcuchy Avalanche należą do tego samego opłaconego spinu: każda kolejna wygrana zwiększa mnożnik do x5, po czym łańcuch się kończy i licznik resetuje. Free Falls dają 10 spinów i mnożnik do x15."
+      es: "Las cadenas Avalanche forman parte del mismo giro pagado: cada premio consecutivo aumenta el multiplicador hasta x5; después la cadena termina y el contador se reinicia. Free Falls otorga 10 giros y llega hasta x15."
+      pt: "As cadeias Avalanche fazem parte da mesma jogada paga: cada vitória consecutiva aumenta o multiplicador até x5; depois a cadeia termina e o contador reinicia. Free Falls atribui 10 rodadas e chega até x15."
+      ja: "Avalancheの連鎖は同じ有料スピン内で続き、連続当選で倍率が最大x5まで上がります。連鎖終了でリセット。Free Fallsは10回から始まり、最大x15の倍率です。"
     description:
       de: "Gonzo's Quest nutzt Avalanche: Gewinnsymbole fallen weg und neue rücken nach. Jede weitere Avalanche im Spin erhöht den Multiplikator bis x5; Free Falls starten mit 10 Spins."
       en: "Gonzo's Quest uses Avalanche: winning symbols disappear and replacements fall into place. Consecutive Avalanches raise the multiplier; Free Falls add 10 bonus spins."
@@ -1974,6 +2128,13 @@ games:
       es: "símbolos iguales · cascadas · giros gratis"
       pt: "símbolos iguais · cascatas · rodadas grátis"
       ja: "一致シンボル · カスケード · フリースピン"
+    expert_insight:
+      de: "8–12 oder mehr gleiche Symbole können überall im 6×5-Feld gewinnen. In Freispielen werden Multiplikatoren von 2× bis 100× erst am Ende einer gesamten Tumble-Sequenz addiert."
+      en: "Wins can form with 8–12 or more matching symbols anywhere on the 6×5 grid. In Free Spins, 2×–100× multipliers are added at the end of the full tumble sequence."
+      pl: "Wygrana może powstać z 8–12 lub większej liczby takich samych symboli w dowolnym miejscu pola 6×5. W darmowych spinach mnożniki 2×–100× są sumowane na końcu całej sekwencji kaskad."
+      es: "Se puede ganar con 8–12 o más símbolos iguales en cualquier parte de la cuadrícula 6×5. En los giros gratis, los multiplicadores de 2×–100× se suman al final de toda la secuencia de cascadas."
+      pt: "É possível ganhar com 8–12 ou mais símbolos iguais em qualquer posição da grelha 6×5. Nas rodadas grátis, os multiplicadores de 2×–100× são somados no fim de toda a sequência de cascatas."
+      ja: "6×5の盤面では同じシンボル8～12個以上がどこにあっても配当対象です。フリースピン中の2～100倍の倍率は、タンブル連鎖全体の最後に合算されます。"
     description:
       de: "8–12+ gleiche Symbole zahlen überall im Raster. 4–6 Scatter starten 10 Freispiele; Multiplikatoren von 2×–100× werden je Tumble-Sequenz addiert."
       en: "8–12+ matching symbols pay anywhere on the grid. 4–6 Scatters start 10 Free Spins; 2×–100× multipliers are added at the end of each tumble sequence."
@@ -2044,6 +2205,13 @@ games:
       es: "giros gratis · Money Respin · Mega Jackpot"
       pt: "rodadas grátis · Money Respin · Mega Jackpot"
       ja: "フリースピン · Money Respin · Mega Jackpot"
+    expert_insight:
+      de: "Wolf Gold hat zwei getrennte Bonuswege: 3 Scatter starten 5 Freispiele mit einem Riesensymbol auf Walze 2–4; 6 Money Symbols starten Money Respin. Neue Geldsymbole setzen den Zähler zurück, 15 gefüllte Felder bringen 1.000×."
+      en: "Wolf Gold has two separate bonus routes: 3 Scatters start 5 Free Spins with a giant symbol across reels 2–4; 6 Money Symbols start Money Respin. New Money Symbols reset the counter, and filling all 15 spots awards 1,000×."
+      pl: "Wolf Gold ma dwie osobne ścieżki bonusowe: 3 Scatter dają 5 darmowych spinów z wielkim symbolem na bębnach 2–4; 6 Money Symbols uruchamia Money Respin. Nowe symbole resetują licznik, a zapełnienie 15 pól daje 1 000×."
+      es: "Wolf Gold tiene dos rutas distintas: 3 Scatter dan 5 giros gratis con un símbolo gigante en los rodillos 2–4; 6 Money Symbols activan Money Respin. Cada nuevo símbolo reinicia el contador y llenar las 15 casillas otorga 1.000×."
+      pt: "Wolf Gold tem duas rotas distintas: 3 Scatter dão 5 rodadas grátis com um símbolo gigante nos rolos 2–4; 6 Money Symbols ativam Money Respin. Cada novo símbolo reinicia o contador e preencher as 15 posições atribui 1.000×."
+      ja: "Wolf Goldには2つのボーナスがあります。Scatter3個で2～4リールが巨大シンボルになる5回のフリースピン、Money Symbols6個でMoney Respinです。新しいMoney Symbolで残り回数が3に戻り、15マス完成で1,000倍を獲得します。"
     description:
       de: "Drei Scatter starten fünf Freispiele mit Riesensymbol auf Walzen 2–4. Sechs Money Symbols starten Money Respin; 15 belegte Felder bringen den 1.000×-Mega-Jackpot."
       en: "Three Scatters start five Free Spins with a giant symbol on reels 2–4. Six Money Symbols trigger Money Respin; filling all 15 positions awards the 1,000× Mega Jackpot."
@@ -2114,6 +2282,13 @@ games:
       es: "Wild León · giros gratis · ruleta jackpot"
       pt: "Wild Leão · rodadas grátis · roda jackpot"
       ja: "ライオンWild · フリースピン · ジャックポットホイール"
+    expert_insight:
+      de: "Der Lion Wild verdoppelt passende Liniengewinne; drei Monkey Scatter starten 15 Freispiele mit dreifachen Gewinnen. Das progressive Jackpot-Rad ist ein separates Zufallsfeature mit Mini-, Minor-, Major- und Mega-Stufe."
+      en: "The Lion Wild doubles qualifying line wins; three Monkey Scatters start 15 Free Spins with wins tripled. The progressive jackpot wheel is a separate random feature with Mini, Minor, Major and Mega tiers."
+      pl: "Lion Wild podwaja wygrane kombinacje na liniach, a trzy Monkey Scatter uruchamiają 15 darmowych spinów z potrójnymi wygranymi. Koło progresywnego jackpota to osobna funkcja losowa z poziomami Mini, Minor, Major i Mega."
+      es: "Lion Wild duplica las combinaciones ganadoras en líneas; tres Monkey Scatter activan 15 giros gratis con premios triplicados. La ruleta progresiva es una función aleatoria independiente con niveles Mini, Minor, Major y Mega."
+      pt: "Lion Wild duplica combinações vencedoras nas linhas; três Monkey Scatter ativam 15 rodadas grátis com prémios triplicados. A roda de jackpot progressivo é uma função aleatória separada com níveis Mini, Minor, Major e Mega."
+      ja: "Lion Wildはライン配当を2倍にし、Monkey Scatter3個で勝利が3倍になる15回のフリースピンが始まります。プログレッシブジャックポットのホイールは別のランダム機能で、Mini/Minor/Major/Megaの4段階です。"
     description:
       de: "Fünf Walzen und 25 Linien: Das Löwen-Wild verdoppelt vervollständigte Gewinne. Drei Affen-Scatter starten 15 Freispiele mit 3×-Gewinnen; das Jackpot-Rad bietet vier Stufen."
       en: "Five reels and 25 paylines: the Lion Wild doubles completed wins. Three Monkey Scatters start 15 Free Spins with 3× wins; the jackpot wheel has four tiers."

@@ -342,3 +342,119 @@ Sources checked on 2026-11-03:
 The profiles explicitly identify the original game, not Immortal Romance II, Remastered or Immortal Romance Mega Moolah. They separate base-game Wild Desire from the Scatter-triggered Chamber of Spins, explain Amber/Troy/Michael/Sarah individually, and avoid a universal RTP or stake-range claim because operator help pages show different configurations. Existing URLs, artwork, Corey Levitan attribution and `editorial-review-pending` status are preserved.
 
 The slot-profile validator now checks the exact source records, localized mechanics, profile depth and pending editorial status for both batches.
+
+## Expert card batch 1: 5 Lions Megaways and Le Bandit
+
+Introduced a separate localized `expert_insight` field for the catalogue cards of 5 Lions Megaways and Le Bandit, in German, English, Polish, Spanish, Portuguese and Japanese.
+
+The new card copy is an interpretation of the mechanics rather than a repeat of the feature label:
+
+- **5 Lions Megaways:** clarifies that 117,649 is the ceiling of the variable 7×6 layout, not a fixed count on every spin; highlights the seven Free Spins configurations and the trade-off between spin counts and Wild-multiplier ranges.
+- **Le Bandit:** explains that Super Cascades preserve winning positions as Golden Squares, which Rainbow activates later; distinguishes the five-FS mode by its persistent highlighted squares and guaranteed Rainbow on each spin.
+
+Sources checked on 2026-11-03:
+
+1. [Pragmatic Play — 5 Lions Megaways](https://www.pragmaticplay.com/en/games/5-lions-megaways/): three or more bonus symbols trigger the feature; seven Free Spins options combine up to 25 spins with Wild multipliers up to 40×.
+2. [Pragmatic Play — 5 Lions Megaways launch announcement, 24 June 2021](https://www.pragmaticplay.com/en/news/pragmatic-play-recharges-asian-adventure-in-5-lions-megaways/): 7×6 layout, up to 117,649 ways, Tumbles, Gold Lion Wild and Yin-Yang Scatter.
+3. [Hacksaw Gaming — Le Bandit](https://www.hacksawgaming.com/games/le-bandit): Super Cascades, Golden Squares and Rainbow activation, coin and special-symbol sequence, and the three bonus modes.
+
+The catalogue cards and their corresponding game-profile pages now render the same localized expert takeaway. Other catalogue entries retain the existing editorial-insight fallback until their own source-backed analysis is prepared. The card label field remains unchanged. Existing game URLs, images, author attribution and `editorial-review-pending` status are preserved; no claim of a personal playtest or human editorial sign-off is made.
+
+Automated validation now checks that both expert insight fields exist in all six locales, contain the expected game-specific mechanics, stay within the approved card-length range and render in both catalogue and profile templates.
+
+## Expert card batch 2: Money Train 3, Money Train 4, Fruit Party 2 and Gates of Olympus
+
+Added localized expert takeaways to the four catalogue entries and matching profile pages, in German, English, Polish, Spanish, Portuguese and Japanese.
+
+- **Money Train 3:** separates the jobs of Shapeshifter, Absorber and Tommy Gun, and distinguishes the three-symbol Money Cart trigger from the no-win Respin trigger.
+- **Money Train 4:** separates Scatter Pays, base-game Respins and Money Cart; clarifies the different roles of Arms Dealer, Unlocker, Upgrader and Reset.
+- **Fruit Party 2:** prevents a common comparison error by distinguishing the additive 256× base-game Wild multiplier across winning clusters from the up-to-729× value of an individual Wild during Free Spins.
+- **Gates of Olympus:** explains pays-anywhere wins (8–30 matching symbols), Tumbles and the running Free Spins multiplier; the accumulated multiplier increases when a multiplier symbol lands on a winning spin.
+
+Primary sources are linked in the corresponding existing English profile and were used as the source record for the localized takeaway:
+
+1. [Relax Gaming — Money Train 3 announcement, 22 September 2022](https://www.relax-gaming.com/news/2022/09/relax-gamings-biggest-slot-release-of-the-year-money-train-3-arrives-at-the-station)
+2. [Relax Gaming — Money Train 4 product page](https://www.relax-gaming.com/products/casino/moneytrain4) and [launch announcement, 20 September 2023](https://www.relax-gaming.com/news/2023/09/relax-gamings-legendary-bandits-depart-the-station-for-their-last-stand-in-money-train-4)
+3. [Pragmatic Play — Fruit Party 2 announcement, 5 August 2021](https://www.pragmaticplay.com/en/news/pragmatic-play-back-with-juicier-wins-than-ever-in-fruit-party-2/)
+4. [Pragmatic Play — Gates of Olympus product page](https://www.pragmaticplay.com/en/games/gates-of-olympus/) and [original game announcement, 24 February 2021](https://www.pragmaticplay.com/en/news/pragmatic-play-aims-for-the-heavens-in-gates-of-olympus/)
+
+No additional RTP, volatility, stake or personal-playtest claims were introduced. Existing URLs, artwork, authorship and `editorial-review-pending` status are preserved.
+
+## Expert card coverage status
+
+Six of the 25 catalogue games now have source-based, localized expert takeaways: 5 Lions Megaways, Le Bandit, Money Train 3, Money Train 4, Fruit Party 2 and Gates of Olympus.
+
+The remaining cards retain the previous catalogue-label fallback until a source-backed game-specific insight is prepared. Short or stub profiles such as Wanted Dead or a Wild and Thunderstruck II are deliberately not given speculative expert copy; they need a fuller source verification pass first.
+
+## Expert card batch 3: Starburst, The Dog House and Legacy of Dead
+
+Added expert takeaways for three established profiles, across German, English, Polish, Spanish, Portuguese and Japanese.
+
+- **Starburst:** clarifies that the ten paylines are evaluated in both directions rather than doubled into twenty separate lines; the Expanding Wild fills a reel and triggers a Respin without guaranteeing a win.
+- **The Dog House:** highlights that multiplier Wilds are on reels 2–4, three Bonus Paws trigger a randomly allocated number of Free Spins, and Sticky Wilds remain in place during the bonus.
+- **Legacy of Dead:** explains the Tomb's dual Wild/Scatter role and the three-symbol Free Spins trigger; carefully labels the randomly selected Special Expanding Symbol and any spin counts as configuration-specific to the reviewed rules PDF.
+
+Sources already recorded in the corresponding source-based profiles:
+
+1. [NetEnt — Starburst](https://netent.com/games/starburst) and [Evolution Games — Starburst](https://games.evolution.com/slots/starburst/).
+2. [Pragmatic Play — The Dog House](https://www.pragmaticplay.com/en/games/the-dog-house-slot/) and [original launch announcement](https://www.pragmaticplay.com/en/news/pragmatic-play-launches-the-dog-house/).
+3. [Play'n GO — Legacy of Dead](https://www.playngo.com/games/legacy-of-dead) and [the specific PA/USD rules PDF](https://cms.rationalcdn.com/v3/assets/blteecf9626d9a38b03/blt898cf269cdcf0f68/6669ae43664d450e1620e1a6/Legacy_of_Dead.pdf).
+
+The card copy does not generalize the reviewed PDF's spin counts to every operator version and does not introduce unsupported volatility, universal RTP or stake claims. Existing URL, artwork, author attribution and pending editorial status are preserved.
+
+## Expert card batch 4: Immortal Romance, Sweet Bonanza, Wolf Gold, Mega Moolah and Gonzo's Quest
+
+Added five more localized expert takeaways in all six configured languages.
+
+- **Immortal Romance:** separates random base-game Wild Desire from the Scatter-triggered Chamber of Spins and notes that the Amber/Troy/Michael/Sarah modes unlock through the 1/5/10/15 entry progression.
+- **Sweet Bonanza:** clarifies that 8–12+ matching symbols can win anywhere on the 6×5 grid and that Free Spins multipliers from 2× to 100× are summed at the end of the full tumble sequence.
+- **Wolf Gold:** distinguishes the 3-Scatter/5-Free-Spins giant-symbol route from the six-Money-Symbol Money Respin route, including the respin reset and 15-position completion condition.
+- **Mega Moolah:** separates the Lion Wild's 2× line-win effect and 15 Free Spins with 3× wins from the independent progressive jackpot wheel and its four tiers.
+- **Gonzo's Quest:** explains that Avalanche chains belong to one paid spin, the base multiplier grows to x5 and resets when the chain ends, while Free Falls use a higher multiplier scale up to x15.
+
+Sources are linked from the corresponding existing English profiles:
+
+1. [Danske Spil — Immortal Romance game help](https://help.danskespil.dk/en/casino-help/slots/mgsimmortalromancehtml), [Mecca Games — Immortal Romance](https://www.meccagames.com/games/immortal-romance).
+2. [Pragmatic Play — Sweet Bonanza product page](https://www.pragmaticplay.com/en/games/sweet-bonanza-slot/) and [launch article](https://www.pragmaticplay.com/en/news/pragmatic-play-launches-sweet-bonanza/).
+3. [Pragmatic Play — Wolf Gold](https://www.pragmaticplay.com/en/games/wolf-gold-slot/).
+4. [Games Global — progressive jackpot portfolio](https://www.gamesglobal.com/Products), [Mega Moolah feature guide](https://www.megamoolah.com/news/what-are-the-key-symbols-i-need-to-know-on-the-mega-moolah-slot-539), and [Mecca Games — classic rules](https://www.meccagames.com/games/mega-moolah).
+5. [NetEnt — Gonzo's Quest](https://netent.com/games/gonzos-quest) and [Danske Spil — Gonzo's Quest game help](https://help.danskespil.dk/en/casino-help/slots/netentgonzosquesthtml).
+
+No universal RTP, volatility or stake claims are added to the expert cards. Operator-specific rules remain identified as version-dependent in the associated profiles.
+
+## Expert card batch 5: Reactoonz, Wild West Gold, Starlight Princess, Mega Fortune, Twin Spin, Sugar Rush and Wanted Dead or a Wild
+
+Added source-based expert insights for seven more games in all six locales.
+
+- **Reactoonz:** cluster wins of five or more on a 7×7 grid charge Gargantoon; Quantum Leap then releases a chain of up to five features.
+- **Wild West Gold:** distinguishes 2×/3×/5× multiplier Wilds on reels 2–4, the three-Sunset-Scatter trigger and Sticky Wilds / additional spins during the bonus.
+- **Starlight Princess:** separates pays-anywhere wins (8–30 matching symbols) from multiplier evaluation; multipliers are summed at tumble end and winning bonus multipliers build a running total. A conflicting displayed initial-spin count is intentionally omitted.
+- **Mega Fortune:** distinguishes the x5 Wild effect on eligible line wins from the separate three-wheel progressive jackpot game triggered by three Bonus symbols on an active line.
+- **Twin Spin:** explains that each spin starts with at least two adjacent linked reels, which can expand to three, four or five, while wins use 243 ways rather than fixed paylines.
+- **Sugar Rush:** explains how winning positions are marked, same-spin hits build a multiplier from 2× up to 128×, and marks/multipliers persist through the Free Spins round.
+- **Wanted Dead or a Wild:** explains VS-triggered DuelReels and distinguishes the sticky-Wild Great Train Robbery from the collection-and-Showdown sequence in Dead Man's Hand.
+
+Sources used and recorded in the source list:
+
+1. [Play'n GO — Reactoonz](https://www.playngo.com/games/reactoonz).
+2. [Pragmatic Play — Wild West Gold product page](https://www.pragmaticplay.com/en/games/wild-west-gold-slot/) and [launch article, 26 March 2020](https://www.pragmaticplay.com/en/news/pragmatic-play-rides-into-town-with-wild-west-gold/).
+3. [Pragmatic Play — Starlight Princess product page](https://www.pragmaticplay.com/en/games/starlight-princess/) and [launch article, 23 September 2021](https://www.pragmaticplay.com/en/news/pragmatic-play-delivers-regal-adventure-in-starlight-princess/).
+4. [NetEnt — Mega Fortune](https://netent.com/games/mega-fortune).
+5. [NetEnt — Twin Spin](https://netent.com/games/twin-spin) and [Danske Spil game help](https://help.danskespil.dk/en/casino-help/slots/netenttwinspinhtml).
+6. [Pragmatic Play — original Sugar Rush](https://www.pragmaticplay.com/en/games/sugar-rush/).
+7. [Hacksaw Gaming — Wanted Dead or a Wild](https://www.hacksawgaming.com/games/wanted-dead-or-a-wild).
+
+The insight deliberately does not carry operator-specific RTP/stake figures into the cards. Existing URLs, art, authorship and pending editorial review are preserved.
+
+## Expert card batch 6: Thunderstruck II
+
+Completed the final catalogue entry with localized expert insight in all six languages.
+
+The card explains the Great Hall of Spins progression: Valkyrie is available on the first entry, Loki unlocks after five activations, Odin after ten and Thor after fifteen. It emphasizes that each chamber changes the bonus mechanic, not only the number of spins: x5 wins, Wild Magic, Wild Ravens and Rolling Reels.
+
+Sources checked:
+
+1. [Mecca Games — Thunderstruck II game rules](https://www.meccagames.com/games/thunderstruck-ii): 243 ways, Wild and Scatter rules, Wild Storm, Great Hall of Spins, chamber unlocks and each mode's feature.
+2. [Danske Spil — Thunderstruck II game help](https://help.danskespil.dk/en/casino-help/slots/mgsthunderstruck2html): confirms the five-reel/243-ways structure and gives detailed rules for Valkyrie, Loki, Odin and Thor.
+
+The profile remains editorial-review-pending. Version-specific bet configuration and the operator-specific RTP are not generalized into the expert card.

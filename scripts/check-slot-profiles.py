@@ -56,12 +56,230 @@ def main():
         "arthur-mustoe", "corey-levitan", "cristina-tudose", "dan-michalski",
         "dominic-field", "jon-pill", "marco-ibarra",
     }
+    # Expert card copy is separate from the short mechanic labels and must exist in every locale.
+    expert_insight_terms = {
+        "5 Lions Megaways": {
+            "de": ("117.649", "sieben"),
+            "en": ("117,649", "seven"),
+            "pl": ("117 649", "siedmiu"),
+            "es": ("117.649", "siete"),
+            "pt": ("117 649", "sete"),
+            "ja": ("117,649", "7種類"),
+        },
+        "Le Bandit": {
+            "de": ("Golden Squares", "Rainbow", "Fünf-FS"),
+            "en": ("Golden Squares", "Rainbow", "five-FS"),
+            "pl": ("Golden Squares", "Rainbow", "5 symbolach FS"),
+            "es": ("Golden Squares", "Rainbow", "5 símbolos FS"),
+            "pt": ("Golden Squares", "Rainbow", "5 símbolos FS"),
+            "ja": ("Golden Squares", "Rainbow", "FSが5個"),
+        },
+        "Money Train 3": {
+            "de": ("Shapeshifter", "Absorber", "Tommy Gun", "Money Cart", "Respins"),
+            "en": ("Shapeshifter", "Absorber", "Tommy Gun", "Money Cart", "Respins"),
+            "pl": ("Shapeshifter", "Absorber", "Tommy Gun", "Money Cart", "Respins"),
+            "es": ("Shapeshifter", "Absorber", "Tommy Gun", "Money Cart", "Respins"),
+            "pt": ("Shapeshifter", "Absorber", "Tommy Gun", "Money Cart", "Respins"),
+            "ja": ("Shapeshifter", "Absorber", "Tommy Gun", "Money Cart", "Respins"),
+        },
+        "Money Train 4": {
+            "de": ("Scatter Pays", "Money-Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
+            "en": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
+            "pl": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
+            "es": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
+            "pt": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
+            "ja": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
+        },
+        "Fruit Party 2": {
+            "de": ("256×", "729×", "Basisspiels"),
+            "en": ("256×", "729×", "base game"),
+            "pl": ("256×", "729×", "gry podstawowej"),
+            "es": ("256×", "729×", "juego base"),
+            "pt": ("256×", "729×", "jogo base"),
+            "ja": ("256倍", "729倍", "基本ゲーム"),
+        },
+        "Gates of Olympus": {
+            "de": ("8–30", "Tumbles", "Freispiele"),
+            "en": ("8–30", "Tumbles", "Free Spins"),
+            "pl": ("8–30", "Tumble", "darmowych spinach"),
+            "es": ("8–30", "Tumbles", "giros gratis"),
+            "pt": ("8–30", "Tumbles", "rodadas grátis"),
+            "ja": ("8～30", "Tumble", "フリースピン"),
+        },
+        "Starburst": {
+            "de": ("Win Both Ways", "Expanding Wild", "Respin"),
+            "en": ("Win Both Ways", "Expanding Wild", "Respin"),
+            "pl": ("Win Both Ways", "Expanding Wild", "Respin"),
+            "es": ("Win Both Ways", "Expanding Wild", "Respin"),
+            "pt": ("Win Both Ways", "Expanding Wild", "Respin"),
+            "ja": ("Win Both Ways", "Expanding Wild", "Respin"),
+        },
+        "The Dog House": {
+            "de": ("Bonus Paws", "Sticky Wilds"),
+            "en": ("Bonus Paws", "Sticky Wilds"),
+            "pl": ("Bonus Paw", "Sticky Wilds"),
+            "es": ("Bonus Paw", "Sticky Wilds"),
+            "pt": ("Bonus Paw", "Sticky Wilds"),
+            "ja": ("Bonus Paw", "Sticky Wilds"),
+        },
+        "Legacy of Dead": {
+            "de": ("Tomb", "Scatter", "Special Expanding Symbol"),
+            "en": ("Tomb", "Scatter", "Special Expanding Symbol"),
+            "pl": ("Tomb", "Scatter", "Special Expanding Symbol"),
+            "es": ("Tomb", "Scatter", "Special Expanding Symbol"),
+            "pt": ("Tomb", "Scatter", "Special Expanding Symbol"),
+            "ja": ("Tomb", "Scatter", "Special Expanding Symbol"),
+        },
+        "Buffalo King Megaways": {
+            "de": ("4/5/6", "12/17/22", "5×/20×/100×"),
+            "en": ("4/5/6", "12/17/22", "5×/20×/100×"),
+            "pl": ("4/5/6", "12/17/22", "5×/20×/100×"),
+            "es": ("4/5/6", "12/17/22", "5×/20×/100×"),
+            "pt": ("4/5/6", "12/17/22", "5×/20×/100×"),
+            "ja": ("4/5/6", "12/17/22", "5倍/20倍/100倍"),
+        },
+        "Dead or Alive 2": {
+            "de": ("Old Saloon", "High Noon", "Train Heist", "Sticky Wilds"),
+            "en": ("Old Saloon", "High Noon", "Train Heist", "Sticky Wilds"),
+            "pl": ("Old Saloon", "High Noon", "Train Heist", "Sticky Wilds"),
+            "es": ("Old Saloon", "High Noon", "Train Heist", "Sticky Wilds"),
+            "pt": ("Old Saloon", "High Noon", "Train Heist", "Sticky Wilds"),
+            "ja": ("Old Saloon", "High Noon", "Train Heist", "Sticky Wild"),
+        },
+        "Hand of Anubis": {
+            "de": ("5×6", "Cluster-Gewinne", "Soul Orbs"),
+            "en": ("5×6", "Cluster Pays", "Soul Orbs"),
+            "pl": ("5×6", "Cluster Pays", "Soul Orbs"),
+            "es": ("5×6", "Cluster Pays", "Soul Orbs"),
+            "pt": ("5×6", "Cluster Pays", "Soul Orbs"),
+            "ja": ("5×6", "Cluster Pays", "Soul Orbs"),
+        },
+        "Immortal Romance": {
+            "de": ("Wild Desire", "Chamber of Spins", "1/5/10/15"),
+            "en": ("Wild Desire", "Chamber of Spins", "1/5/10/15"),
+            "pl": ("Wild Desire", "Chamber of Spins", "1/5/10/15"),
+            "es": ("Wild Desire", "Chamber of Spins", "1/5/10/15"),
+            "pt": ("Wild Desire", "Chamber of Spins", "1/5/10/15"),
+            "ja": ("Wild Desire", "Chamber of Spins", "1/5/10/15"),
+        },
+        "Sweet Bonanza": {
+            "de": ("8–12", "2×", "100×"),
+            "en": ("8–12", "2×", "100×"),
+            "pl": ("8–12", "2×", "100×"),
+            "es": ("8–12", "2×", "100×"),
+            "pt": ("8–12", "2×", "100×"),
+            "ja": ("8～12", "2～100倍", "タンブル"),
+        },
+        "Wolf Gold": {
+            "de": ("Money Respin", "3 Scatter", "1.000×"),
+            "en": ("Money Respin", "3 Scatters", "1,000×"),
+            "pl": ("Money Respin", "3 Scatter", "1 000×"),
+            "es": ("Money Respin", "3 Scatter", "1.000×"),
+            "pt": ("Money Respin", "3 Scatter", "1.000×"),
+            "ja": ("Money Respin", "Scatter3個", "1,000倍"),
+        },
+        "Mega Moolah": {
+            "de": ("Lion Wild", "Monkey Scatter", "Mini", "Mega"),
+            "en": ("Lion Wild", "Monkey Scatter", "Mini", "Mega"),
+            "pl": ("Lion Wild", "Monkey Scatter", "Mini", "Mega"),
+            "es": ("Lion Wild", "Monkey Scatter", "Mini", "Mega"),
+            "pt": ("Lion Wild", "Monkey Scatter", "Mini", "Mega"),
+            "ja": ("Lion Wild", "Monkey Scatter", "Mini", "Mega"),
+        },
+        "Gonzo's Quest": {
+            "de": ("Avalanche", "x5", "Free Falls", "x15"),
+            "en": ("Avalanche", "x5", "Free Falls", "x15"),
+            "pl": ("Avalanche", "x5", "Free Falls", "x15"),
+            "es": ("Avalanche", "x5", "Free Falls", "x15"),
+            "pt": ("Avalanche", "x5", "Free Falls", "x15"),
+            "ja": ("Avalanche", "x5", "Free Falls", "x15"),
+        },
+        "Reactoonz": {
+            "de": ("7×7", "Gargantoon", "Quantum Leap"),
+            "en": ("7×7", "Gargantoon", "Quantum Leap"),
+            "pl": ("7×7", "Gargantoon", "Quantum Leap"),
+            "es": ("7×7", "Gargantoon", "Quantum Leap"),
+            "pt": ("7×7", "Gargantoon", "Quantum Leap"),
+            "ja": ("7×7", "Gargantoon", "Quantum Leap"),
+        },
+        "Wild West Gold": {
+            "de": ("2×/3×/5×", "Sunset Scatter", "Multiplikator-Wilds"),
+            "en": ("2×/3×/5×", "Sunset Scatter", "Sticky Wilds"),
+            "pl": ("2×/3×/5×", "Sunset Scatter", "Sticky Wilds"),
+            "es": ("2×/3×/5×", "Sunset Scatter", "Sticky Wilds"),
+            "pt": ("2×/3×/5×", "Sunset Scatter", "Sticky Wilds"),
+            "ja": ("2倍・3倍・5倍", "Sunset Scatter", "Sticky Wilds"),
+        },
+        "Starlight Princess": {
+            "de": ("8–30", "500×", "Tumble"),
+            "en": ("8–30", "500×", "tumble"),
+            "pl": ("8–30", "500×", "kaskady"),
+            "es": ("8 a 30", "500×", "cascada"),
+            "pt": ("8 a 30", "500×", "cascata"),
+            "ja": ("8～30", "500倍", "タンブル"),
+        },
+        "Mega Fortune": {
+            "de": ("x5", "Bonus", "Jackpot"),
+            "en": ("x5", "Bonus", "jackpot"),
+            "pl": ("x5", "Bonus", "jackpot"),
+            "es": ("x5", "Bonus", "jackpot"),
+            "pt": ("x5", "Bonus", "jackpot"),
+            "ja": ("x5", "Bonus", "ジャックポット"),
+        },
+        "Twin Spin": {
+            "de": ("Twin-Reel", "243", "fünf"),
+            "en": ("Twin Reel", "243", "five"),
+            "pl": ("Twin Reel", "243", "pięć"),
+            "es": ("Twin Reel", "243", "cinco"),
+            "pt": ("Twin Reel", "243", "cinco"),
+            "ja": ("Twin Reel", "243", "5リール"),
+        },
+        "Sugar Rush": {
+            "de": ("Gewinncluster", "128×", "2×"),
+            "en": ("Winning clusters", "128×", "2×"),
+            "pl": ("klastry", "128×", "2×"),
+            "es": ("clústeres", "128×", "2×"),
+            "pt": ("clusters", "128×", "2×"),
+            "ja": ("2～128倍", "マーク", "フリースピン"),
+        },
+        "Wanted Dead or a Wild": {
+            "de": ("DuelReels", "VS", "Great Train Robbery"),
+            "en": ("DuelReels", "VS", "Great Train Robbery"),
+            "pl": ("DuelReels", "VS", "Great Train Robbery"),
+            "es": ("DuelReels", "VS", "Great Train Robbery"),
+            "pt": ("DuelReels", "VS", "Great Train Robbery"),
+            "ja": ("DuelReels", "VS", "Great Train Robbery"),
+        },
+        "Thunderstruck II": {
+            "de": ("Great Hall of Spins", "Valkyrie", "Loki", "Odin", "Thor", "Rolling Reels"),
+            "en": ("Great Hall of Spins", "Valkyrie", "Loki", "Odin", "Thor", "Rolling Reels"),
+            "pl": ("Great Hall of Spins", "Valkyrie", "Loki", "Odin", "Thor", "Rolling Reels"),
+            "es": ("Great Hall of Spins", "Valkyrie", "Loki", "Odin", "Thor", "Rolling Reels"),
+            "pt": ("Great Hall of Spins", "Valkyrie", "Loki", "Odin", "Thor", "Rolling Reels"),
+            "ja": ("Great Hall of Spins", "Valkyrie", "Loki", "Odin", "Thor", "Rolling Reels"),
+        },
+    }
     # Prevent accidental reuse of one card teaser for multiple games in any locale.
     seen_descriptions: dict[str, dict[str, str]] = {lang: {} for lang in LANGS}
     for game in games:
         game_name = str(game.get("name", "")).strip()
         localized = game.get("description", {}) or {}
+        expert_insight = game.get("expert_insight", {}) or {}
         author = str(game.get("author", "")).strip()
+        if game_name in expert_insight_terms:
+            localized_labels = game.get("label", {}) or {}
+            for lang in LANGS:
+                insight = str(expert_insight.get(lang, "")).strip()
+                label = str(localized_labels.get(lang, "")).strip()
+                if len(insight) < 70 or len(insight) > 260:
+                    errors.append(f"{game_name}/{lang}: expert insight length must be 70–260 characters")
+                if not insight:
+                    errors.append(f"{game_name}/{lang}: missing expert insight")
+                if insight.casefold() == label.casefold():
+                    errors.append(f"{game_name}/{lang}: expert insight duplicates the feature label")
+                for term in expert_insight_terms[game_name][lang]:
+                    if term.casefold() not in insight.casefold():
+                        errors.append(f"{game_name}/{lang}: expert insight is missing {term!r}")
         if author not in author_slugs:
             errors.append(f"{game_name}: missing or unknown confirmed author {author!r}")
         keywords = game.get("keywords", {}) or {}
@@ -442,6 +660,10 @@ def main():
         errors.append("Head partial does not render localized SEO keywords")
     if "slot-game-card-author" not in card_layout:
         errors.append("Slot cards do not display author bylines")
+    if "expert_insight" not in card_layout or "slot-game-card-insight--expert" not in card_layout:
+        errors.append("Slot catalogue cards do not render localized expert insights")
+    if "expert_insight" not in expert_text or "slot-expert-analysis--expert" not in expert_text:
+        errors.append("Slot profile pages do not render source-based expert insight cards")
     if errors:
         print("ERROR: standalone slot-profile checks failed:")
         print("\n".join(f" - {item}" for item in errors))

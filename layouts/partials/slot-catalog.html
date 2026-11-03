@@ -33,6 +33,8 @@
   <div class="slots-catalog-grid" id="slot-catalog-grid">
     {{ range $index, $game := $catalog.games }}
       {{ $label := index $game.label $lang | default (index $game.label "en") }}
+      {{ $expertInsight := "" }}
+      {{ with $game.expert_insight }}{{ $expertInsight = index . $lang | default "" }}{{ end }}
       {{ $summary := index $game.description $lang | default (index $game.description "en") }}
       {{ $alt := index $game.alt $lang | default (index $game.alt "en") }}
       {{ $searchText := printf "%s %s %s" $game.name $game.provider $game.anchor }}
@@ -40,6 +42,7 @@
       {{ $imageSrc := cond $parsedImage.IsAbs $game.image ($game.image | relURL) }}
       {{ range $game.description }}{{ $searchText = printf "%s %s" $searchText . }}{{ end }}
       {{ range $game.label }}{{ $searchText = printf "%s %s" $searchText . }}{{ end }}
+      {{ with $game.expert_insight }}{{ range . }}{{ $searchText = printf "%s %s" $searchText . }}{{ end }}{{ end }}
       <article class="slot-game-card" id="{{ if and (eq $lang "de") (ge $index 5) }}slot-card-{{ $game.anchor }}{{ end }}" data-search="{{ $searchText | lower }}">
         <a class="slot-game-card-link" href="{{ printf "%s/slots/%s/" $.Site.LanguagePrefix $game.anchor }}">
           <div class="slot-game-card-art">
@@ -64,9 +67,14 @@
             {{ with $game.author_name }}
               <span class="slot-game-card-provider slot-game-card-author">{{ if eq $lang "de" }}Autor:{{ else if eq $lang "en" }}By{{ else if eq $lang "pl" }}Autor:{{ else if eq $lang "es" }}Por{{ else if eq $lang "pt" }}Por{{ else }}執筆者：{{ end }} {{ . }}</span>
             {{ end }}
-            <div class="slot-game-card-insight">
-              <span class="slot-game-card-insight-title">{{ if eq $lang "de" }}Spielanalyse{{ else if eq $lang "en" }}EDITORIAL INSIGHT{{ else if eq $lang "es" }}ANÁLISIS DEL JUEGO{{ else if eq $lang "pt" }}ANÁLISE DO JOGO{{ else if eq $lang "ja" }}ゲーム分析{{ else }}ANALIZA GRY{{ end }}</span>
-              <span class="slot-game-card-label">{{ $label }}</span>
+            <div class="slot-game-card-insight{{ if $expertInsight }} slot-game-card-insight--expert{{ end }}">
+              {{ if $expertInsight }}
+                <span class="slot-game-card-insight-title">{{ if eq $lang "de" }}EXPERTEN-EINORDNUNG{{ else if eq $lang "en" }}EXPERT TAKEAWAY{{ else if eq $lang "pl" }}WNIOSKI EKSPERCKIE{{ else if eq $lang "es" }}CLAVE EXPERTA{{ else if eq $lang "pt" }}LEITURA ESPECIALIZADA{{ else }}専門的な見方{{ end }}</span>
+                <span class="slot-game-card-label">{{ $expertInsight }}</span>
+              {{ else }}
+                <span class="slot-game-card-insight-title">{{ if eq $lang "de" }}Spielanalyse{{ else if eq $lang "en" }}EDITORIAL INSIGHT{{ else if eq $lang "es" }}ANÁLISIS DEL JUEGO{{ else if eq $lang "pt" }}ANÁLISE DO JOGO{{ else if eq $lang "ja" }}ゲーム分析{{ else }}ANALIZA GRY{{ end }}</span>
+                <span class="slot-game-card-label">{{ $label }}</span>
+              {{ end }}
             </div>
             <span class="slot-game-card-action">{{ $readMore }} <span aria-hidden="true">→</span></span>
           </div>

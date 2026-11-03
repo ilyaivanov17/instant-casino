@@ -361,3 +361,27 @@ Sources checked on 2026-11-03:
 The catalogue cards and their corresponding game-profile pages now render the same localized expert takeaway. Other catalogue entries retain the existing editorial-insight fallback until their own source-backed analysis is prepared. The card label field remains unchanged. Existing game URLs, images, author attribution and `editorial-review-pending` status are preserved; no claim of a personal playtest or human editorial sign-off is made.
 
 Automated validation now checks that both expert insight fields exist in all six locales, contain the expected game-specific mechanics, stay within the approved card-length range and render in both catalogue and profile templates.
+
+## Expert card batch 2: Money Train 3, Money Train 4, Fruit Party 2 and Gates of Olympus
+
+Added localized expert takeaways to the four catalogue entries and matching profile pages, in German, English, Polish, Spanish, Portuguese and Japanese.
+
+- **Money Train 3:** separates the jobs of Shapeshifter, Absorber and Tommy Gun, and distinguishes the three-symbol Money Cart trigger from the no-win Respin trigger.
+- **Money Train 4:** separates Scatter Pays, base-game Respins and Money Cart; clarifies the different roles of Arms Dealer, Unlocker, Upgrader and Reset.
+- **Fruit Party 2:** prevents a common comparison error by distinguishing the additive 256× base-game Wild multiplier across winning clusters from the up-to-729× value of an individual Wild during Free Spins.
+- **Gates of Olympus:** explains pays-anywhere wins (8–30 matching symbols), Tumbles and the running Free Spins multiplier; the accumulated multiplier increases when a multiplier symbol lands on a winning spin.
+
+Primary sources are linked in the corresponding existing English profile and were used as the source record for the localized takeaway:
+
+1. [Relax Gaming — Money Train 3 announcement, 22 September 2022](https://www.relax-gaming.com/news/2022/09/relax-gamings-biggest-slot-release-of-the-year-money-train-3-arrives-at-the-station)
+2. [Relax Gaming — Money Train 4 product page](https://www.relax-gaming.com/products/casino/moneytrain4) and [launch announcement, 20 September 2023](https://www.relax-gaming.com/news/2023/09/relax-gamings-legendary-bandits-depart-the-station-for-their-last-stand-in-money-train-4)
+3. [Pragmatic Play — Fruit Party 2 announcement, 5 August 2021](https://www.pragmaticplay.com/en/news/pragmatic-play-back-with-juicier-wins-than-ever-in-fruit-party-2/)
+4. [Pragmatic Play — Gates of Olympus product page](https://www.pragmaticplay.com/en/games/gates-of-olympus/) and [original game announcement, 24 February 2021](https://www.pragmaticplay.com/en/news/pragmatic-play-aims-for-the-heavens-in-gates-of-olympus/)
+
+No additional RTP, volatility, stake or personal-playtest claims were introduced. Existing URLs, artwork, authorship and `editorial-review-pending` status are preserved.
+
+## Expert card coverage status
+
+Six of the 25 catalogue games now have source-based, localized expert takeaways: 5 Lions Megaways, Le Bandit, Money Train 3, Money Train 4, Fruit Party 2 and Gates of Olympus.
+
+The remaining cards retain the previous catalogue-label fallback until a source-backed game-specific insight is prepared. Short or stub profiles such as Wanted Dead or a Wild and Thunderstruck II are deliberately not given speculative expert copy; they need a fuller source verification pass first.

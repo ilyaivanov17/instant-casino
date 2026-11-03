@@ -69,7 +69,7 @@ def main():
         "Le Bandit": {
             "de": ("Golden Squares", "Rainbow", "fünf FS"),
             "en": ("Golden Squares", "Rainbow", "five-FS"),
-            "pl": ("Golden Squares", "Rainbow", "5 symbolami FS"),
+            "pl": ("Golden Squares", "Rainbow", "5 symbolach FS"),
             "es": ("Golden Squares", "Rainbow", "5 símbolos FS"),
             "pt": ("Golden Squares", "Rainbow", "5 símbolos FS"),
             "ja": ("Golden Squares", "Rainbow", "FSが5個"),

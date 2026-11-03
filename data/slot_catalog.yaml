@@ -664,6 +664,13 @@ games:
       es: "alienígenas de colores en un entorno espacial"
       pt: "alienígenas coloridos num cenário espacial"
       ja: "宇宙を舞台にしたカラフルなエイリアン"
+    expert_insight:
+      de: "Gewinne entstehen durch Cluster aus mindestens fünf gleichen Aliens auf dem 7×7-Feld. Treffer verschwinden und laden Gargantoon auf; bei voller Energie löst Quantum Leap eine Kette von bis zu fünf Features aus."
+      en: "Wins start with clusters of at least five matching aliens on the 7×7 grid. Winning aliens disappear and charge Gargantoon; once full, Quantum Leap releases a chain of up to five features."
+      pl: "Wygrane tworzą klastry co najmniej pięciu takich samych obcych na polu 7×7. Trafione symbole znikają i ładują Gargantoon; po pełnym naładowaniu Quantum Leap uruchamia łańcuch do pięciu funkcji."
+      es: "Se gana con grupos de al menos cinco alienígenas iguales en la cuadrícula 7×7. Los ganadores desaparecen y cargan a Gargantoon; al llenarse, Quantum Leap activa una cadena de hasta cinco funciones."
+      pt: "As vitórias surgem em grupos de pelo menos cinco aliens iguais na grelha 7×7. Os símbolos vencedores desaparecem e carregam Gargantoon; quando está cheio, Quantum Leap ativa uma cadeia de até cinco funções."
+      ja: "7×7の盤面で同じエイリアン5個以上のクラスターが勝利になります。勝利シンボルが消えてGargantoonを充電し、満タンになるとQuantum Leapが最大5つの機能を連鎖発動します。"
     description:
       de: "Auf dem 7×7-Raster bilden gleiche Symbole Cluster. Treffer laden Gargantoon auf; ist die Anzeige voll, startet Quantum Leap eine Abfolge zusätzlicher Funktionen."
       en: "Matching symbols form clusters on Reactoonz’s 7×7 grid. Wins charge Gargantoon; when it is full, Quantum Leap sets off a sequence of extra features."
@@ -734,6 +741,13 @@ games:
       es: "vaqueros y oro del Salvaje Oeste"
       pt: "cowboys e ouro do Oeste Selvagem"
       ja: "西部開拓時代のカウボーイと金"
+    expert_insight:
+      de: "Wilds auf Walze 2–4 tragen 2×/3×/5×. Drei Sunset Scatter starten acht Freispiele; dort bleiben Multiplikator-Wilds kleben. Weitere 2–5 Scatter können vier bis 20 Freispiele ergänzen."
+      en: "Wilds on reels 2–4 carry 2×/3×/5× multipliers. Three Sunset Scatters start eight Free Spins with Sticky Wilds; 2–5 more Scatters during the feature can add four to 20 spins."
+      pl: "Wildy na bębnach 2–4 mają mnożniki 2×/3×/5×. Trzy Sunset Scatter uruchamiają osiem darmowych spinów ze Sticky Wilds; kolejne 2–5 Scatter mogą dodać od czterech do 20 spinów."
+      es: "Los Wild de los rodillos 2–4 llevan multiplicadores de 2×/3×/5×. Tres Sunset Scatter activan ocho giros gratis con Sticky Wilds; otros 2–5 Scatter pueden añadir de cuatro a 20 giros."
+      pt: "Os Wild dos rolos 2–4 têm multiplicadores de 2×/3×/5×. Três Sunset Scatter ativam oito rodadas grátis com Sticky Wilds; mais 2–5 Scatter podem acrescentar quatro a 20 rodadas."
+      ja: "2～4リールのWildは2倍・3倍・5倍の倍率付きです。Sunset Scatter3個で8回のフリースピンが始まり、Sticky Wildsが残ります。追加のScatter2～5個で4～20回を加算できます。"
     description:
       de: "Wild West Gold verbindet das Western-Thema mit Sticky Wilds und Respins. Während der Funktion können Wild-Symbole auf den Walzen bleiben und spätere Kombinationen ergänzen."
       en: "Wild West Gold brings Sticky Wilds and respins to its Western setting. Wild symbols can stay on the reels during the feature and contribute to later combinations."
@@ -804,6 +818,13 @@ games:
       es: "una princesa mágica en un mundo fantástico"
       pt: "uma princesa mágica num mundo de fantasia"
       ja: "幻想的な世界の魔法のプリンセス"
+    expert_insight:
+      de: "8–30 gleiche Symbole gewinnen überall im Feld. Multiplikatoren von 2× bis 500× werden am Ende einer Tumble-Sequenz addiert; im Freispiele-Bonus wächst daraus ein laufender Multiplikator."
+      en: "8–30 matching symbols can win anywhere. Multipliers from 2× to 500× are added at the end of a tumble sequence; in Free Spins, winning multipliers build a running total."
+      pl: "8–30 takich samych symboli może wygrać w dowolnym miejscu. Mnożniki 2×–500× sumują się na końcu kaskady; w darmowych spinach mnożniki z wygrywających obrotów budują łączny wynik."
+      es: "De 8 a 30 símbolos iguales pueden ganar en cualquier posición. Los multiplicadores de 2× a 500× se suman al final de una cascada; en los giros gratis, los multiplicadores ganadores forman un total acumulado."
+      pt: "De 8 a 30 símbolos iguais podem ganhar em qualquer posição. Os multiplicadores de 2× a 500× são somados no fim de uma cascata; nas rodadas grátis, os multiplicadores vencedores formam um total acumulado."
+      ja: "同じシンボル8～30個がどこにあっても配当対象です。2～500倍の倍率はタンブル終了時に合算され、フリースピンでは当たり時の倍率が累積していきます。"
     description:
       de: "Starlight Princess zahlt gleiche Symbole überall auf dem Raster. Zufällige Multiplikatoren addieren sich; Freispiele bauen einen Gesamtmultiplikator auf."
       en: "Starlight Princess pays for matching symbols anywhere on the grid. Random multipliers can add together, while free spins build a running total multiplier."
@@ -951,6 +972,13 @@ games:
       es: "Lujo · Jackpot"
       pt: "Luxo · Jackpot"
       ja: "ラグジュアリー · ジャックポット"
+    expert_insight:
+      de: "Ein gültiger Linien-Wild kann den Gewinn mit x5 multiplizieren; dieser Effekt gilt nicht für Bonusspiele oder zusätzliche Freispiele. Drei Bonus-Symbole auf einer aktiven Linie starten separat das Drei-Rad-Jackpotspiel."
+      en: "A valid line win using a Wild is multiplied by x5; this does not apply to Bonus Game wins or extra Free Spins. Three Bonus symbols on an active line separately trigger the three-wheel jackpot game."
+      pl: "Wild w wygrywającej kombinacji na linii mnoży wypłatę przez x5; efekt nie dotyczy wygranych w Bonus Game ani dodatkowych darmowych spinów. Trzy symbole Bonus na aktywnej linii uruchamiają osobną grę z trzema kołami jackpota."
+      es: "Un Wild válido en una línea ganadora multiplica el premio por x5; no se aplica a premios del Bonus Game ni a giros gratis adicionales. Tres símbolos Bonus en una línea activa inician el juego separado de tres ruletas jackpot."
+      pt: "Um Wild numa linha vencedora multiplica o prémio por x5; o efeito não se aplica a prémios do Bonus Game nem a rodadas grátis adicionais. Três símbolos Bonus numa linha ativa iniciam o jogo separado das três rodas de jackpot."
+      ja: "有効なライン勝利にWildが使われると配当はx5になりますが、Bonus Gameや追加フリースピンの配当には適用されません。有効ライン上のBonusシンボル3個で3つのホイールによるジャックポットゲームが始まります。"
     description:
       de: "Mega Fortune verbindet Yachten und Luxus mit Freispielen und progressiven Jackpots. Jede Jackpot-Stufe hat eigene Teilnahmebedingungen und Regeln."
       en: "Mega Fortune pairs a yacht-and-luxury theme with free spins and progressive jackpots. Each jackpot tier has its own eligibility rules and is separate from regular symbol wins."
@@ -1098,6 +1126,13 @@ games:
       es: "símbolos clásicos de tragaperras y rodillos enlazados"
       pt: "símbolos clássicos de slots e rolos ligados"
       ja: "クラシックなスロットシンボルと連動リール"
+    expert_insight:
+      de: "Jeder Spin startet mit mindestens zwei benachbarten, synchronisierten Walzen. Die Twin-Reel-Funktion kann sich zufällig auf drei, vier oder alle fünf Walzen ausweiten; gewertet wird über 243 Ways statt fester Linien."
+      en: "Every spin starts with at least two adjacent linked reels. The Twin Reel feature can randomly expand to three, four or all five reels; wins use 243 ways rather than fixed paylines."
+      pl: "Każdy spin zaczyna się od co najmniej dwóch sąsiednich, połączonych bębnów. Funkcja Twin Reel może losowo rozszerzyć się na trzy, cztery lub wszystkie pięć bębnów; wygrane są liczone na 243 sposoby, bez stałych linii."
+      es: "Cada giro comienza con al menos dos rodillos adyacentes enlazados. Twin Reel puede ampliarse aleatoriamente a tres, cuatro o los cinco rodillos; las ganancias usan 243 formas, no líneas fijas."
+      pt: "Cada jogada começa com pelo menos dois rolos adjacentes ligados. Twin Reel pode expandir-se aleatoriamente para três, quatro ou os cinco rolos; os prémios usam 243 formas, não linhas fixas."
+      ja: "毎スピン、隣接する少なくとも2リールが連動して始まります。Twin Reelはランダムに3・4・5リールへ拡大し、固定ラインではなく243通りで配当を判定します。"
     description:
       de: "Twin Spins Twin-Reel-Funktion koppelt Walzen, die sich synchron bewegen und das Walzenbild verändern können. Fruchtsymbole und klassisches Slot-Layout bilden den Rahmen."
       en: "Twin Spin’s Twin Reel feature links reels so they can move together and change the layout. Fruit symbols and a familiar slot format frame the game."
@@ -1245,6 +1280,13 @@ games:
       es: "dulces y un mundo fantástico lleno de color"
       pt: "doces e um mundo de fantasia colorido"
       ja: "お菓子とカラフルなファンタジーの世界"
+    expert_insight:
+      de: "Gewinncluster markieren ihre Positionen. Treffen im selben Spin weitere Gewinnsymbole auf diese Felder, wächst der Multiplikator von 2× bis 128×; in Freispielen bleiben Markierungen und Werte über die gesamte Runde erhalten."
+      en: "Winning clusters mark their grid positions. If later winning symbols land on those spots in the same spin, the multiplier grows from 2× to 128×; in Free Spins, marks and values persist for the whole round."
+      pl: "Wygrywające klastry zaznaczają swoje pola. Gdy w tym samym spinie kolejne symbole trafią w te miejsca, mnożnik rośnie od 2× do 128×; w darmowych spinach pola i wartości pozostają przez całą rundę."
+      es: "Los clústeres ganadores marcan sus posiciones. Si otros símbolos ganadores caen allí durante el mismo giro, el multiplicador crece de 2× a 128×; en los giros gratis, las marcas y valores duran toda la ronda."
+      pt: "Os clusters vencedores marcam as suas posições. Se novos símbolos vencedores caírem nesses locais na mesma jogada, o multiplicador cresce de 2× a 128×; nas rodadas grátis, marcas e valores persistem durante toda a ronda."
+      ja: "当たりクラスターは位置をマークします。同じスピン中に同じ場所へ再び当たりシンボルが落ちると倍率は2～128倍へ上昇。フリースピンではマークと倍率がラウンド中維持されます。"
     description:
       de: "Auf dem 7×7-Raster lösen Gewinn-Cluster Kaskaden aus. Multiplikatoren sitzen auf markierten Feldern und behalten ihre Positionen während der Freispiele."
       en: "On Sugar Rush’s 7×7 grid, winning clusters trigger tumbles. Multipliers sit on marked positions, which retain their values throughout free spins."
@@ -1547,6 +1589,13 @@ games:
       es: "pistoleros enmascarados en el Salvaje Oeste"
       pt: "pistoleiros mascarados no Oeste Selvagem"
       ja: "西部開拓時代の覆面ガンマン"
+    expert_insight:
+      de: "DuelReels starten durch VS-Symbole: Gewinnt die Expansion, wird die Walze zum Wild und der Duell-Multiplikator gilt für ihre Gewinne. Great Train Robbery hält Wilds fest; Dead Man’s Hand sammelt Wilds und Multiplikatoren für den Showdown."
+      en: "VS symbols trigger DuelReels: when the expansion forms a win, the reel becomes Wild and its duellist's multiplier applies to wins through it. Great Train Robbery holds Wilds in place; Dead Man's Hand collects Wilds and multipliers for Showdown."
+      pl: "Symbole VS uruchamiają DuelReels: jeśli po rozszerzeniu powstanie wygrana, bęben staje się Wild, a mnożnik pojedynku obejmuje wygrane przez niego. Great Train Robbery utrwala Wildy; Dead Man’s Hand zbiera Wildy i mnożniki do Showdown."
+      es: "Los símbolos VS activan DuelReels: si la expansión forma una victoria, el rodillo se vuelve Wild y aplica el multiplicador del duelo. Great Train Robbery fija los Wild; Dead Man’s Hand los reúne con multiplicadores para Showdown."
+      pt: "Os símbolos VS ativam DuelReels: se a expansão formar uma vitória, o rolo torna-se Wild e aplica o multiplicador do duelo. Great Train Robbery mantém Wilds fixos; Dead Man’s Hand reúne Wilds e multiplicadores para o Showdown."
+      ja: "VSシンボルでDuelReelsが発動し、拡張後に当たりを作るとリールがWild化して決闘倍率が適用されます。Great Train RobberyはWildを固定し、Dead Man's HandはShowdown用にWildと倍率を集めます。"
     description:
       de: "DuelReels prägt diesen Western-Slot: VS-Symbole können sich zu Wild-Walzen ausdehnen und Gewinne auf diesen Walzen mit Multiplikatoren versehen. Mehrere Bonusmodi stehen bereit."
       en: "DuelReels defines this Wild West slot: VS symbols can expand into Wild reels and apply multipliers to wins passing through them. Several bonus modes are available."

@@ -43,7 +43,7 @@ The game rules list four events that can trigger another collapse: a winning com
 
 An xBomb Wild substitutes for regular symbols but not Bonus symbols. When it explodes, it removes adjacent symbols – Bonus symbols are excluded – and increases the win multiplier for the next collapse by its value. The provider says visible xBomb Wilds explode before the next collapse, except when the Wild Mining feature is triggered instead.
 
-Wild Mining can activate in the base game when three to six matching symbols line up horizontally or vertically without making a winning combination. The triggering symbols are removed and Wild symbols are placed in the middle positions of the alignment. Three aligned symbols create one Wild, four create two, five create three and six create four Wilds. The feature can then trigger another collapse.
+Wild Mining can activate in the base game when three to six matching symbols line up horizontally or vertically without making a winning combination. No xHole or xBomb Wild can be active at the same time. The triggering symbols are removed and Wild symbols are placed in the middle positions of the alignment. Three aligned symbols create one Wild, four create two, five create three and six create four Wilds. The feature can then trigger another collapse.
 
 ## xSplit, xHole and features buried in ice
 

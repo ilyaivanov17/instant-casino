@@ -1344,6 +1344,13 @@ games:
       es: "cinco leones dorados en un entorno de templos inspirado en Asia"
       pt: "cinco leões dourados num cenário de templos inspirado na Ásia"
       ja: "アジア風の寺院を舞台にした5頭の黄金の獅子"
+    expert_insight:
+      de: "117.649 Gewinnwege sind die Obergrenze des variablen 7×6-Layouts, kein fester Wert pro Spin. Die eigentliche Wahl fällt vor den Freispielen: Sieben Optionen kombinieren unterschiedliche Spin-Zahlen mit Wild-Multiplikator-Spannen."
+      en: "117,649 ways is the ceiling of the variable 7×6 layout, not a fixed count on every spin. The key decision comes before Free Spins: seven options pair different spin counts with Wild-multiplier ranges."
+      pl: "117 649 sposobów to maksimum zmiennego układu 7×6, a nie stała liczba przy każdym spinie. Kluczowy wybór następuje przed darmowymi spinami: siedem opcji łączy różne liczby spinów z zakresami mnożników Wild."
+      es: "117.649 formas es el máximo del diseño variable 7×6, no una cifra fija en cada giro. La decisión clave llega antes de los giros gratis: siete opciones combinan distintas cantidades de giros y rangos de multiplicadores Wild."
+      pt: "117 649 formas é o máximo do formato variável 7×6, não um valor fixo em cada jogada. A escolha principal acontece antes das rodadas grátis: sete opções combinam diferentes quantidades de rodadas e intervalos de multiplicadores Wild."
+      ja: "117,649通りは可変7×6構成の最大値で、毎回固定ではありません。重要なのはフリースピン前の選択です。7種類のオプションがスピン数とWild倍率の範囲を組み合わせます。"
     description:
       de: "5 Lions Megaways verbindet ein 7×6-Megaways-Layout mit bis zu 117.649 Gewinnwegen, Tumbles, Goldlöwen-Wilds und sieben wählbaren Freispiele-Optionen."
       en: "5 Lions Megaways combines a 7×6 Megaways layout with up to 117,649 ways, Tumbles, Gold Lion Wilds and seven selectable free-spins options."
@@ -1414,6 +1421,13 @@ games:
       es: "Super Cascades · Golden Squares · 3 modos de bonus"
       pt: "Super Cascades · Golden Squares · 3 modos de bónus"
       ja: "Super Cascades · Golden Squares · 3種類のボーナス"
+    expert_insight:
+      de: "Super Cascades markieren Gewinnpositionen als Golden Squares; ein Rainbow aktiviert sie. Die Bonusmodi unterscheiden sich darin, wie lange diese Felder erhalten bleiben: Bei fünf FS bleibt alles markiert und in jedem Spin erscheint ein Rainbow."
+      en: "Super Cascades preserve cleared win positions as Golden Squares; a Rainbow activates them later. Bonus modes differ in persistence: the five-FS mode keeps every square lit and guarantees a Rainbow on each spin."
+      pl: "Super Cascades zapisują wygrane pozycje jako Golden Squares, a Rainbow je aktywuje. Tryby bonusowe różnią się trwałością pól: przy 5 symbolach FS wszystkie pozostają podświetlone, a Rainbow pojawia się w każdym spinie."
+      es: "Super Cascades conservan las posiciones ganadoras como Golden Squares; Rainbow las activa. Los modos difieren en la duración de esas marcas: con 5 símbolos FS, todas permanecen iluminadas y aparece un Rainbow en cada giro."
+      pt: "Super Cascades guardam as posições vencedoras como Golden Squares; Rainbow ativa-as. Os modos diferem na duração dessas marcas: com 5 símbolos FS, todas permanecem iluminadas e surge um Rainbow em cada jogada."
+      ja: "Super Cascadesは当たり位置をGolden Squaresとして残し、Rainbowが起動します。FSが5個のモードでは全マスがボーナス中ずっと残り、毎スピンRainbowが保証されます。"
     description:
       de: "Le Bandit kombiniert Cluster Pays auf sechs Walzen und fünf Reihen mit Super Cascades. Rainbow aktiviert Golden Squares; 3, 4 oder 5 FS-Symbole starten Bonusmodi."
       en: "Le Bandit combines six-reel, five-row Cluster Pays with Super Cascades. Rainbow activates Golden Squares, while 3, 4 or 5 FS symbols lead to different bonus modes."

@@ -43,7 +43,7 @@ Las reglas del juego señalan cuatro posibles desencadenantes de otro derrumbe: 
 
 Un xBomb Wild sustituye a los símbolos normales, pero no a los símbolos Bonus. Al explotar, elimina los símbolos adyacentes —los Bonus quedan excluidos— y aumenta con su valor el multiplicador de premio para el siguiente derrumbe. Según el proveedor, los xBomb Wild visibles explotan antes del siguiente derrumbe, salvo que se active Wild Mining en su lugar.
 
-Wild Mining puede activarse en el juego base cuando se alinean horizontal o verticalmente de tres a seis símbolos iguales sin formar una combinación ganadora. Los símbolos que activan la función desaparecen y se crean símbolos Wild en las posiciones centrales de la alineación. Tres símbolos alineados crean un Wild; cuatro crean dos; cinco, tres; y seis, cuatro Wilds. La función también puede provocar otro derrumbe.
+Wild Mining puede activarse en el juego base cuando se alinean horizontal o verticalmente de tres a seis símbolos iguales sin formar una combinación ganadora. Además, no puede haber un xHole ni un xBomb Wild activo al mismo tiempo. Los símbolos que activan la función desaparecen y se crean símbolos Wild en las posiciones centrales de la alineación. Tres símbolos alineados crean un Wild; cuatro crean dos; cinco, tres; y seis, cuatro Wilds. La función también puede provocar otro derrumbe.
 
 ## xSplit, xHole y funciones ocultas en el hielo
 

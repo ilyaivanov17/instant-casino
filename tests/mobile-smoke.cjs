@@ -147,10 +147,16 @@ async function inspectPage(page, path, expectedCards = null) {
   for (const path of legalRoutes) {
     const legalPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
     const response = await legalPage.goto(`http://127.0.0.1:4173${path}`, { waitUntil: 'networkidle' });
-    const cookieAnchorCount = await legalPage.locator('a[href="#consent-and-cookies"]').count();
+    const cookieLink = legalPage.locator('a[href$="#consent-and-cookies"]');
+    const cookieAnchorCount = await cookieLink.count();
+    const cookieHref = await cookieLink.getAttribute('href').catch(() => null);
+    const cookieTargetPath = cookieHref ? new URL(cookieHref, legalPage.url()).pathname : null;
+    const currentPath = new URL(legalPage.url()).pathname;
+    const cookieTargetCount = await legalPage.locator('#consent-and-cookies').count();
     const malformedLinks = await legalPage.locator('a[href*="ZgotmplZ"]').count();
-    const ok = response?.status() === 200 && cookieAnchorCount === 1 && malformedLinks === 0;
-    console.log(`${ok ? 'OK' : 'FAIL'} localized legal links ${path} cookieAnchors=${cookieAnchorCount} malformed=${malformedLinks}`);
+    const ok = response?.status() === 200 && cookieAnchorCount === 1 &&
+      cookieTargetCount === 1 && cookieTargetPath === currentPath && malformedLinks === 0;
+    console.log(`${ok ? 'OK' : 'FAIL'} localized legal links ${path} href=${cookieHref} target=${cookieTargetPath} malformed=${malformedLinks}`);
     if (!ok) failed = true;
     await legalPage.close();
   }

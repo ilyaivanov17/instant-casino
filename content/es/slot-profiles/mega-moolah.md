@@ -61,6 +61,13 @@ La versión clásica tiene tres capas diferenciadas: el juego normal de líneas 
 - Mecca Games – “Mega Moolah”: reglas de ayuda para la versión clásica de cinco rodillos, 25 líneas y ruleta.
 - Consultado el 3 de noviembre de 2026. Las reglas y los ajustes pueden variar según la integración del operador.
 
+
+### Source references
+
+- [Games Global – Products and progressive jackpot portfolio](https://www.gamesglobal.com/Products)
+- [Mega Moolah – key symbols and classic Free Spins rules](https://www.megamoolah.com/news/what-are-the-key-symbols-i-need-to-know-on-the-mega-moolah-slot-539)
+- [Mecca Games – Mega Moolah classic game help](https://www.meccagames.com/games/mega-moolah)
+
 <div class="slot-profile-bonus-cta">
   <p>Compara condiciones de bonos y perfiles de juegos</p>
   <a href="/es/slots/#affiliate-title">Ver condiciones de bonos →</a>

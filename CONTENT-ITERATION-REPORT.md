@@ -421,3 +421,27 @@ Sources are linked from the corresponding existing English profiles:
 5. [NetEnt — Gonzo's Quest](https://netent.com/games/gonzos-quest) and [Danske Spil — Gonzo's Quest game help](https://help.danskespil.dk/en/casino-help/slots/netentgonzosquesthtml).
 
 No universal RTP, volatility or stake claims are added to the expert cards. Operator-specific rules remain identified as version-dependent in the associated profiles.
+
+## Expert card batch 5: Reactoonz, Wild West Gold, Starlight Princess, Mega Fortune, Twin Spin, Sugar Rush and Wanted Dead or a Wild
+
+Added source-based expert insights for seven more games in all six locales.
+
+- **Reactoonz:** cluster wins of five or more on a 7×7 grid charge Gargantoon; Quantum Leap then releases a chain of up to five features.
+- **Wild West Gold:** distinguishes 2×/3×/5× multiplier Wilds on reels 2–4, the three-Sunset-Scatter trigger and Sticky Wilds / additional spins during the bonus.
+- **Starlight Princess:** separates pays-anywhere wins (8–30 matching symbols) from multiplier evaluation; multipliers are summed at tumble end and winning bonus multipliers build a running total. A conflicting displayed initial-spin count is intentionally omitted.
+- **Mega Fortune:** distinguishes the x5 Wild effect on eligible line wins from the separate three-wheel progressive jackpot game triggered by three Bonus symbols on an active line.
+- **Twin Spin:** explains that each spin starts with at least two adjacent linked reels, which can expand to three, four or five, while wins use 243 ways rather than fixed paylines.
+- **Sugar Rush:** explains how winning positions are marked, same-spin hits build a multiplier from 2× up to 128×, and marks/multipliers persist through the Free Spins round.
+- **Wanted Dead or a Wild:** explains VS-triggered DuelReels and distinguishes the sticky-Wild Great Train Robbery from the collection-and-Showdown sequence in Dead Man's Hand.
+
+Sources used and recorded in the source list:
+
+1. [Play'n GO — Reactoonz](https://www.playngo.com/games/reactoonz).
+2. [Pragmatic Play — Wild West Gold product page](https://www.pragmaticplay.com/en/games/wild-west-gold-slot/) and [launch article, 26 March 2020](https://www.pragmaticplay.com/en/news/pragmatic-play-rides-into-town-with-wild-west-gold/).
+3. [Pragmatic Play — Starlight Princess product page](https://www.pragmaticplay.com/en/games/starlight-princess/) and [launch article, 23 September 2021](https://www.pragmaticplay.com/en/news/pragmatic-play-delivers-regal-adventure-in-starlight-princess/).
+4. [NetEnt — Mega Fortune](https://netent.com/games/mega-fortune).
+5. [NetEnt — Twin Spin](https://netent.com/games/twin-spin) and [Danske Spil game help](https://help.danskespil.dk/en/casino-help/slots/netenttwinspinhtml).
+6. [Pragmatic Play — original Sugar Rush](https://www.pragmaticplay.com/en/games/sugar-rush/).
+7. [Hacksaw Gaming — Wanted Dead or a Wild](https://www.hacksawgaming.com/games/wanted-dead-or-a-wild).
+
+The insight deliberately does not carry operator-specific RTP/stake figures into the cards. Existing URLs, art, authorship and pending editorial review are preserved.

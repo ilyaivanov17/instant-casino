@@ -249,3 +249,31 @@ Sources checked on 2026-11-03:
 The Evolution page and the NetEnt Game Sheet differ in how they describe the Old Saloon +5 Free Spins trigger. That discrepancy is explicitly disclosed in each localized profile rather than collapsed into a single universal rule. Evolution labels volatility "High", while NetEnt's 2019 launch announcement uses "extreme volatility"; both source labels are retained with attribution.
 
 All six catalogue labels/descriptions now identify game mechanics rather than using image-scene wording. The Japanese profile receives additional Scatter payout, mode-choice, RTP/volatility and maximum-win explanations. Existing URLs, translation keys, imagery, Dominic Field byline assignment and `editorial-review-pending` status are preserved. Profile QA now checks primary sources, localized provider figures, mode coverage and Japanese content depth.
+
+
+## Content batch 10: Legacy of Dead
+
+Expanded the existing profile group in German, English, Polish, Spanish, Portuguese and Japanese:
+
+- `content/de/slot-profiles/legacy-of-dead.md`
+- `content/en/slot-profiles/legacy-of-dead.md`
+- `content/pl/slot-profiles/legacy-of-dead.md`
+- `content/es/slot-profiles/legacy-of-dead.md`
+- `content/pt/slot-profiles/legacy-of-dead.md`
+- `content/ja/slot-profiles/legacy-of-dead.md`
+
+Updated the six catalogue card labels and descriptions in `data/slot_catalog.yaml` so they describe the Tomb Wild/Scatter role, Free Spins and the cumulative Expanding Symbol feature rather than the artwork alone.
+
+### Source verification
+
+Checked on 2026-11-03 against:
+
+1. [Play'n GO — Legacy of Dead](https://www.playngo.com/games/legacy-of-dead): the provider page gives the release date as 2 January 2020; explains that three or more Tomb Scatters trigger Free Spins; describes the Tomb as a Wild and the randomly selected Special Expanding Symbol; and says Tomb Scatters can retrigger during Free Spins.
+2. [Legacy of Dead Game Help PDF](https://cms.rationalcdn.com/v3/assets/blteecf9626d9a38b03/blt898cf269cdcf0f68/6669ae43664d450e1620e1a6/Legacy_of_Dead.pdf): the document is linked to a specific PA/USD game-help endpoint and lists five reels, up to ten selectable lines, eight initial Free Spins, eight additional spins on a Scatter retrigger, and one additional randomly selected Special Expanding Symbol per retrigger. It also specifies that Special Expanding Symbol wins in Free Spins may contain gaps.
+
+The Game Help PDF is configuration-specific; its 8-spin award is not generalized to all markets or operators. The provider page describes potential winnings up to 250,000 coins, while that PA/USD help sheet lists a maximum win of 500,000 USD. Since those figures use different units and contexts, the profiles do not convert them into a single universal multiplier or state a universal maximum win. Neither consulted primary source gives a universally applicable current RTP or volatility class, so no such value is added.
+
+The pages preserve existing URLs, translation keys, image paths, Dominic Field attribution and `editorial-review-pending` status. The edits are source-based editorial copy and do not claim a personal playtest or final human approval.
+
+The profile validator now checks the two source links, minimum localized depth, source-specific Free Spins details, disclosure of the differing payout units, absence of the unsupported 96.58% RTP figure and pending editorial status.
+

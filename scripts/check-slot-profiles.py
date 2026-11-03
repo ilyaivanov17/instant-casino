@@ -48,6 +48,7 @@ def main():
         "Bigger Bass Bonanza": ("Fisherman Wild",),
         "Fruit Party": ("7×7", "256"),
         "Dead or Alive 2": ("Old Saloon", "High Noon Saloon", "Train Heist"),
+        "Legacy of Dead": ("Tomb", "Wild", "Scatter"),
     }
     author_slugs = {
         "arthur-mustoe", "corey-levitan", "cristina-tudose", "dan-michalski",
@@ -305,6 +306,32 @@ def main():
                 for marker in localized_values[lang]:
                     if marker not in body:
                         errors.append(f"{path.relative_to(ROOT)}: missing localized Dead or Alive 2 value {marker!r}")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
+
+            if slug == "legacy-of-dead":
+                required_sources = (
+                    "https://www.playngo.com/games/legacy-of-dead",
+                    "https://cms.rationalcdn.com/v3/assets/blteecf9626d9a38b03/blt898cf269cdcf0f68/6669ae43664d450e1620e1a6/Legacy_of_Dead.pdf",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing primary source link {source_url}")
+                if len(body) < 1700:
+                    errors.append(f"{path.relative_to(ROOT)}: Legacy of Dead profile is missing its localized mechanics sections")
+                required_terms = {
+                    "de": ("8 Freispiele", "Special Expanding Symbol", "250,000 coins", "500,000 USD"),
+                    "en": ("8 Free Spins", "Special Expanding Symbol", "250,000 coins", "500,000 USD"),
+                    "pl": ("8 początkowych darmowych spinów", "Special Expanding Symbol", "250,000 coins", "500,000 USD"),
+                    "es": ("8 giros gratis", "Special Expanding Symbol", "250,000 coins", "500,000 USD"),
+                    "pt": ("8 rodadas grátis", "Special Expanding Symbol", "250,000 coins", "500,000 USD"),
+                    "ja": ("8回", "Special Expanding Symbol", "250,000 coins", "500,000 USD"),
+                }
+                for term in required_terms[lang]:
+                    if term not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing localized/source-specific term {term!r}")
+                if "96.58" in body:
+                    errors.append(f"{path.relative_to(ROOT)}: unsupported RTP figure remains in Legacy of Dead profile")
                 if meta.get("article_review_status") != "editorial-review-pending":
                     errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
 

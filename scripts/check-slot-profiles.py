@@ -366,6 +366,38 @@ def main():
                 "ja": ("Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset", "150,000倍"),
             },
         ),
+        "mega-moolah": (
+            (
+                "https://www.gamesglobal.com/Products",
+                "https://www.megamoolah.com/news/what-are-the-key-symbols-i-need-to-know-on-the-mega-moolah-slot-539",
+                "https://www.meccagames.com/games/mega-moolah",
+            ),
+            1900,
+            {
+                "de": ("5 Walzen", "25 Gewinnlinien", "15 Freispiele", "verdreifacht", "Mini, Minor, Major und Mega"),
+                "en": ("five reels", "25 paylines", "15 Free Spins", "tripled", "Mini, Minor, Major and Mega"),
+                "pl": ("Pięć bębnów", "25 liniami", "15 spinów", "potrajane", "Mini, Minor, Major i Mega"),
+                "es": ("Cinco rodillos", "25 líneas", "15 giros", "triplican", "Mini, Minor, Major y Mega"),
+                "pt": ("Cinco rolos", "25 linhas", "15 rodadas", "triplicados", "Mini, Minor, Major e Mega"),
+                "ja": ("5リール", "25ペイライン", "15回", "3倍", "Mini、Minor、Major、Mega"),
+            },
+        ),
+        "immortal-romance": (
+            (
+                "https://help.danskespil.dk/en/casino-help/slots/mgsimmortalromancehtml",
+                "https://www.meccagames.com/games/immortal-romance",
+                "https://www.gamesglobal.com/Media/games_global_and_stormcraft_studios_reveal_the_highly_anticipated_release_of_Immortal_Romance_II",
+            ),
+            1900,
+            {
+                "de": ("243 Gewinnwege", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
+                "en": ("243 ways", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
+                "pl": ("243 sposobów", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
+                "es": ("243 formas", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
+                "pt": ("243 formas", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5×", "6×"),
+                "ja": ("243通り", "Wild Desire", "Chamber of Spins", "Amber", "Troy", "Michael", "Sarah", "5倍", "6倍"),
+            },
+        ),
     }
     for profile_slug, (required_sources, minimum_length, localized_terms) in source_backed_profiles.items():
         for lang in LANGS:

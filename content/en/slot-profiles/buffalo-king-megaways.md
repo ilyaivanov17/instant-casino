@@ -6,7 +6,7 @@ type: slots
 translationKey: "slot-profile-buffalo-king-megaways"
 url: "/en/slots/buffalo-king-megaways/"
 ogImage: "/images/slots/catalog-buffalo-king-megaways.webp"
-lastmod: "2026-11-02"
+lastmod: "2026-11-03"
 article_review_status: editorial-review-pending
 
 build:
@@ -26,6 +26,7 @@ Buffalo King Megaways by Pragmatic Play takes the familiar wildlife theme into a
 | Reels | six tumbling reels |
 | Win system | Megaways |
 | Bonus trigger | 4 to 6 bonus symbols |
+| Bonus award by scatter count | 4/5/6 symbols: 12/17/22 free spins plus 5x/20x/100x the total bet |
 | Free spins listed by the provider | 12 to 22 |
 | Wild multipliers during the feature | 2x, 3x or 5x |
 | Additional free spins | 3 or more bonus symbols during the feature |
@@ -44,11 +45,15 @@ According to the current product page, landing four to six bonus symbols can awa
 
 During the free spins, Wild symbols carry multipliers of 2x, 3x or 5x. Landing three or more further bonus symbols during the feature can award another five free spins. The official product page describes repeated retriggers without a fixed limit. Check the in-game help for the version you have opened to confirm that the same rules are enabled in that casino integration.
 
+The exact awards are: four Bonus symbols give 12 free spins and 5x the total bet; five give 17 spins and 20x; six give 22 spins and 100x.
+
 ## How to read the Wild multipliers
 
 A Wild can substitute for regular symbols and take part in a winning combination. Its multiplier changes the value of a qualifying win according to the rules of the current game phase. The historical launch announcement also describes multiplier values being accumulated on individual tumbles. The game display remains the place to confirm which Wilds are part of a winning combination and which multiplier rule applies at that step.
 
 A visible multiplier does not automatically create a win. Nor does 5x tell you how often that value appears or what a later result will be.
+
+During Free Spins, the multiplier for each Wild that contributes to a winning combination is added to the tumble multiplier indicator. When several qualifying Wilds appear within the same tumble sequence, their multiplier values are multiplied together rather than added. At the end of that sequence, the combined multiplier is applied to the sequence's total win.
 
 ## What to check before playing
 
@@ -69,6 +74,8 @@ This profile summarises published product information and does not claim a perso
 
 - [Pragmatic Play: Buffalo King Megaways – game page](https://www.pragmaticplay.com/en/games/buffalo-king-megaways/)
 - [Pragmatic Play: announcement dated 29 April 2021](https://www.pragmaticplay.com/en/news/pragmatic-play-revamps-a-classic-in-buffalo-king-megaways/)
+
+- [theScore Bet: Buffalo King Megaways – game rules](https://thescorebethelp.zendesk.com/hc/en-us/articles/13873576906509-Buffalo-King-Megaways) (operator help used to clarify the tumble-multiplier calculation; no operator-specific RTP or stake values are adopted).
 
 <div class="slot-profile-bonus-cta">
   <p>Explore bonus terms</p>

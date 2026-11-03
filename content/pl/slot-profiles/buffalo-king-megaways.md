@@ -6,7 +6,7 @@ type: slots
 translationKey: "slot-profile-buffalo-king-megaways"
 url: "/pl/slots/buffalo-king-megaways/"
 ogImage: "/images/slots/catalog-buffalo-king-megaways.webp"
-lastmod: "2026-11-02"
+lastmod: "2026-11-03"
 article_review_status: editorial-review-pending
 
 build:
@@ -26,6 +26,7 @@ Buffalo King Megaways od Pragmatic Play przenosi motyw dzikiej przyrody do gry M
 | Bębny | sześć bębnów kaskadowych |
 | System wygranych | Megaways |
 | Uruchomienie bonusu | 4–6 symboli bonusowych |
+| Nagroda za liczbę symboli | 4/5/6 symboli: 12/17/22 darmowe spiny i 5×/20×/100× łącznej stawki |
 | Darmowe spiny według dostawcy | 12–22 |
 | Mnożniki Wild podczas bonusu | 2×, 3× lub 5× |
 | Dodatkowe darmowe spiny | 3 lub więcej symboli bonusowych w trakcie funkcji |
@@ -44,11 +45,15 @@ Według aktualnej strony produktu dostawcy wypadnięcie od czterech do sześciu 
 
 Podczas darmowych spinów symbole Wild mają mnożniki 2×, 3× lub 5×. Wypadnięcie co najmniej trzech kolejnych symboli bonusowych w trakcie funkcji może przyznać pięć dodatkowych spinów. Oficjalna strona produktu opisuje możliwość ponownego uruchamiania funkcji bez stałego limitu. Sprawdź w pomocy uruchomionej wersji, czy te same zasady obowiązują w danej integracji kasyna.
 
+Dokładna nagroda zależy od liczby symboli: cztery symbole bonusowe dają 12 darmowych spinów i 5× łącznej stawki, pięć – 17 spinów i 20×, a sześć – 22 spiny i 100×.
+
 ## Jak odczytywać mnożniki Wild
 
 Symbol Wild może zastępować zwykłe symbole i uczestniczyć w kombinacji wygrywającej. Jego mnożnik zmienia wartość kwalifikującej się wygranej zgodnie z zasadami danej fazy gry. W historycznej zapowiedzi premiery dostawca opisuje również kumulowanie wartości mnożników w poszczególnych kaskadach. W samym interfejsie należy sprawdzić, które symbole Wild wchodzą w skład wygranej i jaka reguła mnożnika obowiązuje w danym kroku.
 
 Sama obecność widocznego mnożnika nie oznacza jeszcze wygranej. Wartość 5× nie mówi też, jak często dany mnożnik się pojawia ani jaki będzie wynik kolejnej rundy.
+
+Podczas darmowych spinów mnożnik każdego symbolu Wild uczestniczącego w kombinacji wygrywającej trafia do wskaźnika mnożnika kaskady. Jeśli w tej samej sekwencji kaskad pojawi się kilka takich symboli Wild, ich mnożniki są mnożone przez siebie, a nie dodawane. Na końcu sekwencji łączny mnożnik obejmuje sumę wygranych z całej tej kaskady.
 
 ## Co warto sprawdzić przed rozpoczęciem
 
@@ -69,6 +74,8 @@ Opis podsumowuje opublikowane informacje producenta i nie oznacza przeprowadzeni
 
 - [Pragmatic Play: Buffalo King Megaways – strona gry](https://www.pragmaticplay.com/en/games/buffalo-king-megaways/)
 - [Pragmatic Play: zapowiedź z 29 kwietnia 2021 r.](https://www.pragmaticplay.com/en/news/pragmatic-play-revamps-a-classic-in-buffalo-king-megaways/)
+
+- [theScore Bet: Buffalo King Megaways – zasady gry](https://thescorebethelp.zendesk.com/hc/en-us/articles/13873576906509-Buffalo-King-Megaways) (uzupełniająca pomoc operatora wyjaśniająca mnożnik kaskady; nie wykorzystujemy podanych tam wartości RTP ani stawek).
 
 <div class="slot-profile-bonus-cta">
   <p>Sprawdź warunki bonusów</p>

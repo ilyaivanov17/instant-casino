@@ -6,7 +6,7 @@ type: slots
 translationKey: "slot-profile-buffalo-king-megaways"
 url: "/slots/buffalo-king-megaways/"
 ogImage: "/images/slots/catalog-buffalo-king-megaways.webp"
-lastmod: "2026-11-02"
+lastmod: "2026-11-03"
 article_review_status: editorial-review-pending
 
 build:
@@ -26,6 +26,7 @@ Buffalo King Megaways von Pragmatic Play verlegt das bekannte Wildtiermotiv in e
 | Walzen | sechs Kaskadenwalzen |
 | Gewinnsystem | Megaways |
 | Bonus-Auslöser | 4 bis 6 Bonus-Symbole |
+| Bonus-Auszahlung | 4/5/6 Symbole: 12/17/22 Freispiele plus 5×/20×/100× des Gesamteinsatzes |
 | Freispiele laut Anbieter | 12 bis 22 |
 | Wild-Multiplikatoren im Bonus | 2×, 3× oder 5× |
 | Weitere Freispiele | 3 oder mehr Bonus-Symbole während der Funktion |
@@ -44,11 +45,15 @@ Laut aktueller Produktseite können vier bis sechs Bonus-Symbole eine Funktion m
 
 Während der Freispiele tragen die Wild-Symbole Multiplikatoren von 2×, 3× oder 5×. Drei oder mehr weitere Bonus-Symbole während der Funktion können fünf zusätzliche Freispiele auslösen. Die offizielle Produktseite beschreibt wiederholte Auslösungen ohne festes Limit. Ob alle diese Regeln in einer bestimmten Casino-Integration verfügbar sind, sollte in der tatsächlich geladenen Spielhilfe geprüft werden.
 
+Konkret gilt: Vier Bonus-Symbole vergeben 12 Freispiele und 5× des Gesamteinsatzes; fünf Symbole vergeben 17 Freispiele und 20×; sechs Symbole vergeben 22 Freispiele und 100×.
+
 ## Wild-Multiplikatoren richtig einordnen
 
 Ein Wild-Symbol kann reguläre Symbole ersetzen und so an einer Gewinnkombination beteiligt sein. Der Multiplikator verändert den Wert eines qualifizierenden Gewinns nach den Regeln der jeweiligen Spielphase. Die historische Produktankündigung beschreibt außerdem, dass Multiplikatorwerte innerhalb einzelner Kaskaden berücksichtigt werden. Entscheidend bleibt die Darstellung im Spiel: Prüfe, welche Wilds zu einer Gewinnkombination gehören und welche Multiplikator-Regel in diesem Schritt gilt.
 
 Ein sichtbarer Multiplikator bedeutet nicht automatisch, dass ein Gewinn entsteht. Ebenso ist 5× kein Hinweis darauf, wie häufig dieser Wert erscheint oder wie hoch ein späteres Ergebnis ausfällt.
+
+Während der Freispiele wird der Multiplikator jedes Wilds, das an einer Gewinnkombination beteiligt ist, in der Tumble-Multiplikatoranzeige gesammelt. Kommen innerhalb derselben Kaskadenfolge mehrere qualifizierende Wilds vor, werden ihre Werte miteinander multipliziert – nicht addiert. Am Ende der Folge wird der kombinierte Multiplikator auf den Gesamtgewinn dieser Kaskadenfolge angewendet.
 
 ## Was du vor dem Start prüfen solltest
 
@@ -69,6 +74,8 @@ Dieses Profil fasst veröffentlichte Produktinformationen zusammen und behauptet
 
 - [Pragmatic Play: Buffalo King Megaways – Produktseite](https://www.pragmaticplay.com/en/games/buffalo-king-megaways/)
 - [Pragmatic Play: Ankündigung vom 29. April 2021](https://www.pragmaticplay.com/en/news/pragmatic-play-revamps-a-classic-in-buffalo-king-megaways/)
+
+- [theScore Bet: Buffalo King Megaways – Spielregeln](https://thescorebethelp.zendesk.com/hc/en-us/articles/13873576906509-Buffalo-King-Megaways) (ergänzende Betreiberhilfe zur Multiplikatorberechnung innerhalb einer Kaskade; betreiberspezifische RTP- und Einsatzwerte werden hier nicht übernommen).
 
 <div class="slot-profile-bonus-cta">
   <p>Bonusangebote ansehen</p>

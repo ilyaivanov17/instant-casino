@@ -140,6 +140,31 @@ def main():
                 errors.append(f"content/{lang}/slots.md: missing legacy anchor {slug}")
             if f'relref "slot-profiles/{slug}"' not in hub:
                 errors.append(f"content/{lang}/slots.md: missing link to profile {slug}")
+            if slug == "buffalo-king-megaways":
+                required_sources = (
+                    "https://www.pragmaticplay.com/en/games/buffalo-king-megaways/",
+                    "https://www.pragmaticplay.com/en/news/pragmatic-play-revamps-a-classic-in-buffalo-king-megaways/",
+                    "https://thescorebethelp.zendesk.com/hc/en-us/articles/13873576906509-Buffalo-King-Megaways",
+                )
+                for source_url in required_sources:
+                    if source_url not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing Buffalo King Megaways rules source {source_url}")
+                minimum_length = 4200 if lang == "ja" else 6000
+                if len(body) < minimum_length:
+                    errors.append(f"{path.relative_to(ROOT)}: Buffalo King Megaways profile is too short ({len(body)} < {minimum_length})")
+                localized_mechanics = {
+                    "de": ("5×", "20×", "100×", "multipliziert"),
+                    "en": ("5x", "20x", "100x", "multiplied together"),
+                    "pl": ("5×", "20×", "100×", "mnożone"),
+                    "es": ("5x", "20x", "100x", "multiplican"),
+                    "pt": ("5x", "20x", "100x", "multiplicados"),
+                    "ja": ("12回", "17回", "22回", "5倍", "20倍", "100倍", "乗算"),
+                }
+                for term in localized_mechanics[lang]:
+                    if term not in body:
+                        errors.append(f"{path.relative_to(ROOT)}: missing localized Buffalo King Megaways mechanic {term!r}")
+                if meta.get("article_review_status") != "editorial-review-pending":
+                    errors.append(f"{path.relative_to(ROOT)}: keep the profile pending until editorial sign-off")
             if slug == "starburst":
                 required_sources = (
                     "https://netent.com/games/starburst",

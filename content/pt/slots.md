@@ -170,7 +170,7 @@ Na ronda Hold and Respin, os símbolos dos foras da lei têm funções próprias
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-A ronda Hold and Respin alargada reúne mais símbolos especiais, com efeitos de recolha, melhoria e multiplicação que mudam cada resultado.
+Money Train 4 utiliza Scatter Pays e uma funcionalidade Respin separada. Money Cart começa com três rodadas e pode revelar 20 símbolos especiais; Arms Dealer, Unlocker, Upgrader e Reset alteram a ronda.
 
 [Ler o perfil completo]({{< relref "slot-profiles/money-train-4" >}})
 
@@ -206,7 +206,7 @@ Doces e frutas pagam em grupos em qualquer zona da grelha. Após um prémio, cae
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-Wolf Gold combina linhas de pagamento clássicas com símbolos de grandes dimensões nas rodadas grátis; a função separada de jackpot respin tem regras próprias.
+Três Scatters iniciam cinco rodadas grátis e os rolos 2–4 formam um símbolo gigante. Seis Money Symbols ativam Money Respins; preencher as 15 posições atribui o Mega Jackpot de 1.000×.
 
 [Ler o perfil completo]({{< relref "slot-profiles/wolf-gold" >}})
 

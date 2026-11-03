@@ -1,12 +1,12 @@
 ---
 title: "Legacy of Dead ：ゲームプロフィール"
-description: "古代エジプトの神殿と黄金のスカラベをテーマに、フリースピンと拡張シンボルを備えたスロットです。"
-seo_title: "Legacy of Dead: ゲームの仕組みと機能 | Instant Casino"
+description: "TombはWildとScatterを兼ね、フリースピン中は再トリガーのたびにランダムな拡張シンボルが追加されます。"
+seo_title: "Legacy of Dead：Wild・Scatter・フリースピン | Instant Casino"
 type: slots
 translationKey: "slot-profile-legacy-of-dead"
 url: "/ja/slots/legacy-of-dead/"
 ogImage: "/images/slots/catalog-legacy-of-dead.webp"
-lastmod: "2026-11-01"
+lastmod: "2026-11-03"
 article_review_status: editorial-review-pending
 
 build:
@@ -14,29 +14,57 @@ build:
   list: always
 ---
 
-![Legacy of Deadのゲームアート。古代エジプトの神殿と黄金のスカラベを描いています。](/images/slots/catalog-legacy-of-dead.webp)
+![古代エジプトの神殿と黄金のスカラベを描いたLegacy of Deadのゲームアート。](/images/slots/catalog-legacy-of-dead.webp)
 
-古代エジプトの神殿と黄金のスカラベをテーマに、フリースピンと拡張シンボルを備えたスロットです。
+### ゲームの概要
 
-| プロバイダー | 登録されている機能 |
+Legacy of Deadは、Play'n GOが提供する古代エジプトをテーマにしたビデオスロットです。公式ゲームページでは、リリース日を2020年1月2日としています。中心となるのは、WildとScatterの両方の役割を持つTombシンボルと、ランダムに選ばれるSpecial Expanding Symbolを使ったフリースピンです。
+
+| 項目 | 公開情報 |
 |---|---|
-| Play'n GO | フリースピン, 拡張シンボル |
+| プロバイダー | Play'n GO |
+| リリース日 | 公式ゲームページでは2020年1月2日 |
+| リール | 確認したGame Helpでは5リール |
+| ペイライン | 同じGame Helpの特定設定では最大10ラインを選択可能 |
+| 主な機能 | TombのWild／Scatter機能、フリースピン、Special Expanding Symbol |
 
+### Tombシンボル：WildとScatterの二役
 
-拡張機能はフリースピン中にリールの構成を変化させます。選ばれるシンボルと拡張の仕組みは配当表で確認してください。
+Tombシンボルには二つの機能があります。Wildとしては通常シンボルの代わりになり、ライン上の組み合わせを補います。Scatterとしてはフリースピンを開始します。Play'n GOの公式ページによると、Tomb Scatterが3個以上出現するとボーナスラウンドが解放されます。公式ページは二つの役割を説明していますが、各カジノ版で採用される設定のすべてを掲載しているわけではありません。
 
-### 独自分析
+### フリースピンの開始と再トリガー
 
-Legacy of Deadは拡張シンボルを使うBook系の仕組みを発展させ、再発動によって追加の拡張シンボルが加わる場合があります。この進行の仕組みが類似タイトルとの主な違いです。
+今回確認したGame Help文書は、PA／USDと識別されたゲーム設定について、初回に8回のフリースピンを付与すると記載しています。ボーナス中にScatterが再び3個以上出現した場合、この文書では追加で8回のフリースピンが付与されます。また、再トリガーのたびに、新しいSpecial Expanding Symbolがランダムに一つ選ばれます。
 
-<div class="slot-profile-bonus-cta">
-  <p>ボーナス条件を見る</p>
-  <a href="/ja/slots/#affiliate-title">ボーナス条件を見る →</a>
-</div>
+したがって、最初の8回と再トリガー時の8回という数値は、特定のルール文書に基づくものです。国、運営会社、ゲームビルドを問わず共通する設定とは限らないため、実際に読み込まれたゲーム内ヘルプで確認してください。現在のPlay'n GO公式ページも、フリースピン中にTomb Scatterが再び出現し、回数が無制限に続く可能性を説明していますが、同ページでは固定の付与回数を示していません。
 
-## ほかのゲームプロフィール
+### Special Expanding Symbolの仕組み
 
-- [Reactoonz]({{< relref "slot-profiles/reactoonz" >}})
-- [Wild West Gold]({{< relref "slot-profiles/wild-west-gold" >}})
+フリースピン開始時に、Scatter以外の通常シンボルから一つがランダムに選ばれ、Special Expanding Symbolになります。そのシンボルが必要な数だけ出現すると、確認したGame Helpでは該当するリールの全位置を覆うように拡張すると説明されています。ただし、発動に必要な具体的な個数は文書に記載されていないため、ここでは独自の数値を補っていません。
+
+同じルール文書では、フリースピン中のSpecial Expanding Symbolによる当たりに限り、シンボルの間に空きがあっても組み合わせとして配当対象になると説明されています。この例外はボーナス中の特別な拡張シンボルに関するもので、通常ゲームのすべてのシンボルに適用されるルールではありません。
+
+### ライン設定と配当の確認
+
+確認したGame Helpでは、Legacy of Deadは5リールで、最大10本のペイラインを選択できるゲームとされています。設定画面で有効にするライン数を選び、ラインは番号順に有効になります。通常のライン配当については、配当表に従い左から右へ評価すると説明されています。プレイ前に、実際に読み込まれたゲームの配当表と有効ライン数を確認してください。
+
+### 公開された賞金額は単位を分けて扱う
+
+Play'n GOの公式ゲームページは、最大で250,000 coinsを獲得できる可能性を記載しています。一方、PA／USD設定を示す今回のGame Help文書には、最大配当として500,000 USDと記載されています。これは単位も情報源の条件も異なる数値です。同一のゲームビルドと配当設定を示すと確認できないため、一つの倍率や共通の上限額に換算することはできません。このプロフィールでは、普遍的な最大配当額として扱いません。
+
+確認した二つの一次資料には、すべての環境に適用できる現在のRTP値やボラティリティ分類は掲載されていません。そのため、ここでは数値を追加していません。実際に利用するバージョンのゲーム内ヘルプに表示された情報を確認してください。
+
+### ゲームの見どころ
+
+Legacy of Deadの特徴は、フリースピンが進むにつれて拡張シンボルが増える仕組みにあります。Scatterによる再トリガーで、最初にランダム選択されたシンボルに加えて、別のSpecial Expanding Symbolが追加されます。これによりボーナスラウンドの構成が変化しますが、再トリガーの発生頻度や個々のプレイ結果を予測できるわけではありません。
+
+開始前には、ゲームタイトル、選択中のペイライン、Scatterの条件、読み込まれたバージョンのRTPとベット設定を確認してください。Deadシリーズの他のタイトルは似たテーマや機能名を使うことがありますが、そのルールをLegacy of Deadにそのまま当てはめることはできません。
+
+### 出典
+
+- [Play'n GO – Legacy of Dead：公式ゲーム説明とリリース日](https://www.playngo.com/games/legacy-of-dead)
+- [Game Help – Legacy of Dead：PA／USDと識別された設定のルール](https://cms.rationalcdn.com/v3/assets/blteecf9626d9a38b03/blt898cf269cdcf0f68/6669ae43664d450e1620e1a6/Legacy_of_Dead.pdf)
+
+このプロフィールは公開された資料に基づく要約であり、個人的な実機プレイを行ったという主張ではありません。編集確認は引き続き保留です。
 
 [ゲームカタログに戻る]({{< relref "slots" >}})

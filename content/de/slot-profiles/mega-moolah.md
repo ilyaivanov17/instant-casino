@@ -61,6 +61,13 @@ Die klassische Version hat drei klar unterscheidbare Ebenen: das normale Gewinnl
 - Mecca Games – „Mega Moolah“: Spielhilfe zur klassischen 5-Walzen-/25-Gewinnlinien-Version und zum Jackpot-Rad.
 - Geprüft am 3. November 2026. Werte und Regeln können je nach Anbieter-Integration abweichen.
 
+
+### Source references
+
+- [Games Global – Products and progressive jackpot portfolio](https://www.gamesglobal.com/Products)
+- [Mega Moolah – key symbols and classic Free Spins rules](https://www.megamoolah.com/news/what-are-the-key-symbols-i-need-to-know-on-the-mega-moolah-slot-539)
+- [Mecca Games – Mega Moolah classic game help](https://www.meccagames.com/games/mega-moolah)
+
 <div class="slot-profile-bonus-cta">
   <p>Bonusbedingungen und Spielprofile vergleichen</p>
   <a href="/slots/#de-affiliate-title">Bonusbedingungen ansehen →</a>

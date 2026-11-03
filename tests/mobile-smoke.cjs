@@ -136,7 +136,8 @@ async function inspectPage(page, path, expectedCards = null) {
   const aboutPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
   await aboutPage.goto('http://127.0.0.1:4173/about/', { waitUntil: 'networkidle' });
   const authorDirectoryHref = await aboutPage.getByRole('link', { name: 'Autorenverzeichnis' }).getAttribute('href').catch(() => null);
-  const aboutLinkOk = authorDirectoryHref === '/authors/' && !aboutPage.locator('a[href*="ZgotmplZ"]').count();
+  const badAboutLinks = await aboutPage.locator('a[href*="ZgotmplZ"]').count();
+  const aboutLinkOk = authorDirectoryHref === '/authors/' && badAboutLinks === 0;
   console.log(`${aboutLinkOk ? 'OK' : 'FAIL'} German author directory link href=${authorDirectoryHref}`);
   if (!aboutLinkOk) failed = true;
   await aboutPage.close();

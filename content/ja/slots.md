@@ -170,7 +170,7 @@ Hold and Respin中はアウトローの特殊シンボルが役割を発揮。�
 
 <h2 id="money-train-4">Money Train 4</h2>
 
-拡張されたHold and Respinでは多彩な特殊シンボルが登場。値の収集、シンボルの強化、倍率効果が結果を左右します。
+Money Train 4はScatter Pays方式で、基本ゲームに独立したRespin機能を搭載。Money Cartは3回のスピンで始まり、20種類の特殊シンボルが登場します。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/money-train-4" >}})
 
@@ -206,7 +206,7 @@ Avalancheでは勝利シンボルが消えて新しいシンボルが落下。�
 
 <h2 id="wolf-gold">Wolf Gold</h2>
 
-Wolf Goldは従来型のペイラインに加え、フリースピンで大型シンボルを採用。別枠のジャックポットリスピンには独自のルールがあります。
+Scatter3個で5回のフリースピンが始まり、2～4リールが巨大シンボルに。Money Symbols6個でMoney Respin、15マスを埋めると1,000倍のMega Jackpot。
 
 [ゲームプロフィール全文を読む]({{< relref "slot-profiles/wolf-gold" >}})
 

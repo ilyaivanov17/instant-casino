@@ -29,7 +29,7 @@ Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej
 
 Instant Casino to serwis informacyjny i porównawczy poświęcony tematyce kasyn internetowych. Niniejsza informacja opisuje rodzaje przetwarzania, które mogą wystąpić podczas odwiedzania strony lub kontaktu z redakcją. Szczegóły techniczne zależą również od faktycznie wykorzystywanego hostingu i poczty elektronicznej.
 
-W sprawach prywatności skontaktuj się z redakcją Instant Casino: [info@instant.com](mailto:info@instant.com) lub telefonicznie pod numerem [+49 10 111 0253](tel:+49101110253). Przekazuj tylko dane potrzebne do rozpatrzenia zgłoszenia.
+W sprawach prywatności skontaktuj się z redakcją Instant Casino: [info@instant.com](mailto:info@instant.com) lub telefonicznie pod numerem +49 10 111 0253. Przekazuj tylko dane potrzebne do rozpatrzenia zgłoszenia.
 
 ## 2. Techniczne dane dostępu
 
@@ -41,7 +41,7 @@ Jeśli napiszesz do nas e-mail, adres nadawcy, treść wiadomości i dobrowolnie
 
 ## 4. Wybór cookies i pamięć lokalna
 
-Strona zawiera baner zgody. Wybrana preferencja jest zapisywana w pamięci lokalnej przeglądarki pod kluczem `cookie_preferences`, aby można ją było uwzględnić przy kolejnej wizycie. W konfiguracji projektu nie są włączone skrypty Google Analytics. Wersja produkcyjna powinna odpowiadać opublikowanej stronie cookies i faktycznej konfiguracji serwera. Więcej informacji: [Cookies](../cookies/).
+Strona zawiera baner zgody. Wybrana preferencja jest zapisywana w pamięci lokalnej przeglądarki pod kluczem `cookie_preferences`, aby można ją było uwzględnić przy kolejnej wizycie. W konfiguracji projektu nie są włączone skrypty Google Analytics. Wersja produkcyjna powinna odpowiadać opublikowanej stronie cookies i faktycznej konfiguracji serwera. Więcej informacji: [Cookies](#consent-and-cookies).
 
 ## 5. Linki zewnętrzne i afiliacyjne
 
@@ -73,6 +73,7 @@ Informacja może zostać zaktualizowana w razie zmian strony, jej funkcji lub wy
 
 ## Informacja o plikach cookie
 
+<span id="consent-and-cookies"></span>
 ## Informacja o plikach cookie
 
 Pliki cookie i podobne technologie mogą obsługiwać podstawowe funkcje, zapamiętywać preferencje lub mierzyć ruch. Informacja musi odpowiadać technologiom faktycznie używanym w serwisie.
@@ -120,7 +121,7 @@ Korzystaj z ustawień zgody dostępnych na stronie. Usunięcie danych przegląda
 **Redakcja Instant Casino**
 
 - E-mail: [info@instant.com](mailto:info@instant.com)
-- Telefon: [+49 10 111 0253](tel:+49101110253)
+- Telefon: +49 10 111 0253
 
 Ta strona dotyczy portalu informacyjnego i porównawczego o tematyce kasyn online. Podane kontakty służą sprawom redakcyjnym, korektom, uwagom o źródłach i ogólnym zapytaniom.
 

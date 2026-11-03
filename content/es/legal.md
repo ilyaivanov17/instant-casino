@@ -29,7 +29,7 @@ Esta guía reúne la información por temas para facilitar la comparación de re
 
 Instant Casino es un sitio informativo y comparativo sobre casinos en línea. Este aviso describe los tipos de tratamiento que pueden producirse al visitar la web o contactar con la redacción. Los detalles técnicos también dependen de los servicios de alojamiento y correo que se utilicen realmente.
 
-Para consultas sobre privacidad, contacta con el equipo editorial de Instant Casino en [info@instant.com](mailto:info@instant.com) o en el teléfono [+49 10 111 0253](tel:+49101110253). Facilita únicamente los datos necesarios para tramitar la solicitud.
+Para consultas sobre privacidad, contacta con el equipo editorial de Instant Casino en [info@instant.com](mailto:info@instant.com) o en el teléfono +49 10 111 0253. Facilita únicamente los datos necesarios para tramitar la solicitud.
 
 ## 2. Datos técnicos de acceso
 
@@ -41,7 +41,7 @@ Si nos escribes por correo electrónico, la dirección del remitente, el conteni
 
 ## 4. Preferencias de cookies y almacenamiento local
 
-El sitio incluye un aviso de consentimiento. La preferencia elegida se guarda en el almacenamiento local del navegador con la clave `cookie_preferences`, para recordar la elección en visitas posteriores. La configuración del proyecto no activa scripts de Google Analytics. La versión publicada debe coincidir con la página de cookies y con la configuración real del servidor. Consulta la página de [Cookies](../cookies/).
+El sitio incluye un aviso de consentimiento. La preferencia elegida se guarda en el almacenamiento local del navegador con la clave `cookie_preferences`, para recordar la elección en visitas posteriores. La configuración del proyecto no activa scripts de Google Analytics. La versión publicada debe coincidir con la página de cookies y con la configuración real del servidor. Consulta la página de [Cookies](#consent-and-cookies).
 
 ## 5. Enlaces externos y afiliación
 
@@ -73,6 +73,7 @@ Este aviso puede actualizarse cuando cambien el sitio, sus funciones o los requi
 
 ## Aviso sobre cookies
 
+<span id="consent-and-cookies"></span>
 ## Aviso sobre cookies
 
 Las cookies y tecnologías similares pueden mantener funciones esenciales, recordar preferencias o medir el uso del sitio. El aviso debe describir las tecnologías que realmente estén activas.
@@ -120,7 +121,7 @@ Utiliza los controles de consentimiento disponibles en el sitio. Borrar el almac
 **Equipo editorial de Instant Casino**
 
 - Correo electrónico: [info@instant.com](mailto:info@instant.com)
-- Teléfono: [+49 10 111 0253](tel:+49101110253)
+- Teléfono: +49 10 111 0253
 
 Esta página se refiere a un sitio informativo y comparativo sobre casinos en línea. Los datos anteriores se destinan a consultas editoriales, correcciones, referencias de fuentes y preguntas generales.
 

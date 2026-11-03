@@ -154,6 +154,46 @@ def main():
             "pt": ("5×6", "Cluster Pays", "Soul Orbs"),
             "ja": ("5×6", "Cluster Pays", "Soul Orbs"),
         },
+        "Immortal Romance": {
+            "de": ("Wild Desire", "Chamber of Spins", "1/5/10/15"),
+            "en": ("Wild Desire", "Chamber of Spins", "1/5/10/15"),
+            "pl": ("Wild Desire", "Chamber of Spins", "1/5/10/15"),
+            "es": ("Wild Desire", "Chamber of Spins", "1/5/10/15"),
+            "pt": ("Wild Desire", "Chamber of Spins", "1/5/10/15"),
+            "ja": ("Wild Desire", "Chamber of Spins", "1/5/10/15"),
+        },
+        "Sweet Bonanza": {
+            "de": ("8–12", "2×", "100×"),
+            "en": ("8–12", "2×", "100×"),
+            "pl": ("8–12", "2×", "100×"),
+            "es": ("8–12", "2×", "100×"),
+            "pt": ("8–12", "2×", "100×"),
+            "ja": ("8～12", "2～100倍", "タンブル"),
+        },
+        "Wolf Gold": {
+            "de": ("Money Respin", "3 Scatters", "1.000×"),
+            "en": ("Money Respin", "3 Scatters", "1,000×"),
+            "pl": ("Money Respin", "3 Scatter", "1 000×"),
+            "es": ("Money Respin", "3 Scatter", "1.000×"),
+            "pt": ("Money Respin", "3 Scatter", "1.000×"),
+            "ja": ("Money Respin", "Scatter3個", "1,000倍"),
+        },
+        "Mega Moolah": {
+            "de": ("Lion Wild", "Monkey Scatter", "Mini", "Mega"),
+            "en": ("Lion Wild", "Monkey Scatter", "Mini", "Mega"),
+            "pl": ("Lion Wild", "Monkey Scatter", "Mini", "Mega"),
+            "es": ("Lion Wild", "Monkey Scatter", "Mini", "Mega"),
+            "pt": ("Lion Wild", "Monkey Scatter", "Mini", "Mega"),
+            "ja": ("Lion Wild", "Monkey Scatter", "Mini", "Mega"),
+        },
+        "Gonzo's Quest": {
+            "de": ("Avalanche", "x5", "Free Falls", "x15"),
+            "en": ("Avalanche", "x5", "Free Falls", "x15"),
+            "pl": ("Avalanche", "x5", "Free Falls", "x15"),
+            "es": ("Avalanche", "x5", "Free Falls", "x15"),
+            "pt": ("Avalanche", "x5", "Free Falls", "x15"),
+            "ja": ("Avalanche", "x5", "Free Falls", "x15"),
+        },
     }
     # Prevent accidental reuse of one card teaser for multiple games in any locale.
     seen_descriptions: dict[str, dict[str, str]] = {lang: {} for lang in LANGS}

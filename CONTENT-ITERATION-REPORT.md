@@ -385,3 +385,19 @@ No additional RTP, volatility, stake or personal-playtest claims were introduced
 Six of the 25 catalogue games now have source-based, localized expert takeaways: 5 Lions Megaways, Le Bandit, Money Train 3, Money Train 4, Fruit Party 2 and Gates of Olympus.
 
 The remaining cards retain the previous catalogue-label fallback until a source-backed game-specific insight is prepared. Short or stub profiles such as Wanted Dead or a Wild and Thunderstruck II are deliberately not given speculative expert copy; they need a fuller source verification pass first.
+
+## Expert card batch 3: Starburst, The Dog House and Legacy of Dead
+
+Added expert takeaways for three established profiles, across German, English, Polish, Spanish, Portuguese and Japanese.
+
+- **Starburst:** clarifies that the ten paylines are evaluated in both directions rather than doubled into twenty separate lines; the Expanding Wild fills a reel and triggers a Respin without guaranteeing a win.
+- **The Dog House:** highlights that multiplier Wilds are on reels 2–4, three Bonus Paws trigger a randomly allocated number of Free Spins, and Sticky Wilds remain in place during the bonus.
+- **Legacy of Dead:** explains the Tomb's dual Wild/Scatter role and the three-symbol Free Spins trigger; carefully labels the randomly selected Special Expanding Symbol and any spin counts as configuration-specific to the reviewed rules PDF.
+
+Sources already recorded in the corresponding source-based profiles:
+
+1. [NetEnt — Starburst](https://netent.com/games/starburst) and [Evolution Games — Starburst](https://games.evolution.com/slots/starburst/).
+2. [Pragmatic Play — The Dog House](https://www.pragmaticplay.com/en/games/the-dog-house-slot/) and [original launch announcement](https://www.pragmaticplay.com/en/news/pragmatic-play-launches-the-dog-house/).
+3. [Play'n GO — Legacy of Dead](https://www.playngo.com/games/legacy-of-dead) and [the specific PA/USD rules PDF](https://cms.rationalcdn.com/v3/assets/blteecf9626d9a38b03/blt898cf269cdcf0f68/6669ae43664d450e1620e1a6/Legacy_of_Dead.pdf).
+
+The card copy does not generalize the reviewed PDF's spin counts to every operator version and does not introduce unsupported volatility, universal RTP or stake claims. Existing URL, artwork, author attribution and pending editorial status are preserved.

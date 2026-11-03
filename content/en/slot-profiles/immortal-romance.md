@@ -72,6 +72,13 @@ Immortal Romance combines three layers that should be kept separate: the 243-way
 - Games Global – 2024 announcement for Immortal Romance II, used to distinguish the original title from its sequel.
 - Checked 3 November 2026. RTP and stake values are not generalised because operator help pages list different settings.
 
+
+### Source references
+
+- [Danske Spil – Immortal Romance classic Microgaming game help](https://help.danskespil.dk/en/casino-help/slots/mgsimmortalromancehtml)
+- [Mecca Games – Immortal Romance game rules and feature descriptions](https://www.meccagames.com/games/immortal-romance)
+- [Games Global – Immortal Romance II announcement (4 March 2024)](https://www.gamesglobal.com/Media/games_global_and_stormcraft_studios_reveal_the_highly_anticipated_release_of_Immortal_Romance_II)
+
 <div class="slot-profile-bonus-cta">
   <p>Compare bonus terms and game profiles</p>
   <a href="/en/slots/#affiliate-title">Explore bonus terms →</a>

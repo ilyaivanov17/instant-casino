@@ -1,6 +1,6 @@
 ---
 title: "Mega Moolah – perfil de juego"
-description: "Cinco rodillos, 25 líneas y un Wild León que duplica la combinación. Tres Scatter Mono activan 15 giros gratis con premios 3×; una ruleta separada incluye cuatro jackpots progresivos."
+description: "Cinco rodillos, 25 líneas, un Wild León 2×, 15 giros gratis con 3× y una ruleta con cuatro jackpots progresivos."
 seo_title: "Mega Moolah: Wild León, giros gratis y ruleta jackpot | Instant Casino"
 type: slots
 translationKey: "slot-profile-mega-moolah"

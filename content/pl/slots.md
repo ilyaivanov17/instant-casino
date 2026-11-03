@@ -140,7 +140,7 @@ Na planszy 7×7 wygrywające klastry uruchamiają kaskady. Mnożniki są przypis
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-Chamber of Spins to główny element Immortal Romance. Postacie wampirów wiążą się z różnymi trybami darmowych spinów, z których każdy ma własne zasady.
+243 sposoby wygranej i Wild z mnożnikiem; Wild Desire zmienia do pięciu bębnów w Wild. Chamber of Spins oferuje cztery tryby z 10, 15, 20 lub 25 spinami.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/immortal-romance" >}})
 
@@ -212,7 +212,7 @@ Trzy Scatter uruchamiają pięć darmowych spinów z dużym symbolem na bębnach
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-Obok zwykłej gry na bębnach działają cztery poziomy progresywnego jackpota. Darmowe spiny dodają osobny mechanizm mnożników.
+Pięć bębnów i 25 linii: Wild Lew podwaja uzupełnione wygrane. Trzy Scatter Małpy dają 15 darmowych spinów z 3×; koło losuje jeden z czterech jackpotów.
 
 [Przeczytaj pełny profil gry]({{< relref "slot-profiles/mega-moolah" >}})
 

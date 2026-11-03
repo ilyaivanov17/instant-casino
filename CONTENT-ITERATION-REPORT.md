@@ -198,3 +198,31 @@ The URL, image source, target, rel value, alt text and dimensions are preserved 
 The user later asked to retain the tools.cafe listing while keeping the footer uncluttered. The badge is now placed as a compact item in the bottom copyright/legal row of the shared footer, after the legal notice. It remains ordinarily visible and is not hidden behind imagery, opacity tricks or crawler-specific markup.
 
 The supplied href, image source, target, rel, alt text and dimensions are retained. The Playwright smoke test checks that the badge exists on inspected home, section and localized catalogue routes, has its expected attributes, and is not hidden by CSS.
+
+
+## Content batch 8: Fire in the Hole 3
+
+Expanded the existing six localized profiles and aligned the six catalogue card summaries:
+
+- `content/de/slot-profiles/fire-in-the-hole-3.md`
+- `content/en/slot-profiles/fire-in-the-hole-3.md`
+- `content/pl/slot-profiles/fire-in-the-hole-3.md`
+- `content/es/slot-profiles/fire-in-the-hole-3.md`
+- `content/pt/slot-profiles/fire-in-the-hole-3.md`
+- `content/ja/slot-profiles/fire-in-the-hole-3.md`
+- `data/slot_catalog.yaml`
+
+The updated profiles now explain the 6-reel playfield beginning with three active rows and expanding to six, the maximum 46,656 ways in the full 6×6 layout, the triggers for Collapsing Mine, xBomb Wild, Wild Mining, xSplit, xHole, features buried in ice, and the Lucky Wagon Spins structure. They distinguish provider-published statistics (96.05% RTP, Extremely Volatile, maximum payout 70,000× base bet) from settings that can vary by operator integration.
+
+### Source verification
+
+Checked on 2026-11-03 against the official Nolimit City product/rules page:
+
+1. [Nolimit City — Fire in the Hole 3](https://nolimitcity.com/games/fire-in-the-hole-3): product page and detailed feature rules, including RTP, volatility, maximum payout, reel expansion, xBomb, Wild Mining, xSplit, xHole, buried features and Lucky Wagon Spins.
+2. [Nolimit City — Fire In The Hole 3: NOW LIVE!](https://nolimitcity.com/posts/fire-in-the-hole-3-now-live): launch announcement dated 3 June 2025, corroborating the core xMechanics and bonus feature structure.
+
+No personal playtest, operator-specific settings or guaranteed outcome is claimed. The six profiles retain `editorial-review-pending`. The card summaries now reflect the three-active-row expansion and name xBomb, xSplit, xGod and Lucky Wagon Spins.
+
+### Automated safeguards
+
+The slot-profile validator now checks both official source links in all six Fire in the Hole 3 profiles, a minimum localized content depth, the presence of all seven named mechanics, and the pending editorial status. Existing catalogue validation continues to enforce unique localized card descriptions, SEO keyword coverage, author links and 45–180 character card summaries.

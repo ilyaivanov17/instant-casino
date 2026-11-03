@@ -142,6 +142,19 @@ async function inspectPage(page, path, expectedCards = null) {
   if (!aboutLinkOk) failed = true;
   await aboutPage.close();
 
+  // Legal pages must use a stable in-page cookie anchor and contain no unsafe Markdown phone links in every locale.
+  const legalRoutes = ['/legal/', '/en/legal/', '/pl/legal/', '/es/legal/', '/pt/legal/', '/ja/legal/'];
+  for (const path of legalRoutes) {
+    const legalPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    const response = await legalPage.goto(`http://127.0.0.1:4173${path}`, { waitUntil: 'networkidle' });
+    const cookieAnchorCount = await legalPage.locator('a[href="#consent-and-cookies"]').count();
+    const malformedLinks = await legalPage.locator('a[href*="ZgotmplZ"]').count();
+    const ok = response?.status() === 200 && cookieAnchorCount === 1 && malformedLinks === 0;
+    console.log(`${ok ? 'OK' : 'FAIL'} localized legal links ${path} cookieAnchors=${cookieAnchorCount} malformed=${malformedLinks}`);
+    if (!ok) failed = true;
+    await legalPage.close();
+  }
+
   // Header direction behavior: verify the real on-screen position, not only its CSS class.
   async function readHeaderVisibility(page) {
     return page.locator('.lobby-header').evaluate(el => {

@@ -140,7 +140,7 @@ On Sugar Rush’s 7×7 grid, winning clusters trigger tumbles. Multipliers sit o
 
 <h2 id="immortal-romance">Immortal Romance</h2>
 
-The Chamber of Spins is central to Immortal Romance: its vampire characters are tied to different free-spins modes, each with its own bonus-round rules.
+243 ways to win with a Wild multiplier; Wild Desire turns up to five reels Wild. Chamber of Spins offers four character modes with 10, 15, 20 or 25 Free Spins.
 
 [Read the full game profile]({{< relref "slot-profiles/immortal-romance" >}})
 
@@ -212,7 +212,7 @@ Three Scatters start five Free Spins with a giant symbol on reels 2–4. Six Mon
 
 <h2 id="mega-moolah">Mega Moolah</h2>
 
-Four progressive jackpot tiers sit alongside the regular reel game. Free spins add a separate multiplier feature, distinct from the jackpot system.
+Five reels and 25 paylines: the Lion Wild doubles completed wins. Three Monkey Scatters start 15 Free Spins with 3× wins; the jackpot wheel has four progressive tiers.
 
 [Read the full game profile]({{< relref "slot-profiles/mega-moolah" >}})
 

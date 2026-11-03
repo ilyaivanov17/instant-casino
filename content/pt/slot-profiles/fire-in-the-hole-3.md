@@ -13,7 +13,7 @@ build:
   list: always
 ---
 
-![Arte de Fire in the Hole 3 com um anão, dinamite e uma mina gelada](/images/slots/catalog-fire-in-the-hole-3.webp)
+![Arte de Fire in the Hole 3 com um anão, dinamite e uma mina gelada](https://fan-cdn.nolimitcity.com/Press_IMG_Fire_in_The_Hole_3_d2ed4e8c57_7db71b0cf6.png)
 
 Fire in the Hole 3, da Nolimit City, decorre numa mina gelada. O campo de jogo pode expandir-se durante uma ronda: começa com três filas ativas e, após vários desmoronamentos, pode chegar às seis. Não se trata de uma cascata convencional de símbolos. As vitórias, as explosões xBomb, Wild Mining e xHole podem provocar novos desmoronamentos, enquanto o gelo pode esconder funcionalidades reveladas ao longo da ronda.
 

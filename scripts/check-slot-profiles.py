@@ -74,6 +74,38 @@ def main():
             "pt": ("Golden Squares", "Rainbow", "5 símbolos FS"),
             "ja": ("Golden Squares", "Rainbow", "FSが5個"),
         },
+        "Money Train 3": {
+            "de": ("Shapeshifter", "Absorber", "Tommy Gun", "Money Cart", "Respins"),
+            "en": ("Shapeshifter", "Absorber", "Tommy Gun", "Money Cart", "Respins"),
+            "pl": ("Shapeshifter", "Absorber", "Tommy Gun", "Money Cart", "Respins"),
+            "es": ("Shapeshifter", "Absorber", "Tommy Gun", "Money Cart", "Respins"),
+            "pt": ("Shapeshifter", "Absorber", "Tommy Gun", "Money Cart", "Respins"),
+            "ja": ("Shapeshifter", "Absorber", "Tommy Gun", "Money Cart", "Respins"),
+        },
+        "Money Train 4": {
+            "de": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
+            "en": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
+            "pl": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
+            "es": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
+            "pt": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
+            "ja": ("Scatter Pays", "Money Cart", "Arms Dealer", "Unlocker", "Upgrader", "Reset"),
+        },
+        "Fruit Party 2": {
+            "de": ("256×", "729×", "Basisspiels"),
+            "en": ("256×", "729×", "base game"),
+            "pl": ("256×", "729×", "gry podstawowej"),
+            "es": ("256×", "729×", "juego base"),
+            "pt": ("256×", "729×", "jogo base"),
+            "ja": ("256倍", "729倍", "基本ゲーム"),
+        },
+        "Gates of Olympus": {
+            "de": ("8–30", "Tumbles", "Freispiele"),
+            "en": ("8–30", "Tumbles", "Free Spins"),
+            "pl": ("8–30", "Tumble", "darmowych spinach"),
+            "es": ("8–30", "Tumbles", "giros gratis"),
+            "pt": ("8–30", "Tumbles", "rodadas grátis"),
+            "ja": ("8～30", "Tumble", "フリースピン"),
+        },
     }
     # Prevent accidental reuse of one card teaser for multiple games in any locale.
     seen_descriptions: dict[str, dict[str, str]] = {lang: {} for lang in LANGS}

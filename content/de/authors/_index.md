@@ -4,7 +4,7 @@ description: 'Autorenprofile von Instant Casino: sieben Mitwirkende, ihre Fachge
 seo_title: Öffentliche Autorenprofile | Instant Casino
 type: authors
 date: 2026-09-27
-lastmod: '2026-10-17'
+lastmod: '2026-11-06'
 build:
   render: always
   list: always

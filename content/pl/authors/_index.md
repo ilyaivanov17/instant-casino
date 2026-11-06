@@ -4,7 +4,7 @@ description: Poznaj siedmiu współtwórców Instant Casino, ich specjalizacje o
 seo_title: Autorzy i redakcja | Instant Casino
 type: authors
 date: 2026-09-27
-lastmod: '2026-10-17'
+lastmod: '2026-11-06'
 build:
   render: always
   list: always

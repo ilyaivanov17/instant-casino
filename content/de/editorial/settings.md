@@ -240,7 +240,7 @@ ui:
   nav_team: Team
   nav_contact: Kontakt
   nav_home: Startseite
-  sign_in: 'Zum Anbieter'
+  sign_in: 'Anmelden'
   open_bonus: Bonus öffnen
   search_placeholder: Spiel, Anbieter oder Kategorie suchen …
   random: Zufall

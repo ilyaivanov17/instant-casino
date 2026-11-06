@@ -3479,3 +3479,67 @@ svg.slot-search-icon{
   .slot-expert-analysis--expert{padding:1rem 1rem .95rem}
   .slot-expert-analysis--expert .slot-expert-analysis-copy{font-size:.9rem}
 }
+
+
+
+/* Polish navigation: keep the longer localized menu and CTAs inside the header. */
+.lobby-header--pl .lobby-header-inner {
+  gap: .65rem;
+}
+.lobby-header--pl .lobby-nav {
+  flex: 1 1 auto;
+  min-width: 0;
+  margin-left: .2rem;
+  justify-content: center;
+  gap: .15rem;
+}
+.lobby-header--pl .lobby-nav-link {
+  flex: 0 0 auto;
+  padding: .58rem .5rem;
+  font-size: .76rem;
+  white-space: nowrap;
+  overflow-wrap: normal;
+  word-break: normal;
+}
+.lobby-header--pl .lobby-actions {
+  flex: 0 0 auto;
+  min-width: max-content;
+  gap: .4rem;
+  margin-left: 0;
+}
+.lobby-header--pl .lobby-actions > a {
+  white-space: nowrap;
+  overflow-wrap: normal;
+  word-break: normal;
+}
+.lobby-header--pl .lobby-ghost-cta {
+  padding: 0 .65rem;
+  font-size: .72rem;
+}
+.lobby-header--pl .lobby-actions > .lobby-gold-cta {
+  padding: 0 .82rem;
+  font-size: .78rem;
+}
+@media (max-width: 1200px) {
+  .lobby-header--pl .lobby-ghost-cta {
+    display: none;
+  }
+  .lobby-header--pl .lobby-nav-link {
+    padding: .52rem .38rem;
+    font-size: .72rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 1120px) {
+  .lobby-header--pl .lobby-nav {
+    display: none !important;
+  }
+  .lobby-header--pl .lobby-menu-btn {
+    display: grid !important;
+  }
+  .lobby-header--pl .lobby-mobile-menu.md\\:hidden:not(.hidden) {
+    display: block !important;
+  }
+  .lobby-header--pl .lobby-mobile-menu.md\\:hidden.hidden {
+    display: none !important;
+  }
+}

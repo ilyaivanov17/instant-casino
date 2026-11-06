@@ -243,6 +243,25 @@ async function inspectPage(page, path, expectedCards = null) {
   if (!polishTabletOk) failed = true;
   await polishTabletPage.close();
 
+  // The secondary header CTA is a localized login action on every language site.
+  const loginLabels = [
+    ['/', 'Anmelden'],
+    ['/en/', 'Login'],
+    ['/pl/', 'Zaloguj się'],
+    ['/es/', 'Iniciar sesión'],
+    ['/pt/', 'Entrar'],
+    ['/ja/', 'ログイン']
+  ];
+  for (const [path, expectedLabel] of loginLabels) {
+    const loginPage = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    const response = await loginPage.goto(`http://127.0.0.1:4173${path}`, { waitUntil: 'networkidle' });
+    const actualLabel = (await loginPage.locator('.lobby-ghost-cta').textContent().catch(() => ''))?.trim();
+    const ok = response?.status() === 200 && actualLabel === expectedLabel;
+    console.log(`${ok ? 'OK' : 'FAIL'} localized login CTA ${path} label=${JSON.stringify(actualLabel)} expected=${JSON.stringify(expectedLabel)}`);
+    if (!ok) failed = true;
+    await loginPage.close();
+  }
+
   // Header direction behavior: verify the real on-screen position, not only its CSS class.
   async function readHeaderVisibility(page) {
     return page.locator('.lobby-header').evaluate(el => {

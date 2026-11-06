@@ -4,7 +4,7 @@ description: Instant Casino の7名の執筆協力者、専門分野、公開さ
 seo_title: 著者・編集チーム | Instant Casino
 type: authors
 date: 2026-09-27
-lastmod: '2026-10-17'
+lastmod: '2026-11-06'
 build:
   render: always
   list: always

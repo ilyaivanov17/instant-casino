@@ -22,8 +22,8 @@ build:
 | Corey Levitan | ラスベガス、エンタメ、ギャンブル報道 | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/) |
 | Cristina Tudose | iGamingコンテンツ、コピーライティング、SEO | [LinkedIn](https://ro.linkedin.com/in/cristina-tudose-b1b925168) · [Website](https://cristinatudose.ro/) |
 | Dan Michalski | ギャンブル、カジノ、メディア、テクノロジー | [LinkedIn](https://www.linkedin.com/in/danmichalski) · [Muck Rack](https://muckrack.com/dan-michalski) |
-| Dominic Field | カジノ、スロット、ポーカー、スポーツベッティング | [LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/) |
-| Jon Pill | ゲーム戦略、ポーカー、カジノゲーム | [Medium](https://medium.com/@zuza76hgtf) |
+| Dominic Field | カジノ、スロット、ポーカー、スポーツベッティング | [Medium](https://medium.com/@glowingwolf3930) · [Substack](https://substack.com/@dominicfield1) · [WordPress](https://cleobetraslots.wordpress.com/) |
+| Jon Pill | ゲーム戦略、ポーカー、カジノゲーム | [Medium](https://medium.com/@JonPill) · [LCB.org](https://lcb.org/) · [Casino Guru](https://www.casino.guru/team/jon-pill) |
 | Marco Ibarra | iGaming、スロットレビュー、ボーナス、編集SEO | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Website](https://marco-ibarra.com/) |
 
 各プロフィールを開くと、元の公開情報で職業上の詳細を確認できます。

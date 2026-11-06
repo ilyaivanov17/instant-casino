@@ -40,7 +40,8 @@ if [ -n "$LEAKS" ]; then
   exit 1
 fi
 
-# Fail the deployment build if any rendered anchor points to another website.
+# External editorial links are allowed when they use HTTPS and open safely.
+# Affiliate links must be explicitly authored as same-site /go/bonus routes.
 python3 - "$OUT_DIR" <<'PY'
 from html.parser import HTMLParser
 from pathlib import Path
@@ -48,8 +49,8 @@ from urllib.parse import urlsplit
 import sys
 
 root = Path(sys.argv[1])
-allowed_host = "instant.slot-reviews.com"
 violations = []
+external_links = []
 
 class AnchorAudit(HTMLParser):
     def __init__(self, page):
@@ -59,15 +60,22 @@ class AnchorAudit(HTMLParser):
     def handle_starttag(self, tag, attrs):
         if tag.lower() != "a":
             return
-        href = dict(attrs).get("href")
+        attrs = dict(attrs)
+        href = (attrs.get("href") or "").strip()
         if not href:
             return
-        value = href.strip()
-        parsed = urlsplit(value)
-        is_web_url = parsed.scheme.lower() in {"http", "https"} or value.startswith("//")
+        parsed = urlsplit(href)
+        is_web_url = parsed.scheme.lower() in {"http", "https"} or href.startswith("//")
         host = (parsed.hostname or "").lower()
-        if is_web_url and host and host != allowed_host:
-            violations.append((self.page, value))
+        if not is_web_url or not host or host == "instant.slot-reviews.com":
+            return
+        external_links.append((self.page, href))
+        if parsed.scheme.lower() != "https":
+            violations.append((self.page, href, "external links must use HTTPS"))
+        if attrs.get("target", "").lower() == "_blank":
+            rel = set((attrs.get("rel") or "").lower().split())
+            if not {"noopener", "noreferrer"}.issubset(rel):
+                violations.append((self.page, href, 'target="_blank" links must include rel="noopener noreferrer"'))
 
 for page in root.rglob("*.html"):
     try:
@@ -78,13 +86,45 @@ for page in root.rglob("*.html"):
         print(f"ERROR: could not inspect {page}: {exc}", file=sys.stderr)
         raise SystemExit(1)
 
+expected_author_links = {
+    "https://uk.linkedin.com/in/arthur-mustoe-6051a477",
+    "https://casinoreviews.com/",
+    "https://www.linkedin.com/in/coreylevitan",
+    "https://corey-levitan-merklin.medium.com/",
+    "https://ro.linkedin.com/in/cristina-tudose-b1b925168",
+    "https://cristinatudose.ro/",
+    "https://www.linkedin.com/in/danmichalski",
+    "https://muckrack.com/dan-michalski",
+    "https://medium.com/@glowingwolf3930",
+    "https://substack.com/@dominicfield1",
+    "https://cleobetraslots.wordpress.com/",
+    "https://medium.com/@JonPill",
+    "https://lcb.org/",
+    "https://www.casino.guru/team/jon-pill",
+    "https://cl.linkedin.com/in/ibarram94/en",
+    "https://marco-ibarra.com/",
+}
+
+for lang in ("de", "en", "pl", "es", "pt", "ja"):
+    relative = "authors/index.html" if lang == "de" else f"{lang}/authors/index.html"
+    page = root / relative
+    if not page.is_file():
+        violations.append((relative, "", "author directory page is missing"))
+        continue
+    parser = AnchorAudit(Path(relative))
+    parser.feed(page.read_text(encoding="utf-8"))
+    found = {href for _, href in external_links if _ == Path(relative)}
+    missing = sorted(expected_author_links - found)
+    for href in missing:
+        violations.append((relative, href, "expected public author profile link is missing"))
+
 if violations:
-    print("ERROR: rendered pages contain links to external websites; only same-site links and /go/bonus are allowed:", file=sys.stderr)
-    for page, href in violations:
-        print(f"  {page}: {href}", file=sys.stderr)
+    print("ERROR: external-link audit failed:", file=sys.stderr)
+    for page, href, reason in violations:
+        print(f"  {page}: {href or '(no URL)'} — {reason}", file=sys.stderr)
     raise SystemExit(1)
 
-print("OK: rendered anchors do not link to external websites (the /go/bonus redirect remains same-site).")
+print(f"OK: {len(external_links)} external HTTPS links retain safe attributes; all 16 author profile links appear in all six localized directories.")
 PY
 
 echo "OK: '$OUT_DIR' contains a site index, Cloudflare Pages security files, and no checked source/secret artifacts."

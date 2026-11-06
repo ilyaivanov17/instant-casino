@@ -1,5 +1,5 @@
 {{ $settings := (site.GetPage "/editorial/settings").Params }}
-<header class="lobby-header">
+<header class="lobby-header{{ if eq .Site.Language.Lang "pl" }} lobby-header--pl{{ end }}">
   <div class="lobby-header-inner container mx-auto px-4">
     <a href="{{ .Site.Home.RelPermalink }}" class="lobby-logo" aria-label="{{ $settings.brand }}">
       <span class="lobby-logo-mark" aria-hidden="true">

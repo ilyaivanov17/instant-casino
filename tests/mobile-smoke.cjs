@@ -161,6 +161,88 @@ async function inspectPage(page, path, expectedCards = null) {
     await legalPage.close();
   }
 
+
+  // Polish header: verify compact desktop layout and switch to a menu button before tablet widths.
+  for (const width of [1440, 1280]) {
+    const page = await browser.newPage({ viewport: { width, height: 900 }, deviceScaleFactor: 1 });
+    const response = await page.goto('http://127.0.0.1:4173/pl/', { waitUntil: 'networkidle' });
+    const layout = await page.evaluate(() => {
+      const header = document.querySelector('.lobby-header');
+      const logo = document.querySelector('.lobby-logo');
+      const nav = document.querySelector('.lobby-nav');
+      const actions = document.querySelector('.lobby-actions');
+      const button = document.querySelector('#mobile-menu-btn');
+      const rect = element => {
+        const box = element.getBoundingClientRect();
+        return { left: box.left, right: box.right, top: box.top, bottom: box.bottom, width: box.width, height: box.height };
+      };
+      return {
+        polishClass: header?.classList.contains('lobby-header--pl'),
+        pageWidth: document.documentElement.clientWidth,
+        scrollWidth: document.documentElement.scrollWidth,
+        inner: rect(document.querySelector('.lobby-header-inner')),
+        header: rect(header),
+        navDisplay: getComputedStyle(nav).display,
+        buttonDisplay: getComputedStyle(button).display,
+        logo: rect(logo),
+        nav: rect(nav),
+        actions: rect(actions),
+        actionItems: [...actions.querySelectorAll(':scope > .language-switcher, :scope > a, :scope > button')]
+          .filter(element => getComputedStyle(element).display !== 'none')
+          .map(element => ({ text: element.textContent.trim(), ...rect(element) })),
+        navScrollWidth: nav.scrollWidth,
+        navClientWidth: nav.clientWidth,
+        links: [...nav.querySelectorAll('.lobby-nav-link')].map(link => ({
+          text: link.textContent.trim(),
+          whiteSpace: getComputedStyle(link).whiteSpace,
+          height: link.getBoundingClientRect().height
+        }))
+      };
+    });
+    const ok = response?.status() === 200 &&
+      layout.polishClass &&
+      layout.scrollWidth <= layout.pageWidth + 1 &&
+      layout.navDisplay !== 'none' &&
+      layout.buttonDisplay === 'none' &&
+      layout.logo.right <= layout.nav.left + 2 &&
+      layout.nav.right <= layout.actions.left + 2 &&
+      layout.actions.right <= layout.inner.right + 1 &&
+      layout.actionItems.length >= 3 &&
+      layout.actionItems.every(item => item.top >= layout.inner.top && item.bottom <= layout.inner.bottom + 1) &&
+      layout.actionItems.every((item, index, all) => index === 0 || item.left >= all[index - 1].right - 1) &&
+      layout.navScrollWidth <= layout.navClientWidth + 2 &&
+      layout.links.length === 6 &&
+      layout.links.every(link => link.whiteSpace === 'nowrap' && link.height <= 50);
+    console.log(`${ok ? 'OK' : 'FAIL'} Polish desktop header width=${width} nav=${layout.navDisplay} links=${layout.links.length} navBox=${layout.navClientWidth}/${layout.navScrollWidth} actions=${layout.actions.left.toFixed(1)}-${layout.actions.right.toFixed(1)} innerRight=${layout.inner.right.toFixed(1)} viewport=${layout.pageWidth}/${layout.scrollWidth}`);
+    if (!ok) {
+      console.log(`  Polish header diagnostics: ${JSON.stringify(layout)}`);
+      failed = true;
+    }
+    await page.close();
+  }
+
+  const polishTabletPage = await browser.newPage({ viewport: { width: 1024, height: 900 }, deviceScaleFactor: 1 });
+  const polishTabletResponse = await polishTabletPage.goto('http://127.0.0.1:4173/pl/', { waitUntil: 'networkidle' });
+  const polishTabletButton = polishTabletPage.locator('#mobile-menu-btn');
+  const polishTabletBefore = await polishTabletPage.evaluate(() => ({
+    navDisplay: getComputedStyle(document.querySelector('.lobby-nav')).display,
+    buttonDisplay: getComputedStyle(document.querySelector('#mobile-menu-btn')).display,
+    pageWidth: document.documentElement.clientWidth,
+    scrollWidth: document.documentElement.scrollWidth
+  }));
+  if (await polishTabletButton.isVisible()) await polishTabletButton.click();
+  const polishTabletMenuOpen = await polishTabletPage.locator('#mobile-menu').evaluate(el =>
+    !el.classList.contains('hidden') && getComputedStyle(el).display !== 'none'
+  );
+  const polishTabletOk = polishTabletResponse?.status() === 200 &&
+    polishTabletBefore.navDisplay === 'none' &&
+    polishTabletBefore.buttonDisplay !== 'none' &&
+    polishTabletBefore.scrollWidth <= polishTabletBefore.pageWidth + 1 &&
+    polishTabletMenuOpen;
+  console.log(`${polishTabletOk ? 'OK' : 'FAIL'} Polish tablet header nav=${polishTabletBefore.navDisplay} button=${polishTabletBefore.buttonDisplay} menuOpen=${polishTabletMenuOpen} viewport=${polishTabletBefore.pageWidth}/${polishTabletBefore.scrollWidth}`);
+  if (!polishTabletOk) failed = true;
+  await polishTabletPage.close();
+
   // Header direction behavior: verify the real on-screen position, not only its CSS class.
   async function readHeaderVisibility(page) {
     return page.locator('.lobby-header').evaluate(el => {

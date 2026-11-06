@@ -24,6 +24,7 @@
             <div class="author-focus-box"><strong>{{ partial "t.html" "editorial_focus" }}</strong><span>{{ $author.label }}</span><span>{{ partial "t.html" "author_focus_games" }}</span><span>{{ partial "t.html" "author_focus_bonuses" }}</span></div>
           </div>
           <aside class="author-contact-card author-contact-beautiful">
+            {{ partial "author-public-links.html" . }}
             {{ $settings := (site.GetPage "/editorial/settings").Params }}<a href="{{ $settings.affiliate_link }}" target="_blank" rel="nofollow sponsored noopener" class="author-cta">{{ $settings.affiliate_cta }} <span>→</span></a>
           </aside>
         </div>

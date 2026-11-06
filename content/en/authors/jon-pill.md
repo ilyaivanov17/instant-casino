@@ -8,7 +8,7 @@ slug: jon-pill
 aliases:
 - /en/authors/author-7/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-11-06'
 author_id: author-7
 role: Game analyst and gambling journalist
 photo: images/Jon_Pill.webp
@@ -17,9 +17,10 @@ bio: Jon Pill has worked as a freelance writer and gambling journalist since 201
 label: Game strategy, poker rules, casino games and analysis of game mechanics
 social:
   linkedin: ''
-  website: https://medium.com/@JonPill
-  instagram: ''
-  x: ''
+  website: ''
+  medium: https://medium.com/@JonPill
+  lcb: https://lcb.org/
+  casino_guru: https://www.casino.guru/team/jon-pill
 verified: true
 contributor: true
 contributor_confirmed: true
@@ -49,8 +50,8 @@ When comparing casino games and offers, the full terms, the specific game versio
 
 ### Public professional profiles
 
-[Medium](https://medium.com/@JonPill)
+[Medium](https://medium.com/@JonPill) · [LCB.org](https://lcb.org/) · [Casino Guru](https://www.casino.guru/team/jon-pill)
 
 | Role | Focus | Public profile | Specialty |
 | --- | --- | --- | --- |
-| Game analyst and gambling journalist | Game strategy, poker rules, casino games and analysis of game mechanics | [Medium](https://medium.com/@JonPill) | Game strategy, poker rules, casino games and analysis of game mechanics |
+| Game analyst and gambling journalist | Game strategy, poker rules, casino games and analysis of game mechanics | [Medium](https://medium.com/@JonPill) · [LCB.org](https://lcb.org/) · [Casino Guru](https://www.casino.guru/team/jon-pill) | Game strategy, poker rules, casino games and analysis of game mechanics |

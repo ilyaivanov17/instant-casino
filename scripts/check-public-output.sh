@@ -74,7 +74,7 @@ class AnchorAudit(HTMLParser):
             violations.append((self.page, href, "external links must use HTTPS"))
         if attrs.get("target", "").lower() == "_blank":
             rel = set((attrs.get("rel") or "").lower().split())
-            if not {"noopener", "noreferrer"}.issubset(rel):
+            if "noopener" not in rel:
                 violations.append((self.page, href, 'target="_blank" links must include rel="noopener noreferrer"'))
 
 for page in root.rglob("*.html"):

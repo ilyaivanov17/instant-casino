@@ -8,7 +8,7 @@ slug: dominic-field
 aliases:
 - /en/authors/author-6/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-11-06'
 author_id: author-6
 role: Freelance iGaming writer
 photo: images/Dominic_Field.jpg
@@ -16,10 +16,11 @@ bio: Dominic Field is a freelance iGaming writer with long-standing experience i
   areas include online casinos, slots, poker, sports betting and developments across the iGaming industry.
 label: Online casinos, slots, poker, sports betting and the iGaming industry
 social:
-  linkedin: https://ph.linkedin.com/in/dominic-field-5aa70a1b
-  website: https://www.dominicfield.com/
-  instagram: ''
-  x: ''
+  linkedin: ''
+  website: ''
+  medium: https://medium.com/@glowingwolf3930
+  substack: https://substack.com/@dominicfield1
+  wordpress: https://cleobetraslots.wordpress.com/
 verified: true
 contributor: true
 contributor_confirmed: true
@@ -48,8 +49,8 @@ When comparing casino games and offers, the full terms, the specific game versio
 
 ### Public professional profiles
 
-[LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/)
+[Medium](https://medium.com/@glowingwolf3930) · [Substack](https://substack.com/@dominicfield1) · [WordPress](https://cleobetraslots.wordpress.com/)
 
 | Role | Focus | Public profile | Specialty |
 | --- | --- | --- | --- |
-| Freelance iGaming writer | Online casinos, slots, poker, sports betting and the iGaming industry | [LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/) | Online casinos, slots, poker, sports betting and the iGaming industry |
+| Freelance iGaming writer | Online casinos, slots, poker, sports betting and the iGaming industry | [Medium](https://medium.com/@glowingwolf3930) · [Substack](https://substack.com/@dominicfield1) · [WordPress](https://cleobetraslots.wordpress.com/) | Online casinos, slots, poker, sports betting and the iGaming industry |

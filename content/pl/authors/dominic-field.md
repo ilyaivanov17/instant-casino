@@ -8,7 +8,7 @@ slug: dominic-field
 aliases:
 - /pl/authors/author-6/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-11-06'
 author_id: author-6
 role: Niezależny autor treści iGaming
 photo: images/Dominic_Field.jpg
@@ -16,10 +16,11 @@ bio: Dominic Field jest niezależnym autorem treści z wieloletnim doświadczeni
   o kasynach online, slotach, pokerze, zakładach sportowych i rozwoju branży iGaming.
 label: Kasyna online, sloty, poker, zakłady sportowe i branża iGaming
 social:
-  linkedin: https://ph.linkedin.com/in/dominic-field-5aa70a1b
-  website: https://www.dominicfield.com/
-  instagram: ''
-  x: ''
+  linkedin: ''
+  website: ''
+  medium: https://medium.com/@glowingwolf3930
+  substack: https://substack.com/@dominicfield1
+  wordpress: https://cleobetraslots.wordpress.com/
 verified: true
 contributor: true
 contributor_confirmed: true
@@ -48,8 +49,8 @@ Przy porównywaniu gier i ofert kasynowych znaczenie mają pełny regulamin, kon
 
 ### Publiczne profile zawodowe
 
-[LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/)
+[Medium](https://medium.com/@glowingwolf3930) · [Substack](https://substack.com/@dominicfield1) · [WordPress](https://cleobetraslots.wordpress.com/)
 
 | Rola | Zakres | Profil publiczny | Specjalizacja |
 | --- | --- | --- | --- |
-| Niezależny autor treści iGaming | Kasyna online, sloty, poker, zakłady sportowe i branża iGaming | [LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/) | Kasyna online, sloty, poker, zakłady sportowe i branża iGaming |
+| Niezależny autor treści iGaming | Kasyna online, sloty, poker, zakłady sportowe i branża iGaming | [Medium](https://medium.com/@glowingwolf3930) · [Substack](https://substack.com/@dominicfield1) · [WordPress](https://cleobetraslots.wordpress.com/) | Kasyna online, sloty, poker, zakłady sportowe i branża iGaming |

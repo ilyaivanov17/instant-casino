@@ -5,7 +5,7 @@ description: Meet the seven Instant Casino contributors, their specialist areas 
 seo_title: Authors and editorial team | Instant Casino
 type: authors
 date: 2026-09-27
-lastmod: '2026-10-17'
+lastmod: '2026-11-06'
 build:
   render: always
   list: always
@@ -23,8 +23,8 @@ The author directory is also a useful route into the editorial content. The cont
 | Corey Levitan | Las Vegas, entertainment and gambling journalism | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/) |
 | Cristina Tudose | iGaming content, copywriting, casino content and SEO | [LinkedIn](https://ro.linkedin.com/in/cristina-tudose-b1b925168) · [Website](https://cristinatudose.ro/) |
 | Dan Michalski | Gambling, casinos, media and technology | [LinkedIn](https://www.linkedin.com/in/danmichalski) · [Muck Rack](https://muckrack.com/dan-michalski) |
-| Dominic Field | Casinos, slots, poker and sports betting | [LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/) |
-| Jon Pill | Game strategy, poker and casino games | [Medium](https://medium.com/@zuza76hgtf) |
+| Dominic Field | Casinos, slots, poker and sports betting | [Medium](https://medium.com/@glowingwolf3930) · [Substack](https://substack.com/@dominicfield1) · [WordPress](https://cleobetraslots.wordpress.com/) |
+| Jon Pill | Game strategy, poker and casino games | [Medium](https://medium.com/@JonPill) · [LCB.org](https://lcb.org/) · [Casino Guru](https://www.casino.guru/team/jon-pill) |
 | Marco Ibarra | iGaming, slot reviews, bonuses and editorial SEO | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Website](https://marco-ibarra.com/) |
 
 Open a profile to read the professional details at the original public source.

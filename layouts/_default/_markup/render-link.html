@@ -1,12 +1,10 @@
 {{- $destination := .Destination -}}
 {{- $siteRoot := strings.TrimSuffix "/" site.BaseURL -}}
-{{- $sameSiteHTTPS := or (eq $destination $siteRoot) (strings.HasPrefix $destination (printf "%s/" $siteRoot)) (strings.HasPrefix $destination (printf "%s?" $siteRoot)) (strings.HasPrefix $destination (printf "%s#" $siteRoot)) -}}
 {{- $siteRootHTTP := replace $siteRoot "https://" "http://" -}}
-{{- $sameSiteHTTP := or (eq $destination $siteRootHTTP) (strings.HasPrefix $destination (printf "%s/" $siteRootHTTP)) (strings.HasPrefix $destination (printf "%s?" $siteRootHTTP)) (strings.HasPrefix $destination (printf "%s#" $siteRootHTTP)) -}}
 {{- $isWebURL := or (strings.HasPrefix $destination "http://") (strings.HasPrefix $destination "https://") (strings.HasPrefix $destination "//") -}}
-{{- $isSameSite := or $sameSiteHTTPS $sameSiteHTTP -}}
+{{- $isSameSite := or (eq $destination $siteRoot) (strings.HasPrefix $destination (printf "%s/" $siteRoot)) (strings.HasPrefix $destination (printf "%s?" $siteRoot)) (strings.HasPrefix $destination (printf "%s#" $siteRoot)) (eq $destination $siteRootHTTP) (strings.HasPrefix $destination (printf "%s/" $siteRootHTTP)) (strings.HasPrefix $destination (printf "%s?" $siteRootHTTP)) (strings.HasPrefix $destination (printf "%s#" $siteRootHTTP)) -}}
 {{- if and $isWebURL (not $isSameSite) -}}
-  {{- .Text | safeHTML -}}
+<a href="{{ $destination | safeURL }}" target="_blank" rel="noopener noreferrer"{{ with .Title }} title="{{ . | htmlEscape }}"{{ end }}>{{ .Text | safeHTML }}</a>
 {{- else -}}
 <a href="{{ $destination | safeURL }}"{{ with .Title }} title="{{ . | htmlEscape }}"{{ end }}>{{ .Text | safeHTML }}</a>
 {{- end -}}

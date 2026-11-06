@@ -1,0 +1,8 @@
+{{- $page := . -}}
+{{- $slug := $page.Params.slug | default $page.File.TranslationBaseName -}}
+{{- $profiles := index site.Data.author_profiles $slug -}}
+{{- $sameAs := slice -}}
+{{- range $profiles -}}
+  {{- $sameAs = $sameAs | append .url -}}
+{{- end -}}
+{{- return $sameAs -}}

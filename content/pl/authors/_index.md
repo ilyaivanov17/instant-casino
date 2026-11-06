@@ -4,7 +4,7 @@ description: Poznaj siedmiu współtwórców Instant Casino, ich specjalizacje o
 seo_title: Autorzy i redakcja | Instant Casino
 type: authors
 date: 2026-09-27
-lastmod: '2026-10-17'
+lastmod: '2026-11-06'
 build:
   render: always
   list: always
@@ -22,8 +22,8 @@ Katalog autorów pomaga również dotrzeć do treści redakcyjnych. Deklarowane 
 | Corey Levitan | Las Vegas, rozrywka i dziennikarstwo hazardowe | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/) |
 | Cristina Tudose | Treści iGaming, copywriting, kasyna i SEO | [LinkedIn](https://ro.linkedin.com/in/cristina-tudose-b1b925168) · [Strona](https://cristinatudose.ro/) |
 | Dan Michalski | Hazard, kasyna, media i technologia | [LinkedIn](https://www.linkedin.com/in/danmichalski) · [Muck Rack](https://muckrack.com/dan-michalski) |
-| Dominic Field | Kasyna, sloty, poker i zakłady sportowe | [LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Strona](https://www.dominicfield.com/) |
-| Jon Pill | Strategia gier, poker i gry kasynowe | [Medium](https://medium.com/@zuza76hgtf) |
+| Dominic Field | Kasyna, sloty, poker i zakłady sportowe | [Medium](https://medium.com/@glowingwolf3930) · [Substack](https://substack.com/@dominicfield1) · [WordPress](https://cleobetraslots.wordpress.com/) |
+| Jon Pill | Strategia gier, poker i gry kasynowe | [Medium](https://medium.com/@JonPill) · [LCB.org](https://lcb.org/) · [Casino Guru](https://www.casino.guru/team/jon-pill) |
 | Marco Ibarra | iGaming, recenzje slotów, bonusy i redakcyjne SEO | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Strona](https://marco-ibarra.com/) |
 
 Otwórz profil, aby sprawdzić informacje zawodowe u źródła.

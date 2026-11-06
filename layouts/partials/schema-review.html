@@ -13,7 +13,9 @@
     {{- $authorURL = .Permalink -}}
     {{- $authorPhoto = .Params.photo | default $authorPhoto -}}
   {{- end -}}
-  {{- $person := dict "@type" "Person" "@id" (printf "%s#person" $authorURL) "name" $authorName "jobTitle" $authorRole "url" $authorURL "image" ($authorPhoto | absURL) -}}
+  {{- $sameAs := slice -}}
+  {{- with $authorPage }}{{ $sameAs = partial "author-sameas.html" . }}{{ end -}}
+  {{- $person := dict "@type" "Person" "@id" (printf "%s#person" $authorURL) "name" $authorName "jobTitle" $authorRole "url" $authorURL "image" ($authorPhoto | absURL) "sameAs" $sameAs -}}
   {{- $publisher := dict "@type" "Organization" "@id" (printf "%s#organization" site.BaseURL) "name" "Instant Casino" "url" site.BaseURL -}}
   {{- $provider := dict "@type" "Organization" "name" ($page.Params.review_game_provider | default $page.Params.provider | default "Pragmatic Play") -}}
   {{- $game := dict "@type" "Game" "name" ($page.Params.review_game_name | default $page.Title) "provider" $provider -}}

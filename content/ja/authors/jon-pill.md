@@ -7,7 +7,7 @@ slug: jon-pill
 aliases:
 - /ja/authors/author-7/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-11-06'
 author_id: author-7
 role: ゲームアナリスト・ギャンブルジャーナリスト
 photo: images/Jon_Pill.webp
@@ -15,9 +15,10 @@ bio: Jon Pillは2015年からフリーランスのライター兼ギャンブル
 label: ゲーム戦略、ポーカーのルール、カジノゲーム、ゲームメカニクスの分析
 social:
   linkedin: ''
-  website: https://medium.com/@JonPill
-  instagram: ''
-  x: ''
+  website: ''
+  medium: https://medium.com/@JonPill
+  lcb: https://lcb.org/
+  casino_guru: https://www.casino.guru/team/jon-pill
 verified: true
 contributor: true
 contributor_confirmed: true
@@ -47,8 +48,8 @@ Instant Casinoでは、このプロフィールはカジノ情報、ゲームの
 
 ### 公開されている職業プロフィール
 
-[Medium](https://medium.com/@JonPill)
+[Medium](https://medium.com/@JonPill) · [LCB.org](https://lcb.org/) · [Casino Guru](https://www.casino.guru/team/jon-pill)
 
 | 役割 | 専門分野 | 公開プロフィール | 担当領域 |
 | --- | --- | --- | --- |
-| ゲームアナリスト・ギャンブルジャーナリスト | ゲーム戦略、ポーカーのルール、カジノゲーム、ゲームメカニクスの分析 | [Medium](https://medium.com/@JonPill) | ゲーム戦略、ポーカーのルール、カジノゲーム、ゲームメカニクスの分析 |
+| ゲームアナリスト・ギャンブルジャーナリスト | ゲーム戦略、ポーカーのルール、カジノゲーム、ゲームメカニクスの分析 | [Medium](https://medium.com/@JonPill) · [LCB.org](https://lcb.org/) · [Casino Guru](https://www.casino.guru/team/jon-pill) | ゲーム戦略、ポーカーのルール、カジノゲーム、ゲームメカニクスの分析 |

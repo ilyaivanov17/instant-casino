@@ -8,7 +8,7 @@ slug: jon-pill
 aliases:
 - /pt/authors/author-7/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-11-06'
 author_id: author-7
 role: Analista de jogos e jornalista sobre jogo
 photo: images/Jon_Pill.webp
@@ -17,9 +17,10 @@ bio: Jon Pill trabalha como redator freelancer e jornalista sobre jogo desde 201
 label: Estratégia de jogo, regras de póquer, jogos de casino e análise de mecânicas
 social:
   linkedin: ''
-  website: https://medium.com/@JonPill
-  instagram: ''
-  x: ''
+  website: ''
+  medium: https://medium.com/@JonPill
+  lcb: https://lcb.org/
+  casino_guru: https://www.casino.guru/team/jon-pill
 verified: true
 contributor: true
 contributor_confirmed: true
@@ -49,8 +50,8 @@ Ao comparar jogos e ofertas de casino, são importantes os termos completos, a v
 
 ### Perfis profissionais públicos
 
-[Medium](https://medium.com/@JonPill)
+[Medium](https://medium.com/@JonPill) · [LCB.org](https://lcb.org/) · [Casino Guru](https://www.casino.guru/team/jon-pill)
 
 | Função | Foco | Perfil público | Especialidade |
 | --- | --- | --- | --- |
-| Analista de jogos e jornalista sobre jogo | Estratégia de jogo, regras de póquer, jogos de casino e análise de mecânicas | [Medium](https://medium.com/@JonPill) | Estratégia de jogo, regras de póquer, jogos de casino e análise de mecânicas |
+| Analista de jogos e jornalista sobre jogo | Estratégia de jogo, regras de póquer, jogos de casino e análise de mecânicas | [Medium](https://medium.com/@JonPill) · [LCB.org](https://lcb.org/) · [Casino Guru](https://www.casino.guru/team/jon-pill) | Estratégia de jogo, regras de póquer, jogos de casino e análise de mecânicas |

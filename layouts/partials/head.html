@@ -101,7 +101,8 @@
 {{ else }}
 <script type="application/ld+json">
 {{ if $isAuthorProfile }}
-{{- $person := dict "@context" "https://schema.org" "@type" "Person" "@id" (printf "%s#person" .Permalink) "name" .Title "url" .Permalink "jobTitle" (.Params.role | default "iGaming-Autor und Redakteur") -}}
+{{- $sameAs := partial "author-sameas.html" . -}}
+{{- $person := dict "@context" "https://schema.org" "@type" "Person" "@id" (printf "%s#person" .Permalink) "name" .Title "url" .Permalink "jobTitle" (.Params.role | default "iGaming-Autor und Redakteur") "sameAs" $sameAs -}}
 {{- with .Params.photo }}{{ $person = merge $person (dict "image" (. | absURL)) }}{{ end -}}
 {{ $person | jsonify | safeJS }}
 {{ else if or (eq .Type "bonuses") (eq .Type "deposits") (eq .Type "slots") (eq .Type "faq") (eq .Type "page") }}

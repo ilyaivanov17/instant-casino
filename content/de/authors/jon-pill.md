@@ -8,7 +8,7 @@ slug: jon-pill
 aliases:
 - /authors/author-7/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-11-06'
 author_id: author-7
 role: Game Analyst und Glücksspieljournalist
 photo: images/Jon_Pill.webp
@@ -17,9 +17,10 @@ bio: Jon Pill arbeitet seit 2015 als freiberuflicher Autor und Glücksspieljourn
 label: Spielstrategien, Pokerregeln, Casinospiele und Analyse von Spielmechaniken
 social:
   linkedin: ''
-  website: https://medium.com/@JonPill
-  instagram: ''
-  x: ''
+  website: ''
+  medium: https://medium.com/@JonPill
+  lcb: https://lcb.org/
+  casino_guru: https://www.casino.guru/team/jon-pill
 verified: true
 contributor: true
 contributor_confirmed: true
@@ -49,8 +50,8 @@ Bei Casino- und Bonusinformationen zählen die vollständigen Bedingungen, die k
 
 ### Öffentliche Berufsprofile
 
-[Medium](https://medium.com/@JonPill)
+[Medium](https://medium.com/@JonPill) · [LCB.org](https://lcb.org/) · [Casino Guru](https://www.casino.guru/team/jon-pill)
 
 | Rolle | Schwerpunkt | Öffentliches Profil | Fachgebiet |
 | --- | --- | --- | --- |
-| Game Analyst und Glücksspieljournalist | Spielstrategien, Pokerregeln, Casinospiele und Analyse von Spielmechaniken | [Medium](https://medium.com/@JonPill) | Spielstrategien, Pokerregeln, Casinospiele und Analyse von Spielmechaniken |
+| Game Analyst und Glücksspieljournalist | Spielstrategien, Pokerregeln, Casinospiele und Analyse von Spielmechaniken | [Medium](https://medium.com/@JonPill) · [LCB.org](https://lcb.org/) · [Casino Guru](https://www.casino.guru/team/jon-pill) | Spielstrategien, Pokerregeln, Casinospiele und Analyse von Spielmechaniken |

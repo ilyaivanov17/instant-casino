@@ -1,0 +1,10 @@
+{{- $page := . -}}
+{{- $slug := $page.Params.slug | default $page.File.TranslationBaseName -}}
+{{- $profiles := index site.Data.author_profiles $slug -}}
+{{- with $profiles -}}
+<nav class="social-row author-social-large author-public-profile-links" aria-label="Public professional profiles">
+  {{- range . -}}
+  <a href="{{ .url | safeURL }}" target="_blank" rel="noopener noreferrer" class="social-button">{{ .label }}</a>
+  {{- end -}}
+</nav>
+{{- end -}}

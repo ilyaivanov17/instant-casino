@@ -65,5 +65,6 @@
   <p class="author-test__notice">Glücksspiel ist mit finanziellen Risiken verbunden. Setze nur Geld ein, dessen Verlust du dir leisten kannst, und beachte die örtlichen gesetzlichen Vorgaben.</p>
   <nav class="author-test__profiles" aria-label="Autorenprofile">
     {{ with $profileURL }}<a class="author-test__profile" href="{{ . }}" rel="author">Autorenprofil</a>{{ end }}
+    {{ with $authorPage }}{{ partial "author-public-links.html" . }}{{ end }}
   </nav>
 </section>

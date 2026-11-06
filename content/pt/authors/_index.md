@@ -23,8 +23,8 @@ O diretório também ajuda a explorar os conteúdos editoriais. As áreas profis
 | Corey Levitan | Las Vegas, entretenimento e jornalismo de jogo | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/) |
 | Cristina Tudose | Conteúdo iGaming, copywriting, casinos e SEO | [LinkedIn](https://ro.linkedin.com/in/cristina-tudose-b1b925168) · [Site](https://cristinatudose.ro/) |
 | Dan Michalski | Jogo, casinos, media e tecnologia | [LinkedIn](https://www.linkedin.com/in/danmichalski) · [Muck Rack](https://muckrack.com/dan-michalski) |
-| Dominic Field | Casinos, slots, póquer e apostas desportivas | [LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Site](https://www.dominicfield.com/) |
-| Jon Pill | Estratégia de jogo, póquer e jogos de casino | [Medium](https://medium.com/@zuza76hgtf) |
+| Dominic Field | Casinos, slots, póquer e apostas desportivas | [Medium](https://medium.com/@glowingwolf3930) · [Substack](https://substack.com/@dominicfield1) · [WordPress](https://cleobetraslots.wordpress.com/) |
+| Jon Pill | Estratégia de jogo, póquer e jogos de casino | [Medium](https://medium.com/@JonPill) · [LCB.org](https://lcb.org/) · [Casino Guru](https://www.casino.guru/team/jon-pill) |
 | Marco Ibarra | iGaming, análises de slots, bónus e SEO editorial | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Site](https://marco-ibarra.com/) |
 
 Abra um perfil para consultar os dados profissionais na fonte pública original.

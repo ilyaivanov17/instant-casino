@@ -236,7 +236,7 @@ ui:
   nav_team: Authors
   nav_contact: Contact
   nav_home: Home
-  sign_in: 'Visit provider'
+  sign_in: 'Login'
   open_bonus: View offer
   search_placeholder: Search by game, provider or category…
   random: Random game

@@ -3551,3 +3551,14 @@ svg.slot-search-icon{
     display: none !important;
   }
 }
+
+
+/* The hamburger is mobile/tablet-only; the later component rule must not override md:hidden. */
+.lobby-menu-btn {
+  display: none;
+}
+@media (max-width: 767px) {
+  .lobby-menu-btn {
+    display: grid;
+  }
+}

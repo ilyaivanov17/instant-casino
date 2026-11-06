@@ -22,8 +22,8 @@ Die Autorenseite ist zugleich ein Einstieg in die Redaktion: Die jeweiligen beru
 | Corey Levitan | Las Vegas, Unterhaltung und Glücksspieljournalismus | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/) |
 | Cristina Tudose | iGaming-Content, Copywriting, Casino-Inhalte und SEO | [LinkedIn](https://ro.linkedin.com/in/cristina-tudose-b1b925168) · [Website](https://cristinatudose.ro/) |
 | Dan Michalski | Glücksspiel, Casinos, Medien und Technologie | [LinkedIn](https://www.linkedin.com/in/danmichalski) · [Muck Rack](https://muckrack.com/dan-michalski) |
-| Dominic Field | Casinos, Slots, Poker und Sportwetten | [LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/) |
-| Jon Pill | Spielstrategie, Poker und Casinospiele | [Medium](https://medium.com/@zuza76hgtf) |
+| Dominic Field | Casinos, Slots, Poker und Sportwetten | [Medium](https://medium.com/@glowingwolf3930) · [Substack](https://substack.com/@dominicfield1) · [WordPress](https://cleobetraslots.wordpress.com/) |
+| Jon Pill | Spielstrategie, Poker und Casinospiele | [Medium](https://medium.com/@JonPill) · [LCB.org](https://lcb.org/) · [Casino Guru](https://www.casino.guru/team/jon-pill) |
 | Marco Ibarra | iGaming, Slot-Reviews, Boni und redaktionelle SEO-Arbeit | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Website](https://marco-ibarra.com/) |
 
 Öffne ein Profil, um die beruflichen Angaben direkt bei der jeweiligen Quelle nachzulesen.

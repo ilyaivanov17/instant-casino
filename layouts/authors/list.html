@@ -32,6 +32,7 @@
           <p class="author-card-bio">{{ .Params.bio }}</p>
           <div class="author-card-footer">
             <a class="author-profile-btn" href="{{ .RelPermalink }}">{{ partial "t.html" "author_profile" }} <span>→</span></a>
+            {{ partial "author-public-links.html" . }}
           </div>
         </div>
       </article>

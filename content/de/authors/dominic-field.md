@@ -8,7 +8,7 @@ slug: dominic-field
 aliases:
 - /authors/author-6/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-11-06'
 author_id: author-6
 role: Freiberuflicher iGaming-Autor
 photo: images/Dominic_Field.jpg
@@ -16,10 +16,11 @@ bio: Dominic Field ist ein freiberuflicher Autor im iGaming-Bereich mit langjäh
   Seine Themen umfassen Online-Casinos, Slots, Poker, Sportwetten und Entwicklungen der iGaming-Branche.
 label: Online-Casinos, Slots, Poker, Sportwetten und iGaming-Branche
 social:
-  linkedin: https://ph.linkedin.com/in/dominic-field-5aa70a1b
-  website: https://www.dominicfield.com/
-  instagram: ''
-  x: ''
+  linkedin: ''
+  website: ''
+  medium: https://medium.com/@glowingwolf3930
+  substack: https://substack.com/@dominicfield1
+  wordpress: https://cleobetraslots.wordpress.com/
 verified: true
 contributor: true
 contributor_confirmed: true
@@ -48,8 +49,8 @@ Bei Casino- und Bonusinformationen zählen die vollständigen Bedingungen, die k
 
 ### Öffentliche Berufsprofile
 
-[LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/)
+[Medium](https://medium.com/@glowingwolf3930) · [Substack](https://substack.com/@dominicfield1) · [WordPress](https://cleobetraslots.wordpress.com/)
 
 | Rolle | Schwerpunkt | Öffentliches Profil | Fachgebiet |
 | --- | --- | --- | --- |
-| Freiberuflicher iGaming-Autor | Online-Casinos, Slots, Poker, Sportwetten und iGaming-Branche | [LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/) | Online-Casinos, Slots, Poker, Sportwetten und iGaming-Branche |
+| Freiberuflicher iGaming-Autor | Online-Casinos, Slots, Poker, Sportwetten und iGaming-Branche | [Medium](https://medium.com/@glowingwolf3930) · [Substack](https://substack.com/@dominicfield1) · [WordPress](https://cleobetraslots.wordpress.com/) | Online-Casinos, Slots, Poker, Sportwetten und iGaming-Branche |

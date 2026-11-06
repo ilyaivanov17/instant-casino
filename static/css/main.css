@@ -3536,10 +3536,10 @@ svg.slot-search-icon{
   .lobby-header--pl .lobby-menu-btn {
     display: grid !important;
   }
-  .lobby-header--pl .lobby-mobile-menu.md\\:hidden:not(.hidden) {
+  .lobby-header--pl .lobby-mobile-menu.md\:hidden:not(.hidden) {
     display: block !important;
   }
-  .lobby-header--pl .lobby-mobile-menu.md\\:hidden.hidden {
+  .lobby-header--pl .lobby-mobile-menu.md\:hidden.hidden {
     display: none !important;
   }
 }

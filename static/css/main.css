@@ -3487,19 +3487,27 @@ svg.slot-search-icon{
   gap: .65rem;
 }
 .lobby-header--pl .lobby-nav {
-  flex: 1 1 auto;
-  min-width: 0;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: nowrap;
+  width: max-content;
+  min-width: max-content;
   margin-left: .2rem;
-  justify-content: center;
+  justify-content: flex-start;
   gap: .15rem;
 }
 .lobby-header--pl .lobby-nav-link {
+  display: inline-flex;
   flex: 0 0 auto;
+  width: max-content;
   padding: .58rem .5rem;
   font-size: .76rem;
-  white-space: nowrap;
+  white-space: nowrap !important;
   overflow-wrap: normal;
-  word-break: normal;
+  word-break: keep-all;
+}
+.lobby-header--pl .lobby-nav-link .nav-dot {
+  flex: 0 0 6px;
 }
 .lobby-header--pl .lobby-actions {
   flex: 0 0 auto;

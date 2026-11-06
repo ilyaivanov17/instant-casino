@@ -7,17 +7,18 @@ slug: dominic-field
 aliases:
 - /ja/authors/author-6/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-11-06'
 author_id: author-6
 role: フリーランスiGamingライター
 photo: images/Dominic_Field.jpg
 bio: Dominic Fieldは、ギャンブル関連コンテンツに長年携わるフリーランスのiGamingライターです。オンラインカジノ、スロット、ポーカー、スポーツベッティング、iGaming業界の動向を扱っています。
 label: オンラインカジノ、スロット、ポーカー、スポーツベッティング、iGaming業界
 social:
-  linkedin: https://ph.linkedin.com/in/dominic-field-5aa70a1b
-  website: https://www.dominicfield.com/
-  instagram: ''
-  x: ''
+  linkedin: ''
+  website: ''
+  medium: https://medium.com/@glowingwolf3930
+  substack: https://substack.com/@dominicfield1
+  wordpress: https://cleobetraslots.wordpress.com/
 verified: true
 contributor: true
 contributor_confirmed: true
@@ -46,8 +47,8 @@ Instant Casinoでは、このプロフィールはカジノ情報、ゲームの
 
 ### 公開されている職業プロフィール
 
-[LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/)
+[Medium](https://medium.com/@glowingwolf3930) · [Substack](https://substack.com/@dominicfield1) · [WordPress](https://cleobetraslots.wordpress.com/)
 
 | 役割 | 専門分野 | 公開プロフィール | 担当領域 |
 | --- | --- | --- | --- |
-| フリーランスiGamingライター | オンラインカジノ、スロット、ポーカー、スポーツベッティング、iGaming業界 | [LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/) | オンラインカジノ、スロット、ポーカー、スポーツベッティング、iGaming業界 |
+| フリーランスiGamingライター | オンラインカジノ、スロット、ポーカー、スポーツベッティング、iGaming業界 | [Medium](https://medium.com/@glowingwolf3930) · [Substack](https://substack.com/@dominicfield1) · [WordPress](https://cleobetraslots.wordpress.com/) | オンラインカジノ、スロット、ポーカー、スポーツベッティング、iGaming業界 |

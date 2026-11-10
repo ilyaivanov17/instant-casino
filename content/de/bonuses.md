@@ -4,7 +4,7 @@ description: Umsatzbedingungen, Fristen, Spielgewichtung, Höchsteinsätze und A
 type: page
 author: cristina-tudose
 seo_title: Casino-Bonusbedingungen verstehen | Instant Casino
-lastmod: '2026-10-30'
+lastmod: '2026-11-10'
 article_review_status: editorial-approved
 reviewed_by: Cristina Tudose
 review_date: '2026-10-30'
@@ -48,6 +48,8 @@ Die wichtigsten Regeln stehen nicht immer direkt neben der beworbenen Summe. Lie
 
 Fehlt eine Angabe, bedeutet das nicht automatisch, dass es keine Einschränkung gibt. Suche in den vollständigen Bedingungen weiter. Bleibt etwas unklar, frage den Anbieter vor der Einzahlung – oder verzichte auf das Angebot.
 
+<span id="wagering-requirements"></span>
+
 ## Umsatzbedingungen: Worauf beziehen sich 30x?
 
 Der Multiplikator allein sagt noch nicht, wie viel umgesetzt werden muss. Entscheidend ist die Berechnungsgrundlage.
@@ -89,6 +91,8 @@ Bonusbedingungen können einen maximalen Einsatz pro Spielrunde festlegen. Diese
 Für virtuelle Automatenspiele im regulierten deutschen Markt gilt grundsätzlich ein Höchsteinsatz von 1 Euro je Spielrunde. Seit dem 1. Juli 2026 sind stufenweise Erhöhungen möglich: zunächst auf bis zu 3 Euro und in einer zweiten Stufe auf bis zu 5 Euro. Voraussetzung ist, dass der Anbieter hierfür eine entsprechende Erlaubnis der GGL besitzt. Ein Höchsteinsatz von bis zu 3 Euro darf nur Spielenden ab 21 Jahren gewährt werden. Für die zweite Stufe bis 5 Euro müssen Spielende zusätzlich zuvor mindestens 90 Tage ein suchtunauffälliges Spielverhalten gezeigt haben; der Anbieter muss ein spezielles Monitoring durchführen. Es besteht kein Anspruch auf einen erhöhten Höchsteinsatz: Ob er angeboten und gewährt wird, entscheidet der Anbieter. Die Abweichung ist zunächst bis zum 31. Dezember 2027 befristet. Ein bonusinternes Limit kann weiterhin niedriger sein. Prüfe die aktuellen Informationen der GGL und die Bedingungen des zugelassenen Anbieters.
 
 Auch ausgeschlossene Spiele sind wichtig. Einsätze in bestimmten Titeln können nicht zum Bonusumsatz zählen. Bei Verstößen können – abhängig von den konkreten Klauseln und Umständen – der Bonus oder damit verbundene Gewinne storniert werden. Bei Verdacht auf Manipulation können zusätzliche Prüfungen oder Kontomaßnahmen folgen. Das sind mögliche, keine automatischen Folgen jedes Fehlers.
+
+<span id="withdrawal-rules"></span>
 
 ## Bonusguthaben, Max Cashout und vorzeitige Auszahlung
 

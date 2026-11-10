@@ -159,11 +159,12 @@ async function inspectPage(page, path, expectedCards = null) {
     const hrefs = await popularLinks.evaluateAll(elements => elements.map(element => new URL(element.href).pathname));
     const popularBonusLinks = page.locator('.popular-bonus-links a');
     const bonusHrefs = await popularBonusLinks.evaluateAll(elements => elements.map(element => new URL(element.href).pathname + new URL(element.href).hash));
+    const expectedBonusPrefix = expectedPrefix.startsWith('/en/') ? '/en/bonuses/#' : '/bonuses/#';
     const ok = response?.status() === 200 &&
       hrefs.length === 5 &&
       hrefs.every(href => href.startsWith(expectedPrefix)) &&
       bonusHrefs.length === 2 &&
-      bonusHrefs.every(href => href.startsWith(expectedPrefix + 'bonuses/#')) &&
+      bonusHrefs.every(href => href.startsWith(expectedBonusPrefix)) &&
       bonusHrefs.some(href => href.endsWith('#wagering-requirements')) &&
       bonusHrefs.some(href => href.endsWith('#withdrawal-rules'));
     console.log(`${ok ? 'OK' : 'FAIL'} localized popular slot and bonus links ${path} slots=${hrefs.length} bonuses=${bonusHrefs.join(',')}`);

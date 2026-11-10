@@ -4,7 +4,7 @@ description: Praktyczny przewodnik po wymaganiach obrotu, terminach, udziale gie
 type: page
 author: cristina-tudose
 seo_title: Warunki bonusów kasynowych – wyjaśnienie | Instant Casino
-lastmod: '2026-10-30'
+lastmod: '2026-11-10'
 article_review_status: editorial-approved
 reviewed_by: Cristina Tudose
 review_date: '2026-10-30'
@@ -47,6 +47,8 @@ Najważniejsze szczegóły nie zawsze są widoczne obok reklamowanej kwoty. Prze
 
 Brak informacji nie oznacza, że ograniczenie nie istnieje. Sprawdź pełny regulamin. Jeśli ważna zasada nadal jest niejasna, zapytaj operatora przed wpłatą albo zrezygnuj z oferty.
 
+<span id="wagering-requirements"></span>
+
 ## Wymagania obrotu: co oznacza 30x?
 
 Sam mnożnik nie mówi, jaką kwotę trzeba obrócić. Liczy się podstawa obliczenia.
@@ -88,6 +90,8 @@ Regulamin bonusu może określać maksymalną stawkę na rundę. Limit ten może
 Na regulowanym rynku niemieckim podstawowy maksymalny zakład na wirtualnych automatach online wynosi 1 € na rundę. Od 1 lipca 2026 r. możliwe jest stopniowe podwyższenie limitu: najpierw do 3 €, a w drugim etapie do 5 €. Operator musi mieć odpowiednie zezwolenie GGL. Stawka do 3 € może być przyznana wyłącznie osobom, które ukończyły 21 lat. Drugi etap, od 3 € do 5 €, wymaga dodatkowo co najmniej 90 dni wcześniejszej gry bez sygnałów problematycznego zachowania oraz specjalnego monitorowania przez operatora. Gracz nie ma prawa do podwyższonego limitu — operator decyduje, czy go oferuje i przyznaje. Wyjątek obowiązuje obecnie tymczasowo do 31 grudnia 2027 r. Regulamin promocji może nadal przewidywać niższy limit bonusowy. Sprawdź aktualne informacje GGL i warunki licencjonowanego operatora.
 
 Niektóre gry mogą nie być zaliczane do wymaganego obrotu. Naruszenie warunku promocji może — zależnie od zapisu i okoliczności — skutkować anulowaniem bonusu lub powiązanych wygranych. Podejrzenie manipulacji może prowadzić do dodatkowej kontroli lub działań dotyczących konta. Nie są to automatyczne konsekwencje każdego błędu.
+
+<span id="withdrawal-rules"></span>
 
 ## Środki bonusowe, Max Cashout i wcześniejsza wypłata
 

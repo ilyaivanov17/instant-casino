@@ -1,3 +1,49 @@
 {{- $path := .File.ContentBaseName -}}
-{{- $items := slice (dict "path" "/slots" "label" (cond (eq .Site.Language.Lang "de") "Spielprofile" (cond (eq .Site.Language.Lang "en") "Game profiles" "Game profiles")) "short" "") (dict "path" "/bonuses" "label" "Bonusbedingungen" "short" "") (dict "path" "/payments" "label" "Payments" "short" "") (dict "path" "/account-help" "label" "Account help" "short" "") (dict "path" "/responsible-gaming" "label" "Safer gambling" "short" "") -}}
-<section class="mt-16 pt-10 border-t border-white/10" aria-labelledby="related-content-title"><div class="section-heading-row mb-5"><div><span class="eyebrow">{{ partial "t.html" "related_content" }}</span><h2 id="related-content-title" class="text-2xl font-bold text-white mt-1">{{ partial "t.html" "related_content_title" }}</h2></div></div><nav class="grid gap-3 sm:grid-cols-3" aria-label="{{ partial "t.html" "related_content" }}">{{ range $items }}{{ with site.GetPage .path }}<a href="{{ .RelPermalink }}" class="glass rounded-xl p-4 hover:bg-white/10 transition group"><span class="text-white font-semibold group-hover:text-amber-400">{{ .Title }}</span><span class="block text-sm text-slate-500 mt-1">{{ .Description | plainify | truncate 100 }}</span></a>{{ end }}{{ end }}</nav></section>
+{{- $lang := .Site.Language.Lang -}}
+{{- $items := slice (dict "path" "/slots" "label" (cond (eq $lang "de") "Spielprofile" (cond (eq $lang "en") "Game profiles" "Game profiles")) "short" "") (dict "path" "/bonuses" "label" "Bonusbedingungen" "short" "") (dict "path" "/payments" "label" "Payments" "short" "") (dict "path" "/account-help" "label" "Account help" "short" "") (dict "path" "/responsible-gaming" "label" "Safer gambling" "short" "") -}}
+{{- $popularSlotSlugs := slice "bigger-bass-bonanza" "book-of-dead" "gates-of-olympus" "starburst" "sweet-bonanza" -}}
+{{- $isCatalogPage := in (slice "slots" "bonuses") .File.ContentBaseName -}}
+{{- $isSlotProfile := hasPrefix (.Params.translationKey | default "") "slot-profile-" -}}
+{{- $popularSlotsLabel := index (dict "de" "Beliebte Slot-Profile" "en" "Popular slot profiles" "pl" "Popularne profile slotów" "es" "Perfiles de slots populares" "pt" "Perfis de slots populares" "ja" "人気スロットのプロフィール") $lang | default "Popular slot profiles" -}}
+{{- $popularBonusLabel := index (dict "de" "Beliebte Bonus-Leitfäden" "en" "Popular bonus guides" "pl" "Popularne poradniki bonusowe" "es" "Guías de bonos populares" "pt" "Guias de bónus populares" "ja" "人気ボーナスガイド") $lang | default "Popular bonus guides" -}}
+{{- $wageringLinkLabel := index (dict "de" "Umsatzbedingungen verstehen" "en" "Understand wagering requirements" "pl" "Zrozum wymagania obrotu" "es" "Entender los requisitos de apuesta" "pt" "Compreender os requisitos de aposta" "ja" "賭け条件を理解する") $lang | default "Understand wagering requirements" -}}
+{{- $cashoutLinkLabel := index (dict "de" "Max Cashout & vorzeitige Auszahlung" "en" "Max cashout and early withdrawals" "pl" "Max Cashout i wcześniejsza wypłata" "es" "Max Cashout y retirada anticipada" "pt" "Max Cashout e levantamento antecipado" "ja" "Max Cashoutと途中出金") $lang | default "Max cashout and early withdrawals" -}}
+<section class="mt-16 pt-10 border-t border-white/10" aria-labelledby="related-content-title">
+  <div class="section-heading-row mb-5">
+    <div>
+      <span class="eyebrow">{{ partial "t.html" "related_content" }}</span>
+      <h2 id="related-content-title" class="text-2xl font-bold text-white mt-1">{{ partial "t.html" "related_content_title" }}</h2>
+    </div>
+  </div>
+  <nav class="grid gap-3 sm:grid-cols-3" aria-label="{{ partial "t.html" "related_content" }}">
+    {{ range $items }}
+      {{ with site.GetPage .path }}
+        <a href="{{ .RelPermalink }}" class="glass rounded-xl p-4 hover:bg-white/10 transition group">
+          <span class="text-white font-semibold group-hover:text-amber-400">{{ .Title }}</span>
+          <span class="block text-sm text-slate-500 mt-1">{{ .Description | plainify | truncate 100 }}</span>
+        </a>
+      {{ end }}
+    {{ end }}
+  </nav>
+  {{ if and (not $isCatalogPage) (not $isSlotProfile) }}
+    <div class="popular-slot-links-wrap mt-6 pt-5 border-t border-white/10">
+      <h3 class="text-white font-semibold mb-3">{{ $popularSlotsLabel }}</h3>
+      <nav class="popular-slot-links flex flex-wrap gap-2" aria-label="{{ $popularSlotsLabel }}">
+        {{ range $slug := $popularSlotSlugs }}
+          {{ range site.Data.slot_catalog.games }}
+            {{ if eq .anchor $slug }}
+              <a href="{{ printf "%s/slots/%s/" $.Site.LanguagePrefix $slug }}" class="glass rounded-lg px-3 py-2 text-sm text-slate-300 hover:text-amber-400 transition">{{ .name }}</a>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </nav>
+    </div>
+    <div class="popular-bonus-links-wrap mt-4">
+      <h3 class="text-white font-semibold mb-3">{{ $popularBonusLabel }}</h3>
+      <nav class="popular-bonus-links flex flex-wrap gap-2" aria-label="{{ $popularBonusLabel }}">
+        <a href="{{ printf "%s/bonuses/#wagering-requirements" $.Site.LanguagePrefix }}" class="glass rounded-lg px-3 py-2 text-sm text-slate-300 hover:text-amber-400 transition">{{ $wageringLinkLabel }}</a>
+        <a href="{{ printf "%s/bonuses/#withdrawal-rules" $.Site.LanguagePrefix }}" class="glass rounded-lg px-3 py-2 text-sm text-slate-300 hover:text-amber-400 transition">{{ $cashoutLinkLabel }}</a>
+      </nav>
+    </div>
+  {{ end }}
+</section>

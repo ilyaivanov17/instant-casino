@@ -114,6 +114,76 @@ async function inspectPage(page, path, expectedCards = null) {
     await page.close();
   }
 
+  // Footer policy links are confined to the bottom row; the author directory appears once.
+  const footerRoutes = [
+    ['/', '/authors/'],
+    ['/en/', '/en/authors/']
+  ];
+  for (const [path, expectedAuthorHref] of footerRoutes) {
+    const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    const response = await page.goto(`http://127.0.0.1:4173${path}`, { waitUntil: 'networkidle' });
+    const authorLinks = page.locator('footer a[href$="/authors/"]');
+    const footerAboutLinks = page.locator('footer a[href$="/about/"]');
+    const legalNav = page.locator('footer .footer-bottom .footer-legal-links');
+    const legalLinks = legalNav.locator('a');
+    const cookieAnchors = page.locator('#cookie-banner a');
+    const authorHref = await authorLinks.first().getAttribute('href').catch(() => null);
+    const ok = response?.status() === 200 &&
+      await authorLinks.count() === 1 &&
+      authorHref === expectedAuthorHref &&
+      await footerAboutLinks.count() === 0 &&
+      await legalNav.count() === 1 &&
+      await legalLinks.count() === 1 &&
+      await cookieAnchors.count() === 0;
+    console.log(`${ok ? 'OK' : 'FAIL'} footer and cookie link placement ${path} author=${authorHref} legal=${await legalLinks.count()} bannerAnchors=${await cookieAnchors.count()}`);
+    if (!ok) failed = true;
+    await page.close();
+  }
+
+  // The localized logo must return users to the homepage of the active language.
+  for (const [path, expectedHref] of [['/slots/', '/'], ['/en/slots/', '/en/']]) {
+    const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    const response = await page.goto(`http://127.0.0.1:4173${path}`, { waitUntil: 'networkidle' });
+    const logoHref = await page.locator('.lobby-logo').getAttribute('href').catch(() => null);
+    const ok = response?.status() === 200 && logoHref === expectedHref;
+    console.log(`${ok ? 'OK' : 'FAIL'} localized logo link ${path} href=${logoHref} expected=${expectedHref}`);
+    if (!ok) failed = true;
+    await page.close();
+  }
+
+  // Standard articles surface five locale-specific featured slot profiles in the related-content block.
+  for (const [path, expectedPrefix] of [['/account-help/', '/slots/'], ['/en/account-help/', '/en/slots/']]) {
+    const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    const response = await page.goto(`http://127.0.0.1:4173${path}`, { waitUntil: 'networkidle' });
+    const popularLinks = page.locator('.popular-slot-links a');
+    const hrefs = await popularLinks.evaluateAll(elements => elements.map(element => new URL(element.href).pathname));
+    const popularBonusLinks = page.locator('.popular-bonus-links a');
+    const bonusHrefs = await popularBonusLinks.evaluateAll(elements => elements.map(element => new URL(element.href).pathname + new URL(element.href).hash));
+    const expectedBonusPrefix = expectedPrefix.startsWith('/en/') ? '/en/bonuses/#' : '/bonuses/#';
+    const ok = response?.status() === 200 &&
+      hrefs.length === 5 &&
+      hrefs.every(href => href.startsWith(expectedPrefix)) &&
+      bonusHrefs.length === 2 &&
+      bonusHrefs.every(href => href.startsWith(expectedBonusPrefix)) &&
+      bonusHrefs.some(href => href.endsWith('#wagering-requirements')) &&
+      bonusHrefs.some(href => href.endsWith('#withdrawal-rules'));
+    console.log(`${ok ? 'OK' : 'FAIL'} localized popular slot and bonus links ${path} slots=${hrefs.length} bonuses=${bonusHrefs.join(',')}`);
+    if (!ok) failed = true;
+    await page.close();
+  }
+
+  // Bonus-section deep links must resolve to stable anchors in every supported locale.
+  for (const path of ['/bonuses/', '/en/bonuses/']) {
+    const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    const response = await page.goto(`http://127.0.0.1:4173${path}`, { waitUntil: 'networkidle' });
+    const wageringAnchor = await page.locator('#wagering-requirements').count();
+    const cashoutAnchor = await page.locator('#withdrawal-rules').count();
+    const ok = response?.status() === 200 && wageringAnchor === 1 && cashoutAnchor === 1;
+    console.log(`${ok ? 'OK' : 'FAIL'} localized bonus deep-link anchors ${path} wagering=${wageringAnchor} cashout=${cashoutAnchor}`);
+    if (!ok) failed = true;
+    await page.close();
+  }
+
   // Editorial bylines must resolve to localized author profiles, never relative nested paths.
   const bylineRoutes = [
     ['/slots/starburst/', '/authors/arthur-mustoe/'],

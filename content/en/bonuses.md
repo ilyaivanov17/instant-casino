@@ -4,7 +4,7 @@ description: A practical guide to wagering requirements, expiry dates, game cont
 type: page
 author: cristina-tudose
 seo_title: Casino bonus terms explained | Instant Casino
-lastmod: '2026-10-30'
+lastmod: '2026-11-10'
 article_review_status: editorial-approved
 reviewed_by: Cristina Tudose
 review_date: '2026-10-30'
@@ -47,6 +47,8 @@ The important details are not always shown beside the advertised amount. Read th
 
 A missing detail does not mean there is no restriction. Check the full terms. If an important rule remains unclear, ask the operator before depositing—or do not accept the offer.
 
+<span id="wagering-requirements"></span>
+
 ## Wagering requirements: what does 30x mean?
 
 The multiplier alone does not show how much you need to wager. The calculation base matters.
@@ -88,6 +90,8 @@ Bonus terms may set a maximum stake per round. It can be lower than the maximum 
 In Germany’s regulated market, the general maximum stake for virtual slot games is €1 per round. Since 1 July 2026, a step-by-step increase is possible: first to up to €3 and, at a second stage, to up to €5. The operator must hold the relevant GGL permission. A stake of up to €3 is available only to players aged 21 or over. The second stage, from €3 to €5, additionally requires at least 90 days of play without indicators of problematic behaviour and special operator monitoring. Players have no entitlement to a higher limit; the operator decides whether to offer and grant it. The deviation from the standard limit is currently time-limited until 31 December 2027. A promotion may still set a lower bonus stake cap. Check the GGL guidance and the licensed operator’s terms.
 
 Some games may not contribute to wagering. If a player breaches a promotion rule, possible consequences—depending on the wording and circumstances—can include cancellation of the bonus or related winnings. Suspected manipulation may lead to further checks or account action. These are possible outcomes, not automatic consequences of every mistake.
+
+<span id="withdrawal-rules"></span>
 
 ## Bonus funds, Max Cashout and early withdrawals
 

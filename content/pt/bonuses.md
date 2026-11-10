@@ -4,7 +4,7 @@ description: Guia prático sobre requisitos de aposta, prazos, contribuição do
 type: page
 author: cristina-tudose
 seo_title: Condições dos bónus de casino explicadas | Instant Casino
-lastmod: '2026-10-30'
+lastmod: '2026-11-10'
 article_review_status: editorial-approved
 reviewed_by: Cristina Tudose
 review_date: '2026-10-30'
@@ -47,6 +47,8 @@ Os detalhes importantes nem sempre aparecem junto ao valor anunciado. Lê as con
 
 A ausência de uma informação não significa que não exista uma restrição. Consulta as condições completas. Se uma regra importante continuar pouco clara, pergunta ao operador antes de depositar — ou não aceites a oferta.
 
+<span id="wagering-requirements"></span>
+
 ## Requisitos de aposta: o que significa 30x?
 
 O multiplicador, por si só, não indica quanto tens de apostar. A base de cálculo é essencial.
@@ -88,6 +90,8 @@ As condições podem definir uma aposta máxima por ronda enquanto o bónus esti
 No mercado alemão regulado, a aposta máxima geral nas slots virtuais é de 1 € por ronda. Desde 1 de julho de 2026, é possível um aumento por etapas: primeiro até 3 € e, numa segunda fase, até 5 €. O operador tem de possuir a autorização correspondente da GGL. A aposta até 3 € só pode ser concedida a pessoas com 21 anos ou mais. A segunda fase, dos 3 € aos 5 €, exige ainda pelo menos 90 dias prévios sem indicadores de comportamento de jogo problemático e monitorização especial por parte do operador. O jogador não tem direito automático a um limite superior: o operador decide se o oferece e concede. A exceção está, por enquanto, limitada até 31 de dezembro de 2027. Uma promoção pode impor um limite de bónus inferior. Consulta as orientações da GGL e as condições do operador autorizado.
 
 Alguns jogos podem não contar para os requisitos de aposta. Se uma regra da promoção for violada, as consequências possíveis — consoante a cláusula e as circunstâncias — podem incluir o cancelamento do bónus ou dos ganhos associados. Uma suspeita de manipulação pode levar a verificações adicionais ou medidas na conta. Não são consequências automáticas de qualquer erro.
+
+<span id="withdrawal-rules"></span>
 
 ## Saldo de bónus, Max Cashout e levantamentos antecipados
 

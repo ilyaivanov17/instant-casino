@@ -114,6 +114,57 @@ async function inspectPage(page, path, expectedCards = null) {
     await page.close();
   }
 
+  // Footer policy links are confined to the bottom row; the author directory appears once.
+  const footerRoutes = [
+    ['/', '/authors/'],
+    ['/en/', '/en/authors/']
+  ];
+  for (const [path, expectedAuthorHref] of footerRoutes) {
+    const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    const response = await page.goto(\`http://127.0.0.1:4173\${path}\`, { waitUntil: 'networkidle' });
+    const authorLinks = page.locator('footer a[href$="/authors/"]');
+    const footerAboutLinks = page.locator('footer a[href$="/about/"]');
+    const legalNav = page.locator('footer .footer-bottom .footer-legal-links');
+    const legalLinks = legalNav.locator('a');
+    const cookieAnchors = page.locator('#cookie-banner a');
+    const authorHref = await authorLinks.first().getAttribute('href').catch(() => null);
+    const ok = response?.status() === 200 &&
+      await authorLinks.count() === 1 &&
+      authorHref === expectedAuthorHref &&
+      await footerAboutLinks.count() === 0 &&
+      await legalNav.count() === 1 &&
+      await legalLinks.count() === 1 &&
+      await cookieAnchors.count() === 0;
+    console.log(\`\${ok ? 'OK' : 'FAIL'} footer and cookie link placement \${path} author=\${authorHref} legal=\${await legalLinks.count()} bannerAnchors=\${await cookieAnchors.count()}\`);
+    if (!ok) failed = true;
+    await page.close();
+  }
+
+  // The localized logo must return users to the homepage of the active language.
+  for (const [path, expectedHref] of [['/slots/', '/'], ['/en/slots/', '/en/']]) {
+    const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    const response = await page.goto(\`http://127.0.0.1:4173\${path}\`, { waitUntil: 'networkidle' });
+    const logoHref = await page.locator('.lobby-logo').getAttribute('href').catch(() => null);
+    const ok = response?.status() === 200 && logoHref === expectedHref;
+    console.log(\`\${ok ? 'OK' : 'FAIL'} localized logo link \${path} href=\${logoHref} expected=\${expectedHref}\`);
+    if (!ok) failed = true;
+    await page.close();
+  }
+
+  // Standard articles surface five locale-specific featured slot profiles in the related-content block.
+  for (const [path, expectedPrefix] of [['/account-help/', '/slots/'], ['/en/account-help/', '/en/slots/']]) {
+    const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    const response = await page.goto(\`http://127.0.0.1:4173\${path}\`, { waitUntil: 'networkidle' });
+    const popularLinks = page.locator('.popular-slot-links a');
+    const hrefs = await popularLinks.evaluateAll(elements => elements.map(element => new URL(element.href).pathname));
+    const ok = response?.status() === 200 &&
+      hrefs.length === 5 &&
+      hrefs.every(href => href.startsWith(expectedPrefix));
+    console.log(\`\${ok ? 'OK' : 'FAIL'} localized popular slot links \${path} count=\${hrefs.length} links=\${hrefs.join(',')}\`);
+    if (!ok) failed = true;
+    await page.close();
+  }
+
   // Editorial bylines must resolve to localized author profiles, never relative nested paths.
   const bylineRoutes = [
     ['/slots/starburst/', '/authors/arthur-mustoe/'],

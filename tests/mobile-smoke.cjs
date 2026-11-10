@@ -157,10 +157,28 @@ async function inspectPage(page, path, expectedCards = null) {
     const response = await page.goto(`http://127.0.0.1:4173${path}`, { waitUntil: 'networkidle' });
     const popularLinks = page.locator('.popular-slot-links a');
     const hrefs = await popularLinks.evaluateAll(elements => elements.map(element => new URL(element.href).pathname));
+    const popularBonusLinks = page.locator('.popular-bonus-links a');
+    const bonusHrefs = await popularBonusLinks.evaluateAll(elements => elements.map(element => new URL(element.href).pathname + new URL(element.href).hash));
     const ok = response?.status() === 200 &&
       hrefs.length === 5 &&
-      hrefs.every(href => href.startsWith(expectedPrefix));
-    console.log(`${ok ? 'OK' : 'FAIL'} localized popular slot links ${path} count=${hrefs.length} links=${hrefs.join(',')}`);
+      hrefs.every(href => href.startsWith(expectedPrefix)) &&
+      bonusHrefs.length === 2 &&
+      bonusHrefs.every(href => href.startsWith(expectedPrefix + 'bonuses/#')) &&
+      bonusHrefs.some(href => href.endsWith('#wagering-requirements')) &&
+      bonusHrefs.some(href => href.endsWith('#withdrawal-rules'));
+    console.log(`${ok ? 'OK' : 'FAIL'} localized popular slot and bonus links ${path} slots=${hrefs.length} bonuses=${bonusHrefs.join(',')}`);
+    if (!ok) failed = true;
+    await page.close();
+  }
+
+  // Bonus-section deep links must resolve to stable anchors in every supported locale.
+  for (const path of ['/bonuses/', '/en/bonuses/']) {
+    const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    const response = await page.goto(`http://127.0.0.1:4173${path}`, { waitUntil: 'networkidle' });
+    const wageringAnchor = await page.locator('#wagering-requirements').count();
+    const cashoutAnchor = await page.locator('#withdrawal-rules').count();
+    const ok = response?.status() === 200 && wageringAnchor === 1 && cashoutAnchor === 1;
+    console.log(`${ok ? 'OK' : 'FAIL'} localized bonus deep-link anchors ${path} wagering=${wageringAnchor} cashout=${cashoutAnchor}`);
     if (!ok) failed = true;
     await page.close();
   }

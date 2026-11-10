@@ -4,7 +4,7 @@ description: Guía práctica sobre requisitos de apuesta, plazos, contribución 
 type: page
 author: cristina-tudose
 seo_title: Condiciones de los bonos de casino explicadas | Instant Casino
-lastmod: '2026-10-30'
+lastmod: '2026-11-10'
 article_review_status: editorial-approved
 reviewed_by: Cristina Tudose
 review_date: '2026-10-30'
@@ -47,6 +47,8 @@ Los detalles importantes no siempre aparecen junto al importe anunciado. Lee las
 
 Que un dato no aparezca no significa que no exista una restricción. Consulta las condiciones completas. Si una regla importante sigue sin estar clara, pregunta al operador antes de ingresar dinero o no aceptes la oferta.
 
+<span id="wagering-requirements"></span>
+
 ## Requisitos de apuesta: ¿qué significa 30x?
 
 El multiplicador por sí solo no indica cuánto hay que apostar. Lo importante es la cantidad sobre la que se calcula.
@@ -88,6 +90,8 @@ Las condiciones pueden fijar una apuesta máxima por ronda mientras el bono est�
 En el mercado regulado alemán, la apuesta máxima general en las tragamonedas virtuales es de 1 € por ronda. Desde el 1 de julio de 2026 puede aumentarse por etapas: primero hasta 3 € y, en una segunda fase, hasta 5 €. El operador debe contar con la autorización correspondiente de la GGL. La apuesta de hasta 3 € solo puede concederse a personas de 21 años o más. La segunda fase, de 3 € a 5 €, exige además al menos 90 días previos sin indicadores de comportamiento de juego problemático y un seguimiento especial por parte del operador. El jugador no tiene derecho automático a un límite superior: el operador decide si lo ofrece y lo concede. La excepción está limitada, por ahora, hasta el 31 de diciembre de 2027. Una promoción puede fijar un límite de apuesta menor. Consulta la información de la GGL y las condiciones del operador autorizado.
 
 Algunos juegos no contribuyen al requisito de apuesta. Si se incumple una regla de la promoción, las posibles consecuencias —según la cláusula y las circunstancias— pueden incluir la cancelación del bono o de las ganancias vinculadas. Una sospecha de manipulación puede dar lugar a comprobaciones adicionales o medidas sobre la cuenta. No son consecuencias automáticas de cualquier error.
+
+<span id="withdrawal-rules"></span>
 
 ## Saldo de bono, Max Cashout y retirada anticipada
 
